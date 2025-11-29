@@ -12,7 +12,18 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# Stranger Danger
+Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
 
+
+<div class="tupperware">
+<img  alt="image" src="https://github.com/user-attachments/assets/c267e7ae-56dd-49de-b982-4f3c69af0b4e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/be7bb17f-47c2-4ed6-ab6f-851de6939637" />
+<img  alt="image" src="https://github.com/user-attachments/assets/b7b50563-0f48-47ae-ab09-8f8b5b20cf71" />
+</div>
+
+# Corals Art for me and either Normani or NickiMinaj
+<img  alt="image" src="https://github.com/user-attachments/assets/11448718-c2e5-4de8-bed6-cd4e3f083f80" />
 
 # Entomological warfare 
 
