@@ -7,6 +7,70 @@ tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
 
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+## International Space Station Change of Command Ceremony
+@blackgirlscode @stateofCalifornia @cityoflosangeles
+ISS Expedition 74 Change of Command Ceremony (Ryzhikov hands over ISS command to Fincke).
+
+DETAILS
+DATE	December 7, 2025
+TIME	7:25 AM
+TIMEZONE Los Angeles
+
+[Link](https://plus.nasa.gov/scheduled-video/international-space-station-change-of-command-ceremony-3/?fbclid=IwY2xjawOdZsdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedFWJ-nGwpmDT3vzWSguMrgqs-GWDFTAhq4ZNe-p4q5GWrinhS6COZmb2YcA_aem_xRPsSpo5aXQnv2DJbEPsuA)
+
+<img alt="image" src="https://github.com/user-attachments/assets/938eed13-45aa-40fb-89e0-f7329cfe3079" />
+
+<div class="tupperware"> 
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/86b7e979-d309-42f4-ba9a-9369f4acdbcf" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3c9660cf-a82c-4f4c-8fc2-929b3ef6d0a2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1cfa1f9-267a-4646-bcb7-1c8be0a40f16" />
+
+</div> 
+
+[#MikeFinke](https://www.nasa.gov/people/edward-michael-mike-fincke/) NASA/Women.of.ISS International Space Station #Mike , to get to the meaty Keisha Lance Bottoms can tell you the situation and i can make a report at some point  NASA Earthdata / / / Normani Kash Doll #LAtrice_Monique_Fitzpatrick if you guys get this message can you #introduceYourselves & tell Mike about #Coral_Iris_KElly Essence I need you to report on Erikas status as well DeKalb County Sheriff's Office Decatur GA Atlanta Woman Who Went Missing On Superbowl Sunday Has Been Found Safe
+Nearly two months after her disappearance, Georgia's DeKalb County Police say that Erika Renee Johnson Kelly has been found safe. https://www.essence.com/.../erika-renee-johnson-kelly.../ Supervisor Holly J. Mitchell Supervisor Janice Hahn Congressmember Karen Bass https://www.essence.com/tags/erika-kelly/ Family Seeks Answers In Disappearance Of Atlanta Woman Last Seen On Superbowl Sunday
+Erika Kelly is approximately 5’5 in height, weighing 140 lbs. Anyone with information should contact the DeKalb County Police at 770-724-7710. https://www.essence.com/.../erika-kelly-missing-atlanta.../ FBI - Los Angeles Mori & Associates Kimberly Bryant, Founder Black Girls CODE Howard University Wayne A. I. Frederick https://www.facebook.com/essence/posts/the-search-for-erika-renee-johnson-kelly-ended-this-week/10158235880782855/ Georgia Division of Family & Children Services Planned Parenthood L.A. County Department of Public Social Services CAL FIRE Governor Gavin Newsom    EARTHDATA LOGIN @TheSpaceDevs @BlueOrigin @nasa-jpl @nasa-pds
+ Rashard Kelly
+Profile Home
+Edit Profile
+Change Password
+Applications 
+EULAs 
+My Groups
+Generate Token
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 12-02-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+V 4.231.2 Home NASA Accessibility
+NASA Official: Doug Newman
+Feedback Mayor Karen Bass Councilmember Marqueece Harris-Dawson U.S. Department of the Interior The T-Shirt Lady
+https://www.facebook.com/permalink.php?story_fbid=pfbid02HpvQK1dxAGTC8xidqNpKFMuTxaD7YixgHh3QRRY2k3UTNmwfnorC8JJuWxP5D3JKl&id=100084464911565
+ && 
+https://www.facebook.com/permalink.php?story_fbid=pfbid02uQED5FV5gxC3u44GBYyUVg9rhrQogtsSd4mkRSJuNPcHTcyi47UhY17AXGMDC2sdl&id=100084464911565 JAXA(宇宙航空研究開発機構) Goldstone Deep Space Communications Complex Canton Police Department, GA
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0UJtsrV9TptrddcqpYxXHyqPKbJDbTiCD4yGi53ESY5Ut9UJvNd4N72Lq3hJne9ECl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 [Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
 {% include nav.html %}
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
