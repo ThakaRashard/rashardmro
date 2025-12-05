@@ -25,6 +25,20 @@ TIMEZONE Los Angeles
 
 <img alt="image" src="https://github.com/user-attachments/assets/938eed13-45aa-40fb-89e0-f7329cfe3079" />
 
+#GoodAfterNoon_Ms_Mitchell! ITs Rashard, I need help. At the start of the year [Long Beach Public Library](https://www.longbeach.gov/library) is no longer issuing guest passes, it may have something to do with the #DEW_ATTACK i endured last night The Secretary of the Navy ... Congressmember Karen Bass alot of people in LongBeach are not aware we are a county and thus not fit to lead anyway Governor Gavin Newsom ... They said i need a library card. The issue is the id thing from Erika abandoning me for playboy and stealing my identity Howard University #latrice_monique_fitzpatrick you have a #saboteur in long beach Kimberly Bryant, Founder Black Girls CODE Black Girls Code If i can have a stable way to use the internet i can work i barely miss a day NASA Earthdata, SHARE Self-Help dont turn the computers on till 2pm Copernicus EU so its like my week is about to be chopped again! Supervisor Janice Hahn how can I clear things up since #Erika_Renee_Johnson Kash Doll and Normani have roots with playboy, i meet a girl and now the library is disabling me again! I dont wanna get political Jennifer Siebel Newsom but these are the issues Gavin Newsom has to handle if he think he can rock with Vice President JD Vance boss Donald J. Trump First Lady of Georgia Marty Kemp Georgia Division of Family & Children Services JAXA(宇宙航空研究開発機構) they cutting my online availibility again ! 🙁 Long Beach Fire Department Goldstone Deep Space Communications Complex International Space Station - #Rashard #DeepSpaceNetwork_Unix_Level5_MiSSiON_SUPPORT https://github.com/.../_posts/2025-12-03-iss_research.md ## International Space Station Change of Command Ceremony
+@blackgirlscode @stateofCalifornia @cityoflosangeles
+ISS Expedition 74 Change of Command Ceremony (Ryzhikov hands over ISS command to Fincke).
+DETAILS
+DATE December 7, 2025
+TIME 7:25 AM
+TIMEZONE Los Angeles
+[Link](https://plus.nasa.gov/.../international-space-station.../...)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a175331-e167-4850-ac89-3417553d99a1" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02cp618WdWuoyRtm84NZW8tJA2Q42qwcrJhpbc2HN9HEeAL5MdgHR3xAPFU8aetG1xl%26id%3D100084464911565&show_text=true&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
 <div class="tupperware"> 
 	
 <img  alt="image" src="https://github.com/user-attachments/assets/86b7e979-d309-42f4-ba9a-9369f4acdbcf" />
