@@ -1,0 +1,7 @@
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0072v.066.jpeg
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0084v.066.jpeg
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0011v.066.jpeg
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0072v.066.jpeg
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0084v.066.jpeg
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0049v.066.jpeg
+wget -q --show-progress -nc -P ./pdsimg-atlas-wget_2025-12-04T21_20_10_437/ https://pds-imaging.jpl.nasa.gov/api/data/atlas:pds3:clem:clementine:/cl_0011/extras/browse/lun066/lbxxxxxx/lbxxxxxv/lba0076v.066.jpeg

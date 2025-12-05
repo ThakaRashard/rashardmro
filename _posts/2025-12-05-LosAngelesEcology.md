@@ -12,6 +12,17 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+### Los Angeles County
+Aquatic Report [LinK @nasa-jpl](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.67/-13147350.80/3999217.77&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) [inland glendale / hollyrock](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.11/-13158609.97/4049796.63&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [The Palisades](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.26/-13195663.95/4034960.19&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [Eaton Canyon](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.10/-13151400.61/4054694.41&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0)   @nasa-jpl @blackgirlscode @datadesk @stateofcalifornia @cbs-news-data @COBIS-HU hi latrice i cant look at tick tok yet im not ready for the news 
+@CityOfLosAngeles @StateOFCalifornia @BlacakGirlsCode there is some way to get [ms mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) and [Mayor Bass](https://yandex.com.tr/gundem/entertainment/los-angeles-belediye-baskani-yanginlar-surerken-gana-gezisinden-donmedigi-icin-elestiriliyor-943710) to see this link. They are really into climate data here [Ms Hahn](https://lacounty.gov/government/board-of-supervisors/janice-hahn/) too @nasa-jpl
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/26259a23-d2a6-4dd5-85a9-f83f6a6101ed" />
+<img  alt="image" src="https://github.com/user-attachments/assets/61800d91-8ad0-4036-93c7-d23d928a4ae2" />
+<img  alt="EATON CANYONE" src="https://github.com/user-attachments/assets/095fd1db-01e0-4d3c-a819-f2886b015257" />
+
+
 inducis
 [California - White Pages - Los Angeles Extended Area - June 1945 [A through LANEG](https://www.loc.gov/item/usteledirec02283/) [Los Angeles on Weather-gov](https://www.weather.gov/lox/) [Weather-gov api @blackgirlscode](https://www.weather.gov/documentation/services-web-api) [api GitHub](https://weather-gov.github.io/api/)
 
@@ -1172,6 +1183,8 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
 
 
 
