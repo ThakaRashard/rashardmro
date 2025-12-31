@@ -20,7 +20,7 @@ date:   2025-12-10 8:51:06
 
 
 Re: @NASAJPL LosAngeles> "Santa Fe High ScHool LAnd Disturbance*"
-I dont know who to tell.... i just saw it on the map , I emailed people about MAyfair and bumped into a sending limit, i been being followed so i cc a lot of people because i know someone that cares about me will get it via relay, im exiled for reading an book by Mr Franz a Jehovhas Witness Apostate called Crisis OF Conscience and my 1st spouse work for playboy, the girl she set me up with got kidnapped and converted vixen, and the new girl like a flighty possum at the fbi and i need to make sure im visible so she dont get a bad story, that pretty will turn ugly quick! @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi 
+I dont know who to tell.... i just saw it on the map , I emailed people about MAyfair and bumped into a sending limit, i been being followed so i cc a lot of people because i know someone that cares about me will get it via relay, im exiled for reading an book by Mr Franz a Jehovhas Witness Apostate called [Crisis OF Conscience](https://friendsofraymondfranz.com/wp-content/uploads/2020/04/CC2004-Eng.pdf) and my 1st spouse work for playboy, the girl she set me up with got kidnapped and converted vixen, and the new girl like a flighty possum at the fbi and i need to make sure im visible so she dont get a bad story, that pretty will turn ugly quick! @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi 
 -rashard @nasajpl
 [Rio San Gabriel](https://worldview.earthdata.nasa.gov/?v=-118.11601845568582,33.93471907467184,-118.10784476666082,33.93877611927643&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) : [HOMEPAGE](https://web.dusd.net/riosangabriel/)
 
@@ -1506,6 +1506,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
