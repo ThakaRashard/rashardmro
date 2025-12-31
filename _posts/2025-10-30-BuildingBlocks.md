@@ -7,6 +7,15 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+@nasa-jpl @podaac @nasa `Worldview` is tossing 500's from Long Beach Public  if i try to generate an image file for a map @nasa-pds @blackgirlscode @howard-university-web-services
+https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-12-20T00:00:00Z&BBOX=33.938,-118.7662,34.3079,-118.0098&CRS=EPSG:4326&LAYERS=OSM_Land_Water_Map,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_DIST-ALERT-HLS_Color_Index%28disabled=0%29,Coastlines_15m&WRAP=x,none,none,x&FORMAT=image/png&WIDTH=2754&HEIGHT=1347&colormaps=,,OPERA_Vegetation_Disturbance_Status,&OPACITIES=,,,0.67&MARKER=-118.2433,34.0522&ts=1767224636395
+```
+Internal Server Error
+The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/4703320b-8e88-47ad-99b0-f0e8f16a28ec" />
+
 @meta im going to clean up my phone, possibly get an sdcard from best buy and ssee if i can access @WhatsApp
 @nasa-jpl i needed to get my @redhat training certificate out of my facebook account for that girl from howard `Latrice Fitzpatrick` she very business oriented and if im not supposed to be romantic and i do that style of communication with her, i could miss out on money and possibly access to my daughter! She dropped me off at [Dance411](https://www.instagram.com/reel/DKiRAo3pcb9/) [[1](https://www.dance411.com/)] so the image of what i am im not and im terrified! so ill play with this after i go to hollywood best buy for a sub$10 micro sd NAsa Earthdata work is filling up disk space, then theres the hunt for wifi that will actually allow me to upload @cityoflosangeles @stateofcalifornia @blackgirlscode 
 @facebookresearch i have been working out of Billy Jean in Long Beach and its like [Denver](https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/) and [Seattle](https://www.seattletimes.com/seattle-news/seattle-library-ransomware-attack-affected-nearly-27k-people/) and i get comprimised a lot.. I know Shane from Web Dot Com... So i ddont know if he polluted you guys with [Dance411](https://www.youtube.com/watch?v=aYrMKMtUbWk) [gossip](https://www.youtube.com/watch?v=GzK-adwuRWg), because the soundcloud boys would drop in after the normie hampster wheel sessions were over and they rockit out [playboy style](https://www.youtube.com/watch?v=WDZJPJV__bQ) in celebration of thier hollywood blvd [accomplishments](https://www.ebony.com/wicked-is-a-journey-of-sisterhood-solidarity-and-self-actualization/) and they have ties to [Paul Mitchell](https://www.youtube.com/watch?v=Csgo0oU5a_Y) in [BeverlyHills](https://youtube.com/shorts/DgMfPxltYvw?si=Otraewb6brRwRAB0) [[1](https://youtu.be/A8XqKA7nCYM?si=o0svYusEcAZmpZYO)]
