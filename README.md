@@ -6,6 +6,8 @@
 [DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
 [Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
 
+@blackgirlscode https://ieeexplore.ieee.org/document/9969974
+
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 [ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
 
