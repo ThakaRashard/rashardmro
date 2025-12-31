@@ -15,7 +15,16 @@ image: Overview_HD.png
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
-\
+
+
+@CityOfLosAngeles @nasa-JPL Kathey BerGer Hilda Solis Karen Bass Holly Mitchell @StateOfCalifornia 
+#Eaton Canyon Land Disturbance [Link](https://worldview.earthdata.nasa.gov/?v=-118.20436944101876,34.13065807907277,-118.00969403326864,34.2401629959322&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) 
+links [palisadesFirefootprint](https://rashardmro.tumblr.com/post/804135232008765440/mc-hotlinks-nasa-jpl-usgs-waterdashboard-usgs)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd0aee8c-969e-456e-9dc3-ff462ec82b17" />
+
+@blackgirlscode @cityoflosangeles
+
 # News
 [Pasadena Drinking Water System Impacted by Eaton Fire](https://www.cityofpasadena.net/city-manager/news/pasadena-drinking-water-system-impacted-by-eaton-fire/) 
 [lafires_tempo_20250106_lrg](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg) @cityoflosangeles @nasa-jpl fire reporting during the fires @blackgirlscode @podaac [Eaton Fire Damage Maps](https://recovery.lacounty.gov/eaton-fire/) [L.A.’s hydrants ran dry during the fires. Residents are still demanding solutions](https://www.latimes.com/environment/story/2025-12-17/la-fires-water-system) [Monrovia - Eaton Fire](https://www.monroviaca.gov/your-government/eaton-fire) [Who was responsible for the Eaton Canyon Fire? - Pasadena](https://www.reddit.com/r/pasadena/comments/1hynfjr/who_was_responsible_for_the_eaton_canyon_fire/) [https://www.reddit.com/r/pasadena/comments/1hynfjr/who_was_responsible_for_the_eaton_canyon_fire/](https://www.pasadenastarnews.com/2025/01/08/unsafe-water-advisory-issued-as-eaton-and-palisades-fires-affect-water-supply/)
