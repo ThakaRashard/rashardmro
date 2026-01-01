@@ -19,8 +19,11 @@ date:   2025-12-10 8:51:06
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
 ### Compton Creek Empty
+
 [video](https://photos.app.goo.gl/JjEoJx2kE1AMuMEs6)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/8f7f4074-a215-443f-ad67-cb3f92a8efb3" />
+<img  alt="image" src="https://github.com/user-attachments/assets/390bcd65-43cd-4547-b7ab-e58354c2ea3d" />
 
 Worldview Opera Data Set, Los Angeles Land Disturbances [Dec202025](https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z) 
 [https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z) 
@@ -1515,6 +1518,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
