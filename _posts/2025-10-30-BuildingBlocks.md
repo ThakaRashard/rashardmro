@@ -7,6 +7,27 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+@github i would like to be guided to more info on `stale connections`
+@LACountyDPH @CityOfLosAngeles @DataDesk @NAsa-jpl @la-county-isd Holly Mitchell / Karen Bass
+I got a computer use card at the long beach library, thanks for any help you all @nasa-jpl @blackgirlscode latrice / normani
+```
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.88
+stale
+Last accessed on Dec 31, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 31, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 30, 2025
+Seen in US
+```
 
 @nasa-jpl @podaac @nasa `Worldview` is tossing 500's from Long Beach Public  if i try to generate an image file for a map @nasa-pds @blackgirlscode @howard-university-web-services
 https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-12-20T00:00:00Z&BBOX=33.938,-118.7662,34.3079,-118.0098&CRS=EPSG:4326&LAYERS=OSM_Land_Water_Map,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_DIST-ALERT-HLS_Color_Index%28disabled=0%29,Coastlines_15m&WRAP=x,none,none,x&FORMAT=image/png&WIDTH=2754&HEIGHT=1347&colormaps=,,OPERA_Vegetation_Disturbance_Status,&OPACITIES=,,,0.67&MARKER=-118.2433,34.0522&ts=1767224636395
