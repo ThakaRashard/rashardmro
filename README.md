@@ -1,8 +1,6 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
 
-![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
-[@nasa-pds](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms/) 
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 [DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
@@ -65,6 +63,11 @@ NewSkills : coalace for robotic story boarding
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/889f8485-2d1f-44b6-a32b-fc433436b53e" />
+
+
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
+
+[@nasa-pds](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms/) 
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
