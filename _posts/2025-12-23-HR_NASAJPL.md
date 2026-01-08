@@ -13,6 +13,22 @@ author: "RashardKelly @nasa-jpl"
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+@la-countyisd @LACMTA @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
+someone from sanfrancisco is in my account @github @nasa-jpl @emit-sds @nasa-pds @blackgirlscode 
+
+```
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+San Francisco 107.77.214.63
+active
+Last accessed on Jan 07, 2026
+Seen in US
+```
+
 @meta i was talking to you guys on this page [BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-10-30-BuildingBlocks.md) @nasa-jpl @nasa-pds @blackgirlscode
 @nasa-jpl most of my roms i purchased b4 @blackgirlscode ... @meta i dont know if two mentions will go through, since its the same page, [RashardsChangeMonitoring](https://thakarashard.github.io/rashardmro/changelog) is where i put you bc its an outage for me and my field reporting but for you its a crime scene! this page i use to give @nasa-jpl eyes into the whole situation after [CovidFreakNicKSantaMonica](https://youtu.be/leJNDpm_G10?t=7)
 @stateofCalifornia @cityoflosangeles karen bass / holly mitchell im about ot work on my water report! @la-county-isd

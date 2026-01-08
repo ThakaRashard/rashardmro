@@ -18,6 +18,18 @@ date:   2026-01-08 8:51:06
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
+[MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
+ 
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+
 ## @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
 Governor Gavin Newsom delivers his 2026 State of the State address 
 
@@ -39,6 +51,21 @@ Governor Gavin Newsom delivers his 2026 State of the State address
 @asfadmin [eatonCanyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_007_250930_L090_CX_01/crparc_09118_25032_007_250930_L090_CX_01.gif) @la-county-isd [https://build.ca.gov/](https://build.ca.gov/) [build.ca.gov/](https://build.ca.gov/)
 
 @nasa-jpl @swot-community @NAsa-OpenScapes [DamBusters 2026 - watch](https://youtu.be/Vnf5XzqOV8g?si=MGQ58QbYpBBaxfZS) 
+
+
+@la-countyisd @LACMTA @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
+someone from sanfrancisco is in my account @github @nasa-jpl @emit-sds @nasa-pds @blackgirlscode 
+
+```
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+San Francisco 107.77.214.63
+active
+Last accessed on Jan 07, 2026
+Seen in US
+```
 
  @la-county-isd [https://build.ca.gov/](https://build.ca.gov/) [build.ca.gov/](https://build.ca.gov/)
 <img   alt="image" src="https://github.com/user-attachments/assets/605d487c-f7ce-4a1c-b5aa-0cf1366f1e9b" />
