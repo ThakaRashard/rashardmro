@@ -17,6 +17,48 @@ date:   2026-01-08 8:51:06
 [comment]: <> (Emergency Files )
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+[2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf	06-Jan-2026 22:13	6.1M](https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf)
+2025Sum_JPL_LosAngelesCountyEco_Presentation_FD_chocr.html.gz [City Mayor Directory - animalwelfaredatacenter.org](https://www.animalwelfaredatacenter.org/city-mayor-directory/) [@la-county-isd @stateofcalifornia @Blackgirlscode](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/LOS_ANGELES_KARENBASS_URBAN_PLANNNG_Virtiserv__LATRiCEsnapshot-2026-01-10T00_00_00Z.png)
+[LOSANGLES] map link... [click here](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/LOS_ANGELES_KARENBASS_URBAN_PLANNNG_Virtiserv__LATRiCEsnapshot-2026-01-10T00_00_00Z.png) + [Worldview](https://worldview.earthdata.nasa.gov/?v=-119.16404987362662,33.36467736657348,-116.88496212290443,34.4959120678434&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(opacity=0.43,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-10-T20%3A59%3A50Z) 
+
+[OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1)](https://www.earthdata.nasa.gov/data/catalog/asf-opera-l2-rtc-s1-v1-1) @asfadmin [Holly J Mitchell](https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) / [Lindsey Horavath](https://dn710405.ca.archive.org/0/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/LOS_ANGELES_URBAN_PLANNING_for_ViRTiSERV_BLACKGiRLSCODE_RASHARDKELLY_NASAJPL_ESA_EARTHDATA2018-07-27-00_00_2018-07-27-23_59_Sentinel-1_EW_HH%2BHV_8_RGB-RATIO.png) / [TRACi_PARK](https://dn710405.ca.archive.org/0/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/LOS_ANGELES_URBAN_PLANNING_for_ViRTiSERV_BLACKGiRLSCODE_RASHARDKELLY_NASAJPL_ESA_EARTHDATA2025-01-21-00_00_2025-01-21-23_59_Sentinel-1_IW_VV%2BVH_8_RGB-RATIO%20%282%29.png) |> [LOSANGELES](https://worldview.earthdata.nasa.gov/?v=-120.9543727377381,31.712352053321634,-115.7058907089119,35.631218634845204&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-10-T20%3A59%3A50Z) <| @blackgirlscode 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dcc357b3-e8ca-4344-9e8d-478e35091fb9" />
+
+OPERA Radiometric Terrain Corrected SAR Backscatter (False Color)
+×
+Temporal Coverage: 2025 JAN 31 - Present*View Dates
+The OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 (RTC-S1) is a Level-2 (L2) product. It provides terrain-corrected radar images with a 30-meter pixel spacing and a temporal resolution of a few days to weeks on average, depending on the location. Each RTC-S1 product is derived from a Sentinel-1 Interferometric Wide (IW) Single-Look Complex (SLC) burst, provided by the European Space Agency (ESA). Synthetic aperture radar (SAR) images deliver all-weather, day-and-night, imaging of the Earth’s surface.
+
+RTC-S1 images are displayed in false-color for better visual interpretation of the SAR backscatter data. The false-color RGB visualization combines both co-polarized VV (vertical transmit vertical receive) or HH (horizontal transmit horizontal receive) backscatter values (red and blue) with cross-polarized VH or HV values (green) to generate a color image from SAR data. In this false-color scale, vegetated areas appear green; urban and/or sparsely vegetated areas appear white/pink; calm water, dry sand, and frozen ground appears black; and rough water appears purple or magenta. Note there are other land covers not listed that may have similar appearance and it is recommended that users consult auxiliary datasets to help determine the land cover of interest.
+
+The OPERA RTC-S1 product contains modified Copernicus Sentinel data corresponding to the same time period of the OPERA RTC-S1 product. The organizations in charge of the OPERA project and the Copernicus programme by law or by delegation do not assume any legal responsibility or liability, whether express or implied, arising from the use of this product. Users, including those who redistribute, adapt, modify, or combine RTC-S1 data, must comply with the terms of the Copernicus Sentinel Data License Agreement.
+
+The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
+
+References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
+
+## Surface Water
+[Link](https://worldview.earthdata.nasa.gov/?v=-119.16404987362662,33.36467736657348,-116.88496212290443,34.4959120678434&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(opacity=0.43,disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-10-T20%3A59%3A50Z) @ESA @Washingtonpost @datadesk @CALTECH @LA-county-isd
+<img  alt="image" src="https://github.com/user-attachments/assets/e9349728-ca6f-4ac1-b4b2-d1b15abfac32" />
+
+@cityoflosangeles @la-county-isd this is my area to keep the iss updated with what im upto
+[https://rashard-podaac-jpl-iss-mro-juno.github.io/rashard-ecostress-jpl-iss.github.io/](https://rashard-podaac-jpl-iss-mro-juno.github.io/rashard-ecostress-jpl-iss.github.io/) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b008911b-6620-4c49-8ec8-420b26935afe" />
+
+@karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
+[itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
+
+@CityOfLosAngeles @la-county-isd @stateofcalifornia 
+Hi Its [Rashard iMan Kelly](https://github.com/rashardnasalosangelesJPL/rashardnasalosangelesJPL.github.io/blob/master/README.md) of Nasa [Ecostress](https://ecostress.jpl.nasa.gov/) / MRO / JUNO . . 
+Check out [Lbtv](https://www.lbtv3.com/) @Blackgirlscode if someone can speak up for me, im emailing Supervisor Holly Mitchell and Mayor Karen bass via big public groups to communicate this task . I need all the bunnies that are not treasonus to clear my name
+
 @nasa-openscapes @nasa-jpl this is [LatriceFacebook](https://www.facebook.com/thevirtiservway/) ... @emit-pds when i went to dance411 i agreed to have talking only relationships if they not in my face. I did not know how long it could stretch out. Anyway i cant look at her at all, i will pass out . . . @blackgirlscode
 
 
@@ -817,6 +859,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
