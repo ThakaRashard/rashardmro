@@ -20,6 +20,21 @@ image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 
 [Watch]() @la-county-isd @cityoflosangeles @nasa-jpl hi @blackgirlscode you think this is related to the `Trice` [Graffiti](https://rashardiman.github.io/GraffShit) 
 [[`1`](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_HTAU_MooNLoveRLatriCE_cityhall_VirtiSerV_VID_20251226_053248.mp4)] [[`2`](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4)]? THE PERSON THAT CROSSED US OUT USED A `"v"` WITH A CIRCLE LIKE [`(v) FOR vENDETTA`](https://archive.org/details/v-for-vendetta-by-alan-moore-david-lloyd) [pdf](https://dn720006.ca.archive.org/0/items/v-for-vendetta-by-alan-moore-david-lloyd/V%20for%20Vendetta%20by%20Alan%20Moore%2C%20David%20Lloyd.pdf) [ePUB](https://archive.org/download/v-for-vendetta-by-alan-moore-david-lloyd/V%20for%20Vendetta%20by%20Alan%20Moore%2C%20David%20Lloyd.epub) @BLACKGIRLSCODE @NASA-JPL @cbs-news-data @CBSNEWS @LACMTA @wHITEHOUSE @cITYOFLOSANGELES @STATEOFCALIFORNIA [kaREN bASS](https://www.govtrack.us/congress/members/karen_bass/412404) [hOLLY mITCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [1](https://www.first5la.org/people/holly-j-mitchell/)  [2](https://www.youtube.com/c/SupervisorHollyJMitchell) 
+
+## Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerV
+
+<video controls preload="none" itemprop="location" itemscope itemtype="https://schema.org/Place"  >
+  
+  <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4" type="video/mp4" />
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4" type="video/mp4" />
+
+
+  Download the
+  <a href="https://ia600307.us.archive.org/10/items/commitmentmaintenance/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
+  video.
+</video>
 <img  alt="image" src="https://github.com/user-attachments/assets/92b7936d-527e-4e58-a40a-abb538d484ca" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/9b25503d-1a2a-44bf-b6bf-2ea661532a87" />
