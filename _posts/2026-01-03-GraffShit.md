@@ -6,22 +6,57 @@ categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
-@karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
-[itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
-
-<img  alt="image" src="https://github.com/user-attachments/assets/b42e9b76-f470-4cdd-9fd9-ffc75874b8ab" />
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid036sKFk5yxRTL4Kwopn35ymvH15pnZsg1rPTYYESLoVkeLLfRRfjxtcP6vMGEphdprl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/476240352_1600435137266645_7184547113575520445_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=f727a1&amp;_nc_ohc=yBGl9PXlmm8Q7kNvwHJxOIG&amp;_nc_oc=AdkZk1MgVAsuu60qweNfWC_-GuhFWcX9EYOjtGmQXSOmDT9D6vpatlV11CJ35xO4oVs&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=VHccEaW2nCgSotR3QnHMdA&amp;oh=00_AfUpZxcWTo44Kkl0TJLFiU28hq2J1ahKGJuHKaR8uPPkmg&amp;oe=68A991E6" alt="No photo description available."/><img width="768" height="960" alt="image" src="https://github.com/user-attachments/assets/b2144fd9-450a-4402-9f09-b0d758fa0647" />
 
 {% assign posts = site.posts | where_exp: "post", "post.categories contains 'coral'" %}
 {% for post in posts %}
   <li>{{ post.title }}</li>
 {% endfor %}
+
+@nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
+
+## Watch Live: Demonstrators march in downtown LA in protest of deadly Minneapolis ICE shooting @DHS-GOV @WEATHER-GOV @NOAAGOV @NASA-GISS @NASA-DEVELOP WE HAVE A PROTEST in Los Angeles again @usgs @LA-County-iSD @BLACKGiRSLCODE 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5aOPGPmx1fE?si=mqN_RvwxtBQzBJ01" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Watch]() @la-county-isd @cityoflosangeles @nasa-jpl hi @blackgirlscode you think this is related to the `Trice` [Graffiti](https://rashardiman.github.io/GraffShit) 
+[[`1`](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_HTAU_MooNLoveRLatriCE_cityhall_VirtiSerV_VID_20251226_053248.mp4)] [[`2`](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4)]? THE PERSON THAT CROSSED US OUT USED A `"v"` WITH A CIRCLE LIKE [`(v) FOR vENDETTA`](https://archive.org/details/v-for-vendetta-by-alan-moore-david-lloyd) [pdf](https://dn720006.ca.archive.org/0/items/v-for-vendetta-by-alan-moore-david-lloyd/V%20for%20Vendetta%20by%20Alan%20Moore%2C%20David%20Lloyd.pdf) [ePUB](https://archive.org/download/v-for-vendetta-by-alan-moore-david-lloyd/V%20for%20Vendetta%20by%20Alan%20Moore%2C%20David%20Lloyd.epub) @BLACKGIRLSCODE @NASA-JPL @cbs-news-data @CBSNEWS @LACMTA @wHITEHOUSE @cITYOFLOSANGELES @STATEOFCALIFORNIA [kaREN bASS](https://www.govtrack.us/congress/members/karen_bass/412404) [hOLLY mITCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [1](https://www.first5la.org/people/holly-j-mitchell/)  [2](https://www.youtube.com/c/SupervisorHollyJMitchell) 
+
+## Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerV
+
+<video controls preload="none" itemprop="location" itemscope itemtype="https://schema.org/Place"  >
+  
+  <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4" type="video/mp4" />
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4" type="video/mp4" />
+
+
+  Download the
+  <a href="https://ia600307.us.archive.org/10/items/commitmentmaintenance/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
+  video.
+</video>
+<img  alt="image" src="https://github.com/user-attachments/assets/92b7936d-527e-4e58-a40a-abb538d484ca" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/9b25503d-1a2a-44bf-b6bf-2ea661532a87" />
+<img alt="image" src="https://github.com/user-attachments/assets/321fdef6-3d99-45c4-8598-1ff7e903bf1b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c8c08cd8-8963-47cd-96e5-ed1a1930048a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/254bc3f1-5526-4d86-a745-05dc51c38374" />
+@karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
+[itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b42e9b76-f470-4cdd-9fd9-ffc75874b8ab" />
+
+```
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid036sKFk5yxRTL4Kwopn35ymvH15pnZsg1rPTYYESLoVkeLLfRRfjxtcP6vMGEphdprl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1824372994391016%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+```
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/476240352_1600435137266645_7184547113575520445_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=f727a1&amp;_nc_ohc=yBGl9PXlmm8Q7kNvwHJxOIG&amp;_nc_oc=AdkZk1MgVAsuu60qweNfWC_-GuhFWcX9EYOjtGmQXSOmDT9D6vpatlV11CJ35xO4oVs&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.xx&amp;_nc_gid=VHccEaW2nCgSotR3QnHMdA&amp;oh=00_AfUpZxcWTo44Kkl0TJLFiU28hq2J1ahKGJuHKaR8uPPkmg&amp;oe=68A991E6" alt="No photo description available."/><img width="768" height="960" alt="image" src="https://github.com/user-attachments/assets/b2144fd9-450a-4402-9f09-b0d758fa0647" />
+
 
 [hc](https://www.youtube.com/watch?v=mxoCCvjW4Uo)
 

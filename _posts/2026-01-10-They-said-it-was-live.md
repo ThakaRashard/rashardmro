@@ -10,10 +10,27 @@ author: RashardKelly @nasa-jpl
 
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
 
+## Watch Live: Demonstrators march in downtown LA in protest of deadly Minneapolis ICE shooting @DHS-GOV @WEATHER-GOV @NOAAGOV @NASA-GISS @NASA-DEVELOP WE HAVE A PROTEST in Los Angeles again @usgs @LA-County-iSD @BLACKGiRSLCODE 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5aOPGPmx1fE?si=mqN_RvwxtBQzBJ01" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Watch]() @la-county-isd @cityoflosangeles @nasa-jpl hi @blackgirlscode you think this is related to the `Trice` [Graffiti](https://rashardiman.github.io/GraffShit) 
+[[`1`](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_HTAU_MooNLoveRLatriCE_cityhall_VirtiSerV_VID_20251226_053248.mp4)] [[`2`](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_Oc_Vendetta_coveredmyart_karenbass_latrice_DougNewman_someone_vanalized_trice_streetart_VirtiSerVVID_20260109_193826_194.mp4)]? THE PERSON THAT CROSSED US OUT USED A `"v"` WITH A CIRCLE LIKE [`(v) FOR vENDETTA`](https://archive.org/details/v-for-vendetta-by-alan-moore-david-lloyd) [pdf](https://dn720006.ca.archive.org/0/items/v-for-vendetta-by-alan-moore-david-lloyd/V%20for%20Vendetta%20by%20Alan%20Moore%2C%20David%20Lloyd.pdf) [ePUB](https://archive.org/download/v-for-vendetta-by-alan-moore-david-lloyd/V%20for%20Vendetta%20by%20Alan%20Moore%2C%20David%20Lloyd.epub) @BLACKGIRLSCODE @NASA-JPL @cbs-news-data @CBSNEWS @LACMTA @wHITEHOUSE @cITYOFLOSANGELES @STATEOFCALIFORNIA [kaREN bASS](https://www.govtrack.us/congress/members/karen_bass/412404) [hOLLY mITCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [1](https://www.first5la.org/people/holly-j-mitchell/)  [2](https://www.youtube.com/c/SupervisorHollyJMitchell) 
+<img  alt="image" src="https://github.com/user-attachments/assets/92b7936d-527e-4e58-a40a-abb538d484ca" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/9b25503d-1a2a-44bf-b6bf-2ea661532a87" />
+<img alt="image" src="https://github.com/user-attachments/assets/321fdef6-3d99-45c4-8598-1ff7e903bf1b" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c8c08cd8-8963-47cd-96e5-ed1a1930048a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/254bc3f1-5526-4d86-a745-05dc51c38374" />
+
 ### _Artemis II crewmember Jeremy Hansen_ 
 Join us live from the Canadian Space Agency for an exclusive Q&A session, hosted by Fred Bastien, where you can ask your questions to astronaut and Artemis II crewmember Jeremy Hansen. This is Jeremy last visit in Canada before the launch of the Artemis II mission, planned for early 2026.
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid029h28rw2nHBusBD7LdfzYT7nJUrP87rvkAQvh3aPtpwyb9Gwf4Z68x3nd6wu8Jag3l%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 # Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
 [@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
