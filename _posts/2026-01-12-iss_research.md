@@ -13,6 +13,15 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
+[github.com/nasa/VITALS - ECOSTRESS Tasks and Guides](https://github.com/nasa/VITALS) <~ @CityOfLosAngeles HildaSolis KarenBass please [look](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4) at the @nasa / Vitals repo. I am supposed to work out of that like a lot . . [OnlineLearning](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.04/-13157364.10/4002286.61&layers=aqv_tss_20260107_sentinel:1.00:0.00:30.00:default&grids=1,0) +++ [President Trump signs bill to OFFICIALLY reopen the government, ending the Democrat Shutdown.](https://www.whitehouse.gov/videos/president-trump-signs-bill-to-officially-reopen-the-government-ending-the-democrat-shutdown/) [Democrats Shut Down the Government for a Record 43 Days](https://www.whitehouse.gov/government-shutdown-clock/) @whitehouse @nasa-jpl
+
+[GOES-West Full Disk - Derived Motion Winds](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=24&dim=1)
+[GOES-West CONUS - Derived Motion Winds](https://www.star.nesdis.noaa.gov/goes/conus_band.php?sat=G18&band=DMW&length=36&dim=1)
+[GOES-West - Sector view: Northern Pacific - Air Mass](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=np&band=AirMass&length=24)
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/np/Sandwich/GOES18-NP-Sandwich-900x540.mp4
+[GOES-West - Sector view: Northern Pacific - Tropospheric Dust Content](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=np&band=Dust&length=24)
+
+```
 Crew-11 Return, Splashdown Weather -#Rashard @NASAJPL/MROJUNO+EARTHDATA [LiNK](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [FiLEs](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) // 
 
 
@@ -137,7 +146,7 @@ Mars2020_sol1342-1710_RRF :" RearCam Vid [Link](https://rashardmro.tumblr.com/po
 </div>
 
 
-
+![v](https://sdo.gsfc.nasa.gov/assets/img/latest/SDO_VO3.gif)
 
 Aquatic Report [LinK @nasa-jpl](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.67/-13147350.80/3999217.77&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) [inland glendale / hollyrock](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.11/-13158609.97/4049796.63&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [The Palisades](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.26/-13195663.95/4034960.19&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [Eaton Canyon](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.10/-13151400.61/4054694.41&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0)   @nasa-jpl @blackgirlscode @datadesk @stateofcalifornia @cbs-news-data @COBIS-HU hi latrice i cant look at tick tok yet im not ready for the news 
 @CityOfLosAngeles @StateOFCalifornia @BlacakGirlsCode there is some way to get [ms mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) and [Mayor Bass](https://yandex.com.tr/gundem/entertainment/los-angeles-belediye-baskani-yanginlar-surerken-gana-gezisinden-donmedigi-icin-elestiriliyor-943710) to see this link. They are really into climate data here [Ms Hahn](https://lacounty.gov/government/board-of-supervisors/janice-hahn/) too @nasa-jpl
