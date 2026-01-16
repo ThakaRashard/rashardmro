@@ -6,6 +6,9 @@ title: "@Nasa FireReport"
 image: Overview_HD.png
 ---
 
+[NASA76 - BiCENTENNiALREPORT @nasa](https://spinoff.nasa.gov/back_issues_archives/1976.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/ea909063-7d37-40d4-accc-60ac8db12d22" />
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
