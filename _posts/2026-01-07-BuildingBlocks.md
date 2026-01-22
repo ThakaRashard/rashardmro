@@ -8,6 +8,136 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+
+```
+Registrar
+get.gov
+WHOIS Server
+whois.nic.gov
+```
+
+[https://lookup.icann.org/en/lookup](https://lookup.icann.org/en/lookup) @podaac @nasa-jpl @emit-sds @staeofcalifornia @blackgirlscode say @icann! [LAtrice](https://www.facebook.com/thevirtiservway/)
+
+```
+Name: nasa.gov
+Registry Domain ID: DF12B2D9A-GOV
+Domain Status:
+serverTransferProhibited
+
+Nameservers:
+a1-32.akam.net
+
+a12-64.akam.net
+
+a14-67.akam.net
+
+a5-66.akam.net
+
+a8-66.akam.net
+
+a9-64.akam.net
+
+Dates
+Registry Expiration: 2026-07-31 14:55:32 UTC
+Updated: 2025-09-07 18:35:13 UTC
+Created: 1997-10-02 01:29:26 UTC
+```
+
+
+```shell
+>EXACT< name search [SPACE sensitive]:
+ NAME = artimis;
+Continue [ <cr>=yes, n=no, ? ] : 
+*******************************************************************************
+JPL/DASTCOM            Small-body Index Search Results     2026-Jan-22 11:18:40
+ Comet AND asteroid index search:
+   NAME = artimis;
+ Matching small-bodies: 
+    No matches found.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: artemis
+*******************************************************************************
+ Multiple major-bodies match string "ARTEMIS*"
+  ID#      Name                               Designation  IAU/aliases/other   
+  -------  ---------------------------------- -----------  ------------------- 
+     -192  THEMIS-B (spacecraft)              2007-004B    ARTEMIS-P1           
+     -193  THEMIS-C (spacecraft)              2007-004C    ARTEMIS-P2           
+    -1023  Artemis I (spacecraft)             2022-156A    Orion EM-1           
+ 
+   Number of matches =  3. Use ID# to make unique selection.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -1023
+*******************************************************************************
+ Revised: Dec 10, 2022        Artemis I / Spacecraft (Earth)              -1023
+                              https://www.nasa.gov/artemis-1
+ BACKGROUND:
+  NASA's 26-day unmanned Artemis I mission was a test of integrated systems to:
+   - launch Orion atop the SLS rocket 
+   - operate the spacecraft in a deep space environment
+   - orbit the Moon in a distant retrograde orbit before returning to Earth
+   - test Orion's heat shield at 30,000 km/hr (2760 deg. C), and 
+   - recover the crew module after reentry, descent, and splashdown
+ MAJOR EVENTS:
+  Launched November 16 @ 06:47:44 UTC from pad 39B at the Kennedy Space Center. 
+  Relative timings below may or may not be be shifted slightly due to launch 
+  being delayed 43 minutes.
+  launch+00h 18m 09s - Orion deploys solar arrays in Earth orbit
+        +00h 52m 56s - Perigee raise maneuver (22 second burn)
+        +01h 29m 27s - Trans-lunar injection burn (18m burn)
+        +01h 57m 36s - Orion/ICPS separation
+```
+
+@TheSpaceDevs @nasa-pds @emit-sds . . . 
+[Artemis I Weather Criteria](https://www3.nasa.gov/sites/default/files/atoms/files/artemis_i_weather_criteria_fact_sheet_0.pdf)
+@cityoflosangeles @la-county-isd you guys should know about these things, then theres places we can team to keep los angeles safe Mrs Solis @bloomberg @foxnews
+`https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1` [Artemis1](https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1) The Link Points to `nasa.gov/images/` January 26 is the earliest snapshot revealing the artemis 1 mission log being vandalized @whitehouse i need mrs bass at somepoint to help me with my family, somone trying to kill me! This is from around the fires 
+```
+
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+13:38:09 January 26, 2025
+
+Got an HTTP 301 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/images/
+```
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+18:07:54 February 04, 2025
+
+Got an HTTP 301 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/images/
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e1e5999-afc0-4c7e-ab13-f95914e18a17" />
+
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+21:23:53 July 23, 2024
+
+Got an HTTP 302 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/mission/artemis-i/
+```
+`https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/`
+[https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/](https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/) @nasa @whitehouse @dhs-gov 
+<img alt="image" src="https://github.com/user-attachments/assets/e42599db-8ba8-4353-9502-0029544243ed" />
+
+
+
+
 # Stereo
 @nasa-jpl @blackgirlscode its back up but with a warning @whitehouse 
 `We expect the stereo.gsfc.nasa.gov web site to be decommissioned early in 2026. With a few exceptions for out-of-date material, all resources have been copied to https://stereo-ssc.nascom.nasa.gov/ . Please change any bookmarks or automatic downloads you may have set up.` [https://stereo.gsfc.nasa.gov/](https://stereo.gsfc.nasa.gov/) @JHUAPL @CityOflosangeles KarenBass Kamlager Dove @la-county-isd
