@@ -8,6 +8,13 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+## President Trump Makes an Announcement, Jan. 29, 2026
+
+@whitehouse [watch](https://www.youtube.com/watch?v=OE2NtBhozT4) @blackgirlscode [Virtiserv](https://www.facebook.com/thevirtiservway/) @nasa  is listed in [YoungstownOhio BBB](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) @codeyoungstown I had an amazing date with a girl from your town during covid lockdown... her name is latrice, if it rings a bell just tell her i have not shaved and i need the next step because erika stole my foodstamp card with my daughter name on it . . . 
+I watched but i really dont know whats going on.. @nasa-jpl @la-county-isd
+
+<img alt="image" src="https://github.com/user-attachments/assets/6eeec377-69fa-448b-99cd-ea7075d1e2d7" />
+
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
 
 ## Watch Live: Demonstrators march in downtown LA in protest of deadly Minneapolis ICE shooting @DHS-GOV @WEATHER-GOV @NOAAGOV @NASA-GISS @NASA-DEVELOP WE HAVE A PROTEST in Los Angeles again @usgs @LA-County-iSD @BLACKGiRSLCODE 
