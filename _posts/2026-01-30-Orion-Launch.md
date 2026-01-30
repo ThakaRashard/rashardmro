@@ -4,16 +4,59 @@ title:  "Orion/Artemis @nasa @r-spaceX"
 published: true
 date:   2026-01-24 08:19:06 -0800
 tags: nsn ecostress crew11 iss
-image: Kelp_southAmerica_NGS.jpg
+image: Orion_dimensions_pillars.png
 ---
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 - Jump to  [space-`weather`](#space-weather)
--  Jump to  [`moon-Data`](#moon-data)
+- Jump to  [`moon-Data`](#moon-data)
+- Jump to  [`kelp-Data`](#kelp-data)
 
 ---
 
 ## Artemis 2
+[Orion Spacecraft]
+Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
+
+![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
+
+[WATCH - Liftoff_of_Orion.webm.480p.vp9.webm](https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Liftoff_of_Orion.webm/Liftoff_of_Orion.webm.480p.vp9.webm) uploaded by [`ZiaLater` - https://en.wikipedia.org/wiki/User:ZiaLater](https://en.wikipedia.org/wiki/User:ZiaLater)// 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2249210528&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/nasas-curious-universe-artemis-ii-meet-the-moonbound-astronauts" title="NASA&#x27;s Curious Universe: Artemis II: Meet the Moonbound Astronauts" target="_blank" style="color: #cccccc; text-decoration: none;">NASA&#x27;s Curious Universe: Artemis II: Meet the Moonbound Astronauts</a></div>
+
+[link](https://an.rsl.wustl.edu/apollo/mainnavsp.aspx?tab=map&m=A11) : [_NoteBook_MAin @nasa-jpl_](https://an.rsl.wustl.edu/) [TimeLine](https://an.rsl.wustl.edu/apollo/mainnavSp.aspx?m=A11&tab=misssumm)
+news [MayorFireStatements](https://www.youtube.com/@mayorofla/videos) @la-county-isd
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2249222615&color=%23db362d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/artemis-ii-reflecting-on-apollo" title="Artemis II: Reflecting on Apollo" target="_blank" style="color: #cccccc; text-decoration: none;">Artemis II: Reflecting on Apollo</a></div>
+
+
+
+
+WATCH [The Engineering Laboratories of NASA's Kennedy Space Center](https://youtu.be/q8tP01ujQlg)
+<img  alt="image" src="https://github.com/user-attachments/assets/de43eb8e-ba4d-4935-9d71-b05dcf6b372e" />
+
+@nasa-jpl i think kennedy lost the @youtube account i see no new artemis vids @nasa-develop @blackgirlscode
+<img  alt="image" src="https://github.com/user-attachments/assets/39964e16-58b6-4726-b1f2-5b52643410c8" />
+
+
+# Apollo to Artemis [@ESA @nasa-jpl](https://blogs.esa.int/orion/2024/05/07/artemis-ii-electromagnetic-testing-the-apollo-way/) @la-county-isd
+[WATCH - Timelapse: lifting Orion for Artemis II](https://youtu.be/fYlLjJ_vg-M?t=23) @airbus i sent an email to our mayor @CityOfLosAngeles @stateofcalifornia [Mayor Karen Bass](https://www.youtube.com/@mayorofla) to get the process of getting la maps out from CSDA @nasa-jpl @nasa-openscapes Earthdata in orderfor that area as it makes drought and fire mitigations current for today [hollymitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) [HilDasolis](https://sheriff33.lasd.org/press-conference-regarding-public-corruption-in-los-angeles-county/)
+ [READMORE - esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/Artemis_II)
+
+
+ _2daysAgo_
+# Apollo 11 Analyst's Notebook
+[link](https://an.rsl.wustl.edu/apollo/mainnavsp.aspx?tab=map&m=A11) : [_NoteBook_MAin @nasa-jpl_](https://an.rsl.wustl.edu/) [TimeLine](https://an.rsl.wustl.edu/apollo/mainnavSp.aspx?m=A11&tab=misssumm) @TheSpaceDevs @BlueOrigin @rocketlab can you get this over to the [ArtemisCrew](https://www.nasa.gov/mission/artemis-ii/) ? I dont know if they knw about this resource 
+Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [lunar](https://www.kennedyspacecenter.com/landing-pages/artemis-ii/) landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation. [LiNK](https://an.rsl.wustl.edu/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/c31069a2-c45c-4bb6-8a8e-332a71d06b8e" />
+
+![orion](https://upload.wikimedia.org/wikipedia/commons/7/76/ProjectOrionConfiguration.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/95c38f03-628c-443f-a083-bb7f9132cd68" />
+
+
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg)
+
 # Splashdown 101: @USNavy @La-County-isd
 Joint Team to Recover Crew, Orion After Moon Missions
 [splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
@@ -31,6 +74,18 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
+
+# kelp-data
+@cityoflosangeles Karenbass @la-county-isd the kelp maps at aviris.jpl.nasa.gov are hiding from me @ucla the problem was discussed for the olympics . . . @blackgirlscode many of you in my age group are olympians so keep up with it at your schools @ucla @usc @caltech /// @NASA-OPENSCAPES @NASA-GiSS [@GEOS-ESM](https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/open-source-software/)
+[WATCH - lacity.gov/tv](https://lacity.gov/tv) . . . @StateOfCalifornia CongressMemberKaren Mrs Webr ... please see this short doc when you can -#rashard @nasa-pds @nasa-jpl @usgs
+## An Ocean in Bloom
+[clickhere2watch - svs.gsfc.nasa.gov/14648](https://svs.gsfc.nasa.gov/14648/)
+Released Friday, August 16, 2024
+Produced by:[Emme Watkins](https://svs.gsfc.nasa.gov/search/?people=Emme%20Watkins)
+Edited by:[Emme Watkins](https://www.emmewatkins.com/) & [Will Rothermel](https://svs.gsfc.nasa.gov/search/?people=Will%20Rothermel)
+Visualizations by:[Alex Kekesi](https://svs.gsfc.nasa.gov/search/?people=Alex%20Kekesi)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/fb32ca28-1d31-4359-8dd8-08665130cc30" />
 
 
 @asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard [@uclaioes](https://uclaioes.github.io/shorelines/) https://uclaioes.github.io/shorelines/
@@ -264,7 +319,11 @@ https://www.floridatoday.com/story/tech/science/space/2026/01/20/nasas-moon-rock
 is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 
 [NASA’s Orion capsule on target for splashdown](https://saudigazette.com.sa/article/627866)
+
+<img alt="image" src="https://github.com/user-attachments/assets/46d0586f-fdd9-48bf-906e-c36306e10c78" />
+
 ![Orion from a soudi](https://cdnx.premiumread.com/?url=https://www.saudigazette.com.sa/uploads/images/2022/12/11/2056770.jpg&w=850&q=100&f=webp)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
 
 #  space-weather 
