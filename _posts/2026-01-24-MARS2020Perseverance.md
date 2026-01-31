@@ -11,6 +11,10 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a533ee6e-228a-42ff-9695-8d04d31fb0d7)
+
+<iframe src="https://archive.org/embed/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1158008518?h=fd1531a392" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
@@ -196,8 +200,9 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 
 <img  alt="image @blackgirlscode @newshour @cityofsantamonica @nasa-jpl @usgs @nasa @cityoflosangeles @whitehouse" src="https://github.com/user-attachments/assets/ac4197df-0a27-4db2-aea2-3353fabd7ced" />
 
+```
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F1271974741035762%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
+```
 
 
 ### MICRODEVICES LABORATORY 
@@ -350,10 +355,10 @@ A telescopic camera called the High Resolution Imaging Science Experiment, or Hi
  <img  alt="image" src="https://github.com/user-attachments/assets/6d486dba-adbc-45bd-a82f-cd602a57c362" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6a88ebef-4db7-4e6c-84d4-b9f383702c66" />
-
+```
  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid029FCma2T3BsVYBhYG2dqjTwm8P2Jgsm7f6g1Db3UV6jDrrkJhzW2kPBvj8ZnvFxuWl%26id%3D100084464911565&show_text=true&width=500" width="500" height="469" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
- 
+ ```
 
 What rashard has been up to @nasa @nasa-jpl @cityoflosangeles
 Compiling . . . 

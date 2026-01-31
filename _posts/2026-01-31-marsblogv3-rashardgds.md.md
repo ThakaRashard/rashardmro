@@ -9,14 +9,35 @@ image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.pn
 
 categories: mars
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F4307745839545330%2F&show_text=true&width=560&t=0" width="560" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+# Comparison View of Mars Cloud Cover
+[link](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia01/pia01246/PIA01246.jpg) :: [ReadArticle](https://science.nasa.gov/photojournal/comparison-view-of-mars-cloud-cover/)
+![https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia01/pia01246/PIA01246.jpg](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia01/pia01246/PIA01246.jpg)
+Description
+These color and black and white pictures of Mars were taken by NASA's Hubble Space Telescope just two weeks after Earth made its closest approach to the Red Planet during the 1997 opposition. When the Hubble pictures were taken Mars was at a distance of 62 million miles (100 million kilometers) and the resolution at the center of the disk is 13.5 miles/pixel (22 kilometers/pixel). Both images were made with the Wide Field and Planetary Camera 2. The color composite (left image) is constructed from three images taken in red (673 nanometers), green (502 nm) and blue (410 nm) light. The right image, in blue light only, brings out details in the cloud structure and is remarkably similar to weather satellite pictures taken of Earth. A planetary-scale wave curls around the north pole, similar in behavior to high latitude cold fronts which descend over North America and Europe during springtime.
 
+<img  alt="image" src="https://github.com/user-attachments/assets/a81b5f95-dc0e-4f46-8824-c3bcc4e760d4" />
+
+The picture was taken when Mars was near aphelion, its farthest point from the Sun. The faint sunlight results in cold atmospheric conditions which stimulate the formation of water ice clouds. The clouds themselves further reduce atmospheric temperatures. Atmospheric heating, resulting when sunlight is absorbed by the dust, is reduced when ice forms around the dust particles and causes the dust to gravitationally settle to the ground.
+
+These images of Mars are centered at approximately 94 degrees longitude and 23 degrees N latitude (oriented with north up). The four largest Tharsis Montes (massive extinct volcanoes) are visible as dark spots extending through the clouds. The vast canyon system, Valles Marineris, stretches across the eastern (lower right) half of the image; the Pathfinder landing site is near the eastern edge of the image. It is early summer in the northern hemisphere, and the North polar cap has retreated to about 80 degrees N latitude; the "residual" summer cap, which is composed of water ice, is about one-third the size of the "seasonal" winter cap, which consists mostly of carbon-dioxide frost (dry ice) condensed on the surface. The polar cap is surrounded by a "sand sea" made up of dark sand dunes. A distinct belt of water-ice clouds extends over much of this hemisphere.
+
+This image and other images and data received from the Hubble Space Telescope are posted on the World Wide Web on the Space Telescope Science Institute home page at URL [http://oposite.stsci.edu/](http://oposite.stsci.edu/).
+
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/469a90ea-e870-4d4f-bc88-1a174813f365" />
+
+```
+<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F4307745839545330%2F&show_text=true&width=560&t=0" width="560" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+```
 <img  alt="image @whitehouse @nasa @r-spacex @spacex" src="https://github.com/user-attachments/assets/1ecfff43-6599-40c8-a12e-57d8da4090fd" />
 #Mr_TRUMP hi its rashard from NASA's Perseverance Mars Rover this is a great job SpaceX i signed the Selective Service System agreement when i was 18 like the jehovahs witnesses said was appropriate per #romans13_1__through_4 so i was baptised and i got scared and left when the group started excluding me when i was #departnered so after i was stranded by my JW wife she went to playboy and bragged about how submissive i was and a girl in the pop music world showed interest, the issue is she is a party girl and sometimes gets kidnapped so she still has a life in prostitution outside of the great music she produces https://job-boards.greenhouse.io/spacex/jobs/8053599002 <~ thats in hawthorne and idk what Hawthorne Police would say about me but since there are Ho Strolls in that area at times they might not think its best for the country if i work for JPL NASA Jet Propulsion Laboratory... i have a International Space Station badge so, maybe its a bad idea... ill see but maybe i can take some tickets from them and work them from the #SHARE place or Long Beach Public Library and i can make some money to get stable communication and I can track down my kid and actually have a real girlfriend -#Rashard NASA's Perseverance Mars Rover / NASA InSight :::::::::: [https://holetoanotheruniverse40.github.io](https://holetoanotheruniverse40.github.io)/
 
 # @ISRO / @nasa-jpl @nasa-develop @emit-sds
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRajMarsOdyssey%2Fposts%2Fpfbid026EV1chBThZMFW7X3FAB3375H1yVNrLzAuk9uKqPnPN6Wa4e6mx5mcBCkingrzMPzl&show_text=true&width=500" width="500" height="458" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 `Comment` Thaka Sartu
 Defense Information Systems Agency NASA Jet Propulsion Laboratory this looks like a stranded [#MARSMiSSiONACCOUNT](https://www.facebook.com/RajMarsOdyssey/) Phoenix Mars Lander . . . Black Girls Code Kimberly Bryant, Founder Black Girls CODE am i introuble for speaking on intimacy? idk how i felt whatever i felt on the train but it was real, the rails are copper Congressmember Karen Bass : @blackgirlscode Normani SZA im not mad at you, i think it was your morning romp with whatever u doing an if its [#DG](https://www.youtube.com/watch?v=pcJo0tIWybY) just trust me its only facts and can clearup im not into lawsuits,im too busy Georgia Bureau of Investigation 20th Century Studios i just need my path clear Steve Harvey Mayor Karen Bass [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan)
 
@@ -37,9 +58,11 @@ webm</a>
   video.
 </video>
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02XgX419Fqq9nVgcQ91UhmC9H1puQHciU27wrhuNzhSRRcpJUbWZW3FoAQz3XJRuH6l%26id%3D100084464911565&show_text=true&width=500" width="500" height="527" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdekalbsheriffga%2Fposts%2Fpfbid0T5ihHFLbFyw4EFaUxQ8oo3a4bThAgrKwzh8VubnSytkHNpTzjacAcq7hGKRexivul&show_text=true&width=500" width="500" height="793" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 @noaa please look at this data from [The South PAsadena Branch](https://www.southpasadenaca.gov/Your-Government/Department-Service-Areas/Library) [626-403-7330](mailto:library@southpasadenaca.gov)
 
@@ -390,7 +413,9 @@ USSF, NNSA, and NASA [WhitePaper](https://cdn.northropgrumman.com/-/media/wp-con
 
 </div>
 
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid02MdLMDV8jJPyDzmRaLSdeWutg7X9vpHX5MVkk262FQr5LQUhYgWN9TM2BZd4PMFQVl&show_text=false&width=500" width="500" height="333" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+```
 
 <object data="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid028NvzNHBMTBuC7tqhSsQceuEUHLzTEo3hF12Xp9i8C7zaZeGUYikqFEH57GYQ6k4Vl&show_text=true&width=500" width="500" height="559" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></object>
 

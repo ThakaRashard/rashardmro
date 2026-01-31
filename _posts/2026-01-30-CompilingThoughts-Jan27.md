@@ -7,6 +7,7 @@ published: true
 image: luckyGirl.png
 ---
 
+[https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip](https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip) @nasa Cleveland virtiserv @blackgirlscode normanikordei 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/958777d3-155f-4f99-9040-cfa7945e7c83" />
 
