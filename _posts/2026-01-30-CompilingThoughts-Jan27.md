@@ -7,6 +7,30 @@ published: true
 image: luckyGirl.png
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/958777d3-155f-4f99-9040-cfa7945e7c83" />
+
+@la-county-isd 
+```
+Your message couldn't be delivered to
+karen.bass47@gmail.com.
+Their inbox is full,
+or it's getting too much mail right now.
+```
+New NASA Administrator visits Cleveland, talks future with the moon, Mars and [NASA Glenn](https://archive.org/search?query=creator%3A%22NASA%2FGlenn+Research+Center%22)
+Hi Coral @blackgirlscode his name is jared [mailto:jared@shift4.com](mailto:jared@shift4.com) @nasa-jpl @la-county-isd ... I think latrice ran some sort of background check at [NasaGlenn](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/mars/) [https://www.news5cleveland.com/news/local-news/new-nasa-administrator-visits-cleveland-talks-future-with-the-moon-mars-and-nasa-glenn](https://www.news5cleveland.com/news/local-news/new-nasa-administrator-visits-cleveland-talks-future-with-the-moon-mars-and-nasa-glenn) [https://github.com/nasa/HDTN](https://github.com/nasa/HDTN) @nasa @nasa-pds @nasa-jpl 
+gmr=12.1ftsec2=3.7msec2=.37Earth gravity @City-of-Cleveland check out my mars research [Link](https://archive.org/details/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color) 
+<img   alt="image" src="https://github.com/user-attachments/assets/fbc94fdf-6205-4164-bf74-9c9f1021edd0" />
+
+
+
+![https://ia800401.us.archive.org/31/items/C-1976-3305/1976_03305.jpg](https://ia800401.us.archive.org/31/items/C-1976-3305/1976_03305.jpg) 
+
+<iframe src="https://archive.org/embed/C-1944-3995" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+![https://ia801304.us.archive.org/32/items/C-1948-22704/1948_22704.jpg](https://ia801304.us.archive.org/32/items/C-1948-22704/1948_22704.jpg)
+
 ## GRAPHiC_DESiGN_RESOURCES
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">

@@ -1,7 +1,9 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
-[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+[_https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG_](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG)
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04793/opgs/edr/ncam/NRB_823000360EDR_M1200574NCAM00579M_.JPG)
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
 

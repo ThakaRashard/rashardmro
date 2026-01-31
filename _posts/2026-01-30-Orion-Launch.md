@@ -1,11 +1,12 @@
 ---
 layout: default
-title:  "Orion/Artemis @nasa @r-spaceX"
+title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-01-24 08:19:06 -0800
+date:   2026-01-30 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 ---
+
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 - Jump to  [space-`weather`](#space-weather)
