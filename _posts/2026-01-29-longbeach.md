@@ -8,6 +8,14 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/a83f05df-3b9a-409f-a86f-b3b25d516377" />
+
+OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1) \__N_R_T:DataProduct_ @CityOflosangeles @StateOfCalifornia 
+
+[https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071-151230-IW2_20260203T135146Z_20260203T183851Z_S1C_30_v1.0_BROWSE.png](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071-151230-IW2_20260203T135146Z_20260203T183851Z_S1C_30_v1.0_BROWSE.png)
+@la-county-isd `https://archive.org/download/nsn-overview-noaccess_NASAJPL_rashardsJob` 
+@cityoflosangeles can someone share with [LongBeach](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/) `https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071*` <! filnames @blackgirlscode @whitehouse i dont know what the status of your group is 
+
 @doug-newman-nasa i found a site that talk about blooms of alge while looking at the LongBeach Community Development environmental Report [link](https://www.longbeach.gov/lbcd/planning/environmental/reports/) and someone was advertising `Drout Resistant Buffers` @la-county-isd like to mark landscape... upon looking up what that was a dealer mentions [alge @nasa-jpl](https://svs.gsfc.nasa.gov/14648/) like Oceans in bloom Discusses [https://svs.gsfc.nasa.gov/14648/](https://svs.gsfc.nasa.gov/14648/) ... [https://extension.unr.edu/publication.aspx?PubID=5008](https://extension.unr.edu/publication.aspx?PubID=5008) @UNR-HPC hi im rashard , i have a child with a girl who went to [JobCorp](https://sierranevada.jobcorps.gov/) and please know im professinoal... i dont knwo what kenya shoals said about [me @blackgirlscode `oakland`](https://community.wearebgc.org/events) [@wearebgc - wearebgc.org/](https://www.wearebgc.org/) @nasa-pds @CityOfLosangeles 
 @OWASP
 

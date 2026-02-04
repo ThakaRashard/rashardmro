@@ -7,6 +7,13 @@ published: true
 image: luckyGirl.png
 ---
 
+[https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
+@blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
+<img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
+
+[https://www.atc.co.jp/products/detail/rental/1359](https://www.atc.co.jp/products/detail/rental/1359) ttps://www.atc.co.jp/products/detail/rental/1359) @blackgirlscode see my resume @fiserv @la-county-isd @cityoflosangeles @nasa-jpl .
+ [https://www.atc.co.jp/products/detail/rental/1359](https://www.atc.co.jp/products/detail/rental/1359)
+
 [https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip](https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip) @nasa Cleveland virtiserv @blackgirlscode normanikordei 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/958777d3-155f-4f99-9040-cfa7945e7c83" />
