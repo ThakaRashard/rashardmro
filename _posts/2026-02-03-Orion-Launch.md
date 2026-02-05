@@ -16,9 +16,8 @@ image: Orion_dimensions_pillars.png
 - Jump to  [`kelp-Data`](#kelp-data)
 
 
-
-
-
+@lmco @nasa-pds [https://advancedspace.com/capstone/?doing_wp_cron=1770172188.4135649204254150390625](https://advancedspace.com/capstone/?doing_wp_cron=1770172188.4135649204254150390625) 
+[https://terranorbital.com/missions/capstone/](https://terranorbital.com/missions/capstone/)
 ---
 
 ## Artemis 2
