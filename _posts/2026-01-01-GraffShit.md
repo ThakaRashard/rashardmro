@@ -6,6 +6,11 @@ categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+
+
+
+![https://www.google.com/logos/doodles/2025/celebrating-house-music-6753651837110601.2-2xa.gif](https://www.google.com/logos/doodles/2025/celebrating-house-music-6753651837110601.2-2xa.gif)
+
 @blackgirlscode 
 Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4) 
 

@@ -16,8 +16,7 @@ image: Orion_dimensions_pillars.png
 - Jump to  [`kelp-Data`](#kelp-data)
 
 
-@lmco @nasa-pds [https://advancedspace.com/capstone/?doing_wp_cron=1770172188.4135649204254150390625](https://advancedspace.com/capstone/?doing_wp_cron=1770172188.4135649204254150390625) 
-[https://terranorbital.com/missions/capstone/](https://terranorbital.com/missions/capstone/)
+
 ---
 
 ## Artemis 2
@@ -360,7 +359,14 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
 @nasa [mailto:Kennedy @blackgirlscode _`_virtiserv_`_](mailto:ksc-dl-news-chief@mail.nasa.gov)
 
-@whitehouse @la-county=isd @LACountyDPH [MsMitchell](https://lacare.org/about/board-governors/board-members/holly-mitchell) can someone get this to kennedy ? [SpaceWeatherDashBoard](https://www.swpc.noaa.gov/) @nasa-develop @nasa-openscapes @podaac [mailto:keishaforgovernor@gmail.com](mailto:keishaforgovernor@gmail.com) @washingtonpost .. @netflix can u help me? I cant email @protonmail @googleworkspace if latto is erika today please say hi @
+@whitehouse @la-county=isd @LACountyDPH [MsMitchell](https://lacare.org/about/board-governors/board-members/holly-mitchell) can someone get this to kennedy ? [SpaceWeatherDashBoard](https://www.swpc.noaa.gov/) @nasa-develop @nasa-openscapes @podaac 
+
+[https://kscweather.ksc.nasa.gov/](https://kscweather.ksc.nasa.gov/)
+Kennedy Space Center (KSC) Weather is part of KSC’s Spaceport Integration and Services Directorate. As a part of the multi-user spaceport, KSC Weather provides information on local weather capabilities, including instrumentation, weather data, and operational weather support.
+@lmco @nasa-pds [https://advancedspace.com/capstone/?doing_wp_cron=1770172188.4135649204254150390625](https://advancedspace.com/capstone/?doing_wp_cron=1770172188.4135649204254150390625) 
+[https://terranorbital.com/missions/capstone/](https://terranorbital.com/missions/capstone/)
+[mailto:info@keishaforgovernor.com](mailto:info@keishaforgovernor.com)
+[mailto:keishaforgovernor@gmail.com](mailto:keishaforgovernor@gmail.com) @washingtonpost .. @netflix can u help me? I cant email @protonmail @googleworkspace if latto is erika today please say hi @
 howard-university-web-services latrice
 
 # `R3 (Strong) Radio Blackout Impacts` -
