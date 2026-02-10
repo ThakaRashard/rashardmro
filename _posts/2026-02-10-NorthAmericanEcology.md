@@ -21,6 +21,35 @@ date:   2025-12-30 8:51:06
 
 # Part 1 - Introduction and Demonstration of STREAM
 
+@newshour @blackgirlscode @NASA-GISS
+From [hajar oukabli](https://es.linkedin.com/in/hajar-oukabli-51a7671b0) [[1](https://www.instagram.com/hajar_oukabli/)] to Everyone 12:07
+would it be available to use STREAM products in spain reservoirs?
+[Link](https://worldview.earthdata.nasa.gov/?v=-17.455042204763462,34.75434825737002,1.8305595555240748,44.326837047762744&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-10-T19%3A28%3A10Z) = `https://worldview.earthdata.nasa.gov/?v=-17.455042204763462,34.75434825737002,1.8305595555240748,44.326837047762744&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-10-T19%3A28%3A10Z`
+
+<img   alt="image" src="https://github.com/user-attachments/assets/b9669718-f059-4c13-90a4-dda83042a15a" />
+
+om hajar oukabli to Everyone12:07
+would it be available to use STREAM products in spain reservoirs?
+from rebwar to Everyone12:08
+can this program be used for water quality of river
+from Sarah E. Pearce Canada to Everyone12:08
+THANK YOU
+from Sherrie Morris to Everyone12:08
+To ensure we see your question, please locate the three dots ... to the bottom right of your training window. You will see a Q&A option. Place all questions there and we will answer them during the Q&A session.
+from Cecilia to Everyone12:09
+How can I access the second section, since I did not receive the email?
+from Saikat Patra to Everyone12:09
+thank you
+from rashard kelly to Everyone12:10
+@ hajar oukabli #SPAiN_RESiViORS https://worldview.earthdata.nasa.gov/?v=-17.455042204763462,34.75434825737002,1.8305595555240748,44.326837047762744&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-10-T19%3A28%3A10Z
+from rashard kelly to Amita Mehta (privately)12:11
+hajar oukabli needs the spanish resiviorss https://worldview.earthdata.nasa.gov/?v=-17.455042204763462,34.75434825737002,1.8305595555240748,44.326837047762744&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-10-T19%3A28%3A10Z
+from orlando.gonzalez@un.org to Everyone12:11
+Is there a procedure for identifying Mercury content un land and rivers affected by gold mining?
+from Mishelle to Everyone12:11
+for odor indicides would that not be a calculation of off gasing so particulate matter in the air quality, it could be estimated for a new data set
+from SYLVIE ARQUES to Everyone12:11
+
 <img  alt="image" src="https://github.com/user-attachments/assets/75895467-2dad-435f-afa5-f7012a1e083d" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/bbb35268-5c65-4f02-8088-4350913204fb" />
@@ -522,6 +551,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
