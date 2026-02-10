@@ -4,7 +4,7 @@ mermaid: true
 published: true
 permalink: /nmecology
 title: NorthAmericaNEcology @CityOfLosAngeles @Nasa-jpl
-image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
+image: nmecology.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
 date:   2025-12-30 8:51:06 
@@ -284,7 +284,7 @@ land disturbances dec20[link](https://worldview.earthdata.nasa.gov/?v=-89.606456
 [AstronaughtPhotos](https://eol.jsc.nasa.gov/ExplorePhotos/?illum=day)
 <img alt="image" src="https://github.com/user-attachments/assets/58ea3f0f-3bcf-49ac-81d1-822b5ff569ae" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c486e8b1-3231-4b9a-bf8e-09ba179577ef" />
+<img  alt="image" src="https://github.com/user-attachments/assets/c486e8b1-3231-4b9a-bf8e-09ba179577ef" />
 
 [MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
  ```
@@ -410,6 +410,10 @@ fsac 1a34758 https://hdl.loc.gov/loc.pnp/fsac.1a34758
 ![Sanbernadino](https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34700/1a34758v.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d37dfb92-84cc-43b4-a733-72ec78f7135e" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e15e891a-59fa-4520-baa8-ea65f782a01e" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bad9a66b-a420-4b2c-87a0-9ea12c564350" />
 
@@ -563,6 +567,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
