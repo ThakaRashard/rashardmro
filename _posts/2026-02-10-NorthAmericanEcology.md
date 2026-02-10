@@ -17,6 +17,29 @@ date:   2025-12-30 8:51:06
 [comment]: <> (Emergency Files )
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
+@la-county-isd @nasa-jpl @nasa-develop @nasa-giss @nasa-pds @blackgirlscode @cityoflosangeles @StateofCalifornia @nasa @Whitehouse @deptofdefense @dhs-gov @atfweb @atf-web 
+
+```shell
+from Vladimir Alarcon to Everyone11:27
+Here Alfred Alvarado Anderson, was not able to connect but I am attendng together with Vladimir.
+from rashard kelly to Everyone11:27
+the filtering is awful in long beach from Bille Jean 205.154.246.88 is the external Decimal:3449484888 Hostname:lib-03-subnet-88.rdns.cenic.net ASN:2152 ISP:CENIC Services:None detected Country:United States State/Region:California City:Cypress Latitude:33.8170 (33° 49′ 1.05″ N) Longitude:-118.0373 (118° 2′ 14.25″ W)
+from rashard kelly to Everyone11:27
+host Microsoft Windows [Version 10.0.18362.1256] (c) 2019 Microsoft Corporation. All rights reserved. C:\Users\PAC>ipconfig /all Windows IP Configuration Host Name . . . . . . . . . . . . : MPEIC26 Primary Dns Suffix . . . . . . . : lbpa.local Node Type . . . . . . . . . . . . : Hybrid IP Routing Enabled. . . . . . . . : No WINS Proxy Enabled. . . . . . . . : No DNS Suffix Search List. . . . . . : lbpa.local Ethernet adapter Ethernet: Connection-specific DNS Suffix . : Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM Physical Address. . . . . . . . . : E4-54-E8-71-87-47 DHCP Enabled. . . . . . . . . . . : No Autoconfiguration Enabled . . . . : Yes IPv4 Address. . . . . . . . . . . : 192.168.161.126(Preferred) Subnet Mask . . . . . . . . . . . : 255.255.254.0 Default Gateway . . . . . . . . . : 192.168.160.1 DNS Servers . . . . . . . . . . . : 192.168.129.12 192.168.128.12 NetBIOS over Tcpi
+from Carlos Andres Rios-Franco to Everyone11:28
+I'm getting "504 Gateway Time-out"
+from Kaden Caliendo he/him to Everyone11:28
+I think all of us trying is making it time out
+from Kaden Caliendo he/him to Everyone11:28
+I have the same thing'
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/a642543b-0c55-4558-9741-3e2340d508e3" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/de42d4a4-b1da-4c37-a6ae-e35a935eeb53" />
+
+
 
 ## REmote Aquatic Chlorophyll-a Tracker (REACT)
 This tool is designed to display the probability that aquatic chlorophyll-a > (exceeds) 10 micrograms per liter (µg/L). Probabilities are computed from aquatic reflectance from 10-meter Sentinel-2 satellite imagery. 
@@ -327,6 +350,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
