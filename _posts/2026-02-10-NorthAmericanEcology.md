@@ -19,6 +19,144 @@ date:   2025-12-30 8:51:06
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
 
+@newshour @blackgirlscode @NASA-GISS
+
+from Bhupendra Sen Thakuri to Everyone11:08
+Hello ! I am Bhupendra located at Brookings , South Dakota. I am an undergrad research assistant at South Dakota State University. Email: Bhupendra.SenThakuri@jacks.sdstate.edu
+from rebwar to Everyone11:08
+hello iam from kurdistan
+from Vladimir Alarcon to Everyone11:09
+Hi All. Here Water Quality modeler at Mississippi State University.
+from Taylor Josephy to Everyone11:09
+Hello all - Taylor Josephy, a Watershed Geomatics Specialist with the Government of British Columbia, Canada
+from Francis to Everyone11:09
+Hello, Francis from Ghana
+from Elizabeth Desser to Everyone11:09
+Hi, Elizabeth Desser in Bozeman, MT USA
+from Elizabeth Desser to Everyone11:09
+.
+from Sarah E. Pearce Canada to Everyone11:10
+If anyone is interested in my nature, science and astronomy centre in NB, Canada for collaborations on fireflies, beaver watershed health etc please do contact me pearcesarahelizabeth@gmail.com MSc RS, MSc Astronomy
+from Alyssa Freedman to Everyone11:10
+Hello, my name is Alyssa Freedman, and I am a Watershed Protection Specialist at Anacostia Riverkeeper in Washington, DC.
+from Kacper to Everyone11:10
+Hello, I am Kacper Michalak, I am a GIS tech 1 and a graduate student beginning my masters in Geospatial intelligence at University of Maryland
+from mauricio to Everyone11:10
+I checked the link, but the presentation is not avaidable
+from Alfonso Navarro Carvallo to Everyone11:10
+Greetings for all from Peru and Chile CEO CSO and Educator in EliteSDGs Business Consulting
+from Christina Buffington to Everyone11:11
+Hello from University of Alaska Fairbanks, Geographic Information Network of Alaska (also teach watershed management). I used to live in Helena, Montana and am familiar with Canyon Ferry Lake. Great to see it with satellite products.
+from Saad Arkkou to Everyone11:12
+Hello everyone, I am Saad from Morocco, PhD candidate in marine sciences, specialized in hydro-sedimentary dynamics and port engineering
+from Natasha Johnson-Griffin to Everyone11:12
+@Mauricio, are you able to try another browser? I just double checked and it opened for me in chrome. You can also try this: https://earthdata.nasa.gov/s3fs-public/2026-02/ARSET-STREAM2026-part1-slides.pdf
+from Jonathan Trujillo to Everyone11:13
+Hello, i'm Jonathan Trujillo from México. UAV remote sensing operator, specialized in multispectral images analysis.
+from mauricio to Everyone11:13
+Yes, this is what appears to me: The host or presenter would like Webex Meetings to open a website on your computer. Cisco is not responsible for the content or availability of external sites. We recommend that you make sure this website content is from a trusted source. If you view this page or go to this site, you will be subject to the privacy policy and terms and conditions of the destination site. Destination site: https://earthdata.nasa.gov/s3fs-public/2026-02/ARSET-STREAM2026-part1-slides.pdf
+from Natasha Johnson-Griffin to Everyone11:15
+You will need to click ok to move forward to see the slides.
+from Rita to Everyone11:15
+Hello from Argentina
+from Sarah E. Pearce Canada to Everyone11:17
+i sure would
+from Brock Blevins to Everyone11:18
+STREAM: https://ladsweb.modaps.eosdis.nasa.gov/stream/
+from kenza to Everyone11:20
+are these tools suitable for beginner in remote sensing?!
+from Natasha Johnson-Griffin to Everyone11:25
+To ensure we see your question, please locate the three dots ... to the bottom right of your training window. You will see a Q&A option. Place all questions there and we will answer them during the Q&A session.
+from Vladimir Alarcon to Everyone11:27
+Here Alfred Alvarado Anderson, was not able to connect but I am attendng together with Vladimir.
+from rashard kelly to Everyone11:27
+the filtering is awful in long beach from Bille Jean 205.154.246.88 is the external Decimal:3449484888 Hostname:lib-03-subnet-88.rdns.cenic.net ASN:2152 ISP:CENIC Services:None detected Country:United States State/Region:California City:Cypress Latitude:33.8170 (33° 49′ 1.05″ N) Longitude:-118.0373 (118° 2′ 14.25″ W)
+from rashard kelly to Everyone11:27
+host Microsoft Windows [Version 10.0.18362.1256] (c) 2019 Microsoft Corporation. All rights reserved. C:\Users\PAC>ipconfig /all Windows IP Configuration Host Name . . . . . . . . . . . . : MPEIC26 Primary Dns Suffix . . . . . . . : lbpa.local Node Type . . . . . . . . . . . . : Hybrid IP Routing Enabled. . . . . . . . : No WINS Proxy Enabled. . . . . . . . : No DNS Suffix Search List. . . . . . : lbpa.local Ethernet adapter Ethernet: Connection-specific DNS Suffix . : Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM Physical Address. . . . . . . . . : E4-54-E8-71-87-47 DHCP Enabled. . . . . . . . . . . : No Autoconfiguration Enabled . . . . : Yes IPv4 Address. . . . . . . . . . . : 192.168.161.126(Preferred) Subnet Mask . . . . . . . . . . . : 255.255.254.0 Default Gateway . . . . . . . . . : 192.168.160.1 DNS Servers . . . . . . . . . . . : 192.168.129.12 192.168.128.12 NetBIOS over Tcpi
+from Carlos Andres Rios-Franco to Everyone11:28
+I'm getting "504 Gateway Time-out"
+from Kaden Caliendo he/him to Everyone11:28
+I think all of us trying is making it time out
+from Kaden Caliendo he/him to Everyone11:28
+I have the same thing'
+from Vladimir Alarcon to Everyone11:29
+Arewe going to have the video of this presentation?
+from Natasha Johnson-Griffin to Everyone11:29
+For thos having issues with access: We will have the recording up on the training’s webpage here: https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream within 48 hours for you to view.
+from Sarah E. Pearce Canada to Everyone11:32
+I have a location at 296 days corner road NB, there are very small waterbodies--can I use these tools there?
+from Mishelle to Everyone11:32
+Thank you William
+from Sarah E. Pearce Canada to Everyone11:32
+thank you
+from Rayane to Everyone11:32
+👏🏾
+from Saad Arkkou to Everyone11:32
+Thank you
+from Natasha Johnson-Griffin to Everyone11:32
+Hello, yes you will qualify. Please allow 2 months to receive certificate via email.
+from Badr Nachchach to Everyone11:32
+Thank you William it was clear
+from Anfel Benyoucef to Everyone11:32
+the pdf’s link please
+from Ban AL Hasani to Everyone11:32
+Many thanks
+from hajar oukabli to Everyone11:32
+Thank you
+from William Wainwright to Everyone11:33
+I'm looking into deploying more instances for STREAM to handle the traffic right now, thank you all
+from bakhouche wail to Everyone11:34
+thanks MR .william
+from Amina Abi to Everyone11:35
+complete beginner here , what do they man by tile list please
+from orlando.gonzalez@un.org to Everyone11:35
+hello, everyone I am Orlando González from United Nación Office no Drugs and Crime, Colombia
+from rashard kelly to Everyone11:39
+504 Gateway Time-out nginx The HTTP 504 Gateway Timeout server error response status code indicates that the server, while acting as a gateway or proxy, did not get a response in time from the upstream server in order to complete the request @mozilla MDN - 504 Gateway Timeout HTTP response status codes LiST @blackgirlscode @NASA-GISS @howard-university-web-services Informational responses (100 – 199) Successful responses (200 – 299) Redirection messages (300 – 399) Client error responses (400 – 499) Server error responses (500 – 599) https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.81/-13297027.93/4863070.84&grids=1,0
+from William Wainwright to Everyone11:39
+Update: STREAM should be a little more stable with the increased traffic
+from William Wainwright to Everyone11:40
+please check again if you received any errors
+from Kacper to Everyone11:41
+Hello, where can I find the tutorial to download QGIS and the plugins mentioned?
+from Natasha Johnson-Griffin to Everyone11:42
+@Kacper QGIS Download and Install tutorial: https://arset.unhosting.site/course/view.php?id=29
+from IsmayilZeynalov to Everyone11:42
+Thank you for the invitation!
+from Kacper to Everyone11:42
+Thank you
+from khiati to Everyone11:44
+thank u
+from rashard kelly to Everyone11:45
+NONDiSRUPTiVE_HELPDESK_FOR_STRANDED_STUDENTS https://archive.org/download/mars-geology-imaging-gifs_202602/VID_20260210_114125_210.mp4
+from Carlos Andres Rios-Franco to Everyone11:46
+I'm looking for STREAM products for Colombia, but I can't find them. In which areas of the world is STREAM available?
+from Jiheon Scarlett Lee to Everyone11:46
+Hello ! Everyone! My name is Jiheon Lee who is a Ph.D. candidate in Urban and environmental Engineering Dept. in South Korea. My specific research area is Climate change adaptative strategic scenario development in IWRM using watershed model and AI model in small sized basin area. My email address is urbanholic2014@gmail.com. Good to meet you all.
+from Shambel to Everyone11:47
+Is that an average value of the ROI?
+from rashard kelly to Everyone11:47
+tracert if u on windows traceroute if you are on linux/osx/*nix
+from Natasha Johnson-Griffin to Everyone11:47
+To ensure we see your question, please locate the three dots ... to the bottom right of your training window. You will see a Q&A option. Place all questions there and we will answer them during the Q&A session.
+from rashard kelly to Everyone11:47
+C:\Users\PAC>tracert ladsweb.modaps.eosdis.nasa.gov Tracing route to ladsweb.modaps.eosdis.nasa.gov [198.118.194.40] over a maximum of 30 hops: 1 <1 ms <1 ms <1 ms 192.168.160.1 2 * * * Request timed out. 3 * * * Request timed out. 4 * * * Request timed out. 5 * * * Request timed out. 6 * * * Request timed out. 7 * * * Request timed out. 8 * * * Request timed out. 9 * * * Request timed out. 10 * * * Request timed out. 11 * * * Request timed out. 12 * * * Request timed out. 13 * * * Request timed out. 14 * * * Request timed out. 15 * * * Request timed out. 16 * * * Request timed out. 17 * * * Request timed out. 18 *
+from Natasha Johnson-Griffin to Everyone11:47
+To ensure we see your question, please locate the three dots ... to the bottom right of your training window. You will see a Q&A option. Place all questions there and we will answer them during the Q&A session.
+from rashard kelly to Everyone11:47
+open the dos cmd to run tracert
+from Joan Dagnino Flores to Everyone11:47
+Hi everyone. I'm Joan Dagnino Flores,environmental engineer from Alas Peruanas University. Email: deynos80@gmail.com
+from rashard kelly to Everyone11:48
+Press the "Windows+R" button combination on your keyboard and type in cmd .... "cmd"
+from Vladimir Alarcon to Everyone11:49
+Do we have the sripts available at the webssite?
+from Vladimir Alarcon to Everyone11:50
+.
+from Munguleni Isaac to Everyone11:50
+
+<img  alt="image" src="https://github.com/user-attachments/assets/66d6ef97-ce97-405f-aebd-af0e0ae375f0" />
+
 # 504 Gateway Time-out
 _nginx_
 `The HTTP 504 Gateway Timeout server error response status code indicates that the server, while acting as a gateway or proxy, did not get a response in time from the upstream server in order to complete the request`
@@ -373,6 +511,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
