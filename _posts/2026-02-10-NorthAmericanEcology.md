@@ -19,6 +19,12 @@ date:   2025-12-30 8:51:06
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
 
+# Part 1 - Introduction and Demonstration of STREAM
+[Latrice](https://www.facebook.com/thevirtiservway/), i have homework, i can understand her @isro accent but still missed it doing helpdesk shit @la-county-isd [MsHolly](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) if you know latrice mom can you pass her that... i dont want to get run over! @cityoflosangeles @blackgirlscode 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/05a5c657-4584-416a-977a-08909765313d" />
+<img alt="image" src="https://github.com/user-attachments/assets/97de023b-49d1-470f-90da-c487d99463ba" />
+
 @newshour @blackgirlscode @NASA-GISS
 
 from Bhupendra Sen Thakuri to Everyone11:08
@@ -511,6 +517,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
