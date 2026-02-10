@@ -22,6 +22,10 @@ date:   2025-12-30 8:51:06
 # Part 1 - Introduction and Demonstration of STREAM
 <img alt="image" src="https://github.com/user-attachments/assets/d217b5d1-c188-4d43-b290-4975a2ac1d8f" />
 
+surface water egypt [link](https://worldview.earthdata.nasa.gov/?v=29.193844750967674,21.271934887103544,35.27452273951087,24.290104742875247&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,Nuclear_Power_Plant_Locations,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-10-T19%3A28%3A10Z)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e3a00dc1-385d-455a-be92-5bd46298b74f" />
+
 
 @newshour @blackgirlscode @NASA-GISS
 From [hajar oukabli](https://es.linkedin.com/in/hajar-oukabli-51a7671b0) [[1](https://www.instagram.com/hajar_oukabli/)] to Everyone 12:07
@@ -559,6 +563,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
