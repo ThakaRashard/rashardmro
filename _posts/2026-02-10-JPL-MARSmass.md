@@ -11,12 +11,12 @@ Survey of Terrain around Ice-Exposing Crater [link](https://www.uahirise.org/ESP
 <img alt="image" src="https://github.com/user-attachments/assets/27af120e-66f7-4a90-b151-d3bb964f6dcf" />
 
 
-@la-county-isd @blackgirlscode i have to tell you im working on mars so those film people dont get rude with me at that level im upset . . 
+@la-county-isd @blackgirlscode i have to tell you im working on mars so those film people dont get rude with me at that level im upset . . [http://redplanet.asu.edu/](http://redplanet.asu.edu/)
 
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_003100_003199/PSP_003156_1280_PSP_002655_1280/PSP_002655_1280_RED_C_01_ORTHO.ab.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_003100_003199/PSP_003156_1280_PSP_002655_1280/PSP_002655_1280_RED_C_01_ORTHO.ab.jpg)
 
 
-![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090600_090699/ESP_090628_2195_ESP_090417_2195/ESP_090628_2195_ESP_090417_2195_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090600_090699/ESP_090628_2195_ESP_090417_2195/ESP_090628_2195_ESP_090417_2195_RED.browse.png)
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090600_090699/ESP_090628_2195_ESP_090417_2195/ESP_090628_2195_ESP_090417_2195_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_090600_090699/ESP_090628_2195_ESP_090417_2195/ESP_090628_2195_ESP_090417_2195_RED.browse.png)
 
 ## Curiosity 
 The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies. [ReadMore](https://svs.gsfc.nasa.gov/30707/)
