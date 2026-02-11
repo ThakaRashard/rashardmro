@@ -11,7 +11,116 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><body><table bgcolor="#F5F5F5" style="padding: 0; margin: 0; border: 0; width: 100%;direction:ltr;" align="center">
+    <tbody>
+        <tr style="height: 25px">
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td align="center" style="padding: 0; margin: 0">
+                <table width="600" bgcolor="#FFFFFF" style="border: 0px; width: 600px;" align="center" class="main">
+                    <tbody>
+                        <tr style="height: 45px;">
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td align="left" valign="top" style="padding-left: 50px; padding-right: 50px;"><img style="width: auto; max-width: auto" class="image" src="https://nasaevents.webex.com/customfaize/13036457/mail/616445417/logo.png" data-logo-preview="true" width="99" height="99">
+                            </td>
+                        </tr>
+                        <tr style="height: 36px">
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="width:600px;">
+                    <tbody>
+                        <tr>
+                            <td style="padding-left:50px;padding-right:50px;">
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <td>&nbsp;Thank you for attending:</td>
+                                        </tr>
+                                    </tbody>
+                                </table><br>
+                                <table>
+                                    <tbody>
+                                        <tr>
+                                            <td><b>Part 1 - Introduction and Demonstration of STREAM</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;<br>All training materials associated with this training will be found on the training webpage here:<br><a href="https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream" target="_blank">https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table>
+                                    <tbody>
+                                        <tr style="line-height: 20px;">
+                                            <td style="height:20px">&nbsp;</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
 
+                                <table width="100%">
+                                    <tbody>
+                                        <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
+                                            <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">Tuesday, February 10, 2026
+                                            </td>
+                                        </tr>
+                                        <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
+                                            <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;"><span dir="ltr">2:00 PM&nbsp;&nbsp;|&nbsp;&nbsp;</span><span dir="ltr">(UTC-05:00) Eastern Time (US & Canada)</span><span dir="ltr">&nbsp;&nbsp;|&nbsp;&nbsp;1 hr 30 min</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <table width="600" bgcolor="#FFFFFF" style="border: 0px; width: 600px;" align="center" class="main">
+                    <tbody>
+                        <tr style="height: 20px">
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="height: 24px; color: #000000; font-family:Arial; font-size: 14px; line-height: 24px;padding-left: 50px; padding-right: 50px;">Need help? Go to <a href="https://help.webex.com" style="color:#005E7D; text-decoration:none;">https://help.webex.com</a>
+                            </td>
+                        </tr>
+                        <tr style="height: 44px">
+                            <td>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" style="padding: 0; margin: 0">
+
+                <table width="600" style="width:600px;margin:0;" class="footer" align="center">
+                    <tbody>
+                        <tr style="height: 12px">
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr style="margin:0;">
+                            <td style="font-size:9px; font-family:Arial; color:#666" align="center">
+                                <span>© 2026 Cisco and/or its affiliates. All rights reserved.</span>&nbsp;&nbsp; <span>
+                                    <a style="text-decoration:none;line-height: 24px; font-family:Arial; color: #005E7D;" href="https://www.webex.com/webex_privacy.html">Privacy Statement</a>
+                                </span>
+                                &nbsp;|&nbsp; <span><a style="text-decoration:none; line-height: 24px; font-family:Arial; color: #005E7D;" href="https://www.webex.com/webex_terms.html">Terms of Service</a>
+                                </span>
+                            </td>
+                        </tr>
+                        <!--F10940_MEETSIMPLE_EC_MAIL_PLACEHODER_DONT_CHANGE_DONT_DELETE-->
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table></body>
+ @blackgirlscode
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FCaptainOfJoy%2Fvideos%2F1726257334202583%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
