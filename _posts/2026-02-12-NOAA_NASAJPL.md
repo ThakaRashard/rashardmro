@@ -6,8 +6,35 @@ image: 1965_TIROS9_NOAA_lib.jpeg
 ---
 
 
-Ecco The Dolphin
-[wiki](https://en.m.wikipedia.org/wiki/Ecco_the_Dolphin_(video_game)) [fandom](https://eccothedolphin.fandom.com/wiki/Ecco:_The_Tides_of_Time)
+# 2024 - 2025 NOAA NGS MHW DSS 4-Band Imagery: Laguna Point to Imperial Beach, CA
+[Download](https://coastalimagery.blob.core.windows.net/digitalcoast/LagunaPointCA_MHW_RGBN_2024_13811/index.html)
+
+@la-county-isd @cityoflosangeles @stateofcalifornia @whitehouse @noaagov @weather-gov 
+
+Below are links to the files that make up the 2024 - 2025 NOAA NGS MHW DSS 4-Band Imagery: Laguna Point to Imperial Beach, CA dataset. The files containing geospatial indices, metadata, etc., are listed first, followed by the files. To download in bulk, it is suggested you use a program such as wget (example below), uget, or your favorite download manager. The geospatial index file in shapefile format has a URL attribute that some GIS programs can use to download files. You can also subset the data, make derived products, and change projection, datum, etc., using the Digital Coast Data Access Viewer (use the add to cart, the link to bulk download will take you here). @datadesk @washingtonpost 
+Example to download entire data set using wget (note: sufficiently new and trusted pre-compiled Windows versions can be hard to find):
+`wget -np -r -nH -L --cut-dirs=1 https://coastalimagery.blob.core.windows.net/digitalcoast//13811/LagunaPointCA_MHW_RGBN_2024/index.html`
+This will give you the directory structure starting with LagunaPointCA_MHW_RGBN_2024. Wget is a command-line program and the output will be to the directory you run it in. More options and information can be found at [https://www.gnu.org/software/wget/manual/wget.html](https://www.gnu.org/software/wget/manual/wget.html). 
+
+```shell
+wget -np -r -nH -L --cut-dirs=1 https://coastalimagery.blob.core.windows.net/digitalcoast//13811/LagunaPointCA_MHW_RGBN_2024/index.html
+# The other options in the example mean:
+-np = don't grab the parent directory
+-r = recursive (descend into directories)
+-nH = don't generate host-prefixed directories
+-L = follow relative links only (so you don't download wget just because it's linked here)
+```
+
+... @cityofsandiego @usgs @blackgirlscode this is an amazing [oceanography - resource](https://coast.noaa.gov/dataviewer/#/imagery/search/-13225932.079398464,3936911.9829330253,-13015959.667107211,4067340.5287295417) 
+
+Digital Coast: Data Access Viewer [Link @NOAAGov](https://coast.noaa.gov/dataviewer/#/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4f2e911e-793b-45ab-bf6b-af65e71547a6" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4fca2e08-88f0-4933-a28b-fa1e360ca29a" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/c5d2b1c7-8886-4f26-a048-62dc8dcff6d6" />
 
 <iframe src="https://archive.org/embed/ecco_bin" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -19,6 +46,11 @@ Ecco The Dolphin
 [@nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
 [@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+<iframe src="https://archive.org/embed/ecco_bin" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Ecco The Dolphin
+[wiki](https://en.m.wikipedia.org/wiki/Ecco_the_Dolphin_(video_game)) [fandom](https://eccothedolphin.fandom.com/wiki/Ecco:_The_Tides_of_Time)
 
 [@usgs waterdashboard @blackgirlscode @northropgrumman]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-88.60613%2C23.78272%2C-76.49095%2C34.19144%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-88.6061262426798%2C23.782719589582307%2C-76.49094827982046%2C34.19143784742009%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A1%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) 24hr forcast Sept13
 [WorldView @nasa](https://worldview.earthdata.nasa.gov/)
