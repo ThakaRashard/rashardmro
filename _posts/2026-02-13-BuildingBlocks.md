@@ -13,6 +13,8 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ## THEMIS Data Overview
 The THEMIS probes provide field and plasma observations of the solar wind, magnetosheath, and magnetosphere. [ReadMore](https://artemis.igpp.ucla.edu/overview_data.shtml)
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/THEMIS_logo.png/500px-THEMIS_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/THEMIS_logo.png/500px-THEMIS_logo.png) 
+By NASA/[KENNEDY SPACE CENTER](https://www.kennedyspacecenter.com/explore-attractions/behind-the-gates/ksc-explore-tour/), [FLA](https://science.nasa.gov/earth/earth-observatory/florida-landscapes-83256/). - <a rel="nofollow" class="external free" href="https://mediaarchive.ksc.nasa.gov/#/Detail/305">https://mediaarchive.ksc.nasa.gov/#/Detail/305</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=107632111">Link</a>
 ```shell
 This site can’t be reached
 data.nasa.gov took too long to respond.
@@ -23,11 +25,54 @@ Checking the proxy and the firewall
 Running Windows Network Diagnostics
 ERR_TIMED_OUT
 ```
+`internal`
+```shell
+Microsoft Windows [Version 10.0.18362.356]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC21
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-8F-EC
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.161.121(Preferred)
+```
+
+`external`
+```
+IP Details For: 205.154.246.88
+
+Decimal:3449484888
+
+Hostname:lib-03-subnet-88.rdns.cenic.net
+
+ASN:2152
+
+ISP:CENIC
+
+Services:None detected
+
+Country:United States
+
+State/Region:California
+
+City:Cypress
+
+Latitude:33.8170 (33° 49′ 1.05″ N)
+
+Longitude:-118.0373 (118° 2′ 14.25″ W)
+```
 
 <img   alt="image" src="https://github.com/user-attachments/assets/cc1cb163-40ff-4e73-a315-ec3dd996f046" />
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/THEMIS_logo.png/1280px-THEMIS_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/THEMIS_logo.png/1280px-THEMIS_logo.png) 
-By NASA/[KENNEDY SPACE CENTER](https://www.kennedyspacecenter.com/explore-attractions/behind-the-gates/ksc-explore-tour/), [FLA](https://science.nasa.gov/earth/earth-observatory/florida-landscapes-83256/). - <a rel="nofollow" class="external free" href="https://mediaarchive.ksc.nasa.gov/#/Detail/305">https://mediaarchive.ksc.nasa.gov/#/Detail/305</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=107632111">Link</a>
+
 ![THEMiS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Clouds_of_smoke_around_the_323rd_Delta_rocket_on_launch_pad_17B.jpg/960px-Clouds_of_smoke_around_the_323rd_Delta_rocket_on_launch_pad_17B.jpg) 
 By Photo credit: NASA/Jerry Cannon - <a rel="nofollow" class="external free" href="https://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=31350">http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=31350</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1689104">Link</a>
 
