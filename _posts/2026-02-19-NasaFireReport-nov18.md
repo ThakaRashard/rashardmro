@@ -34,6 +34,7 @@ July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-ja
 <img alt="image" src="https://github.com/user-attachments/assets/06093647-77d7-4e98-becb-f3038b7eda31" />
 
 <img alt="image" src="https://appliedsciences.nasa.gov/sites/default/files/inline-images/Planet_LAFires_Altadena.png" />
+
 [planetLabs](https://www.planet.com/industries/nasa/) , [@NASA ViSiBLE_EARTH Query](https://visibleearth.nasa.gov/source/1673/planet-labs)
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
