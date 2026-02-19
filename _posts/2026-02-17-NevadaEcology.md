@@ -6,8 +6,8 @@ permalink: /nevada
 title: Nevada Ecology  @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
-categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-07 8:51:06 
+categories: LA eco nevada climate weather
+date:   2026-02-17 8:51:06 
 ---
 
 
@@ -392,6 +392,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
