@@ -27,6 +27,9 @@ date:   2026-02-19 8:51:06
 
 {% endhighlight %}
 
+Electric Red Car @la-county-isd @LACMTA
+[https://youtu.be/lUclitPknhE?t=396](https://youtu.be/lUclitPknhE?t=396)
+<img   alt="image" src="https://github.com/user-attachments/assets/beda7f46-9808-4c5f-868a-0f29b407b123" />
 
 
 [Why Los Angeles Is Americas Most Confusing City - Architales @YouTube](https://youtu.be/lUclitPknhE?t=68) 
@@ -34,7 +37,7 @@ date:   2026-02-19 8:51:06
 So im listening to some sort of talk about [Fifa26](https://lacity.gov/tv) [[1](https://github.com/FC-26-Download/.github)] , likely it will be off when you   check the channel [[1](https://www.longbeach.gov/lbtv)] [[ (562) 570-1122. LBTV3@longbeach.gov](https://www.longbeach.gov/lbtv)] <~ @emit-sds i wonder if [Veronica Mcgregor](mailto:veronica.mcgregor@jpl.nasa.gov) knows about this audience in [LongBeach](https://www.lalawlibrary.org/joomla-pages-iii/categories-list/45-ceb/191-long-beach)?
 
 @CityOfLosAngeles [Rep Karen Bass](https://mayor.lacity.gov/), 
-im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68), there is a socio-political divide the entertainment industry has fueled that cuts the county out of all sorts of [choices](https://www.latimes.com/business/story/2026-02-11/thousands-of-apartments-set-to-sprout-in-old-office-buildings) that effect our climate and comfort... As I understand what is going on I will comment more, however @Nasa-Jpl / @whitehouse says [ThisISLosAngeles](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/1000/1732/PIA02679_lrg.jpg), a pinninsula on the coast of @StateOFCalifornia [_https://www.youtube.com/@`architalesYT`_](https://www.youtube.com/@architalesYT) Stories about real estate, urban planning and cities! [@luxelivingyt1@gmail.com](mailto:luxelivingyt1@gmail.com)
+im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68), there is a socio-political divide the entertainment industry has fueled that cuts the county out of all sorts of [choices](https://www.latimes.com/business/story/2026-02-11/thousands-of-apartments-set-to-sprout-in-old-office-buildings) that effect our climate and comfort... As I understand what is going on I will comment more, however @Nasa-Jpl / @whitehouse says [ThisISLosAngeles](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/1000/1732/PIA02679_lrg.jpg), a pinninsula on the coast of @StateOFCalifornia [_https://www.youtube.com/@`architalesYT`_](https://www.youtube.com/@architalesYT) Stories about real estate, urban planning and cities! [@luxelivingyt1@gmail.com](mailto:luxelivingyt1@gmail.com) //// [Los Angeles from Space @nasa-jpl / jpl.nasa.gov](https://www.jpl.nasa.gov/images/pia02679-los-angeles-from-space/) This ASTER image was acquired on July 23, 2001 and covers an area of 64 x 72 km.
 
 <img alt="image" src="https://github.com/user-attachments/assets/793b0baa-7554-47d6-bc1b-b80ae83cc778" />
 
@@ -1094,6 +1097,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
