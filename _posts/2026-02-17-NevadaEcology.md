@@ -34,7 +34,8 @@ date:   2026-02-17 8:51:06
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
-@Google im looking at [Ecostress](https://cmr.earthdata.nasa.gov/search/concepts/C2076090826-LPCLOUD.html?token=Bearer%20eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiT0F1dGgiLCJjbGllbnRfaWQiOiJPTHBBWmxFNEhxSU9NcjBUWXFnN1VRIiwiZXhwIjoxNzc0MTIyNjA0LCJpYXQiOjE3NzE1MzA2MDQsImlzcyI6Imh0dHBzOi8vdXJzLmVhcnRoZGF0YS5uYXNhLmdvdiIsInVpZCI6InJhc2hhcmRrZWxseSIsImlkZW50aXR5X3Byb3ZpZGVyIjoiZWRsX29wcyIsImFzc3VyYW5jZV9sZXZlbCI6MywiYWNyIjoiZWRsIn0.6ePpqQzHz_PlY-wmdSlFD1BBPztYmQA4RpT-B1_0rlG47RS7sqe1cPhhdstXb7r9wXTtbFBhO27oUePqbpl_SbYBgGfnu4cvM-wVBnrvUuR77W5DKSNhRvGujkKYT4rFAmrey0WqNxdCWpZ6y_-oq3NWetBx8tyDfDT2t6bWW1Rfz4iDklnvJNsiqnnTkL5nPrZuc4NiKALqroNMaOAO6bzulocu9nqF9y8JMdQqwsBZIkxZNiKIyDLbF0zF-0RQQ0l-fkvxXLDje2o50dRuZatk4EqC0uOgplj3r-0lFgNJd9W48iQjNts9ApKYslr8pFut6VG5bsAzlPr_ll9JLw)
+@Google im looking at [Ecostress](https://cmr.earthdata.nasa.gov/search/concepts/C2076090826-LPCLOUD.html?token=Bearer%20eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiT0F1dGgiLCJjbGllbnRfaWQiOiJPTHBBWmxFNEhxSU9NcjBUWXFnN1VRIiwiZXhwIjoxNzc0MTIyNjA0LCJpYXQiOjE3NzE1MzA2MDQsImlzcyI6Imh0dHBzOi8vdXJzLmVhcnRoZGF0YS5uYXNhLmdvdiIsInVpZCI6InJhc2hhcmRrZWxseSIsImlkZW50aXR5X3Byb3ZpZGVyIjoiZWRsX29wcyIsImFzc3VyYW5jZV9sZXZlbCI6MywiYWNyIjoiZWRsIn0.6ePpqQzHz_PlY-wmdSlFD1BBPztYmQA4RpT-B1_0rlG47RS7sqe1cPhhdstXb7r9wXTtbFBhO27oUePqbpl_SbYBgGfnu4cvM-wVBnrvUuR77W5DKSNhRvGujkKYT4rFAmrey0WqNxdCWpZ6y_-oq3NWetBx8tyDfDT2t6bWW1Rfz4iDklnvJNsiqnnTkL5nPrZuc4NiKALqroNMaOAO6bzulocu9nqF9y8JMdQqwsBZIkxZNiKIyDLbF0zF-0RQQ0l-fkvxXLDje2o50dRuZatk4EqC0uOgplj3r-0lFgNJd9W48iQjNts9ApKYslr8pFut6VG5bsAzlPr_ll9JLw) # Las Vegas
+@Nevada-Bioinformatics-Center hi u heard fro kenya shoals or erika johnson?
 
 data 
  <img  alt="image" src="https://github.com/user-attachments/assets/482333f0-4def-489e-821e-5c3aa3a0d26f" />
@@ -408,6 +409,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
