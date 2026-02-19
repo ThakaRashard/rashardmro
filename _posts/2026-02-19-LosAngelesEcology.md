@@ -31,6 +31,16 @@ Electric Red Car @la-county-isd @LACMTA
 [https://youtu.be/lUclitPknhE?t=396](https://youtu.be/lUclitPknhE?t=396)
 <img   alt="image" src="https://github.com/user-attachments/assets/beda7f46-9808-4c5f-868a-0f29b407b123" />
 
+Los Angeles Pacific Electric (Red Cars) network [Link](https://travegeo.com/Los_Angeles_Pacific_Electric_Railways_Red_Cars-22935?sharemap)
+@blackgirlscode @nasa-jpl
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_Pacific_Electric_tickets.jpg/960px-Three_Pacific_Electric_tickets.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_Pacific_Electric_tickets.jpg/960px-Three_Pacific_Electric_tickets.jpg)
+
+By <a href="https://en.wikipedia.org/wiki/Pacific_Electric_Railway" class="extiw" title="w:Pacific Electric Railway">w:Pacific Electric Railway</a> - Self-scanned, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=110414534">Link</a>
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PELogo.svg/500px-PELogo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PELogo.svg/500px-PELogo.svg.png)
+
+By Pacific Electric Railway Company - Pacific Electric Railway Company materials in the Los Angeles Public Library collection, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=71126076">Link</a>
 
 [Why Los Angeles Is Americas Most Confusing City - Architales @YouTube](https://youtu.be/lUclitPknhE?t=68) 
 @la-county-isd [HollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) , [Hilda Solis](https://history.house.gov/People/Detail/22566), Rep [Maxine Waters](https://waters.house.gov/) ////
@@ -1097,6 +1107,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
