@@ -11,6 +11,9 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+Contractors coming back ? @blackgirlscode normani [link](https://youtu.be/geneWmI9ZMY), im still on but as some strange employee category [Latrice](https://www.facebook.com/thevirtiservway/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c7ba6835-9110-4dbe-90db-0c643e2a38f2" />
 
 Space Operations Update (Feb. 19, 2026) @la-county-isd please share with the fire department a lot of @nasa-jpl people work there @blackgirlscode 
 -
