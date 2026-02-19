@@ -19,6 +19,7 @@ _Agency leaders are discussing the findings of investigations into the 2024 crew
 <img   alt="image" src="https://github.com/user-attachments/assets/ce40cfd0-d530-4445-87f8-40a52df4e732" />
 
 
+```html
 <table bgcolor="#F5F5F5" style="padding: 0; margin: 0; border: 0; width: 100%;direction:ltr;" align="center">
     <tbody>
         <tr style="height: 25px">
@@ -129,7 +130,9 @@ _Agency leaders are discussing the findings of investigations into the 2024 crew
             </td>
         </tr>
     </tbody>
-</table> 
+</table>
+```
+
  @blackgirlscode
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
