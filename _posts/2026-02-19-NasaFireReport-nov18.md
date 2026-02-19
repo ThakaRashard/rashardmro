@@ -12,6 +12,8 @@ image: Overview_HD.png
 _LOS ANGELES FIRE DEPARTMENT
 Administrative Roster – APRIL 2015_ [DOWNLOAD](https://www.cert-la.com/downloads/coordinators/AdminRoster.pdf) [extra](https://lahabraca.gov/DocumentCenter/View/13781/LACFD-Letter-dated-6-28-23) @CityOfLosAngeles @StateOfCalifornia 
 
+[`MAP` - https://storms.ngs.noaa.gov/storms/2025_eri/index.html#20.81/34.0451921/-118.5207025](https://storms.ngs.noaa.gov/storms/2025_eri/index.html#20.81/34.0451921/-118.5207025)
+
 `https://storms.ngs.noaa.gov/storms/2025_eri/index.html#20.17/34.0450931/-118.522259`
 <img alt="image" src="https://github.com/user-attachments/assets/9f3fa24c-a5b7-4daa-942d-acd240ecbbaa" />
 
