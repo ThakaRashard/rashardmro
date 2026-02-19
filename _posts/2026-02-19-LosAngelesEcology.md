@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-07 8:51:06 
+date:   2026-02-19 8:51:06 
 ---
 
 
@@ -26,6 +26,21 @@ date:   2026-02-07 8:51:06
 4 # UNiVERSE#####################virtiservastro____######
 
 {% endhighlight %}
+
+
+
+[Why Los Angeles Is Americas Most Confusing City - Architales @YouTube](https://youtu.be/lUclitPknhE?t=68) 
+@la-county-isd [HollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) , [Hilda Solis](https://history.house.gov/People/Detail/22566), Rep [Maxine Waters](https://waters.house.gov/) ////
+So im listening to some sort of talk about [Fifa26](https://lacity.gov/tv) [[1](https://github.com/FC-26-Download/.github)] , likely it will be off when you   check the channel [[1](https://www.longbeach.gov/lbtv)] [[ (562) 570-1122. LBTV3@longbeach.gov](https://www.longbeach.gov/lbtv)] <~ @emit-sds i wonder if [Veronica Mcgregor](mailto:veronica.mcgregor@jpl.nasa.gov) knows about this audience in [LongBeach](https://www.lalawlibrary.org/joomla-pages-iii/categories-list/45-ceb/191-long-beach)?
+
+@CityOfLosAngeles [Rep Karen Bass](https://mayor.lacity.gov/), 
+im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68), there is a socio-political divide the entertainment industry has fueled that cuts the county out of all sorts of [choices](https://www.latimes.com/business/story/2026-02-11/thousands-of-apartments-set-to-sprout-in-old-office-buildings) that effect our climate and comfort... As I understand what is going on I will comment more, however @Nasa-Jpl / @whitehouse says [ThisISLosAngeles](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/1000/1732/PIA02679_lrg.jpg), a pinninsula on the coast of @StateOFCalifornia [_https://www.youtube.com/@`architalesYT`_](https://www.youtube.com/@architalesYT) Stories about real estate, urban planning and cities! [@luxelivingyt1@gmail.com](mailto:luxelivingyt1@gmail.com)
+
+<img alt="image" src="https://github.com/user-attachments/assets/793b0baa-7554-47d6-bc1b-b80ae83cc778" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3dc5eed2-3421-4765-84f7-a942ea5ae3c8" />
+
+![https://waters.house.gov/sites/evo-subsites/waters.house.gov/files/waterslogo-01.png](https://waters.house.gov/sites/evo-subsites/waters.house.gov/files/waterslogo-01.png)
 
 [Towards global long-term water transparency products from the Landsat archive](https://www.sciencedirect.com/science/article/pii/S0034425723004406?via%3Dihub) : @cityoflosangeles [Mayor](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) @ucla thats a link :: news _Casey Wasserman Loses L.A Mayor’s Support For LA28 Job Over Epstein Files Revelations: “He Should Step Down”_  [Link](https://deadline.com/2026/02/casey-wasserman-resign-olympics-mayor-karen-bass-esptein-1236726528/) _`Mayoral Transition Advisory Team`_ ? [Link - https://jobs.lamayor.org/mayoral-transition-advisory-team](https://jobs.lamayor.org/mayoral-transition-advisory-team) @la-county-isd 
 <img   alt="image" src="https://github.com/user-attachments/assets/daa5d1f6-4586-4f78-9d54-d1ecfb616221" />
@@ -1079,6 +1094,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
