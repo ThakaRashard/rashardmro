@@ -33,6 +33,22 @@ date:   2026-02-17 8:51:06
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+@Google im looking at [Ecostress](https://cmr.earthdata.nasa.gov/search/concepts/C2076090826-LPCLOUD.html?token=Bearer%20eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiT0F1dGgiLCJjbGllbnRfaWQiOiJPTHBBWmxFNEhxSU9NcjBUWXFnN1VRIiwiZXhwIjoxNzc0MTIyNjA0LCJpYXQiOjE3NzE1MzA2MDQsImlzcyI6Imh0dHBzOi8vdXJzLmVhcnRoZGF0YS5uYXNhLmdvdiIsInVpZCI6InJhc2hhcmRrZWxseSIsImlkZW50aXR5X3Byb3ZpZGVyIjoiZWRsX29wcyIsImFzc3VyYW5jZV9sZXZlbCI6MywiYWNyIjoiZWRsIn0.6ePpqQzHz_PlY-wmdSlFD1BBPztYmQA4RpT-B1_0rlG47RS7sqe1cPhhdstXb7r9wXTtbFBhO27oUePqbpl_SbYBgGfnu4cvM-wVBnrvUuR77W5DKSNhRvGujkKYT4rFAmrey0WqNxdCWpZ6y_-oq3NWetBx8tyDfDT2t6bWW1Rfz4iDklnvJNsiqnnTkL5nPrZuc4NiKALqroNMaOAO6bzulocu9nqF9y8JMdQqwsBZIkxZNiKIyDLbF0zF-0RQQ0l-fkvxXLDje2o50dRuZatk4EqC0uOgplj3r-0lFgNJd9W48iQjNts9ApKYslr8pFut6VG5bsAzlPr_ll9JLw)
+
+data 
+ <img  alt="image" src="https://github.com/user-attachments/assets/482333f0-4def-489e-821e-5c3aa3a0d26f" />
+[@esa ](https://www.esa.int/)
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/f388335e-0e8a-46a4-b83e-18d5b67574d9" />
+
+@asfadmin S1A_IW_GRDH_1SDV_20251218T134353_20251218T134418_062370_07CFD1_A2D2
+ <img width="1024" height="659" alt="image" src="https://github.com/user-attachments/assets/a0b26e3c-dbdf-4cd0-a19c-4f88b6a0cc30" />
+
+ 
+
+
+
 # @Google US-RNO / @Tesla [GigaFactory](https://www.tesla.com/giga-nevada)
 [ocolo.io/colocation/google/storey-county/](https://www.ocolo.io/colocation/google/storey-county/)
 hi @blackgirlscode im doing some more land cartography for the department of the intereor for googles new datacenter. They are trying to get something secured, i dont know i  heard it on the radio @nasa-jpl its the governement so the news is a great place to choose a topic to contribute data to . . . @cbs-news-data @la-county-isd @cityoflosangeles @nasa-pds @emit-sds . . . @doug-newman-nasa i think i have to make a report at this point... its in the werks ... imma try to eat @eu-cdse someone from @Google might reach out - [rashard](https://rashardsdata.github.io/2025/11/20/FireReportCleanUp.html)
@@ -392,6 +408,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
