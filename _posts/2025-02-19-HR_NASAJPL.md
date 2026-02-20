@@ -11,7 +11,19 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><body><table bgcolor="#F5F5F5" style="padding: 0; margin: 0; border: 0; width: 100%;direction:ltr;" align="center">
+Contractors coming back ? @blackgirlscode normani [link](https://youtu.be/geneWmI9ZMY), im still on but as some strange employee category [Latrice](https://www.facebook.com/thevirtiservway/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c7ba6835-9110-4dbe-90db-0c643e2a38f2" />
+
+Space Operations Update (Feb. 19, 2026) @la-county-isd please share with the fire department a lot of @nasa-jpl people work there @blackgirlscode 
+-
+_Agency leaders are discussing the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station._ 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ce40cfd0-d530-4445-87f8-40a52df4e732" />
+
+
+```html
+<table bgcolor="#F5F5F5" style="padding: 0; margin: 0; border: 0; width: 100%;direction:ltr;" align="center">
     <tbody>
         <tr style="height: 25px">
             <td>&nbsp;</td>
@@ -43,7 +55,7 @@ author: "RashardKelly @nasa-jpl"
                                         </tr>
                                     </tbody>
                                 </table><br>
-                                <table>
+ <table>
                                     <tbody>
                                         <tr>
                                             <td><b>Part 1 - Introduction and Demonstration of STREAM</b></td>
@@ -61,25 +73,27 @@ author: "RashardKelly @nasa-jpl"
                                     </tbody>
                                 </table>
 
-                                <table width="100%">
-                                    <tbody>
-                                        <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
-                                            <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">Tuesday, February 10, 2026
+<table width="100%">
+	
+    
+  <tbody>
+                    <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
+                   <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">Tuesday, February 10, 2026
                                             </td>
                                         </tr>
-                                        <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
-                                            <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;"><span dir="ltr">2:00 PM&nbsp;&nbsp;|&nbsp;&nbsp;</span><span dir="ltr">(UTC-05:00) Eastern Time (US & Canada)</span><span dir="ltr">&nbsp;&nbsp;|&nbsp;&nbsp;1 hr 30 min</span>
+                   <tr style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;">
+                  <td style="margin:0px;color: #666666;font-family: Arial;font-size: 14px;line-height: 22px;"><span dir="ltr">2:00 PM&nbsp;&nbsp;|&nbsp;&nbsp;</span><span dir="ltr">(UTC-05:00) Eastern Time (US & Canada)</span><span dir="ltr">&nbsp;&nbsp;|&nbsp;&nbsp;1 hr 30 min</span>
                                             </td>
                                         </tr>
                                     </tbody>
-                                </table>
+                              </table>
 
-                            </td>
+        </td>
                         </tr>
                     </tbody>
-                </table>
+    </table>
 
-                <table width="600" bgcolor="#FFFFFF" style="border: 0px; width: 600px;" align="center" class="main">
+<table width="600" bgcolor="#FFFFFF" style="border: 0px; width: 600px;" align="center" class="main">
                     <tbody>
                         <tr style="height: 20px">
                             <td>&nbsp;</td>
@@ -119,7 +133,9 @@ author: "RashardKelly @nasa-jpl"
             </td>
         </tr>
     </tbody>
-</table></body>
+</table>
+```
+
  @blackgirlscode
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 

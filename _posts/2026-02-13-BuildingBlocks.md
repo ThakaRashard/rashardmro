@@ -7,6 +7,77 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+[Vassilis Angelopoulos](mailto:vassilis@ucla.edu) /
+[davin@ssl.berkeley.edu](mailto:davin@ssl.berkeley.edu) , [ian.mann@ualberta.ca](mailto:ian.mann@ualberta.ca)
+[nasa.gov/nssdc/](https://www.nasa.gov/nssdc/) @nasa _`The NASA Space Science Data Coordinated Archive website is temporarily offline for maintenance.`_ [outage](https://www.earthdata.nasa.gov/data/alerts-outages) its the homepage for [Themis igpp @ucla edu](https://themis.igpp.ucla.edu/) :: [Measurements](https://themis.igpp.ucla.edu/summary.php?year=2026&month=02&day=13&hour=0024&sumType=tha&type=overview) // NSSDC is part of the Solar System Exploration Data Services Office (SSEDSO) in the Solar System Exploration Division at NASA's Goddard Space Flight Center ... [catalog.data.gov/dataset/national-space-science-data-center-master-catalog](https://catalog.data.gov/dataset/national-space-science-data-center-master-catalog) :: @NASA-GISS [https://data.nasa.gov/dataset/national-space-science-data-center-master-catalog](https://data.nasa.gov/dataset/national-space-science-data-center-master-catalog) @whitehouse @blackgirlscode kim if the educators want to they can try this [Near/Deep Space Monitoring Tool ScanNOW](https://scan-now.gsfc.nasa.gov/scan) @la-county-isd if you look up every satelittle that beams in theres tons of [f.o.i.a. @usdoj](https://www.foia.gov/) [[1](https://github.com/usdoj/foia.gov)] data to harvest guilt free for teaching! [Horizons](https://ssd.jpl.nasa.gov/horizons/tutorial.html) is the system im using when im on @LACMTA [METRO](https://www.metro.net/)  // <img width="180" height="98" alt="image" src="https://github.com/user-attachments/assets/31469b25-b195-4cef-b1d0-55da418f93cc" />
+
+
+## THEMIS Data Overview
+The THEMIS probes provide field and plasma observations of the solar wind, magnetosheath, and magnetosphere. [ReadMore](https://artemis.igpp.ucla.edu/overview_data.shtml) + [SwalesAerospace](https://en.wikipedia.org/wiki/Swales_Aerospace)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/THEMIS_logo.png/500px-THEMIS_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/THEMIS_logo.png/500px-THEMIS_logo.png) 
+By NASA/[KENNEDY SPACE CENTER](https://www.kennedyspacecenter.com/explore-attractions/behind-the-gates/ksc-explore-tour/), [FLA](https://science.nasa.gov/earth/earth-observatory/florida-landscapes-83256/). - <a rel="nofollow" class="external free" href="https://mediaarchive.ksc.nasa.gov/#/Detail/305">https://mediaarchive.ksc.nasa.gov/#/Detail/305</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=107632111">Link</a>
+
+```shell
+This site can’t be reached
+data.nasa.gov took too long to respond.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_TIMED_OUT
+```
+`internal`
+```shell
+Microsoft Windows [Version 10.0.18362.356]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC21
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-8F-EC
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.161.121(Preferred)
+```
+
+`external`
+```
+IP Details For: 205.154.246.88
+
+Decimal:3449484888
+
+Hostname:lib-03-subnet-88.rdns.cenic.net
+
+ASN:2152
+
+ISP:CENIC
+
+Services:None detected
+
+Country:United States
+
+State/Region:California
+
+City:Cypress
+
+Latitude:33.8170 (33° 49′ 1.05″ N)
+
+Longitude:-118.0373 (118° 2′ 14.25″ W)
+```
+
+<img   alt="image" src="https://github.com/user-attachments/assets/cc1cb163-40ff-4e73-a315-ec3dd996f046" />
+
+
+![THEMiS](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Clouds_of_smoke_around_the_323rd_Delta_rocket_on_launch_pad_17B.jpg/960px-Clouds_of_smoke_around_the_323rd_Delta_rocket_on_launch_pad_17B.jpg) 
+By Photo credit: NASA/Jerry Cannon - <a rel="nofollow" class="external free" href="https://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=31350">http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=31350</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1689104">Link</a>
 
 
  @jaxa `gpm.nasa.gov` is loading slow from longbeach public library @nasa-jpl took too long to respond.

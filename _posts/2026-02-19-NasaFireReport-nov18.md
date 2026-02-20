@@ -2,11 +2,31 @@
 layout: post
 mermaid: true
 published: true
-title: "@Nasa FireReport"
+title: "@Nasa-JPL @la-county-isD FireReport"
 image: Overview_HD.png
 ---
 
 ### Imagery for the January [2025](http://web.archive.org/web/20250921194718/https://avirisng.jpl.nasa.gov/planned_campaigns.html) Southern California Wildfires @la-county-isd @cityoflosangeles @nasa-jpl @caltech @nasa-pds 
+
+@la-county-isd [Paul.Wingate@lacity.org](mailto:Paul.Wingate@lacity.org)
+_LOS ANGELES FIRE DEPARTMENT
+Administrative Roster – APRIL 2015_ [DOWNLOAD](https://www.cert-la.com/downloads/coordinators/AdminRoster.pdf) [extra](https://lahabraca.gov/DocumentCenter/View/13781/LACFD-Letter-dated-6-28-23) @CityOfLosAngeles @StateOfCalifornia 
+
+[`MAP` - https://storms.ngs.noaa.gov/storms/2025_eri/index.html#20.17/34.0450931/-118.522259](https://storms.ngs.noaa.gov/storms/2025_eri/index.html#20.17/34.0450931/-118.522259)
+
+`https://storms.ngs.noaa.gov/storms/2025_eri/index.html#20.17/34.0450931/-118.522259`
+<img alt="image" src="https://github.com/user-attachments/assets/9f3fa24c-a5b7-4daa-942d-acd240ecbbaa" />
+
+### _Palisades Fire_
+
+✅ 100% Contained
+23,448 Acres
+1 County: Los Angeles
+[Link - https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire](https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire)
+
+<img alt="image" src="https://github.com/user-attachments/assets/daf2dd32-b0a4-4e4b-9df5-38b614fd27ee" />
+
+
 
 2025 NOAA NGS Emergency Response Imagery: California Fires [Link](https://www.fisheries.noaa.gov/inport/item/74399)
 July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-january-2025-southern-california-wildfires?fbclid=IwY2xjawMUmeBleHRuA2FlbQIxMABicmlkETBTNG5VdjVRVTM5OFYxTDllAR57RhnPcQOExdmpiZQUGIKm2xo71nnMQLrTeLyuhl4CexrFXZXSZ4eJIHp-0g_aem_suduglAdayCjYckgQwYLzg)
@@ -14,6 +34,7 @@ July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-ja
 <img alt="image" src="https://github.com/user-attachments/assets/06093647-77d7-4e98-becb-f3038b7eda31" />
 
 <img alt="image" src="https://appliedsciences.nasa.gov/sites/default/files/inline-images/Planet_LAFires_Altadena.png" />
+
 [planetLabs](https://www.planet.com/industries/nasa/) , [@NASA ViSiBLE_EARTH Query](https://visibleearth.nasa.gov/source/1673/planet-labs)
 # About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
 @nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 

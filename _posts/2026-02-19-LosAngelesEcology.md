@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-07 8:51:06 
+date:   2026-02-19 8:51:06 
 ---
 
 
@@ -27,6 +27,41 @@ date:   2026-02-07 8:51:06
 
 {% endhighlight %}
 
+@nasa-jpl @blackgirlscode [Space Operations Update (Feb. 19, 2026)](https://youtu.be/geneWmI9ZMY)
+_Agency leaders are discussing the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station._ [Link](https://www.nasa.gov/)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bee0a1e1-c7c5-4149-859d-74cdcbfa9f5e" />
+
+
+Electric Red Car @la-county-isd @LACMTA
+[https://youtu.be/lUclitPknhE?t=396](https://youtu.be/lUclitPknhE?t=396)
+<img   alt="image" src="https://github.com/user-attachments/assets/beda7f46-9808-4c5f-868a-0f29b407b123" />
+
+Los Angeles Pacific Electric (Red Cars) network [Link](https://travegeo.com/Los_Angeles_Pacific_Electric_Railways_Red_Cars-22935?sharemap)
+@blackgirlscode @nasa-jpl [wiki](https://en.wikipedia.org/wiki/Pacific_Electric)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_Pacific_Electric_tickets.jpg/960px-Three_Pacific_Electric_tickets.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_Pacific_Electric_tickets.jpg/960px-Three_Pacific_Electric_tickets.jpg)
+
+By <a href="https://en.wikipedia.org/wiki/Pacific_Electric_Railway" class="extiw" title="w:Pacific Electric Railway">w:Pacific Electric Railway</a> - Self-scanned, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=110414534">Link</a>
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PELogo.svg/500px-PELogo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PELogo.svg/500px-PELogo.svg.png)
+
+By Pacific Electric Railway Company - Pacific Electric Railway Company materials in the Los Angeles Public Library collection, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=71126076">Link</a>
+
+[Why Los Angeles Is Americas Most Confusing City - Architales @YouTube](https://youtu.be/lUclitPknhE?t=68) 
+@la-county-isd [HollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) , [Hilda Solis](https://history.house.gov/People/Detail/22566), Rep [Maxine Waters](https://waters.house.gov/) ////
+So im listening to some sort of talk about [Fifa26](https://lacity.gov/tv) [[1](https://github.com/FC-26-Download/.github)] , likely it will be off when you   check the channel [[1](https://www.longbeach.gov/lbtv)] [[ (562) 570-1122. LBTV3@longbeach.gov](https://www.longbeach.gov/lbtv)] <~ @emit-sds i wonder if [Veronica Mcgregor](mailto:veronica.mcgregor@jpl.nasa.gov) knows about this audience in [LongBeach](https://www.lalawlibrary.org/joomla-pages-iii/categories-list/45-ceb/191-long-beach)?
+
+@CityOfLosAngeles [Rep Karen Bass](https://mayor.lacity.gov/), 
+im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68), there is a socio-political divide the entertainment industry has fueled that cuts the county out of all sorts of [choices](https://www.latimes.com/business/story/2026-02-11/thousands-of-apartments-set-to-sprout-in-old-office-buildings) that effect our climate and comfort... As I understand what is going on I will comment more, however @Nasa-Jpl / @whitehouse says [ThisISLosAngeles](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/1000/1732/PIA02679_lrg.jpg), a pinninsula on the coast of @StateOFCalifornia [_https://www.youtube.com/@`architalesYT`_](https://www.youtube.com/@architalesYT) Stories about real estate, urban planning and cities! [@luxelivingyt1@gmail.com](mailto:luxelivingyt1@gmail.com) //// [Los Angeles from Space @nasa-jpl / jpl.nasa.gov](https://www.jpl.nasa.gov/images/pia02679-los-angeles-from-space/) This ASTER image was acquired on July 23, 2001 and covers an area of 64 x 72 km.
+
+<img alt="image" src="https://github.com/user-attachments/assets/793b0baa-7554-47d6-bc1b-b80ae83cc778" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3dc5eed2-3421-4765-84f7-a942ea5ae3c8" />
+
+![https://waters.house.gov/sites/evo-subsites/waters.house.gov/files/waterslogo-01.png](https://waters.house.gov/sites/evo-subsites/waters.house.gov/files/waterslogo-01.png)
+
+[Towards global long-term water transparency products from the Landsat archive](https://www.sciencedirect.com/science/article/pii/S0034425723004406?via%3Dihub) : @cityoflosangeles [Mayor](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) @ucla thats a link :: news _Casey Wasserman Loses L.A Mayor’s Support For LA28 Job Over Epstein Files Revelations: “He Should Step Down”_  [Link](https://deadline.com/2026/02/casey-wasserman-resign-olympics-mayor-karen-bass-esptein-1236726528/) _`Mayoral Transition Advisory Team`_ ? [Link - https://jobs.lamayor.org/mayoral-transition-advisory-team](https://jobs.lamayor.org/mayoral-transition-advisory-team) @la-county-isd 
+<img   alt="image" src="https://github.com/user-attachments/assets/daa5d1f6-4586-4f78-9d54-d1ecfb616221" />
 
 @blackgirlscode [Bob Marley - Rastaman Vibration (Full Album) 432hz](https://youtu.be/B0gesoinua0?list=RDB0gesoinua0&t=47)
 hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
@@ -46,7 +81,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 [Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
 
 ### Is private security endangering those in California homeless shelters? 
-[Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://ricothaka.github.io/civic01)
+[Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
@@ -1077,6 +1112,13 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
+
 
 
 
