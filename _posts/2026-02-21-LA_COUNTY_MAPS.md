@@ -90,6 +90,7 @@ im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68)
 hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
 
 ![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
 
 
@@ -109,3 +110,4 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
