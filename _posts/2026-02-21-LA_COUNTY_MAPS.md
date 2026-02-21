@@ -10,7 +10,7 @@ categories: LA eco ecostress space dsn nsn climate weather
 date:   2026-02-21 14:24:06 
 ---
 
-<img  alt="image" src="https://github.com/user-attachments/assets/0075eb65-e92e-403c-aafd-d0d9f46a42ae" />
+
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
@@ -42,14 +42,16 @@ surface water in cyan
 
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/e9c57c64-47d0-4cd9-bdb0-56ca1a471b18" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0075eb65-e92e-403c-aafd-d0d9f46a42ae" />
 
 
 
 
 
 
-
-<img " alt="image" src="https://github.com/user-attachments/assets/5f5d00d3-a553-4081-8889-61fc77b6255c" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5f5d00d3-a553-4081-8889-61fc77b6255c" />
 
 
 @nasa-jpl @blackgirlscode [Space Operations Update (Feb. 19, 2026)](https://youtu.be/geneWmI9ZMY)
@@ -112,5 +114,6 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
