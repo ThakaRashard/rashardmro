@@ -41,6 +41,7 @@ surface water in cyan
 
 
 
+[@la-county-isd](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.57/-13060332.62/4023032.42&layers=aqv_rgb_20260218_landsat:1.00:default) this is a pic from the 18th @Cityoflosangeles @nasa-jpl @nasa @whitehouse @nbcla @newshour
 
 <img alt="image" src="https://github.com/user-attachments/assets/e9c57c64-47d0-4cd9-bdb0-56ca1a471b18" />
 
@@ -114,6 +115,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
