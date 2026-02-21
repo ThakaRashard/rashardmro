@@ -29,6 +29,27 @@ date:   2026-02-21 14:24:06
 
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
+@la-county-isd
+Here are a few maps of [Alhambra](https://www.alhambrachamber.org/All-About-Alhambra) for item 22 of the past [Regular Agenda - PDF pg25](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/52e87f40-eca4-476e-b063-d47827266d57/Agenda%20021026_links.pdf#page=25), the document reads that `the proposed lease is exempt from the
+California Environmental Quality Act.` so I just wanted to contribute a few maps just incase things change because this plae is falling apart... @cityoflosangeles 
+
+surface water in cyan
+<img  alt="image" src="https://github.com/user-attachments/assets/1dda0b8c-973d-4458-b796-fcd0a4741546" />
+
+
+
+
+
+
+
+
+
+
+
+<img " alt="image" src="https://github.com/user-attachments/assets/5f5d00d3-a553-4081-8889-61fc77b6255c" />
+
+
 @nasa-jpl @blackgirlscode [Space Operations Update (Feb. 19, 2026)](https://youtu.be/geneWmI9ZMY)
 _Agency leaders are discussing the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station._ [Link](https://www.nasa.gov/)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bee0a1e1-c7c5-4149-859d-74cdcbfa9f5e" />
@@ -84,6 +105,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ### Is private security endangering those in California homeless shelters? 
 [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
+
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
