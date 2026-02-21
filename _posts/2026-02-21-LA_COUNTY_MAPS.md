@@ -36,6 +36,25 @@ date:   2026-02-21 14:24:06
 Here are a few maps of [Alhambra](https://www.alhambrachamber.org/All-About-Alhambra) for item 22 of the past [Regular Agenda - PDF pg25](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/52e87f40-eca4-476e-b063-d47827266d57/Agenda%20021026_links.pdf#page=25), the document reads that `the proposed lease is exempt from the
 California Environmental Quality Act.` so I just wanted to contribute a few maps just incase things change because this plae is falling apart... @cityoflosangeles 
 
+@gavinNewsom @StateofCalifornia @La-CountyDPH @la-county-isd [Holly Mitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) / [Lindsey Horavath](mailto:info@lindseyhorvath.com) Please look at this map, its a shot of Los Angeles from [LAndSat](https://space.jpl.nasa.gov/msl/Programs/landsat.html) a couple days ago with a water analysis [CLickHere - @nasa-jpl](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.87/-13161916.10/4041714.31&layers=aqv_chla_20260218_landsat:1.00:0.00:30.00:default,aqv_rgb_20260218_landsat:1.00:default) `https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.87/-13161916.10/4041714.31&layers=aqv_chla_20260218_landsat:1.00:0.00:30.00:default,aqv_rgb_20260218_landsat:1.00:default` [OtherNews](https://oercs.berkeley.edu/privacy/privacy-resources/personal-cybersecurity-and-privacy-preventing-doxxing) ++++ [2025 WildfireAnimations .zip](https://archive.org/download/FiresEatonCanyon_RASHARD_SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant/VirtiservEarth_LaWildfires2025_RecoveryBiWeekly_Latrice_RashardNasaJPL_animations.zip) [@la-county0isd @blackgirlscode SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant/RashardKellys_DentalHealth_virtiserv_teeth_and_scabs.zip.zip](https://archive.org/download/FiresEatonCanyon_RASHARD_SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant/RashardKellys_DentalHealth_virtiserv_teeth_and_scabs.zip.zip) //// big gif @newshour its rdar data that shows the temperature of elements and you can see fires sparking all over texas and oklahoma @caltech [Checkitout -G19_sector_sp_FireTemperature_120fr_20260220-1736_VirtiservLAtrice_FireDataBae_from_Rashard_NASAJPL.gif](https://ia801409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/G19_sector_sp_FireTemperature_120fr_20260220-1736_VirtiservLAtrice_FireDataBae_from_Rashard_NASAJPL.gif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7ec180d8-ea45-44d8-94eb-fd7f6560eb0d" />
+
+<video controls >
+  
+  <source src="https://dn710107.ca.archive.org/0/items/FiresEatonCanyon_RASHARD_SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant/LA_COUNTY_FiRE_JPLWATER_virtiservLATRiCE_PassToFireChief_RASHARDNASAJPL_KARENBASSnasa-worldview-2025JAN04-to-2025JAN18-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+  Download the
+
+  <a href="https://dn710107.ca.archive.org/0/items/FiresEatonCanyon_RASHARD_SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant/LA_COUNTY_FiRE_JPLWATER_virtiservLATRiCE_PassToFireChief_RASHARDNASAJPL_KARENBASSnasa-worldview-2025JAN04-to-2025JAN18-ezgif.com-gif-to-mp4-converter.mp4">MP4</a>
+  
+  video.
+  
+</video>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9d539629-7ffe-424f-8248-b2e5c582dcda" />
+
 surface water in cyan
 <img  alt="image" src="https://github.com/user-attachments/assets/1dda0b8c-973d-4458-b796-fcd0a4741546" />
 
@@ -79,6 +98,10 @@ By Pacific Electric Railway Company - Pacific Electric Railway Company materials
 @la-county-isd [HollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) , [Hilda Solis](https://history.house.gov/People/Detail/22566), Rep [Maxine Waters](https://waters.house.gov/) ////
 So im listening to some sort of talk about [Fifa26](https://lacity.gov/tv) [[1](https://github.com/FC-26-Download/.github)] , likely it will be off when you   check the channel [[1](https://www.longbeach.gov/lbtv)] [[ (562) 570-1122. LBTV3@longbeach.gov](https://www.longbeach.gov/lbtv)] <~ @emit-sds i wonder if [Veronica Mcgregor](mailto:veronica.mcgregor@jpl.nasa.gov) knows about this audience in [LongBeach](https://www.lalawlibrary.org/joomla-pages-iii/categories-list/45-ceb/191-long-beach)?
 
+
+
+<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/29170d68-dcbe-4ffc-8e77-9e36e7c50e04" />
+
 @CityOfLosAngeles [Rep Karen Bass](https://mayor.lacity.gov/), 
 im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68), there is a socio-political divide the entertainment industry has fueled that cuts the county out of all sorts of [choices](https://www.latimes.com/business/story/2026-02-11/thousands-of-apartments-set-to-sprout-in-old-office-buildings) that effect our climate and comfort... As I understand what is going on I will comment more, however @Nasa-Jpl / @whitehouse says [ThisISLosAngeles](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/1000/1732/PIA02679_lrg.jpg), a pinninsula on the coast of @StateOFCalifornia [_https://www.youtube.com/@`architalesYT`_](https://www.youtube.com/@architalesYT) Stories about real estate, urban planning and cities! [@luxelivingyt1@gmail.com](mailto:luxelivingyt1@gmail.com) //// [Los Angeles from Space @nasa-jpl / jpl.nasa.gov](https://www.jpl.nasa.gov/images/pia02679-los-angeles-from-space/) This ASTER image was acquired on July 23, 2001 and covers an area of 64 x 72 km.
 
@@ -115,6 +138,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
