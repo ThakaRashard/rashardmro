@@ -53,8 +53,6 @@ California Environmental Quality Act.` so I just wanted to contribute a few maps
   
 </video>
 
-<img  alt="image" src="https://github.com/user-attachments/assets/9d539629-7ffe-424f-8248-b2e5c582dcda" />
-
 surface water in cyan
 <img  alt="image" src="https://github.com/user-attachments/assets/1dda0b8c-973d-4458-b796-fcd0a4741546" />
 
@@ -138,6 +136,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
