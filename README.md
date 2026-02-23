@@ -12,6 +12,16 @@ the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes fo
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a6387f1f-4b65-483d-8f1a-0bf37deeaeb7" />
 
+
+_This branch is 4 commits ahead of and 106 commits behind ThakaRashard/rashardmro:master._
+[https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster](https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster)
+
+
+@whitehouse @la-county-isd 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/919b98ad-f7d5-413b-b5d8-34401c58801a" />
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/a109404a-9f32-48a0-a088-7f58df639bb2" />
 
 ![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/148000/148350/erie_tmo_2021132_lrg.jpg) 
