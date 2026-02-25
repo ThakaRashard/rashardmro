@@ -5,6 +5,32 @@ published: true
 image: Aitken_supercomputer_big.jpg
 ---
 
+
+@GitHUb inside the editor the paste function dows not seem to work on [avif](https://aomedia.org/specifications/avif/) files yet @blackgirlscode @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/74b47447-b1ab-486e-9b09-2cb61ae618bd" />
+
+https://en.wikipedia.org/wiki/AVIF @nasa-jpl @nasa @la-county-isd image formats @cityoflosangeles @stateofcalifornia https://aomedia.org/specifications/avif/ [SPECiFiCAtiON - PDF](https://aomedia.org/docs/AV1%20Image%20File%20Format%20(AVIF)%20v1.2.0.pdf) --  [SAMPLEFiLES](https://github.com/ThakaRashard/rashardmro/commit/9737efc68b93ddea6a8c4497fee80fb3d019417b) for comparison @NBCNEWS @USATODAY
+- [RAshard](https://rashardiman.github.io/)
+```
+AVIF (AV1 Image File Format) is an image format designed to offer superior
+image compression and quality compared to traditional formats.
+ It delivers smaller file sizes without significant loss in quality,
+making it ideal for web applications, image storage, and streaming.
+AVIF supports both lossless and lossy compression,
+as well as high dynamic range (HDR), wide color gamut (WCG),
+transparency, and animation, offering flexibility and versatility.
+As an open standard, AVIF is gaining widespread adoption across major
+platforms and web browsers, providing
+an efficient solution for high-quality image compression.
+```
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Avif-logo-rgb.svg/330px-Avif-logo-rgb.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Avif-logo-rgb.svg/330px-Avif-logo-rgb.svg.png)
+
+
+<img  alt="eos-m-black-bck_8635530bd467443eac230db000230314-ezgif com-avif-to-png-converter" src="https://github.com/user-attachments/assets/c2616516-ca2b-4565-b373-cce07559a507" />
+
+<img   alt="eos-m-black-frt-w-ef-m-22mm-stm_be8eb5c0ab7f43aebf5f18de42d57228-ezgif com-avif-to-png-converter" src="https://github.com/user-attachments/assets/a58b0476-9ef7-4148-a81c-ed2f9fc7d110" />
+
+
 InStalling [ImageMagick](https://github.com/ImageMagick/ImageMagick) [[1](https://imagemagick.org/#gsc.tab=0)]
 [Link](https://imagemagick.org/script/download.php#gsc.tab=0) @nasa-jpl @emit-sds @nasa-pds 
 For other systems, create (or choose) a directory to install the package into and change to that directory, for example:
