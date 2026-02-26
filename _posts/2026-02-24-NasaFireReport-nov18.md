@@ -6,6 +6,14 @@ title: "@Nasa-JPL @la-county-isD FireReport"
 image: Overview_HD.png
 ---
 
+
+
+
+@la-county-isd fire report : Thermal Anomolies 
+[https://worldview.earthdata.nasa.gov/?v=-166.20725846428957,-25.176674928960352,30.586845412762585,72.50289850584731&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_Thermal_Anomalies_All,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance(hidden),VIIRS_NOAA21_DayNightBand,OCI_PACE_Chlorophyll_a,OCI_PACE_Photosynthetically_Available_Radiation,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-23-T01%3A57%3A46Z](https://worldview.earthdata.nasa.gov/?v=-166.20725846428957,-25.176674928960352,30.586845412762585,72.50289850584731&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_Thermal_Anomalies_All,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance(hidden),VIIRS_NOAA21_DayNightBand,OCI_PACE_Chlorophyll_a,OCI_PACE_Photosynthetically_Available_Radiation,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-23-T01%3A57%3A46Z) 
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img   alt="image" src="https://github.com/user-attachments/assets/7939d644-d51c-415b-9fd4-47f086ba1921" />
+
 ### Imagery for the January [2025](http://web.archive.org/web/20250921194718/https://avirisng.jpl.nasa.gov/planned_campaigns.html) Southern California Wildfires @la-county-isd @cityoflosangeles @nasa-jpl @caltech @nasa-pds 
 
 @la-county-isd [Paul.Wingate@lacity.org](mailto:Paul.Wingate@lacity.org)

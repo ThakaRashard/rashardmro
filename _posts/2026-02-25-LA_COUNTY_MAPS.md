@@ -29,11 +29,37 @@ date:   2026-02-21 14:24:06
 
 {% endhighlight %}
 
+@nasa-jpl @maxar @Maxar-Public @doug-newman-nasa 
+you guys should reach out to [HollyMitchell](https://women.ca.gov/about-us/holly-mitchell/) or [ Traci Park](https://tracipark.com/) , [MayorBass](https://www.newsnationnow.com/us-news/crowley-accuses-bass-of-retaliation-in-lawsuit/) she tought to get a hold on but needs help because a lot of news sources say shes slow to act and blame the fires on her. I use all the technology that say she behind on and she/they ordered me 15 years ogo! Thats what the fire chief said in [mars garage](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f5c7dc42-5312-489b-8b73-6c0ed95a3027" />
+
+@maxar nice work i see the effort, it looks amazing... 
+[Link](https://worldview.earthdata.nasa.gov/?v=-122.985878163534,27.23071897228979,-115.17782413240492,40.19353459989575&as=2025-01-08-T00%3A00%3A00Z&ae=2025-01-18-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),NOAA_2025_ERI_WMTS,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&al=true&ab=on&t=2025-01-11-T00%3A00%3A00Z)
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d3bf9d62-636a-4758-b062-ad6eecbda6b7" />
+
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 @Nasa-OPENscapes [LANCE: What is the difference between Corrected Reflectance vs. Surface Reflectance Imagery?](https://forum.earthdata.nasa.gov/viewtopic.php?t=5203&sid=884c5c67e660509cdd646e389e2a42a8#p18075)
 
+@CityOfLosangeles @la-county-isd here is an iframe im loading environmental data im extract @nasa-jpl @nasa @dhs-gov There is also a [Screenshare](https://dn710107.ca.archive.org/0/items/FiresEatonCanyon_RASHARD_SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant/Screen%20recording%202026-02-25%2012.08.16%20PM.webm) of me using [NasaWorldview]() to extract historic data. I need my @NoaaGov firetemp maps from that event as well . . . I think _Fire Danger and Fire Weather Records_ is where i can get that old data . . . ill send an email after this commit - [Rashard](https://github.com/kellyrashardiman/kellyrashardiman.github.io/blob/master/README.md) 
+
+- [_Fire Danger and Fire Weather Records_](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C01205)
+
+<iframe src="https://archive.org/embed/FiresEatonCanyon_RASHARD_SupervisoprKathy_Latrice_saidSheIsmyVirtualAssistant" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://www.ncei.noaa.gov/pub/data/metadata/images/C01205.jpg](https://www.ncei.noaa.gov/pub/data/metadata/images/C01205.jpg) 
+
+@asfadmin
 
 <img   alt="image" src="https://github.com/user-attachments/assets/28a232e9-c4f4-48e3-84bc-997da1768577" />
+
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw) 
 
 ### Level 1B Calibrated Radiances - 250m
 [Link](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD02QKM) : [500m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD02HKM) : [1km](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD021KM)
@@ -182,8 +208,6 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 
-
-
 ### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
 
 
@@ -197,23 +221,6 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
