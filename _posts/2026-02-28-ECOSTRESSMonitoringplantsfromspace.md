@@ -8,7 +8,9 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
-
+[The International Space Station](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683)  is pictured from the SpaceX Dragon crew spacecraft during a fly around of the orbiting lab that took place following its undocking from the Harmony module’s space-facing port on Nov. 8, 2021.
+ESA / NASA / T. Pesquet
+![https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683) 
 ```html
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
 ```
