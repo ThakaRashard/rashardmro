@@ -8,9 +8,16 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
-[The International Space Station](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683)  is pictured from the SpaceX Dragon crew spacecraft during a fly around of the orbiting lab that took place following its undocking from the Harmony module’s space-facing port on Nov. 8, 2021.
+[The International Space Station](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683)  is pictured from the SpaceX Dragon crew spacecraft during a fly around of the orbiting lab that took place following its undocking from the Harmony module’s space-facing port on Nov. 8, 2021. @isro @blackgirlscode
 ESA / NASA / T. Pesquet
-![https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683) 
+![https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683 @blackgirlscode](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683) 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
 ```html
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
 ```
@@ -490,6 +497,9 @@ Released Monday, January 30, 2023
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5r0JjR2C5v4?si=2gynEkMsFylObl_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![DOSBOX-STAGiNG](https://www.dosbox-staging.org/assets/images/dosbox-staging-no-border.svg)
+
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ISS_Expedition_74_Patch.png/1280px-ISS_Expedition_74_Patch.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ISS_Expedition_74_Patch.png/1280px-ISS_Expedition_74_Patch.png)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
