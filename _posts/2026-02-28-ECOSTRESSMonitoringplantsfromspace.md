@@ -8,7 +8,7 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
-[ISS: Expedition 76 - spacefacts.de/iss/english/exp_76.htm](https://www.spacefacts.de/iss/english/exp_76.htm) @BlackGirlsCode @La-County-ISD @NASA-JPL this is my formal ission patch for this round @CityOfLosAngeles 
+[ISS: Expedition 76 - spacefacts.de/iss/english/exp_76.htm](https://www.spacefacts.de/iss/english/exp_76.htm) @BlackGirlsCode @La-County-ISD @NASA-JPL this is my formal mission patch for this round @CityOfLosAngeles 
 
 @la-county-isd Supervisor Solis this is the machine i work on in outerspace [EcoStress](https://ecostress.jpl.nasa.gov/) 
 
