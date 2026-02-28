@@ -5,6 +5,9 @@ published: true
 title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
+@TheSpaceDevs @BlueOrigin 
+what would rodman of berkeley glass house lexus ass say about me today? please tell @blackgirlscode @nasa-jpl @la-county-isd
+
 somafm [SpaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4) // [WeFUNK](https://session.wefunkradio.com/radio/play)
 
