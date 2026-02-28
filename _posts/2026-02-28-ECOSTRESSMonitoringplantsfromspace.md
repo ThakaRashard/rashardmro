@@ -497,4 +497,4 @@ Released Monday, January 30, 2023
 
 
 
-
+![https://www.spacefacts.de/iss/patches2/iss_logo.jpg](https://www.spacefacts.de/iss/patches2/iss_logo.jpg)
