@@ -8,15 +8,21 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
-[ISS: Expedition 76 - spacefacts.de/iss/english/exp_76.htm](https://www.spacefacts.de/iss/english/exp_76.htm) @BlackGirlsCode @La-County-ISD @NASA-JPL this is my formal mission patch for this round @CityOfLosAngeles 
-
-@la-county-isd Supervisor Solis this is the machine i work on in outerspace [EcoStress](https://ecostress.jpl.nasa.gov/) 
 
 ```html
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
 ```
 
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+
+[ISS: Expedition 76 - spacefacts.de/iss/english/exp_76.htm](https://www.spacefacts.de/iss/english/exp_76.htm) @BlackGirlsCode @La-County-ISD @NASA-JPL this is my ~~formal~~ mission patch for this round @CityOfLosAngeles , well i really cant say that because wikipedia dont have the 76 badges, im looking at them dutchfolk @nasa-pds that shit old . . . [wiki](https://en.wikipedia.org/wiki/List_of_International_Space_Station_expeditions) @esa [Topic: Expedition-76 Thread  (`Read 295 times`) forum.nasaspaceflight.com/index.php?topic=64472.0](https://forum.nasaspaceflight.com/index.php?topic=64472.0)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e2eb4296-c03b-47eb-9dab-1d103024dfbb" />
+
+
+
+@la-county-isd Supervisor Solis this is the machine i work on in outerspace [EcoStress](https://ecostress.jpl.nasa.gov/) 
+
 
 @nasa-jpl i went to the aquarium , i am starting to get the data delivery part understood @la-county-isd @cityoflosangeles 
 The National Park Service application program interface (NPS API) provides authoritative NPS data that you can use in your apps, maps, and websites. To access that data, you need an API key.
