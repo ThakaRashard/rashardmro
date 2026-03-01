@@ -20,11 +20,14 @@ date:   2026-02-28 8:51:06
 2 # TO#####MsHOLLY,KieSHa,Teresa,theMayor&Latrice#######
 3 # ANOTHER####Funeral?#######@nasa-jpl#################
 4 # UNiVERSE#####################virtiserv____##########
-
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
 {% endhighlight %}
 
 
 maps between chicago and south carolina @blackgirlscode email the maps directly to agencies and family members that will accept it from you **OPTiONAL** _CommunityService_ @nasa @whitehouse @nasa-jpl @emit-sds @nasa-pds 
+
+[DAMS + Resivoirs](https://worldview.earthdata.nasa.gov/?v=-92.35852949885354,22.563701028441784,-76.99494798589454,48.07009144764133&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z) 
+<img  alt="image" src="https://github.com/user-attachments/assets/a00a7091-4b1d-4dee-97a0-303b6b0c8dea" />
 
 
 [EAST_USA_AT_NiGhT feb28 - MAP Link](https://worldview.earthdata.nasa.gov/?v=-90.80794580911972,23.090045950645013,-75.44436429616071,48.59643636984456&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z)
@@ -1100,6 +1103,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
