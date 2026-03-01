@@ -1,7 +1,22 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/6412d727-70cd-45fa-b190-cdcda292b0fc" />
+
+@foratlanta @cityoflosangeles @nasa-jpl @TheSpaceDevs
+@blackgirlscode @la-county-isd @NASA-OPENSCAPES /// @LACMTA [CAROL WiGGENS](https://boardagendas.metro.net/person/stephanie-wiggins-0d0b6b5d9d46/)
+i see, its [Stephanie](https://www.linkedin.com/in/stephanie-wiggins) @nasa-giss @chicago
+. . . 
+<img alt="image" src="https://github.com/user-attachments/assets/b68792a4-eaf6-4a23-b44e-7d8cbc8308dd" />
+
+<img alt="RashardKEllY" src="https://github.com/user-attachments/assets/8f0d6d7e-3ee0-4144-b2ff-bd61652d8572" />
+
 the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
 [https://archive.org/details/fav-thakaserika_selassie_kelly](https://archive.org/details/fav-thakaserika_selassie_kelly) // [https://archive.org/details/@thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly)
+
+
+![https://epic.gsfc.nasa.gov/archive/natural/2026/02/25/jpg/epic_1b_20260225181813.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/02/25/jpg/epic_1b_20260225181813.jpg) 
 
 @whitehouse I got locked out of my Google account and post playboy destitution I have no way to get back in my @nasa accounts rn @la-county-isd karenBass holly Mitchell 
 

@@ -5,8 +5,36 @@ published: true
 title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
-somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
-[current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
+@TheSpaceDevs @BlueOrigin 
+what would rodman of berkeley glass house lexus ass say about me today? please tell @blackgirlscode @nasa-jpl @la-county-isd
+
+somafm [SpaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
+[current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4) // [WeFUNK](https://session.wefunkradio.com/radio/play)
+
+[The International Space Station](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683)  is pictured from the SpaceX Dragon crew spacecraft during a fly around of the orbiting lab that took place following its undocking from the Harmony module’s space-facing port on Nov. 8, 2021. @isro @blackgirlscode
+@ESA / @NASA / T. Pesquet [List of ESA space expeditions](https://en.wikipedia.org/wiki/List_of_ESA_space_expeditions)
+![https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683 @blackgirlscode](https://www.nasa.gov/wp-content/uploads/2023/10/51891661735-cbeca97c4d-o.jpg?resize=1024,683) 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+```html
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+```
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+
+[ISS: Expedition 76 - spacefacts.de/iss/english/exp_76.htm](https://www.spacefacts.de/iss/english/exp_76.htm) @BlackGirlsCode @La-County-ISD @NASA-JPL this is my ~~formal~~ mission patch for this round @CityOfLosAngeles , well i really cant say that because wikipedia dont have the 76 badges, im looking at them dutchfolk @nasa-pds that shit old . . . [wiki](https://en.wikipedia.org/wiki/List_of_International_Space_Station_expeditions) @esa [Topic: Expedition-76 Thread  (`Read 295 times`) forum.nasaspaceflight.com/index.php?topic=64472.0](https://forum.nasaspaceflight.com/index.php?topic=64472.0)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e2eb4296-c03b-47eb-9dab-1d103024dfbb" />
+
+
+
+@la-county-isd Supervisor Solis this is the machine i work on in outerspace [EcoStress](https://ecostress.jpl.nasa.gov/) 
+
 
 @nasa-jpl i went to the aquarium , i am starting to get the data delivery part understood @la-county-isd @cityoflosangeles 
 The National Park Service application program interface (NPS API) provides authoritative NPS data that you can use in your apps, maps, and websites. To access that data, you need an API key.
@@ -281,7 +309,7 @@ ECOSTRESS-Data-Resources :
 Public forked from [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
 tool[VERTeX ASf](https://search.asf.alaska.edu/#/?zoom=3.000&center=-97.494,39.673) <~ SAR DATA Current&Modern
 
-
+![https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Shuttle-Mir_Approach_%2829053887780%29.jpg/1920px-Shuttle-Mir_Approach_%2829053887780%29.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Shuttle-Mir_Approach_%2829053887780%29.jpg/1920px-Shuttle-Mir_Approach_%2829053887780%29.jpg)
 
 # @USGS ECOSTRESS DATASTORE
 works better with [Lynx](https://lynx.invisible-island.net/)
@@ -473,6 +501,9 @@ Released Monday, January 30, 2023
 
 ![DOSBOX-STAGiNG](https://www.dosbox-staging.org/assets/images/dosbox-staging-no-border.svg)
 
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ISS_Expedition_74_Patch.png/1280px-ISS_Expedition_74_Patch.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ISS_Expedition_74_Patch.png/1280px-ISS_Expedition_74_Patch.png)
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
@@ -481,4 +512,4 @@ Released Monday, January 30, 2023
 
 
 
-
+![https://www.spacefacts.de/iss/patches2/iss_logo.jpg](https://www.spacefacts.de/iss/patches2/iss_logo.jpg)
