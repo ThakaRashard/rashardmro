@@ -26,6 +26,12 @@ date:   2026-02-28 8:51:06
 
 maps between chicago and south carolina @blackgirlscode email the maps directly to agencies and family members that will accept it from you **OPTiONAL** _CommunityService_ @nasa @whitehouse @nasa-jpl @emit-sds @nasa-pds 
 
+
+[EAST_USA_AT_NiGhT feb28 - MAP Link](https://worldview.earthdata.nasa.gov/?v=-90.80794580911972,23.090045950645013,-75.44436429616071,48.59643636984456&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/53518f4a-f79e-4efd-81b0-e20820b0adb7" />
+
+
 [Map -link](https://browser.dataspace.copernicus.eu/?zoom=7&lat=36.10238&lng=-83.46313&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FGWoN%2B7yjnQ4xhxKXVmpTed1Ex6dvBJjyGTFhZmL1FGtM%2F6%2B2Tk%2FU1L72HQ5zm1lK9P5meqqKVv79G83No3NfbxHD%2BplVQGO7PTn6f2QX%2FQPwMYW4laa1C&datasetId=S2_L2A_CDAS&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE) @blackgirlscode if there is a way you can monitor someone with family ties can can advertize to use [Copernicus](https://github.com/eu-cdse/copernicus-browser) anonnymously if they have trouble logging in @eu-cdse
 <img   alt="image" src="https://github.com/user-attachments/assets/97ff076c-bfef-4be2-bf16-346e16898a39" />
 
@@ -1094,6 +1100,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
