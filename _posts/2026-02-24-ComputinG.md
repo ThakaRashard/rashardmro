@@ -5,7 +5,20 @@ published: true
 image: Aitken_supercomputer_big.jpg
 ---
 
+@LIBRETRO I GET JITTERS ON S CURVES ON RACING GAMES AND SONIC
 
+
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+<img  alt="image" src="https://github.com/user-attachments/assets/ebe875de-5106-4501-ae31-05d18bacd0b3" />
+<img   alt="image" src="https://github.com/user-attachments/assets/6c818499-e67d-4f74-9cc5-f21478e71e61" />
+<img alt="image" src="https://github.com/user-attachments/assets/2cf53696-8292-42bf-8345-063c2011ced8" />
+<img alt="image" src="https://github.com/user-attachments/assets/5c99a25c-1975-49ad-a50c-a4223efc86a4" />
+
+
+<img src="https://64.media.tumblr.com/e7adddfdc664bf1027277d12cbe60c12/dd1a386247830661-9d/s1280x1920/2275c750cad81c21739ad1c996e06b5829c18a88.png" alt="image"/> 
+<img src="https://64.media.tumblr.com/2f22d30271395685fa1be493201c9e11/dd1a386247830661-8e/s1280x1920/34d55096c84f06e14eba244141c21b092fe4eddd.png" alt="image"/>
+
+<img src="https://64.media.tumblr.com/e7adddfdc664bf1027277d12cbe60c12/dd1a386247830661-9d/s1280x1920/2275c750cad81c21739ad1c996e06b5829c18a88.png" alt="image"/>  @BLACKGIRLSCODE @NASA-JPL 
 @GitHUb inside the editor the paste function dows not seem to work on [avif](https://aomedia.org/specifications/avif/) files yet @blackgirlscode @nasa-jpl 
 <img  alt="image" src="https://github.com/user-attachments/assets/74b47447-b1ab-486e-9b09-2cb61ae618bd" />
 
