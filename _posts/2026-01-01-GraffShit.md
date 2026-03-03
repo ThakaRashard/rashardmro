@@ -1,11 +1,17 @@
 ---
 layout: post
 title:  "GraffShit"
-date:   2026-01-01 22:51:06 -0800
+date:   2026-02-11 22:51:06 -0800
 categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+2026-01-01-GraffShit.md
+
+@blackgirlscode [ジェット セット ラジオ - segaretro.org/Jet_Set_Radio](https://segaretro.org/Jet_Set_Radio) + @foratlanta [file](https://archive.org/details/sega-dreamcast-roms) @ign + @nasa-jpl , @ign check this repo and [its pages home](https://jplopensourcerover.com/#!/home) just play with it @newshour @ktla @la-county-isd 
+<img alt="Screenshot_20260303-095357" src="https://github.com/user-attachments/assets/b74e7a1c-9458-4a8f-a3b1-c18bc8359b07" />
+<img alt="Screenshot_20260303-095708" src="https://github.com/user-attachments/assets/770a39a8-4434-4b67-ba36-282f35f313b4" />
+<img alt="Screenshot_20260303-095423" src="https://github.com/user-attachments/assets/304cf5ec-c3d3-4b88-89f0-0d1c1ecff3fe" />
 
 
 
@@ -134,7 +140,9 @@ Muna this shit dope, he even stars in the shit... This kind of content ensures i
   or
   <a href="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
   video.
+  
 </video>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/92b7936d-527e-4e58-a40a-abb538d484ca" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/9b25503d-1a2a-44bf-b6bf-2ea661532a87" />
