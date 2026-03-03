@@ -7,6 +7,23 @@ image: Overview_HD.png
 ---
 
 
+@Tesla
+During the riots and beyond, EV vandalism 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ev' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+<img  alt="image @washingtonpost @newshour @cbs-news-data i cant remember where i got this image @nasa-pds @nasa @whitehouse @tesla" src="https://github.com/user-attachments/assets/d42acbb7-ec5e-45ac-a00b-4e573f55064d" />
 
 
 @la-county-isd fire report : Thermal Anomolies 
