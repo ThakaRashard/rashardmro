@@ -1,4 +1,4 @@
----
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/589d3606-8339-4ad7-ac38-f931d46dd9f0" />---
 layout: post
 mermaid: true
 published: true
@@ -22,6 +22,28 @@ date:   2026-02-28 8:51:06
 4 # UNiVERSE#####################virtiserv____##########
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
 {% endhighlight %}
+
+
+
+
+@StateOfCalifornia
+Good mornming Governor newsom! I saw your edict about half staff, just know lapd is good there as of last night idk about cityhall @la-county-isd @CityOfLosAngeles
+i embedded mentions because whoever is monitoring github should know that if im doxxed and i say @la-county-isd [Janice Hahn](https://history.house.gov/People/Detail/15617) she should have something like a gitlab or something account to recive messages - rashard @nasa-jpl same thing for [Mayor Bass](https://www.congress.gov/member/karen-bass/B001270) 
+```
+SACRAMENTO – Governor Gavin Newsom today ordered flags at the State Capitol and all state buildings to be flown at half-staff in honor of civil rights leader Reverend Jesse Jackson as the nation prepares to lay him to rest.
+```
+[**_READ_**](https://www.gov.ca.gov/2026/03/04/governor-newsom-orders-flags-at-half-staff-as-reverend-jesse-jackson-laid-to-rest/) 
+<img src="https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png"/> 
+
+D1allas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-heat-in-dallas-and-fort-worth/)
+<img alt="amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03.png" src="https://github.com/user-attachments/assets/e6c14538-9c5a-47fe-a173-75744e392847" />
+<img  alt="image" src="https://github.com/user-attachments/assets/a145077c-52d0-42dd-bfbe-130c9c43694f" />
+
+
+[MAP-LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.80/-10756816.08/3885986.98&layers=aqv_secchi_20260301_sentinel:1.00:0.00:30.00:default) @blueOrigin @asfadmin @doug-newman-nasa @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/14c4cf14-e0bf-4e05-9af9-037386e58f4d" />
+
+
 
 
 @blackgirlscode tell the family I'm sorry, I was distracted running around keeping up with my @nasa-jpl @la-county-isd world as Rev Jackson would have wanted any way, we are watching over Dallas to the best of our abilities today with environmental reports Ms Fitzpatrick @foratlanta 
@@ -1105,6 +1127,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
