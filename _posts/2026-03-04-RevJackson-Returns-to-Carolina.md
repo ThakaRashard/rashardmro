@@ -24,6 +24,15 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 {% endhighlight %}
 
 
+@Nasa-Openscapes @doug-newman-nasa @la-county-isd
+Doug, Mayor Bass,
+Theres so many anomolies in the continents water supply I hope im safe sending to you and copying Keisha Bottoms for now... She is the detective monitoring my case, and I also read that she manages federal employeess in atlanta, im im from @nasa-jpl that would still make me her jurisdiction while i was running back here after erika forced me to leave my job @nasa @whitehosue @blackgirlscode 
+
+@asfadmin 
+Jesse Jackson was an environmentalist that predated Obama, his funeral service is in Texas now, so while we gottem in one spot im contributing, if anyone has downtime @dallassoftwaredevelopers 
+@DallasFormulaRacing 
+ <img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/53b96114-97b4-4cdc-8e02-2a7a43ce11e2" />
+<img alt="image" src="https://github.com/user-attachments/assets/76c74324-712b-4203-a348-e016b19a142e" />
 
 
 @StateOfCalifornia
@@ -1130,6 +1139,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
