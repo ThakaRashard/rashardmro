@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-01-01 22:51:06 -0800
+date:   2026-03-03 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
+image: C8RenderHeader_03.webp
+permalink: /smartphonelab
 ---
 
 @nintendo 
@@ -120,3 +122,39 @@ plays flawless, so clear i see flaws i never saw and greatness i never imagined!
 <img  alt="Screenshot_20260227-200328" src="https://github.com/user-attachments/assets/04a39c49-0906-46a3-96fc-ec166e5baea3" />
 
 
+# FairPhone
+[identifying myself for HildaSolis](https://x.com/BubbleGumPop626/status/1743427992653881448) [@spacex application @nasa-jpl](https://x.com/BubbleGumPop626/status/1743428678095352226)
+[iDentifying myself on Twitter / x for @cityoflosangeles @whitehouse @nasa RepMaxineWaters](https://x.com/rashardiman/status/1905673319346848128) [![Twitter Follow](https://img.shields.io/badge/Social-@BlackGirlsCode__-blue?style=social&logo=X)](https://twitter.com/@BlackGirlsCode)
+
+
+
+[Architecture overview](https://source.android.com/docs/core/architecture#architecture)
+The Android Open Source Project (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP for their device. AOSP provides a complete and fully functional implementation of the Android mobile platform.
+![Architecture](https://source.android.com/static/images/android-stack.svg)
+![FairPhone5](https://shop.fairphone.com/web/image/3078206-b825b196/GreenxMobi_1080x1080px)
+[![Modularity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png/1170px-Fairphone_3_Modularity_Vertical_View_%2848859061582%29.png)
+[![FairPhone](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fairphone_3_Modularity_%2848858510338%29.png/1280px-Fairphone_3_Modularity_%2848858510338%29.png)
+
+### [The Fairphone 2 is reborn… as a circular microcomputer](https://www.fairphone.com/en/2024/11/28/the-fairphone-2-is-reborn-as-a-circular-microcomputer/)
+
+
+### Fairphone 3 Modularity
+
+
+[![FairPhone](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)](https://www.fairphone.com/wp-content/uploads/2024/11/Fairphone-2-Circular-Microcomputer-1680x565.jpg.webp)
+
+# Stratus C8 Smartphone
+
+[HandBook](https://static1.squarespace.com/static/603d5307619ec655aab8c728/t/674d64f1a8a356170255f675/1733125398344/C8-Cloud+Mobile+Stratus+C8+Smartphone+User+Manual+-+English.pdf) :: [Manufacturere @nasa-jpl @whitehouse @la-county-isd [cloudmobileusa.com/products/p/stratus-c8-smartphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone)
+<img  alt="image" src="https://github.com/user-attachments/assets/0c6a094e-d4ae-47f4-9cb7-c17ec44896ce" />
+
+<div class="tupperware">
+
+<img alt="image" src="https://github.com/user-attachments/assets/ecd82b5a-54fa-463f-ac77-b01bac88a52b" />
+<img alt="image" src="https://github.com/user-attachments/assets/9f112632-7fdd-4331-a18e-f9034828eba6" />
+
+</div>
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/914f1bed-6fa6-4971-a01b-f55562383d53" />

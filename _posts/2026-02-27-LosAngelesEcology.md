@@ -28,6 +28,47 @@ date:   2026-02-19 8:51:06
 {% endhighlight %}
 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+[download](https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png) @la-county-isd 
+
+
+```
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+
+ 
+  <source src="https://github.com/user-attachments/assets/2271c72f-8292-4af0-994e-3cab4f8f7d5a" type="image/png" />
+
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="surface temperature differences at 70-m spatial resolution @la-countyDPH @blackgirlscode @weather-gov" alt="image" src="https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png" />
+
+
+</picture>
+```
+<img   alt="image" src="https://github.com/user-attachments/assets/9ac3f259-bce6-42a5-8987-df3a20cad959" />
+
+@LA-County-isD @CityOfLosangeles @Chicago [ECOSTRESS](https://ecostress.jpl.nasa.gov/) is able to resolve surface temperature differences at 70-m spatial resolution along the beach to ocean gradient, with oceans exhibiting surface temperatures of 22 degrees C or cooler, surf zone regions at 25-30 degrees, and beaches at > 30 degrees. This image was acquired on August 1, 2020, 2:15 PM Pacific Time. Image
+
+@Tesla
+During the riots and beyond, EV vandalism 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ev' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+<img  alt="image @washingtonpost @newshour @cbs-news-data i cant remember where i got this image @nasa-pds @nasa @whitehouse @tesla" src="https://github.com/user-attachments/assets/d42acbb7-ec5e-45ac-a00b-4e573f55064d" />
 Behind the data: observing California’s toxic algae from space [Link](https://www.eumetsat.int/features/behind-data-observing-californias-toxic-algae-space)
 ![https://www-cdn.eumetsat.int/files/2026-02/Sentinel-3-OLCI-image-of-CA-algal-bloom-op.png](https://www-cdn.eumetsat.int/files/2026-02/Sentinel-3-OLCI-image-of-CA-algal-bloom-op.png)
 On 6 April 2025, the Ocean and Land Colour Instrument on board Copernicus-Sentinel 3 captured this image of an algal bloom dominated by Pseudo-nitzschia off the coast of California, USA
@@ -1119,6 +1160,12 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
 
 
 
