@@ -6,7 +6,29 @@ title: "@Nasa-JPL @la-county-isD FireReport"
 image: Overview_HD.png
 ---
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
 
+@Tesla
+During the riots and beyond, EV vandalism 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ev' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+<img  alt="image @washingtonpost @newshour @cbs-news-data i cant remember where i got this image @nasa-pds @nasa @whitehouse @tesla" src="https://github.com/user-attachments/assets/d42acbb7-ec5e-45ac-a00b-4e573f55064d" />
 
 
 @la-county-isd fire report : Thermal Anomolies 

@@ -2,120 +2,107 @@
 layout: post
 mermaid: true
 published: true
-permalink: /laecology
-title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
-image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
+permalink: /jessejacksonsmotorcade
+title:  RevJacksonMotorCade @emit-sds @Whitehouse
+image: jessejacksonalive.PNG
 author: "RashardKelly @nasa-jpl"
-categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-19 8:51:06 
+categories: civilrights law family hr africanAmerican climate weather
+date:   2026-02-28 8:51:06 
 ---
-
-
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
 [comment]: <> (Emergency Files )
 
-##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
 {% highlight python %}
 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########02/07/2026##########
-2 # TO#####MsHOLLY,Hilda,Teresa,CB2,Janice&theMayor#######
-3 # ANOTHER####Coral?#######@nasa-jpl#####################
-4 # UNiVERSE#####################virtiservastro____######
-
+1 # HOLE_TO_ANOTHER_UNiVERSE############################
+2 # TO#####MsHOLLY,KieSHa,Teresa,theMayor&Latrice#######
+3 # ANOTHER####Funeral?#######@nasa-jpl#################
+4 # UNiVERSE#####################virtiserv____##########
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
 {% endhighlight %}
 
 
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-</picture>
+@whitehouse 
+Jesse Jackson Through the Archive
+1941–2026 [ViewPhotos - magnumphotos.com/newsroom/jesse-jackson-through-the-archive](https://www.magnumphotos.com/newsroom/jesse-jackson-through-the-archive/)
+[- also on magnum  magnumphotos.com/photographers/](https://www.magnumphotos.com/photographers/) @la-county-isd @StateOfCalifornia @CityOfLosangeles @emit-sds @nasa-jpl idk how many locals listed in that guild @blackgirlscode... I used to look to them for a lot of direction... Im just living now, i dont need to take photo classes like covid man, that was not cool @chicago @utcsilab @Texas
 
-[download](https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png) @la-county-isd 
+<img  alt="image" src="https://github.com/user-attachments/assets/82141520-8f00-4cc6-8e95-1633970002c1" />
 
 
+@Nasa-Openscapes @doug-newman-nasa @la-county-isd
+Doug, Mayor Bass,
+Theres so many anomolies in the continents water supply I hope im safe sending to you and copying Keisha Bottoms for now... She is the detective monitoring my case, and I also read that she manages federal employeess in atlanta, im im from @nasa-jpl that would still make me her jurisdiction while i was running back here after erika forced me to leave my job @nasa @whitehosue @blackgirlscode 
+
+@asfadmin 
+Jesse Jackson was an environmentalist that predated Obama, his funeral service is in Texas now, so while we gottem in one spot im contributing, if anyone has downtime @dallassoftwaredevelopers 
+@DallasFormulaRacing 
+ <img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/53b96114-97b4-4cdc-8e02-2a7a43ce11e2" />
+<img alt="image" src="https://github.com/user-attachments/assets/76c74324-712b-4203-a348-e016b19a142e" />
+
+
+@StateOfCalifornia
+Good mornming Governor newsom! I saw your edict about half staff, just know lapd is good there as of last night idk about cityhall @la-county-isd @CityOfLosAngeles
+i embedded mentions because whoever is monitoring github should know that if im doxxed and i say @la-county-isd [Janice Hahn](https://history.house.gov/People/Detail/15617) she should have something like a gitlab or something account to recive messages - rashard @nasa-jpl same thing for [Mayor Bass](https://www.congress.gov/member/karen-bass/B001270) 
 ```
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-
- 
-  <source src="https://github.com/user-attachments/assets/2271c72f-8292-4af0-994e-3cab4f8f7d5a" type="image/png" />
-
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="surface temperature differences at 70-m spatial resolution @la-countyDPH @blackgirlscode @weather-gov" alt="image" src="https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png" />
-
-
-</picture>
+SACRAMENTO – Governor Gavin Newsom today ordered flags at the State Capitol and all state buildings to be flown at half-staff in honor of civil rights leader Reverend Jesse Jackson as the nation prepares to lay him to rest.
 ```
-<img   alt="image" src="https://github.com/user-attachments/assets/9ac3f259-bce6-42a5-8987-df3a20cad959" />
+[**_READ_**](https://www.gov.ca.gov/2026/03/04/governor-newsom-orders-flags-at-half-staff-as-reverend-jesse-jackson-laid-to-rest/) 
+<img src="https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png"/> 
 
-@LA-County-isD @CityOfLosangeles @Chicago [ECOSTRESS](https://ecostress.jpl.nasa.gov/) is able to resolve surface temperature differences at 70-m spatial resolution along the beach to ocean gradient, with oceans exhibiting surface temperatures of 22 degrees C or cooler, surf zone regions at 25-30 degrees, and beaches at > 30 degrees. This image was acquired on August 1, 2020, 2:15 PM Pacific Time. Image
+Dallas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-heat-in-dallas-and-fort-worth/)
+<img alt="amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03.png" src="https://github.com/user-attachments/assets/e6c14538-9c5a-47fe-a173-75744e392847" />
 
-@Tesla
-During the riots and beyond, EV vandalism 
+[map-link](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4038313266-LPCLOUD&q=ecostress&sb[0]=-97.42819%2C32.45514%2C-96.33927%2C33.25994&lat=32.93231825&long=-97.31940820799012&zoom=9.72994920418426)
 
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-ev' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
+<img  alt="image" src="https://github.com/user-attachments/assets/a145077c-52d0-42dd-bfbe-130c9c43694f" />
 
 
-<img  alt="image @washingtonpost @newshour @cbs-news-data i cant remember where i got this image @nasa-pds @nasa @whitehouse @tesla" src="https://github.com/user-attachments/assets/d42acbb7-ec5e-45ac-a00b-4e573f55064d" />
+[MAP-LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.80/-10756816.08/3885986.98&layers=aqv_secchi_20260301_sentinel:1.00:0.00:30.00:default) @blueOrigin @asfadmin @doug-newman-nasa @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/14c4cf14-e0bf-4e05-9af9-037386e58f4d" />
+
+
+
+
+@blackgirlscode tell the family I'm sorry, I was distracted running around keeping up with my @nasa-jpl @la-county-isd world as Rev Jackson would have wanted any way, we are watching over Dallas to the best of our abilities today with environmental reports Ms Fitzpatrick @foratlanta 
+[Jesse Jackson - South Carolina service](https://youtu.be/bQhVEraIlOU?si=bZrWdCix4hTQJe8i)
+maps between chicago and south carolina @blackgirlscode email the maps directly to agencies and family members that will accept it from you **OPTiONAL** _CommunityService_ @nasa @whitehouse @nasa-jpl @emit-sds @nasa-pds 
+
+[DAMS + Resivoirs](https://worldview.earthdata.nasa.gov/?v=-92.35852949885354,22.563701028441784,-76.99494798589454,48.07009144764133&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z) 
+<img  alt="image" src="https://github.com/user-attachments/assets/a00a7091-4b1d-4dee-97a0-303b6b0c8dea" />
+
+
+[EAST_USA_AT_NiGhT feb28 - MAP Link](https://worldview.earthdata.nasa.gov/?v=-90.80794580911972,23.090045950645013,-75.44436429616071,48.59643636984456&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/53518f4a-f79e-4efd-81b0-e20820b0adb7" />
+
+
+[Map -link](https://browser.dataspace.copernicus.eu/?zoom=7&lat=36.10238&lng=-83.46313&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FGWoN%2B7yjnQ4xhxKXVmpTed1Ex6dvBJjyGTFhZmL1FGtM%2F6%2B2Tk%2FU1L72HQ5zm1lK9P5meqqKVv79G83No3NfbxHD%2BplVQGO7PTn6f2QX%2FQPwMYW4laa1C&datasetId=S2_L2A_CDAS&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE) @blackgirlscode if there is a way you can monitor someone with family ties can can advertize to use [Copernicus](https://github.com/eu-cdse/copernicus-browser) anonnymously if they have trouble logging in @eu-cdse
+<img   alt="image" src="https://github.com/user-attachments/assets/97ff076c-bfef-4be2-bf16-346e16898a39" />
+
+@usgs @whitehouse @la-county-isd KarenBass 
+[eastern us]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-85.96601%2C29.54949%2C-79.63114%2C46.08931%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-85.9660084883624%2C29.549485443805384%2C-79.6311365332834%2C46.089306555591236%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C17%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A5%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) ... its a Percipitation forcast that covers the nex 7 days where rain should occur and the density of that percipitation @newshour
+
+<img  alt="image" src="https://github.com/user-attachments/assets/65b25671-98e2-4cac-b791-a0dde213f0e6" />
+
+
+[https://www.rainbowpush.org/](https://www.rainbowpush.org/) 
+[https://naacplosangeles.org/f/honoring-the-legacy-of-reverend-jesse-jackson-sr?s=09](https://naacplosangeles.org/f/honoring-the-legacy-of-reverend-jesse-jackson-sr?s=09) 
+[https://www.naacpldf.org/press-release/ldf-mourns-the-loss-of-rev-jesse-jackson-sr-civil-rights-champion-and-arbiter-of-justice/](https://www.naacpldf.org/press-release/ldf-mourns-the-loss-of-rev-jesse-jackson-sr-civil-rights-champion-and-arbiter-of-justice/)
+[https://www.syracusenaacp.com/2026/02/17/rest-in-power-rev-jesse-jackson/](https://www.syracusenaacp.com/2026/02/17/rest-in-power-rev-jesse-jackson/)
+
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+
 Behind the data: observing California’s toxic algae from space [Link](https://www.eumetsat.int/features/behind-data-observing-californias-toxic-algae-space)
 ![https://www-cdn.eumetsat.int/files/2026-02/Sentinel-3-OLCI-image-of-CA-algal-bloom-op.png](https://www-cdn.eumetsat.int/files/2026-02/Sentinel-3-OLCI-image-of-CA-algal-bloom-op.png)
 On 6 April 2025, the Ocean and Land Colour Instrument on board Copernicus-Sentinel 3 captured this image of an algal bloom dominated by Pseudo-nitzschia off the coast of California, USA
 Credit: Dr Ben Loveday
 
-
-@nasa-jpl @blackgirlscode [Space Operations Update (Feb. 19, 2026)](https://youtu.be/geneWmI9ZMY)
-_Agency leaders are discussing the findings of investigations into the 2024 crewed test flight of Boeing Starliner to the International Space Station._ [Link](https://www.nasa.gov/)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bee0a1e1-c7c5-4149-859d-74cdcbfa9f5e" />
-
-
-Electric Red Car @la-county-isd @LACMTA
-[https://youtu.be/lUclitPknhE?t=396](https://youtu.be/lUclitPknhE?t=396)
-<img   alt="image" src="https://github.com/user-attachments/assets/beda7f46-9808-4c5f-868a-0f29b407b123" />
-
-Los Angeles Pacific Electric (Red Cars) network [Link](https://travegeo.com/Los_Angeles_Pacific_Electric_Railways_Red_Cars-22935?sharemap)
-@blackgirlscode @nasa-jpl [wiki](https://en.wikipedia.org/wiki/Pacific_Electric)
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_Pacific_Electric_tickets.jpg/960px-Three_Pacific_Electric_tickets.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_Pacific_Electric_tickets.jpg/960px-Three_Pacific_Electric_tickets.jpg)
-
-By <a href="https://en.wikipedia.org/wiki/Pacific_Electric_Railway" class="extiw" title="w:Pacific Electric Railway">w:Pacific Electric Railway</a> - Self-scanned, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=110414534">Link</a>
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PELogo.svg/500px-PELogo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PELogo.svg/500px-PELogo.svg.png)
-
-By Pacific Electric Railway Company - Pacific Electric Railway Company materials in the Los Angeles Public Library collection, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=71126076">Link</a>
-
-[Why Los Angeles Is Americas Most Confusing City - Architales @YouTube](https://youtu.be/lUclitPknhE?t=68) 
-@la-county-isd [HollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) , [Hilda Solis](https://history.house.gov/People/Detail/22566), Rep [Maxine Waters](https://waters.house.gov/) ////
-So im listening to some sort of talk about [Fifa26](https://lacity.gov/tv) [[1](https://github.com/FC-26-Download/.github)] , likely it will be off when you   check the channel [[1](https://www.longbeach.gov/lbtv)] [[ (562) 570-1122. LBTV3@longbeach.gov](https://www.longbeach.gov/lbtv)] <~ @emit-sds i wonder if [Veronica Mcgregor](mailto:veronica.mcgregor@jpl.nasa.gov) knows about this audience in [LongBeach](https://www.lalawlibrary.org/joomla-pages-iii/categories-list/45-ceb/191-long-beach)?
-
-@CityOfLosAngeles [Rep Karen Bass](https://mayor.lacity.gov/), 
-im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68), there is a socio-political divide the entertainment industry has fueled that cuts the county out of all sorts of [choices](https://www.latimes.com/business/story/2026-02-11/thousands-of-apartments-set-to-sprout-in-old-office-buildings) that effect our climate and comfort... As I understand what is going on I will comment more, however @Nasa-Jpl / @whitehouse says [ThisISLosAngeles](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/1000/1732/PIA02679_lrg.jpg), a pinninsula on the coast of @StateOFCalifornia [_https://www.youtube.com/@`architalesYT`_](https://www.youtube.com/@architalesYT) Stories about real estate, urban planning and cities! [@luxelivingyt1@gmail.com](mailto:luxelivingyt1@gmail.com) //// [Los Angeles from Space @nasa-jpl / jpl.nasa.gov](https://www.jpl.nasa.gov/images/pia02679-los-angeles-from-space/) This ASTER image was acquired on July 23, 2001 and covers an area of 64 x 72 km.
-
-<img alt="image" src="https://github.com/user-attachments/assets/793b0baa-7554-47d6-bc1b-b80ae83cc778" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/3dc5eed2-3421-4765-84f7-a942ea5ae3c8" />
-
-![https://waters.house.gov/sites/evo-subsites/waters.house.gov/files/waterslogo-01.png](https://waters.house.gov/sites/evo-subsites/waters.house.gov/files/waterslogo-01.png)
-
-[Towards global long-term water transparency products from the Landsat archive](https://www.sciencedirect.com/science/article/pii/S0034425723004406?via%3Dihub) : @cityoflosangeles [Mayor](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) @ucla thats a link :: news _Casey Wasserman Loses L.A Mayor’s Support For LA28 Job Over Epstein Files Revelations: “He Should Step Down”_  [Link](https://deadline.com/2026/02/casey-wasserman-resign-olympics-mayor-karen-bass-esptein-1236726528/) _`Mayoral Transition Advisory Team`_ ? [Link - https://jobs.lamayor.org/mayoral-transition-advisory-team](https://jobs.lamayor.org/mayoral-transition-advisory-team) @la-county-isd 
-<img   alt="image" src="https://github.com/user-attachments/assets/daa5d1f6-4586-4f78-9d54-d1ecfb616221" />
-
-@blackgirlscode [Bob Marley - Rastaman Vibration (Full Album) 432hz](https://youtu.be/B0gesoinua0?list=RDB0gesoinua0&t=47)
-hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
-
-![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
-<img  alt="image" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
 
 
 
@@ -1160,6 +1147,14 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-02-03 08:19:06 -0800
+date:   2026-03-03 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 ---
@@ -66,6 +66,14 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 
 #  splashdown-weather
+
+@cityofsandiego @USnavy im working on [LongBeach](https://www.loc.gov/item/2007660625/) right now and notice [San Diego](https://www.sandiego.gov/public-library) bay has changed some in suspended solids and chlorophyll content , I documented on myhomepage orion being put back in the hangar, for the helium leak fix, I have not checked since then @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
+
+<img alt="image" src="https://github.com/user-attachments/assets/7cab2c2a-0980-41cc-8f58-d71a7c60d058" />
+
+Official map of San Diego County, California [Link](https://www.loc.gov/item/2012592092/)
+![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg)
+
 
 [https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
 @blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
