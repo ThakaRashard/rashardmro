@@ -33,6 +33,12 @@ date:   2026-02-19 8:51:06
 <img  alt="image" src="https://github.com/user-attachments/assets/4da416d1-0fa6-4825-b6a6-afad1fb0818f" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/54ae9d96-60e6-4cdf-a04a-a1142b32f613" />
+it looks like it may have been an aerosol that cast a shadow @faa @nasa @nasa-jpl @la-county-isd it was a busy day for [Thermal Anomolies]()[https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2026-02-26,2026-02-26;l:fires_all,fire-perimeter,countries,terra_crc,earth;@-117.19,33.98,9.15z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2026-02-26,2026-02-26;l:fires_all,fire-perimeter,countries,terra_crc,earth;@-117.19,33.98,9.15z)
+`Temperature anomaly is the difference, positive or negative, of a temperature from a base or reference value` [Wiki](https://en.wikipedia.org/wiki/Temperature_anomaly) / [Lance/FiRMS](https://firms.modaps.eosdis.nasa.gov/descriptions/FIRMS_MODIS_Firehotspots.html)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/77df934a-6310-4263-a2b9-4d70c45e33ca" />
+
 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -1167,6 +1173,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
