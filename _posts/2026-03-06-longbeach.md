@@ -7,6 +7,21 @@ title: "LongBeach, California"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+## Rashard Kelly 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+@la-county-isd @nasa-jpl @nasa-pds @whitehouse @blackgirlscode [LBTV](https://www.longbeach.gov/lbtv) :: Cdf freedom schools program enhances children's motivation to read. Summer literacy & cultural enrichment program. [LiNK](https://www.childrensdefense.org/our-work/cdf-freedom-schools/?gad_source=1&gad_campaignid=22000609128&gbraid=0AAAAA-nYItsxcV-OXSZZBcRLMzHD62GZk&gclid=Cj0KCQiAk6rNBhCxARIsAN5mQLsiBsZkovy9h4bJdvxnV2ZwRqleH3AeG0D2TPbTm0ZLcxfT_8TWo1saAqLiEALw_wcB)
+
+<img alt="image" src="https://github.com/user-attachments/assets/b6979d63-d851-41a1-863f-b16f6ad67a4a" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a1435208-be98-4978-8d82-4d0de06728f4" />
+
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘21st Century Integrated Digital
+
+Experience Act’’ or the ‘‘21st Century IDEA’’. 
+@whitehouse @blackgirlscode @la-county-isd [link](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.pdf) @nasa-jpl @isro 
+
 
 [beverlypress.com/](https://beverlypress.com/) [MAP-Link](https://search.earthdata.nasa.gov/search?p=!C2746980408-LPCLOUD&pg[1][a]=4048689807!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&sb[0]=-118.2177%2C20.74518%2C92.38648%2C33.76787&qt=2026-02-21T00%3A00%3A00.000Z%2C2026-02-21T23%3A59%3A59.999Z&ff=Map%20Imagery&lat=33.759187195332075&long=-118.18769414088312&zoom=18.050545076002344) Shoreline MARiNA [Link](https://www.longbeach.gov/park/marine/marinas/long-beach-shoreline-marina/) [[1](https://www.facebook.com/pages/Long%20Beach%20Shoreline%20Marina/135864326469772/#)] on [CA.gov @StateOfCalifornia](https://dbw.parks.ca.gov/BoatingFacilities/f/1043)
 <img alt="image" src="https://github.com/user-attachments/assets/aa561ab5-1e63-4fd1-b32f-e9117d7066de" />
