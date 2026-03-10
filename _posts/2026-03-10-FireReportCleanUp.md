@@ -11,11 +11,42 @@ image: Overview_HD.png
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/5bdc9443-0740-4057-90de-85c5ecde1082" />
+
+[MapLink](https://worldview.earthdata.nasa.gov/?v=-128.9683211769443,28.336313380073847,-96.47219323066173,44.465901886744305&as=2020-08-10-T00%3A00%3A00Z&ae=2020-09-20-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),HLS_False_Color_Landsat(bandCombo=%7B%22r%22%3A%22B05%22;%22g%22%3A%22B04%22;%22b%22%3A%22B03%22;%22color_formula%22%3A%22Gamma%20RGB%202.5%20Saturation%201.2%20Sigmoidal%20RGB%2010%200.35%22;%22bands_regex%22%3A%22B%5B0-9%5D%5B0-9%5D%22%7D),VIIRS_NOAA20_SurfaceReflectance_BandsM11-M7-M5(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2020-09-07-T00%3A00%3A00Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/8d6e8a1c-639e-4acd-8408-34cf56b8fdd9" />
+
+@la-county-isd @cityoflosangeles [LakeFire](https://file.lacounty.gov/SDSInter/bos/bc/1199803_NorthCountyDisasterRecoveryBi-WeeklyReport_2026-01-13_.pdf) what a spectacular blaze!
+
+[MapLinK](https://worldview.earthdata.nasa.gov/?v=-131.30398037308328,28.9879284456634,-110.89235000682456,45.10059188569517&as=2020-08-10-T00%3A00%3A00Z&ae=2020-09-20-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,HLS_False_Color_Landsat(bandCombo=%7B%22r%22%3A%22B05%22;%22g%22%3A%22B04%22;%22b%22%3A%22B03%22;%22color_formula%22%3A%22Gamma%20RGB%202.5%20Saturation%201.2%20Sigmoidal%20RGB%2010%200.35%22;%22bands_regex%22%3A%22B%5B0-9%5D%5B0-9%5D%22%7D),VIIRS_NOAA20_SurfaceReflectance_BandsM11-M7-M5(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2020-09-07-T00%3A00%3A00Z)
+<img alt="image" src="https://github.com/user-attachments/assets/71a36377-47f1-42fb-955c-7cbbd2b2803b" />
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xSnxM7pFFEpEFTz82eG7QGzuJAxvtqMSPgmRiR98ehzY1ng2F7EXyAAWWfksNKGrl%26id%3D100084464911565&show_text=true&width=500" width="500" height="792" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+@Tesla
+During the riots and beyond, EV vandalism 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ev' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 
 # What's in the Soil? [WATCHNOW](https://www.youtube.com/watch?v=RJ8I2P_Nrxw)
 @datadesk we do a lot of environmental scanning, but we running from poachers man! help us out @FEMA latimes said you are not testing, but i dont think they doing nothing but being hustled... 

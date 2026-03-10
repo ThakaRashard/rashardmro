@@ -10,6 +10,11 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+[STORY_MAP_GALLERY](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f)
+
+[https://coast.noaa.gov/estuaries/science-data/](https://coast.noaa.gov/estuaries/science-data/) @longbeachinnovationteam @la-county-isd can you guys pass that link to someone responsible, i dont know how to talk to the water cops over github yet @podaac @nasa-jpl [Maps & Data](https://www.climate.gov/maps-data) : [https://stackoverflow.com/questions/19978707/historical-weather-data-from-noaa](https://stackoverflow.com/questions/19978707/historical-weather-data-from-noaa)
+
+
 @la-county-isd @nasa-jpl @nasa-pds @whitehouse @blackgirlscode [LBTV](https://www.longbeach.gov/lbtv) :: Cdf freedom schools program enhances children's motivation to read. Summer literacy & cultural enrichment program. [LiNK](https://www.childrensdefense.org/our-work/cdf-freedom-schools/?gad_source=1&gad_campaignid=22000609128&gbraid=0AAAAA-nYItsxcV-OXSZZBcRLMzHD62GZk&gclid=Cj0KCQiAk6rNBhCxARIsAN5mQLsiBsZkovy9h4bJdvxnV2ZwRqleH3AeG0D2TPbTm0ZLcxfT_8TWo1saAqLiEALw_wcB)
 
 <img alt="image" src="https://github.com/user-attachments/assets/b6979d63-d851-41a1-863f-b16f6ad67a4a" />

@@ -8,6 +8,64 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+# LoGz
+
+
+@blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
+<img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
+
+[GaurdianHeros](https://dn711308.ca.archive.org/0/items/rashardmro-master/retroarch__2026_03_04__14_41_58.log)
+```fortran
+RetroArch 1.22.2 (Git 440b49f)
+=== Build =======================================
+Capabilities: ASIMD 
+[INFO] Version: 1.22.2
+[INFO] Git: 440b49f
+[INFO] Built: Mar  2 2026
+[INFO] =================================================
+[Input] Found input driver: "android".
+[Core] Loading dynamic libretro core from: "/data/user/0/com.retroarch.aarch64/cores/mednafen_saturn_libretro_android.so".
+[Override] Redirecting save file to "/storage/emulated/0/RetroArch/saves/Beetle Saturn/Guardian Heroes (USA).srm".
+[Override] Redirecting save state to "/storage/emulated/0/RetroArch/states/Beetle Saturn/Guardian Heroes (USA).state".
+[Environ] GET_CORE_OPTIONS_VERSION.
+[Environ] GET_LANGUAGE: "0".
+[Environ] SET_CORE_OPTIONS_V2_INTL.
+[Environ] GET_VFS_INTERFACE. Core requested version >= V2, providing V3.
+[Environ] GET_LED_INTERFACE.
+[Environ] SET_CONTROLLER_INFO.
+```
+ What a frontend ! @blackgirlscode  [https://gam.onl/sega-saturn/#segaSaturn---207](https://gam.onl/sega-saturn/#segaSaturn---207)
+<img   alt="image" src="https://github.com/user-attachments/assets/17068d88-176b-4892-98df-5bb01d190b7b" />
+
+@Swordfish90 /Lemuroid @flyinghead /flycast
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f106787-34be-4c71-9d4e-25dbe884d215" />
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/9461c63c-c3cf-4aa6-bd8a-e94518685ed5" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2ba16d02-0a27-4f32-873f-596afc4ecb9e" />
+
+@nasa-jpl can you guys talk to lapd about Rihanna and Dance411 ? @la-county-isd RepKaren i need Keisha Bottoms , and rihanna is a hooker y yall let it happen ? @stateofcalifornia [deja vu @cityoflosangeles](https://www.google.com/search?q=deja+vu+showgirls&rlz=1C1GCEJ_enUS1123US1123&oq=deja+vu+showgirls&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhivARjHARiABDINCAIQLhivARjHARiABDINCAMQLhivARjHARiABDINCAQQLhivARjHARiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM0MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&lqi=ChFkZWphIHZ1IHNob3dnaXJscyIDiAEBSObZj7vpgICACFopEAAQARACGAAYARgCIhFkZWphIHZ1IHNob3dnaXJscyoICAIQABABEAKSARhhZHVsdF9lbnRlcnRhaW5tZW50X2NsdWLgAQA#rlimm=5194644028717977909)  is real time treason yall irresponsible and stupid as fuck @lapd
+
+<img  alt="@lapd your super fucking tresonus or jusr dumb and crooked as fuck @la-county-isd i hide the things they say to your face! ok @cityoflosangeles i use the ballot box called @github ober @protonmail" src="https://github.com/user-attachments/assets/254060a0-6097-4515-ab36-981a6e94e8f2" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e8f1b244-fdfd-494b-8ee9-10fa0cae4333" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9d155793-cf61-4b62-9e97-8cd7c33a11c2" />
+
+
+
+![https://upload.wikimedia.org/wikipedia/fr/7/77/Yoshi%27s_Story_Logo.png @nintendo](https://upload.wikimedia.org/wikipedia/fr/7/77/Yoshi%27s_Story_Logo.png)
+Yoshi's Story
+([ヨッシーストーリー](https://fr.wikipedia.org/wiki/Yoshi%27s_Story), Yosshī Sutōrī?)
+_Mupen 64_ Retroarch @libretro im just finally doing what justin told me 8 years ago @nianticlabs i really dont know how much he hate me, i just needed ..... @blackgirlscode i need representation @nasa-pds 
+[About Yoshi Story - @nintendo](https://www.nintendo.com/en-gb/Games/Nintendo-64/Yoshi-s-Story-269800.html?srsltid=AfmBOoqehaixg3gu-PgmxNa5eSbn9xuKOn4B_VSeuPZD0qaHWw-9-VmI) it moved more smooth this time, but if the screen auto reverses like a cassette it bogs and jitters but the opening looks better than ever @libretro 
+<img   alt="image" src="https://github.com/user-attachments/assets/98f0c5e5-e0ea-45fe-988a-d725651b8a07" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e8ba8ffe-fdbd-4f66-b3fd-1649398a159e" />
 
 # Crazy Taxi 2
 It Plays better than the first one, however like PowerStone and Virtual ON cyber Troopers its a sandbox and easier on the phones graphic processing, but it gets rocky and jittery once a hairpin turn comes around @libretro @flyinghead , im going to try the web browser @nasa-jpl @la-county-isd 
