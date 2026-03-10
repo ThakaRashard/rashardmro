@@ -11,6 +11,8 @@ permalink: /smartphonelab
 # LoGz
 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/9461c63c-c3cf-4aa6-bd8a-e94518685ed5" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2ba16d02-0a27-4f32-873f-596afc4ecb9e" />
 
 @nasa-jpl can you guys talk to lapd about Rihanna and Dance411 ? @la-county-isd RepKaren i need Keisha Bottoms , and rihanna is a hooker y yall let it happen ? @stateofcalifornia [deja vu @cityoflosangeles](https://www.google.com/search?q=deja+vu+showgirls&rlz=1C1GCEJ_enUS1123US1123&oq=deja+vu+showgirls&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhivARjHARiABDINCAIQLhivARjHARiABDINCAMQLhivARjHARiABDINCAQQLhivARjHARiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM0MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&lqi=ChFkZWphIHZ1IHNob3dnaXJscyIDiAEBSObZj7vpgICACFopEAAQARACGAAYARgCIhFkZWphIHZ1IHNob3dnaXJscyoICAIQABABEAKSARhhZHVsdF9lbnRlcnRhaW5tZW50X2NsdWLgAQA#rlimm=5194644028717977909)  is real time treason yall irresponsible and stupid as fuck @lapd
