@@ -8,7 +8,11 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+# LoGz
+@blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
+<img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
 
+@Swordfish90 /Lemuroid @flyinghead /flycast
 # Crazy Taxi 2
 It Plays better than the first one, however like PowerStone and Virtual ON cyber Troopers its a sandbox and easier on the phones graphic processing, but it gets rocky and jittery once a hairpin turn comes around @libretro @flyinghead , im going to try the web browser @nasa-jpl @la-county-isd 
 
