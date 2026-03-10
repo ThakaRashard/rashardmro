@@ -10,7 +10,7 @@ permalink: /smartphonelab
 
 # LoGz
 
-@nasa-jpl can you guys talk to lapd about Rihanna and Dance411 ? @la-county-isd RepKaren i need Keisha Bottoms , and rihanna is a hooker y yall let it happen ? @stateofcalifornia deja vu is real time treason yall irresponsible and stupid as fuck @lapd
+@nasa-jpl can you guys talk to lapd about Rihanna and Dance411 ? @la-county-isd RepKaren i need Keisha Bottoms , and rihanna is a hooker y yall let it happen ? @stateofcalifornia [deja vu @cityoflosangeles](https://www.google.com/search?q=deja+vu+showgirls&rlz=1C1GCEJ_enUS1123US1123&oq=deja+vu+showgirls&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhivARjHARiABDINCAIQLhivARjHARiABDINCAMQLhivARjHARiABDINCAQQLhivARjHARiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM0MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&lqi=ChFkZWphIHZ1IHNob3dnaXJscyIDiAEBSObZj7vpgICACFopEAAQARACGAAYARgCIhFkZWphIHZ1IHNob3dnaXJscyoICAIQABABEAKSARhhZHVsdF9lbnRlcnRhaW5tZW50X2NsdWLgAQA#rlimm=5194644028717977909)  is real time treason yall irresponsible and stupid as fuck @lapd
 
 <img  alt="@lapd your super fucking tresonus or jusr dumb and crooked as fuck" src="https://github.com/user-attachments/assets/254060a0-6097-4515-ab36-981a6e94e8f2" />
 
