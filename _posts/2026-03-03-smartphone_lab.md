@@ -11,6 +11,9 @@ permalink: /smartphonelab
 # LoGz
 
 @nasa-jpl can you guys talk to lapd about Rihanna and Dance411 ? @la-county-isd RepKaren i need Keisha Bottoms , and rihanna is a hooker y yall let it happen ? @stateofcalifornia deja vu is real time treason yall irresponsible and stupid as fuck @lapd
+
+<img  alt="@lapd your super fucking tresonus or jusr dumb and crooked as fuck" src="https://github.com/user-attachments/assets/254060a0-6097-4515-ab36-981a6e94e8f2" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/e8f1b244-fdfd-494b-8ee9-10fa0cae4333" />
 
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
