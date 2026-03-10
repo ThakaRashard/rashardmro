@@ -12,7 +12,36 @@ permalink: /smartphonelab
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
 <img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
 
+[GaurdianHeros](https://dn711308.ca.archive.org/0/items/rashardmro-master/retroarch__2026_03_04__14_41_58.log)
+```fortran
+RetroArch 1.22.2 (Git 440b49f)
+=== Build =======================================
+Capabilities: ASIMD 
+[INFO] Version: 1.22.2
+[INFO] Git: 440b49f
+[INFO] Built: Mar  2 2026
+[INFO] =================================================
+[Input] Found input driver: "android".
+[Core] Loading dynamic libretro core from: "/data/user/0/com.retroarch.aarch64/cores/mednafen_saturn_libretro_android.so".
+[Override] Redirecting save file to "/storage/emulated/0/RetroArch/saves/Beetle Saturn/Guardian Heroes (USA).srm".
+[Override] Redirecting save state to "/storage/emulated/0/RetroArch/states/Beetle Saturn/Guardian Heroes (USA).state".
+[Environ] GET_CORE_OPTIONS_VERSION.
+[Environ] GET_LANGUAGE: "0".
+[Environ] SET_CORE_OPTIONS_V2_INTL.
+[Environ] GET_VFS_INTERFACE. Core requested version >= V2, providing V3.
+[Environ] GET_LED_INTERFACE.
+[Environ] SET_CONTROLLER_INFO.
+```
+
 @Swordfish90 /Lemuroid @flyinghead /flycast
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9d155793-cf61-4b62-9e97-8cd7c33a11c2" />
+
+
+_Mupen 64_ Retroarch @libretro im just finally doing what justin told me 8 years ago @nianticlabs i really dont know how much he hate me, i just needed ..... @blackgirlscode i need representation @nasa-pds 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e8ba8ffe-fdbd-4f66-b3fd-1649398a159e" />
+
 # Crazy Taxi 2
 It Plays better than the first one, however like PowerStone and Virtual ON cyber Troopers its a sandbox and easier on the phones graphic processing, but it gets rocky and jittery once a hairpin turn comes around @libretro @flyinghead , im going to try the web browser @nasa-jpl @la-county-isd 
 
