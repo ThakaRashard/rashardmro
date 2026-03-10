@@ -56,6 +56,10 @@ Capabilities: ASIMD
 <img  alt="image" src="https://github.com/user-attachments/assets/9d155793-cf61-4b62-9e97-8cd7c33a11c2" />
 
 
+
+![https://upload.wikimedia.org/wikipedia/fr/7/77/Yoshi%27s_Story_Logo.png @nintendo](https://upload.wikimedia.org/wikipedia/fr/7/77/Yoshi%27s_Story_Logo.png)
+Yoshi's Story
+([ヨッシーストーリー](https://fr.wikipedia.org/wiki/Yoshi%27s_Story), Yosshī Sutōrī?)
 _Mupen 64_ Retroarch @libretro im just finally doing what justin told me 8 years ago @nianticlabs i really dont know how much he hate me, i just needed ..... @blackgirlscode i need representation @nasa-pds 
 [About Yoshi Story - @nintendo](https://www.nintendo.com/en-gb/Games/Nintendo-64/Yoshi-s-Story-269800.html?srsltid=AfmBOoqehaixg3gu-PgmxNa5eSbn9xuKOn4B_VSeuPZD0qaHWw-9-VmI) it moved more smooth this time, but if the screen auto reverses like a cassette it bogs and jitters but the opening looks better than ever @libretro 
 <img   alt="image" src="https://github.com/user-attachments/assets/98f0c5e5-e0ea-45fe-988a-d725651b8a07" />
