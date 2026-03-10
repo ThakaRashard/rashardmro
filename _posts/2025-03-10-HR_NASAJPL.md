@@ -11,6 +11,15 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+
+@doug-newman-nasa hi i was looking over my EULAs and sent you an email @PearsonEducation .. they have no public repos, did they collapse after that datacenter move, I worked from [Taos](https://www.indeed.com/cmp/Taos/reviews?fcountry=US&floc=San+Jose%2C+CA) in sanjose  @la-county-isd Mayor Bass however i got exiled, im triying to understand what all i agreed to, and that people may not have the resources to deliver on because i did not know there were expectations after dates and now people in different lifestyles. Im just trying to reach coral @blackgirlscode @newshour 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c92ac33b-a09a-4598-aed8-56b646decbc4" />
+
+
+
+
+
 Contractors coming back ? @blackgirlscode normani [link](https://youtu.be/geneWmI9ZMY), im still on but as some strange employee category [Latrice](https://www.facebook.com/thevirtiservway/)
 
 <img alt="image" src="https://github.com/user-attachments/assets/c7ba6835-9110-4dbe-90db-0c643e2a38f2" />
