@@ -47,7 +47,8 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 <img  alt="image" src="https://github.com/user-attachments/assets/3991f913-7def-4a47-889b-b6478b72e4b9" />
 
 
-OverDrivin Was unplayable, It was a CHD format demo
+OverDrivin Was unplayable, It was a CHD format demo, the phone choked
+<img src="https://64.media.tumblr.com/02a6d9bccc1bc1fbcaa42f4b2ede5477/f7f44045e3cd4b34-00/s1280x1920/7532bf813719f2312c93c6d819a79bcf31ea6b5c.png"/>
 <img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/>
 
 # LoGz
