@@ -41,7 +41,11 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 <img  alt="image" src="https://github.com/user-attachments/assets/aec98af1-4aef-4032-83ef-f4b2b466df42" />
 <img alt="image" src="https://github.com/user-attachments/assets/4184402b-930d-4ff4-ba54-7de3a1465ded" />
 
-# PSP CrazyTaxi
+# PPSSPP 1.20.2
+_A PSP emulator_ @newshour @blackgirlscode 
+PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects. [homepage](https://www.ppsspp.org/) / [blog](https://www.ppsspp.org/blog/)
+
+### PSP CrazyTaxi
 Was Actually Fun 
 [PlayStore](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en_US&pli=1)
 [@la-county-isd @Apple](https://apps.apple.com/us/app/ppsspp-psp-emulator/id6496972903) there has to be a healthier way to share these things because im scared of my phone getting stolen again. Alot of the games got bootlegged. There was some breakdown socially at the arcade and people who were regular got all the popular fighting games from Capcom and Atari aka MidWay on the underground and Somepeople Gamble and some do not! I was given a stash in Arizona as well! To keep me healthiy @nasa-jpl but i realize the gambling community has invested a lot @konami @nintendo @sega @rockstargames but i dont like the practice and I work in infrastructure code, so im facinated by the puzzles and how you guys solve problems as game developers as well @StateOfCalifornia @riotgames
