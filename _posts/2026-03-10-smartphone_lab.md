@@ -15,7 +15,7 @@ permalink: /smartphonelab
 # Online, But what else
 
 
-I worked hard to have any chance to et online when this was new.  But really did not comprehend what to do... @StateOFCalifornia @La-County-ISD theres spart people locked out purely from displacement, how do we help them ? 
+I worked hard to have any chance to get online when internet consoles were new.  But really did not comprehend what to do... @StateOFCalifornia @La-County-ISD theres spart people locked out purely from displacement, how do we help them ? 
 [@cityoflosangeles](https://rashardmro.tumblr.com/post/810482637078757376/nasa-firms) Ok Ted Ross, while i want to stay under the coddling care of my matriarchy, i know you know at somepoint emulation willbe discussed @defcon and i will prepare a healthy presentation, I did it for jehovah man @nasa @deptofdefense @la-county-isd i do it for america now @blackgirlscode [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z)
 
 <img  alt="https://64.media.tumblr.com/964e3b25d4770c67b9274b023a28ea98/fa68421115e3e47c-6a/s1280x1920/8e246c86886bcc08d7fa4f587b5e4ba6a3670436.png @la-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z @HollyJMitchell @cityoflosangeles @paul.wingate" src="https://github.com/user-attachments/assets/0be7b4d3-5e89-4aea-9640-8143cd835393" />
