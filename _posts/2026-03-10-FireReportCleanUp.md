@@ -11,14 +11,25 @@ image: Overview_HD.png
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
+
+
+[@StateOFCalifornia MAP - LiN @CALFiRE](https://worldview.earthdata.nasa.gov/?v=-152.479165448344,8.842346360967202,-61.61968307777405,69.92866501688711&ics=true&ici=3&icd=2&as=2020-08-09-T00%3A00%3A00Z&ae=2020-09-16-T00%3A00%3A00Z&al=true&av=5.5&ab=on&t=2020-09-16-T00%3A00%3A00Z) @datadesk
+<img   alt="image" src="https://github.com/user-attachments/assets/c1922de0-f8da-4571-97e4-4996c0b97a25" />
+
+@la-county-isd @cityoflosangeles [LakeFire](https://file.lacounty.gov/SDSInter/bos/bc/1199803_NorthCountyDisasterRecoveryBi-WeeklyReport_2026-01-13_.pdf) what a spectacular blaze! I dont know what to do with that PDF but @emit-sds do you think someone was doing that [Andrew](mailto:andrew.feldman@nasa.gov), man i been finding everything man. I was hosting some work on my work blog for that girl i went out with in atlanta thats in the singing group with katy perry... And someone changed all the urls on photojournal.jpl.nasa.gov to science.nasa .gov and broke a lot of shit, I am still from Pima county so Hirise University OF Arizona items @ualibraries im scared of getting hit becasuie those tresonist stole my family! @la-county-isd im being electronically harassed ... Nazis hated porn an the poeple down with the shit mad @CityOFLosAngeles i am in danger of castration @newshour i need help [wiki](https://en.wikipedia.org/wiki/2020_California_wildfires)
+<img  alt="image" src="https://github.com/user-attachments/assets/e3f46024-9821-4e0f-848f-7318462cf6ea" />
+[SolidSteel - coldcut mix](https://youtu.be/WC6y8lf8Lak)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/5bdc9443-0740-4057-90de-85c5ecde1082" />
 
 [MapLink](https://worldview.earthdata.nasa.gov/?v=-128.9683211769443,28.336313380073847,-96.47219323066173,44.465901886744305&as=2020-08-10-T00%3A00%3A00Z&ae=2020-09-20-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),HLS_False_Color_Landsat(bandCombo=%7B%22r%22%3A%22B05%22;%22g%22%3A%22B04%22;%22b%22%3A%22B03%22;%22color_formula%22%3A%22Gamma%20RGB%202.5%20Saturation%201.2%20Sigmoidal%20RGB%2010%200.35%22;%22bands_regex%22%3A%22B%5B0-9%5D%5B0-9%5D%22%7D),VIIRS_NOAA20_SurfaceReflectance_BandsM11-M7-M5(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2020-09-07-T00%3A00%3A00Z)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/8d6e8a1c-639e-4acd-8408-34cf56b8fdd9" />
 
-@la-county-isd @cityoflosangeles [LakeFire](https://file.lacounty.gov/SDSInter/bos/bc/1199803_NorthCountyDisasterRecoveryBi-WeeklyReport_2026-01-13_.pdf) what a spectacular blaze!
+
 
 [MapLinK](https://worldview.earthdata.nasa.gov/?v=-131.30398037308328,28.9879284456634,-110.89235000682456,45.10059188569517&as=2020-08-10-T00%3A00%3A00Z&ae=2020-09-20-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,HLS_False_Color_Landsat(bandCombo=%7B%22r%22%3A%22B05%22;%22g%22%3A%22B04%22;%22b%22%3A%22B03%22;%22color_formula%22%3A%22Gamma%20RGB%202.5%20Saturation%201.2%20Sigmoidal%20RGB%2010%200.35%22;%22bands_regex%22%3A%22B%5B0-9%5D%5B0-9%5D%22%7D),VIIRS_NOAA20_SurfaceReflectance_BandsM11-M7-M5(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2020-09-07-T00%3A00%3A00Z)
+
 <img alt="image" src="https://github.com/user-attachments/assets/71a36377-47f1-42fb-955c-7cbbd2b2803b" />
 
 
@@ -143,9 +154,11 @@ On January 7th, 2025, a series of wildfires started in the Southern California a
 
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+  
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 [Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
@@ -160,10 +173,13 @@ Powerful Santa Ana winds and dry conditions contributed to the rapid spread of s
 # GRACE and GRACE-FO track California's land water changes
 
 [MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+
 <video  controls >
+  
   <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 
