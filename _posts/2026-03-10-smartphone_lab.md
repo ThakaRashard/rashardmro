@@ -8,10 +8,28 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+
+# LossLEss Gaming ?
+I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music..
+
+### CHD
+[https://retropie.org.uk/docs/CHD-files/](https://retropie.org.uk/docs/CHD-files/)
+`CHD is a lossless compression format originally developed for MAME, for the hard-drive contents of certain arcade machines. It has since been used in several other emulators as a means of storing CD-ROM game data. For CD-based games, it compresses the contents of a disc image (.cue + .bin files) to a single .chd file.` 
+
+thats all it is 
+its just designed for arcade games @nasa-pds @nasa-giss @blackgirlscode @nasa @la-county-isd
+[link - xiph.org/flac/](https://xiph.org/flac/) [https://github.com/xiph/flac](https://github.com/xiph/flac)
+```
+FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player (or your car or home stereo, see supported devices) just like you would an MP3 file.
+```
+
+<img  alt="src=https://64.media.tumblr.com/7a7e97e7e7f794428d56d32dfcb64edf/f7f44045e3cd4b34-dc/s1280x1920/4efe298c6d830ed12508d07ea9faffebe860e80a.png Image from Rashard[M_R_O/JPL/NASA]" src="https://github.com/user-attachments/assets/0beffa27-e90f-47e7-b778-64f4fe6a6b07" />
+<img src="https://s.pacn.ws/1/p/PA.73932.001.jpg?v=j5gnac&amp;width=480"/>
+
+
+<img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/><img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/3e59fbf0-245d-47c1-b3cc-dabb9682b739" />
+
 # LoGz
-
-I tried RoadRadh (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging 
-
 
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
 <img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
