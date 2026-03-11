@@ -9,6 +9,7 @@ permalink: /smartphonelab
 ---
 
 
+
 # LossLEss Gaming ?
 I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music.. [What is a VTOC?](https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-vtoc) @IBM The VTOC index enhances the performance of VTOC access. [ReadMore @Blackgirlscode](https://www.ibm.com/docs/en/zos/2.5.0?topic=contents-vtoc-index)
 
