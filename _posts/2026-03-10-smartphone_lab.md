@@ -27,7 +27,7 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 <img src="https://s.pacn.ws/1/p/PA.73932.001.jpg?v=j5gnac&amp;width=480"/>
 
 
-<img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/><img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/3e59fbf0-245d-47c1-b3cc-dabb9682b739" />
+<img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/>
 
 # LoGz
 
