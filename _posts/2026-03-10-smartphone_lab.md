@@ -13,9 +13,16 @@ permalink: /smartphonelab
 # LossLEss Gaming ?
 I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music.. [What is a VTOC?](https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-vtoc) @IBM The VTOC index enhances the performance of VTOC access. [ReadMore @Blackgirlscode](https://www.ibm.com/docs/en/zos/2.5.0?topic=contents-vtoc-index), Daytona USA was a chd on [DreamCast](https://rashardmro.tumblr.com/post/810570216043085824) it actually played well, but it stillfelt like a shitty gamegear experiance that was well crafted to make a genesis person happy. I hope i dont sound too critical @RockstarGames @electronicarts [Is a chd file better than a iso file? `u/shinestarshine1 ? on r/Retroarch` @reddit](https://www.reddit.com/r/RetroArch/comments/y302ia/is_a_chd_file_better_than_a_iso_file/?rdt=59613)
 
+ITs pretty comprehensive @nasa-jpl like can we make a persevere emulator, I know we can but im not there right now however the file format looks utility makes me think its like managing zip  files @ip7z/[7zip](https://github.com/ip7z/7zip) . . . @la-county-isd @CityOFlosAngeles @Cisa there are constitution priciplas that should guide wifi use and a violation should just send a person marching to the police department. THe Content censorship in Los Angeles is atrocious.Coming fromGeorgia I thought the prevailing culture would be `Pro-Sharing` since you need to know what happened before to watch anything current [@disney](https://archive.org/download/disney_202105)! I dont wanna watch you new live action shit at all!... Toomuch Backlog man next thing you know the girl wants another guy because he wsaw the whole series @dhs-gov @whitehouse @foratlanta 
+
+[chdman – CHD (Compressed Hunks of Data) File Manager](https://docs.mamedev.org/tools/chdman.html)
+chdman can be used to create, convert, check the integrity of and extract data from media images in CHD (Compressed Hunks of Data) format.
+
 ![https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zconcepts/zOSB023.gif](https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zconcepts/zOSB023.gif)
 
-### CHD
+### .CHD File Extension
+A CHD file contains game data compressed using lossless Compressed Hunks of Data (CHD) compression - [Fileinfo.com](https://fileinfo.com/extension/chd)
+
 [https://retropie.org.uk/docs/CHD-files/](https://retropie.org.uk/docs/CHD-files/)
 `CHD is a lossless compression format originally developed for MAME, for the hard-drive contents of certain arcade machines. It has since been used in several other emulators as a means of storing CD-ROM game data. For CD-based games, it compresses the contents of a disc image (.cue + .bin files) to a single .chd file.` 
 
