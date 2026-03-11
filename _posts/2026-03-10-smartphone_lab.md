@@ -43,6 +43,8 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 
 # PSP CrazyTaxi
 Was Actually Fun 
+[PlayStore](https://play.google.com/store/apps/details?id=org.ppsspp.ppsspp&hl=en_US&pli=1)
+[@la-county-isd @Apple](https://apps.apple.com/us/app/ppsspp-psp-emulator/id6496972903) there has to be a healthier way to share these things because im scared of my phone getting stolen again. 
 <img src="https://64.media.tumblr.com/c656f68bf50771eb3c92884c0493d69f/9d239f3821f9431c-0e/s1280x1920/2a66f13829a70b0fd6d0676aad0abba045fe2feb.png"/> 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/13c2ae53-1fb2-4ccb-a8b3-92a6430e9837" />
