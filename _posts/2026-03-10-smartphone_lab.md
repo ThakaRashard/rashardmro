@@ -8,6 +8,7 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/3991f913-7def-4a47-889b-b6478b72e4b9" />
 
 
 # LossLEss Gaming ?
@@ -35,6 +36,9 @@ OverDrivin Was unplayable, It was a CHD format demo
 # LoGz
 
 [Latrice](https://www.facebook.com/thevirtiservway/)
+abt ur work ethik `no dice` i swear i was not talking about you @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/a428b4a9-8163-4489-8398-4a9c943a4ef5" />
+
 ![@howard-university-web-services @nasa-jpl](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif) 
 
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
