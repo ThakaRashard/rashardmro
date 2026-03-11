@@ -8,6 +8,9 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/c37ebb6e-d439-4f93-b594-698eb29dc22c" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/3991f913-7def-4a47-889b-b6478b72e4b9" />
 
 
