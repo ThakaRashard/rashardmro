@@ -9,13 +9,9 @@ permalink: /smartphonelab
 ---
 
 
-<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/c37ebb6e-d439-4f93-b594-698eb29dc22c" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/3991f913-7def-4a47-889b-b6478b72e4b9" />
-
 
 # LossLEss Gaming ?
-I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music.. [What is a VTOC?](https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-vtoc) @IBM The VTOC index enhances the performance of VTOC access. [ReadMore @Blackgirlscode](https://www.ibm.com/docs/en/zos/2.5.0?topic=contents-vtoc-index)
+I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music.. [What is a VTOC?](https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-vtoc) @IBM The VTOC index enhances the performance of VTOC access. [ReadMore @Blackgirlscode](https://www.ibm.com/docs/en/zos/2.5.0?topic=contents-vtoc-index), Daytona USA was a chd on [DreamCast](https://rashardmro.tumblr.com/post/810570216043085824) it actually played well, but it stillfelt like a shitty gamegear experiance that was well crafted to make a genesis person happy. I hope i dont sound too critical @RockstarGames @electronicarts
 
 ![https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zconcepts/zOSB023.gif](https://www.ibm.com/docs/en/zosbasics/com.ibm.zos.zconcepts/zOSB023.gif)
 
@@ -32,6 +28,17 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 
 <img  alt="src=https://64.media.tumblr.com/7a7e97e7e7f794428d56d32dfcb64edf/f7f44045e3cd4b34-dc/s1280x1920/4efe298c6d830ed12508d07ea9faffebe860e80a.png Image from Rashard[M_R_O/JPL/NASA]" src="https://github.com/user-attachments/assets/0beffa27-e90f-47e7-b778-64f4fe6a6b07" />
 <img src="https://s.pacn.ws/1/p/PA.73932.001.jpg?v=j5gnac&amp;width=480"/>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/da8cff37-ac71-4c41-a533-21cb73040743" />
+<img  alt="image" src="https://github.com/user-attachments/assets/aec98af1-4aef-4032-83ef-f4b2b466df42" />
+<img alt="image" src="https://github.com/user-attachments/assets/4184402b-930d-4ff4-ba54-7de3a1465ded" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c37ebb6e-d439-4f93-b594-698eb29dc22c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3991f913-7def-4a47-889b-b6478b72e4b9" />
+
 
 OverDrivin Was unplayable, It was a CHD format demo
 <img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/>
