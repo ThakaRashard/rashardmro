@@ -17,7 +17,14 @@ permalink: /smartphonelab
 
 I worked hard to have any chance to et online when this was new.  But really did not comprehend what to do... @StateOFCalifornia @La-County-ISD theres spart people locked out purely from displacement, how do we help them ? 
 [@cityoflosangeles](https://rashardmro.tumblr.com/post/810482637078757376/nasa-firms) Ok Ted Ross, while i want to stay under the coddling care of my matriarchy, i know you know at somepoint emulation willbe discussed @defcon and i will prepare a healthy presentation, I did it for jehovah man @nasa @deptofdefense @la-county-isd i do it for america now @blackgirlscode [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z)
-<img src="https://64.media.tumblr.com/964e3b25d4770c67b9274b023a28ea98/fa68421115e3e47c-6a/s1280x1920/8e246c86886bcc08d7fa4f587b5e4ba6a3670436.png @la-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z @HollyJMitchell @cityoflosangeles @paul.wingate"/>
+
+<img  alt="https://64.media.tumblr.com/964e3b25d4770c67b9274b023a28ea98/fa68421115e3e47c-6a/s1280x1920/8e246c86886bcc08d7fa4f587b5e4ba6a3670436.png @la-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z @HollyJMitchell @cityoflosangeles @paul.wingate" src="https://github.com/user-attachments/assets/0be7b4d3-5e89-4aea-9640-8143cd835393" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac5b4c7-9cb0-434a-9bbc-52ed0e5a768e" />
+
+
+<img alt="#karen bass from Rashard[M_R_O/JPL/NASA]"  alt="image" src="https://github.com/user-attachments/assets/02e3a82a-aebd-4250-8efd-0640579fc2f0" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/1a625089-48fc-4bd1-8112-12876d3d6b0a" />
 <img  alt="image" src="https://github.com/user-attachments/assets/bfa2dd3e-387a-47e6-9ec6-ae04dde713d0" />
 
