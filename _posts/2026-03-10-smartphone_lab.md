@@ -10,6 +10,22 @@ permalink: /smartphonelab
 
 
 
+
+
+# Online, But what else
+
+
+I worked hard to have any chance to et online when this was new.  But really did not comprehend what to do... @StateOFCalifornia @La-County-ISD theres spart people locked out purely from displacement, how do we help them ? 
+[@cityoflosangeles](https://rashardmro.tumblr.com/post/810482637078757376/nasa-firms) Ok Ted Ross, while i want to stay under the coddling care of my matriarchy, i know you know at somepoint emulation willbe discussed @defcon and i will prepare a healthy presentation, I did it for jehovah man @nasa @deptofdefense @la-county-isd i do it for america now @blackgirlscode [https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z)
+<img src="https://64.media.tumblr.com/964e3b25d4770c67b9274b023a28ea98/fa68421115e3e47c-6a/s1280x1920/8e246c86886bcc08d7fa4f587b5e4ba6a3670436.png @la-county-isd https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-84.3,41.4,4.0z @HollyJMitchell @cityoflosangeles @paul.wingate"/>
+<img   alt="image" src="https://github.com/user-attachments/assets/1a625089-48fc-4bd1-8112-12876d3d6b0a" />
+<img  alt="image" src="https://github.com/user-attachments/assets/bfa2dd3e-387a-47e6-9ec6-ae04dde713d0" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/3d73b385-efda-4259-895a-28964f8111a2" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9de6935d-a61f-476d-b97d-6a5c9400a3bb" />
+<img  alt="https://64.media.tumblr.com/060bbbd2d440d05a0c723a69bf8804d4/fa68421115e3e47c-e1/s1280x1920/16880f8fb27c048609f55fb3a8e3fe5710409c4a.png" src="https://github.com/user-attachments/assets/a46b68d9-9a16-4b69-99e4-dfa247ee70d9" />
+
+
 # LossLEss Gaming ?
 I tried RoadRash (Japan) 3do  ... the menu system was much cleaner with the chd vs .iso but the game lagged... the USA version is playable this one was not ani think it's the file packaging's VTOC aka [`Volume Table of Contents` ](https://en.wikipedia.org/wiki/Volume_Table_of_Contents).. As i look over @RetroPie ' [doc](https://retropie.org.uk/docs/CHD-files/) on the file format, i see its losslessly compressed as well, I guess this is like [Flac](https://xiph.org/flac/) for music.. [What is a VTOC?](https://www.ibm.com/docs/en/zos-basic-skills?topic=more-what-is-vtoc) @IBM The VTOC index enhances the performance of VTOC access. [ReadMore @Blackgirlscode](https://www.ibm.com/docs/en/zos/2.5.0?topic=contents-vtoc-index), Daytona USA was a chd on [DreamCast](https://rashardmro.tumblr.com/post/810570216043085824) it actually played well, but it stillfelt like a shitty gamegear experiance that was well crafted to make a genesis person happy. I hope i dont sound too critical @RockstarGames @electronicarts [Is a chd file better than a iso file? `u/shinestarshine1 ? on r/Retroarch` @reddit](https://www.reddit.com/r/RetroArch/comments/y302ia/is_a_chd_file_better_than_a_iso_file/?rdt=59613)
 
@@ -41,6 +57,12 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 <img  alt="image" src="https://github.com/user-attachments/assets/aec98af1-4aef-4032-83ef-f4b2b466df42" />
 <img alt="image" src="https://github.com/user-attachments/assets/4184402b-930d-4ff4-ba54-7de3a1465ded" />
 
+**Starblade** is a 1991 rail shooter video game developed and published by Namco for arcades. [wiki](https://en.wikipedia.org/wiki/Starblade) :: [ArcadeReview](https://solvalou.com/arcade/reviews/208/327)
+PSX with textures added
+<img   alt="image" src="https://github.com/user-attachments/assets/18c98782-eed4-4d02-bcfa-8465215dde03" />
+<img   alt="image" src="https://github.com/user-attachments/assets/b598f9e6-f65b-4def-9c8d-14bc29321364" />
+
+
 # PPSSPP 1.20.2
 _A PSP emulator_ @newshour @blackgirlscode 
 PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects. [homepage](https://www.ppsspp.org/) / [blog](https://www.ppsspp.org/blog/)
@@ -60,8 +82,14 @@ Was Actually Fun
 
 
 OverDrivin Was unplayable, It was a CHD format demo, the phone choked
+
 <img src="https://64.media.tumblr.com/02a6d9bccc1bc1fbcaa42f4b2ede5477/f7f44045e3cd4b34-00/s1280x1920/7532bf813719f2312c93c6d819a79bcf31ea6b5c.png"/>
 <img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/>
+
+**2k1** had the same bugs that 2k and virtua tennis have. Its an impressive title, i cant beilve i slept. but i can @blackgirlscode because of how separatist people are, im grounded in @electronicarts basketball and got banned because of a couple of you when we were younger @CityOfLosANGeles Karen Bass The Mayor, I got put out a long timeago when people thought my Field Service Partners were pretty 
+@
+<img src="https://64.media.tumblr.com/3ab0e7c0509a33837a1fc050dfbb2439/c96fef2516c993b8-55/s1280x1920/c947a2026920deb65023fa29678be45ec728dcb3.png"/> 
+ <img  alt="image" src="https://github.com/user-attachments/assets/845eda4f-ea4d-496b-8363-1d79fbf9b342" />
 
 # LoGz
 
