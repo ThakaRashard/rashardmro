@@ -67,9 +67,12 @@ OverDrivin Was unplayable, It was a CHD format demo, the phone choked
 
 [Latrice](https://www.facebook.com/thevirtiservway/)
 abt ur work ethik `no dice` i swear i was not talking about you @blackgirlscode 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a428b4a9-8163-4489-8398-4a9c943a4ef5" />
 
+
 ![@howard-university-web-services @nasa-jpl](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif) 
+<img alt="image" src="https://github.com/user-attachments/assets/9244f771-64c7-490c-8385-2a8c96a449fa" />
 
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
 <img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
