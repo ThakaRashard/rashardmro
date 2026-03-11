@@ -36,7 +36,7 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
 <img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
 
-[GaurdianHeros](https://dn711308.ca.archive.org/0/items/rashardmro-master/retroarch__2026_03_04__14_41_58.log)
+[GaurdianHeroes](https://dn711308.ca.archive.org/0/items/rashardmro-master/retroarch__2026_03_04__14_41_58.log)
 ```fortran
 RetroArch 1.22.2 (Git 440b49f)
 === Build =======================================
@@ -56,6 +56,10 @@ Capabilities: ASIMD
 [Environ] GET_LED_INTERFACE.
 [Environ] SET_CONTROLLER_INFO.
 ```
+
+<img  alt="Image from Rashard[M_R_O/JPL/NASA] image" src="https://github.com/user-attachments/assets/129377c7-cbd6-45d1-bc12-f15376418b09" />
+<img alt="image" src="https://github.com/user-attachments/assets/3deaaf5f-4b9a-407b-823b-8c6942642de5" />
+
  What a frontend ! @blackgirlscode  [https://gam.onl/sega-saturn/#segaSaturn---207](https://gam.onl/sega-saturn/#segaSaturn---207)
 <img   alt="image" src="https://github.com/user-attachments/assets/17068d88-176b-4892-98df-5bb01d190b7b" />
 
