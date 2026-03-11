@@ -29,10 +29,13 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 <img  alt="src=https://64.media.tumblr.com/7a7e97e7e7f794428d56d32dfcb64edf/f7f44045e3cd4b34-dc/s1280x1920/4efe298c6d830ed12508d07ea9faffebe860e80a.png Image from Rashard[M_R_O/JPL/NASA]" src="https://github.com/user-attachments/assets/0beffa27-e90f-47e7-b778-64f4fe6a6b07" />
 <img src="https://s.pacn.ws/1/p/PA.73932.001.jpg?v=j5gnac&amp;width=480"/>
 
-
+OverDrivin Was unplayable, It was a CHD format demo
 <img src="https://64.media.tumblr.com/909ad2a144ae3dfee059a5ac4aa2d5a4/f7f44045e3cd4b34-da/s1280x1920/d1e696f32dbeaaff7d4b3017f23dee809527145f.png"/>
 
 # LoGz
+
+[Latrice](https://www.facebook.com/thevirtiservway/)
+![@howard-university-web-services @nasa-jpl](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif) 
 
 @blackgirlscode rihanna case on ! @nasa-jpl I have logs from my gaming @libretro [https://lacity.gov/tv](https://lacity.gov/tv)
 <img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
