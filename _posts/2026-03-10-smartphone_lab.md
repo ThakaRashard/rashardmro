@@ -41,6 +41,11 @@ FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but l
 <img  alt="image" src="https://github.com/user-attachments/assets/aec98af1-4aef-4032-83ef-f4b2b466df42" />
 <img alt="image" src="https://github.com/user-attachments/assets/4184402b-930d-4ff4-ba54-7de3a1465ded" />
 
+# PSP CrazyTaxi
+Was Actually Fun 
+<img src="https://64.media.tumblr.com/c656f68bf50771eb3c92884c0493d69f/9d239f3821f9431c-0e/s1280x1920/2a66f13829a70b0fd6d0676aad0abba045fe2feb.png"/> 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/13c2ae53-1fb2-4ccb-a8b3-92a6430e9837" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c37ebb6e-d439-4f93-b594-698eb29dc22c" />
 
