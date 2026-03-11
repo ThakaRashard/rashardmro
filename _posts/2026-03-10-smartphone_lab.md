@@ -92,6 +92,7 @@ Capabilities: ASIMD
 @Swordfish90 /Lemuroid @flyinghead /flycast  What a frontend ! @blackgirlscode  [https://gam.onl/sega-saturn/#segaSaturn---207](https://gam.onl/sega-saturn/#segaSaturn---207)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7f106787-34be-4c71-9d4e-25dbe884d215" />
+<img  alt="image" src="https://github.com/user-attachments/assets/6f5cf73e-b8d1-40bb-a38d-3b7e13ca2040" />
 
 
 
