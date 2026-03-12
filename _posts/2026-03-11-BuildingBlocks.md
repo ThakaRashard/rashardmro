@@ -7,6 +7,34 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+@UCLA @NASA-PDS @NASA-JPL the sdo lab sit is not responding from [Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/) ::
+According to [whatismyipaddress.com](https://whatismyipaddress.com/ip/205.154.246.79) the ip is being served from Cypress California 
+
+```
+This site can’t be reached
+The webpage at https://sdo.gsfc.nasa.gov/ might be temporarily down or it may have moved permanently to a new web address.
+ERR_TUNNEL_CONNECTION_FAILED
+
+
+EXTERNALiP
+Decimal:3449484879
+Hostname:lib-03-subnet-79.rdns.cenic.net
+ASN:2152
+ISP:CENIC
+Services:None detected
+Country:United States
+State/Region:California
+City:Cypress
+Latitude:33.8170 (33° 49′ 1.05″ N)
+Longitude:-118.0373 (118° 2′ 14.25″ W)
+```
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.38/-13139885.16/4004237.22&layers=aqv_chla_20260310_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.38/-13139885.16/4004237.22&layers=aqv_chla_20260310_sentinel:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/e3484162-c2ff-48b7-aecb-79505442dc7f" />
+<img alt="image" src="https://github.com/user-attachments/assets/4fc28ecf-6c8b-4086-ad71-018228542f95" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/03c0606c-b737-4b5f-89df-78506dea3aaa" />
+
+
 [Vassilis Angelopoulos](mailto:vassilis@ucla.edu) /
 [davin@ssl.berkeley.edu](mailto:davin@ssl.berkeley.edu) , [ian.mann@ualberta.ca](mailto:ian.mann@ualberta.ca)
 [nasa.gov/nssdc/](https://www.nasa.gov/nssdc/) @nasa _`The NASA Space Science Data Coordinated Archive website is temporarily offline for maintenance.`_ [outage](https://www.earthdata.nasa.gov/data/alerts-outages) its the homepage for [Themis igpp @ucla edu](https://themis.igpp.ucla.edu/) :: [Measurements](https://themis.igpp.ucla.edu/summary.php?year=2026&month=02&day=13&hour=0024&sumType=tha&type=overview) // NSSDC is part of the Solar System Exploration Data Services Office (SSEDSO) in the Solar System Exploration Division at NASA's Goddard Space Flight Center ... [catalog.data.gov/dataset/national-space-science-data-center-master-catalog](https://catalog.data.gov/dataset/national-space-science-data-center-master-catalog) :: @NASA-GISS [https://data.nasa.gov/dataset/national-space-science-data-center-master-catalog](https://data.nasa.gov/dataset/national-space-science-data-center-master-catalog) @whitehouse @blackgirlscode kim if the educators want to they can try this [Near/Deep Space Monitoring Tool ScanNOW](https://scan-now.gsfc.nasa.gov/scan) @la-county-isd if you look up every satelittle that beams in theres tons of [f.o.i.a. @usdoj](https://www.foia.gov/) [[1](https://github.com/usdoj/foia.gov)] data to harvest guilt free for teaching! [Horizons](https://ssd.jpl.nasa.gov/horizons/tutorial.html) is the system im using when im on @LACMTA [METRO](https://www.metro.net/)  // <img width="180" height="98" alt="image" src="https://github.com/user-attachments/assets/31469b25-b195-4cef-b1d0-55da418f93cc" />

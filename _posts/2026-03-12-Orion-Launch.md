@@ -5,6 +5,7 @@ published: true
 date:   2026-03-03 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
+permalink: /artemis2
 ---
 
 @NASA's Artemis II Live Views from Kennedy Space Cente
@@ -25,6 +26,18 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
+@doug-newman-nasa @voyager-tech-inc : @la-county-isd @cityofsandiego @blackgirlscode @CityOfLosAngeles 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpMMAdqMGWA?si=cfF4avptLv4vND4G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[NASA's Artemis II Flight Readiness News Conference (March 12, 2026)](https://youtube.com/live/SpMMAdqMGWA?si=SVHUYRIcF8Y4Akx9) 
+If I get kicked off the web I'd like to get logged back on if my library card start acting like a gas station calling card again - [ra5hard.github.io](ra5hard.github.io) @blackgirlscode @la-county-isd @nasa-jpl
+
+
+
+
+Sent from Proton Mail for Android.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A336070390&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/houston-we-have-a-podcast" title="Houston We Have a Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast</a></div>
 
 [WATCH - Liftoff_of_Orion.webm.480p.vp9.webm](https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Liftoff_of_Orion.webm/Liftoff_of_Orion.webm.480p.vp9.webm) uploaded by [`ZiaLater` - https://en.wikipedia.org/wiki/User:ZiaLater](https://en.wikipedia.org/wiki/User:ZiaLater)// 

@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-19 8:51:06 
+date:   2026-03-06 8:51:06 
 ---
 
 
@@ -26,6 +26,107 @@ date:   2026-02-19 8:51:06
 4 # UNiVERSE#####################virtiservastro____######
 
 {% endhighlight %}
+
+
+@whitehouse @isro [PeteHegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) @la-county-isd @blackgirlscode @TheSpaceDevs @BlueOrigin . . . Blue Origin you guys had NewGlennGossip Earlier [When will Jeff Bezos' Blue Origin launch New Glenn again?](https://www.usatoday.com/story/news/nation/2026/03/05/jeff-bezos-blue-origin-new-glenn-rocket-launch/88979740007/) @usatoday
+`NISAR_L2_PR_GSLC_007_034_A_019_4005_DHDH_A_20251206T130825_20251206T130900_X05009_N_F_J_001`
+<img   alt="NISAR_L2_PR_GSLC_007_034_A_019_4005_DHDH_A_20251206T130825_20251206T130900_X05009_N_F_J_001" src="https://github.com/user-attachments/assets/7f42b4ef-0671-4d5e-9223-3ba4195575cf" />
+
+[`Pete Hegseth @Whitehouse`](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
+
+![https://media.defense.gov/2025/Jan/28/2003633313/-1/-1/0/250127-D-TT977-1051.JPG](https://media.defense.gov/2025/Jan/28/2003633313/-1/-1/0/250127-D-TT977-1051.JPG) @podaac  @CityOfLosAngeles you can check with @nasa-jpl if you need to 
+
+@isro @nasa-jpl @asfadmin this is @la-county-isd @CityOfLosAngeles `NISAR_L2_PR_GUNW_007_034_A_019_009_4000_SH_20251206T130825_20251206T130900_20251230T130826_20251230T130901_X05010_N_F_J_001`
+<img  alt="NISAR_L2_PR_GUNW_007_034_A_019_009_4000_SH_20251206T130825_20251206T130900_20251230T130826_20251230T130901_X05010_N_F_J_001" src="https://github.com/user-attachments/assets/4c4d00ba-530b-4aba-8bc4-d1bef692d50a" />
+
+`NISAR_L1_PR_RSLC_008_013_D_071_0005_NADV_A_20251217T024036_20251217T024111_X05009_N_F_J_001`
+<img alt="NISAR_L1_PR_RSLC_008_013_D_071_0005_NADV_A_20251217T024036_20251217T024111_X05009_N_F_J_001" src="https://github.com/user-attachments/assets/de9faca9-85fa-4721-bc77-faa1966180fb" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/3d6a4d32-4fe5-4852-84b7-8bb83fafcc14" />
+
+_old_ `GroundhogDay` theress green algal blooms in the river today and red/brownorange [https://github.com/CityOfLosAngeles/aqueduct](https://github.com/CityOfLosAngeles/aqueduct) @CityOfLosAngeles
+@doug-newman-nasa i found a site that talk about blooms of alge while looking at the LongBeach Community Development environmental Report [link](https://www.longbeach.gov/lbcd/planning/environmental/reports/) and someone was advertising `Drout Resistant Buffers` @la-county-isd like to mark landscape... upon looking up what that was a dealer mentions [alge @nasa-jpl](https://svs.gsfc.nasa.gov/14648/) like Oceans in bloom Discusses [https://svs.gsfc.nasa.gov/14648/](https://svs.gsfc.nasa.gov/14648/) ... [https://extension.unr.edu/publication.aspx?PubID=5008](https://extension.unr.edu/publication.aspx?PubID=5008) @UNR-HPC hi im rashard , i have a child with a girl who went to [JobCorp](https://sierranevada.jobcorps.gov/) and please know im professinoal... i dont knwo what kenya shoals said about [me @blackgirlscode `oakland`](https://community.wearebgc.org/events) [@wearebgc - wearebgc.org/](https://www.wearebgc.org/) @nasa-pds @CityOfLosangeles 
+@OWASP
+
+- Excess fertilizers can cause algae blooms, which deplete the water of oxygen, degrading the conditions for fish and other aquatic species.
+- Algae blooms produce toxins that make the water unsafe to drink or recreate in.
+- Pesticides can also negatively impact aquatic species, such as mayflies.
+ [readmore](https://extension.edu/publication.aspx?PubID=5008)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1726604-eb35-4801-acf4-4ffdf22d3f22" />
+
+# False Color 
+<img   alt="image" src="https://github.com/user-attachments/assets/a0bf6905-7154-45ac-85f5-bd40049f3c26" />
+
+@eu-cdse Moisture index you guys may wanna anticipate @la-county-isd, i forgot to do displacement mapping . . . ill get it at some point, ill get the mobile phone version later Ms Baass/Mitchell @usgs @Nasa-jpl 
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/b94b7994-8741-49b8-9f23-e44844cb047c" />
+
+@LACountyDPH Leslie Cooper Johnson [[1](https://voyagela.com/interview/check-out-leslie-cooper-johnsons-story/)] please read over [this abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract). People on computers can be creepy, so i want you guys to learn more about my mission on earth, _plz add_ `NonReliGiousTonaliTY` @nasa-jpl @emit-sds @doug-newman-nasa @nasa @whitehouse @atfweb and @blackgirlscode i send messages because mee and [Normani](https://www.youtube.com/watch?v=6ybbe7yX4_c) went out on a date and i made commitments to her dance  responsiblities, and she wanted me to share my data for lesson plans homeschooling like a lot of practical things. You know playboy a brothel... But they were my neigbors and had a fake name `Dance411` @dhs-gov Normani forced me to be her boyfirend because i was a jehovah witness and erika dumped me! Because she was cyber bullied, she doesnt even put out and im getting poisoned! [`1watch?v=6ybbe7yX4_c`Fifth Harmony's Normani Kordei on dealing with horrific cyberbullying](https://www.youtube.com/watch?v=6ybbe7yX4_c) and i have about 3 girlfriends and [AlamedaCountyErika](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) yo cuzin Akire Sister out. Im not a Covid Rapist or [FreakNicK Gigalo](https://www.youtube.com/watch?v=6bN45f9NjlA) because they wre in blackface and [marilyn makeup](https://www.youtube.com/watch?v=FiGAkDE7s7o), aka prostehtics and made up a character, 1 named muna and another named latrice and im embarrassed scared and bleeding from chemical wounds... when we became intimate and [its like 20 of them](https://www.youtube.com/watch?v=WDZJPJV__bQ) and i nevr claimed that many, but i know 3 girls were sneaking through my french doors to cuddle with me, and now people send me castration threats!!!! @la-county-isd and i dont want to talk still Mayor Karen im so confused, thats y i said its a shit hole on @LACMTa 
+[https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) @fbicyber @cisa
+
+
+@nasa-jpl @emit-sds @nasa-giss @[doug-newman-nasa](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) hi, i think [Latrice](https://www.facebook.com/thevirtiservway/) might be [Chloe Bailey](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ). I saw a girl on the train @LACMTA @la-county-isd with the spots on her face like the ones on my butt. Someone put the acid on her.. my butt looks like her face her face. So i went to @disney @github and found this software.... `MaterialX`...while debugging the issue.. I dont know what the  we DSN have been doing for [eyes.nasa.gov](https://science.nasa.gov/eyes/) display but this is fabulous @podaac [https://academysoftwarefoundation.github.io/MaterialX/](https://academysoftwarefoundation.github.io/MaterialX/) // Special Joint Meeting - Ad Hoc Committee on Unarmed Crisis Prevention and Transportation Committee [watch](https://youtu.be/JRUb5umOw6M) @CityOfLosAngeles @NAsa-OPENSCAPES @blackgirlscode 
+
+<img   alt="@blackgirlscode" src="https://github.com/user-attachments/assets/0ce48051-f47a-4835-8acb-a730f38fc90e" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a8f5dced-70be-4b31-a8c1-13273fd94ace" />
+
+# Special Joint Meeting 
+_- Ad Hoc Committee on Unarmed Crisis Prevention and Transportation Committee_
+## [Watch](https://www.youtube.com/live/JRUb5umOw6M?si=uDFQGdJPHhqSdfbi)
+@nasa-jpl @emit-sds @blackgirlscode there is some talk about the attackes on unarmed people. I saw Chloe on the train with spots on her face like i have on my butt @la-county-isd she work for @disney
+
+## Groundwater Declines in the U.S. Southwest
+![Groundwater Declines in the U.S. Southwest](https://eoimages.gsfc.nasa.gov/images/imagerecords/152000/152970/groundwater_grace_2023_lrg.jpg)
+
+
+
+[NasaJpl_Flickr](www.flickr.com/photos/nasa-jpl)
+
+[Feb25 snapshot @nasa-jpl](https://web.archive.org/web/20250208075001/https://www.flickr.com/photos/nasa-jpl/)
+
+@nasa @la-county-isd @podaac @nasa-jpl `404: Not Found ° [NasaJpl_Flickr] www.flickr.com/photos/nasa-jpl)`
+
+@google @vsco [Check out Google’s new Santa Monica store](https://www.google.com/amp/s/ktla.com/news/local-news/check-out-googles-new-santa-monica-store/amp/)
+@nasa-jpl @blackgirlscode
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a83f05df-3b9a-409f-a86f-b3b25d516377" />
+
+OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1) \__N_R_T:DataProduct_ @CityOflosangeles @StateOfCalifornia 
+
+[https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071-151230-IW2_20260203T135146Z_20260203T183851Z_S1C_30_v1.0_BROWSE.png](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071-151230-IW2_20260203T135146Z_20260203T183851Z_S1C_30_v1.0_BROWSE.png)
+@la-county-isd `https://archive.org/download/nsn-overview-noaccess_NASAJPL_rashardsJob` 
+@cityoflosangeles can someone share with [LongBeach](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/) `https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/OPERA_L2_RTC-S1_T071*` <! filnames @blackgirlscode @whitehouse i dont know what the status of your group is 
+
+<img  alt="2026-01-27-00_00_2026-01-27-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/270403ff-df7d-4c34-9c2b-b342dd65b4c4" />
+
+## Thermal Anomolies
+### 1/29/2026 @la-county-isd
+[LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,countries,earth;@-118.149,33.784,12.516z)
+<img  alt="image" src="https://github.com/user-attachments/assets/0b31d621-332a-4de3-b564-66a8718640e8" />
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/810302078013587456" data-did="034ca0dc59cc5fffea68f2703c4085ae51f148e1"><a href="https://rashardmro.tumblr.com/post/810302078013587456/libretro-retroarch-no-blogs-found">https://rashardmro.tumblr.com/post/810302078013587456/libretro-retroarch-no-blogs-found</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+@la-county-isd @landsat _2026-02-26 - 57_ [`files`](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/57/LC08_L1TP_041036_20260226_20260226_02_RT) - [MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13171990.07/4111399.44&layers=aqv_rgb_20260226_landsat:1.00:default) idk if its fire @emit-sds @nasa-jpl [MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.52/-13166342.85/4045631.01&layers=aqv_rgb_20260226_landsat:1.00:default) @CityOfLosAngeles 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4da416d1-0fa6-4825-b6a6-afad1fb0818f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/54ae9d96-60e6-4cdf-a04a-a1142b32f613" />
+
+it looks like it may have been an aerosol that cast a shadow @faa @nasa @nasa-jpl @la-county-isd it was a busy day for [Thermal Anomolies]()[https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2026-02-26,2026-02-26;l:fires_all,fire-perimeter,countries,terra_crc,earth;@-117.19,33.98,9.15z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2026-02-26,2026-02-26;l:fires_all,fire-perimeter,countries,terra_crc,earth;@-117.19,33.98,9.15z)
+`Temperature anomaly is the difference, positive or negative, of a temperature from a base or reference value` [Wiki](https://en.wikipedia.org/wiki/Temperature_anomaly) / [Lance/FiRMS](https://firms.modaps.eosdis.nasa.gov/descriptions/FIRMS_MODIS_Firehotspots.html)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/77df934a-6310-4263-a2b9-4d70c45e33ca" />
+
 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -1160,6 +1261,21 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

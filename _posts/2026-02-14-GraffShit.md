@@ -1,12 +1,19 @@
 ---
 layout: post
 title:  "GraffShit"
-date:   2026-02-11 22:51:06 -0800
+date:   2026-02-14 22:51:06 -0800
 categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
-2026-01-01-GraffShit.md
+ 
+@la-county-isd 
+If Latrice writes geek, check on her @blackgirlscode she may have lost a friend @foratlanta normani if Niki or  cardi write soren i hope i can talk to the fam at some point just to say she was a coral birthday and i respected her physicality without being nasty  ././ @nasa-jpl @cityoflosangeles
+<img  alt="https://64.media.tumblr.com/9bab133a9a660e65e7592124d1ba78af/f7f44045e3cd4b34-1b/s1280x1920/d69f9bf92801155176ae94ddde77df9db7b8b3c0.jpg" src="https://github.com/user-attachments/assets/34349334-fffe-4ace-8ad2-ec10a332f46b" />
+ 
+<img alt="https://64.media.tumblr.com/d36f93cf689fc5ca9cbbe84b48602563/f7f44045e3cd4b34-6e/s1280x1920/f9bc49bc1b6ed49e5dbc16c27c83b243646aa38f.jpg" src="https://github.com/user-attachments/assets/cc6eaa05-9148-416c-ab4a-5afa08ececeb" />
+
+
 
 @blackgirlscode [ジェット セット ラジオ - segaretro.org/Jet_Set_Radio](https://segaretro.org/Jet_Set_Radio) + @foratlanta [file](https://archive.org/details/sega-dreamcast-roms) @ign + @nasa-jpl , @ign check this repo and [its pages home](https://jplopensourcerover.com/#!/home) just play with it @newshour @ktla @la-county-isd 
 <img alt="Screenshot_20260303-095357" src="https://github.com/user-attachments/assets/b74e7a1c-9458-4a8f-a3b1-c18bc8359b07" />

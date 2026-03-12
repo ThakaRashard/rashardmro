@@ -11,6 +11,8 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+[NaginCox](mailto:nagincox@outlook.com) @nasa-jpl I was try to email an update that curiosity was talking in [Goldstone](mailto:goldstonevc@jpl.nasa.gov) and my @protonmail @android client kept dropping connections sending me back to draft @blackgirlscode 
+
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a533ee6e-228a-42ff-9695-8d04d31fb0d7)
 
 <iframe src="https://archive.org/embed/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

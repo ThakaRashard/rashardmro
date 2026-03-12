@@ -11,6 +11,26 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
+
+
+@doug-newman-nasa @foratlanta is dwayne cripass gooden still free? @nasa-jpl @blackgirlscode @la-county-isd
+Hey [KarenBassTheMAyor!](https://www.congress.gov/member/karen-bass/B001270) I was working remote jobs living with erika in East Atlnata! And I dont knwo what playboy did to me! But all these companies that fired me saying i was `having tooo much fun` are dark on @github like [Atlanticus](https://www.atlanticus.com/) and [iOnic](https://cloud.google.com/find-a-partner/partner/ionic-security) .. @nasa-jpl investigate them for sex trafficking @fbicyber
+
+
+[https://www.infoblox.com/solutions/dns/](https://www.infoblox.com/solutions/dns/)
+<img   alt="image" src="https://github.com/user-attachments/assets/5fe5694e-6943-4d47-879c-20e78e9e6991" />
+
+[https://www.pearson.com/en-us/higher-education/educators.html?utm_source=google&utm_medium=paidsearch&utm_campaign=always-on&utm_content=responsive-search-ad&utm_term=awareness&gclsrc=aw.ds&gad_source=1&gad_campaignid=23012468818&gbraid=0AAAAAC5gKUqkvPIbwsOdhPoRKIMv9BffA&gclid=Cj0KCQjwgr_NBhDFARIsAHiUWr6liVUdPAWEt6ciiEJ608BaMKt7-XtjxL3KcU4UUsN75ytLMV0PLzQaAtsXEALw_wcB](https://www.pearson.com/en-us/higher-education/educators.html?utm_source=google&utm_medium=paidsearch&utm_campaign=always-on&utm_content=responsive-search-ad&utm_term=awareness&gclsrc=aw.ds&gad_source=1&gad_campaignid=23012468818&gbraid=0AAAAAC5gKUqkvPIbwsOdhPoRKIMv9BffA&gclid=Cj0KCQjwgr_NBhDFARIsAHiUWr6liVUdPAWEt6ciiEJ608BaMKt7-XtjxL3KcU4UUsN75ytLMV0PLzQaAtsXEALw_wcB)
+<img   alt="image" src="https://github.com/user-attachments/assets/dddbac02-024f-415a-ab55-acba48caff12" />
+
+@doug-newman-nasa hi i was looking over my EULAs and sent you an email @PearsonEducation .. they have no public repos, did they collapse after that datacenter move, I worked from [Taos](https://www.indeed.com/cmp/Taos/reviews?fcountry=US&floc=San+Jose%2C+CA) in sanjose  @la-county-isd Mayor Bass however i got exiled, im triying to understand what all i agreed to, and that people may not have the resources to deliver on because i did not know there were expectations after dates and now people in different lifestyles. Im just trying to reach coral @blackgirlscode @newshour [https://sealevel.nasa.gov/data_tools/2/](https://sealevel.nasa.gov/data_tools/2/) @nasa-jpl @CityOfLosAngeles @ForAtlanta
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c92ac33b-a09a-4598-aed8-56b646decbc4" />
+
+
+
+
+
 Contractors coming back ? @blackgirlscode normani [link](https://youtu.be/geneWmI9ZMY), im still on but as some strange employee category [Latrice](https://www.facebook.com/thevirtiservway/)
 
 <img alt="image" src="https://github.com/user-attachments/assets/c7ba6835-9110-4dbe-90db-0c643e2a38f2" />

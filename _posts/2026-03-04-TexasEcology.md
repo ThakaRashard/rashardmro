@@ -33,6 +33,11 @@ date:   2026-03-04 8:51:06
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/rashardiman/rashardiman.github.io](https://github.com/rashardiman/rashardiman.github.io/tree/master) + [homepage alt - rashardiman.github.io](https://rashardiman.github.io/)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/17e8948e-4195-43ec-bac5-1fc6279c13d2" />
+
+@podaac im just tossing this info places @nasa-jpl this is interesting . . . Its been cloudy over texas the last couple days and the mosaics grid is visible. It helped me understand a lot @nasa-giss @blackgirlscode [MAP - ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-10835827.56/3886299.37&layers=aqv_rgb_20260304_sentinel:1.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-10835827.56/3886299.37&layers=aqv_rgb_20260304_sentinel:1.00:default) // [FiLES - ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/63/S2C_MSIL1C_20260304T171211_N0512_R112_T14SPB_20260304T204558](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/63/S2C_MSIL1C_20260304T171211_N0512_R112_T14SPB_20260304T204558)
+<img  alt="image" src="https://github.com/user-attachments/assets/47ed67c9-469d-46c2-b128-2eec72a7b534" />
+
 
 ## The Dallas-Fort Worth, Texas metropolitan area
 [_Link @nasa_](https://www.nasa.gov/image-article/dallas-fort-worth-texas-metropolitan-area/)
@@ -484,6 +489,8 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
+
 
 
 
