@@ -25,6 +25,8 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 
 
 @whitehouse 
+[Memorialservice](https://youtu.be/jdoGf55FUWE?t=2222&si=YVHuVU03aOzGL4S0) thanks for wifi this morning @CityOfLosAngeles 
+
 Jesse Jackson Through the Archive
 1941–2026 [ViewPhotos - magnumphotos.com/newsroom/jesse-jackson-through-the-archive](https://www.magnumphotos.com/newsroom/jesse-jackson-through-the-archive/)
 [- also on magnum  magnumphotos.com/photographers/](https://www.magnumphotos.com/photographers/) @la-county-isd @StateOfCalifornia @CityOfLosangeles @emit-sds @nasa-jpl idk how many locals listed in that guild @blackgirlscode... I used to look to them for a lot of direction... Im just living now, i dont need to take photo classes like covid man, that was not cool @chicago @utcsilab @Texas
