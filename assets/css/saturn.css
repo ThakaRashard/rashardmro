@@ -11,7 +11,7 @@ font-size: 1rem;
 
   
 /* background: url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg) -237px 30px no-repeat fixed; */
-background: url(https://science.nasa.gov/wp-content/uploads/2024/05/io-from-juno-close-flyby-p57-%E2%80%9315850.jpg) -237px 30px no-repeat fixed;
+background: url(https://raw.githubusercontent.com/rashardsdata/rashardmro/refs/heads/master/assets/img/MOSHED-2026-3-13-15-10-17-N00285986.jpg) -237px 30px no-repeat fixed;
 
  
 
@@ -224,7 +224,7 @@ h1, h2, h3 {
     background-attachment: fixed;   
  background-image: 
    /* url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg); */
-   url(https://science.nasa.gov/wp-content/uploads/2024/05/io-from-juno-close-flyby-p57-%E2%80%9315850.jpg);
+   url(https://raw.githubusercontent.com/rashardsdata/rashardmro/refs/heads/master/assets/img/N00285986.jpg);
    
 background-size: cover;/*now this is known for the safari*/
 background-attachment: fixed;     
