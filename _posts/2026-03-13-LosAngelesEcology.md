@@ -28,6 +28,11 @@ date:   2026-03-06 8:51:06
 {% endhighlight %}
 
 
+@nasa-giss out here in @StateOfCalifornia delivery is late @blackgirlscode so some of your data products may not have up to the minute results, i dont know how you guys work @la-county-isd
+<img   alt="image" src="https://github.com/user-attachments/assets/b49eb625-43ff-4cd4-8a84-6065a825fd54" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3ee4f4db-d1c7-4968-a4da-c6cf9463e243" />
+
 @whitehouse @isro [PeteHegseth](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) @la-county-isd @blackgirlscode @TheSpaceDevs @BlueOrigin . . . Blue Origin you guys had NewGlennGossip Earlier [When will Jeff Bezos' Blue Origin launch New Glenn again?](https://www.usatoday.com/story/news/nation/2026/03/05/jeff-bezos-blue-origin-new-glenn-rocket-launch/88979740007/) @usatoday
 `NISAR_L2_PR_GSLC_007_034_A_019_4005_DHDH_A_20251206T130825_20251206T130900_X05009_N_F_J_001`
 <img   alt="NISAR_L2_PR_GSLC_007_034_A_019_4005_DHDH_A_20251206T130825_20251206T130900_X05009_N_F_J_001" src="https://github.com/user-attachments/assets/7f42b4ef-0671-4d5e-9223-3ba4195575cf" />
