@@ -28,6 +28,13 @@ date:   2026-03-06 8:51:06
 {% endhighlight %}
 
 
+
+@CityOfLosAngeles @DataDesk @NBCNEWS @La-County-isd @nasa-jpl
+Today the clouds took on the shape of the pinninsula @cbs-news-data @disney please tell chloe i was out of line im sorry man
+[https://worldview.earthdata.nasa.gov/?v=-123.17157520127292,32.130700256296414,-116.4199191187813,35.45378098439776&t=2026-03-16-T01%3A51%3A46Z](https://worldview.earthdata.nasa.gov/?v=-123.17157520127292,32.130700256296414,-116.4199191187813,35.45378098439776&t=2026-03-16-T01%3A51%3A46Z)
+<img   alt="image" src="https://github.com/user-attachments/assets/4bc02119-fc86-4f2c-888d-a3e5a2fb3180" />
+
+
 @nasa-giss out here in @StateOfCalifornia delivery is late @blackgirlscode so some of your data products may not have up to the minute results, i dont know how you guys work @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/b49eb625-43ff-4cd4-8a84-6065a825fd54" />
 
