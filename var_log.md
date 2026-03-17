@@ -4,6 +4,9 @@ title: "/var/log"
 permalink: /var/log
 ---
 
+
+![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
+
 @foratlanta [Savannah St. Patrick's Day Parade 2026](https://youtu.be/h2m0osu4KA8) @blackgirlscode [LACOUNTY_DAiLY_MEETING_TO RUN_LOSANGELES](https://www.youtube.com/watch?v=N620rIEB5Yg) @opensavannah
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2bf2b96a-d7f6-492b-b026-fb4b0092d389" />
