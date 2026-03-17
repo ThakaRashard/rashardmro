@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a601041-10f2-42bb-99fe-8306b508ae21" />---
+---
 layout: post
 title:  SavannahEcology
 published: true
@@ -25,6 +25,7 @@ image: coral495958980-e7820ab0-fa23-421b-8290-13e29f961576.png
 [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.64/-8975610.79/3796226.33&layers=aqv_chla_20260203_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.64/-8975610.79/3796226.33&layers=aqv_chla_20260203_landsat:1.00:0.00:30.00:default) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/c34b1207-b03d-4aa3-9722-e41323450375" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9a601041-10f2-42bb-99fe-8306b508ae21" />
 <img  alt="image" src="https://github.com/user-attachments/assets/8c4a02ee-caaf-4e87-abb1-c85e6c60a71b" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/70c05733-48c2-4a55-a6a8-970d91b020e9" />
