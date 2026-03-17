@@ -12,8 +12,8 @@ author: RashardKelly @nasa-jpl
 # Los Angeles County
 Board of Supervisors Meeting - 3/17/26
  @la-county-isd you have connectivity issues from billy jean in [LongBeach](https://whatismyipaddress.com/ip/205.154.246.79) @cityoflosangeles @nasa-pds @nasa-jpl
-[https://www.youtube.com/watch?v=N620rIEB5Yg](https://www.youtube.com/watch?v=N620rIEB5Yg) <~ @nasa-jpl @emit-jpl im lost in wildfire meetings and the shit hitting the fan from my onboarding and me getting dumped @newshour if i live just know i never tapped the bathrooom on 14th
-```
+[https://www.youtube.com/watch?v=N620rIEB5Yg](https://www.youtube.com/watch?v=N620rIEB5Yg) <~ @nasa-jpl @emit-jpl im lost in wildfire meetings and the shit hitting the fan from my onboarding and me getting dumped @newshour if i live just know i never tapped the bathrooom on 14th, its back on 
+```shell
 IP Details For: 205.154.246.79
 Decimal:3449484879
 Hostname:lib-03-subnet-79.rdns.cenic.net
@@ -25,8 +25,43 @@ State/Region:California
 City:El Segundo
 Latitude:33.9192 (33° 55′ 9.12″ N)
 Longitude:-118.4166 (118° 24′ 59.69″ W)
+
+
+WORKSTATiOON 9
+C:\Users\pac>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC09
+   Primary Dns Suffix  . . . . . . . : lbpa.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lbpa.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-93-2A
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::30ab:2321:ebe1:4218%12(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.161.109(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 192.168.160.1
+   DHCPv6 IAID . . . . . . . . . . . : 350508264
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-CC-D8-AA-E4-54-E8-71-93-2A
+   DNS Servers . . . . . . . . . . . : 192.168.129.12
+                                       192.168.128.12
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\pac>
 ```
 
+<iframe width="582" height="336" src="https://www.youtube.com/embed/N620rIEB5Yg" title="Los Angeles County Board of Supervisors Meeting - 3/17/26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ea31fbb-5d65-45b9-a619-7704ab0e0cf5" />
 
 
  <img   alt="image" src="https://github.com/user-attachments/assets/b1536267-2e3e-4d17-9c1a-63cfb9a7c3ec" />
