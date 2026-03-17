@@ -7,6 +7,18 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+@JHUAPL i am laggin in email, but someone reach out to [_barbara.j.thompson_](https://www.google.com/search?q=barbara+thompson+nasa&rlz=1C1GCEJ_enUS1123US1123&oq=barbara+thompson+nasa&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgcIAhAAGO8FMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgcIBRAAGO8F0gEINTg2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)  @nasa-jpl she might be running the site offa cellphone and it keep getting stolen @la-county-isd @nasa-pds @CityOfLosAngeles [science.gsfc.nasa.gov/sci/bio/barbara.j.thompson](https://science.gsfc.nasa.gov/sci/bio/barbara.j.thompson)
+
+```
+This site can’t be reached
+The webpage at https://sdo.gsfc.nasa.gov/ might be
+temporarily down or it may have
+moved permanently to a new web address.
+ERR_TUNNEL_CONNECTION_FAILED
+```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec93bb80-302d-4d1a-8468-efa93abf7be0" />
+
 [pilot.wr.usgs.gov/](https://pilot.wr.usgs.gov/) Explore NASA's largest raw spacecraft imagery archive @usgs thanks its running strong @la-county-isd Ms Mitchell Ms Bass its not fair its male rape and she would not help me with coral, @blackgirlscode,,, just file your sexist complaints @whitehouse i want justice
 
 
