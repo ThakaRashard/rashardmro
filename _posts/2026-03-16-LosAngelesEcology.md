@@ -40,6 +40,9 @@ Today the clouds took on the shape of the pinninsula @cbs-news-data @disney plea
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1ea63731-289b-42b1-9fc1-258f00d000c2" />
 
+`@normanikordeiofficial @nasajunocam @brandybrandybrandy I’m being woken up violently the scabs hurt they feel like glass and a hard to pull out @podaac @beautifulmars` [link @blackgirlscode](https://rashardmro.tumblr.com/post/811155758421016577/normanikordeiofficial-nasajunocam)
+<img  alt="image" src="https://github.com/user-attachments/assets/6f5343bd-548a-4226-aa52-ed5c8d372065" />
+
 @nasa-giss out here in @StateOfCalifornia delivery is late @blackgirlscode so some of your data products may not have up to the minute results, i dont know how you guys work @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/b49eb625-43ff-4cd4-8a84-6065a825fd54" />
 
