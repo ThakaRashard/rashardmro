@@ -11,6 +11,13 @@ date:   2026-02-06 14:51:06
 ---
 
 
+[Keisha Lance Bottoms](https://www.keishaforgovernor.com/)
+@Itskeishalancebottoms / [@youtube.com / @keishalancebottoms7460](https://www.youtube.com/@keishalancebottoms7460)
+• @foratlanta 
+1.81K subscribers
+• _3-17-2026_ [Link](https://www.youtube.com/channel/UC-4ubmBkzK9Bu7a39BD-PmQ)
+
+
 [@foratlanta](https://www.youtube.com/live/RuS0rBGFdLM?si=35VjNNaN2SPzhBRX) @blackgirlscode happy st Patrick's day @nasa-jpl @podaac [@la-county-isd](https://www.youtube.com/live/h2m0osu4KA8?si=F3ULP5YUlqHno27S) Savannah is my home Karen bass i wanna go there @UsNavy 
 
 Link - _Current_ [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,viirs_crtc,earth;@-82.8,32.7,7.9z) @newshour @blackgirlscode @gtri @gatech @nasa-jpl @caltech
@@ -277,70 +284,3 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
