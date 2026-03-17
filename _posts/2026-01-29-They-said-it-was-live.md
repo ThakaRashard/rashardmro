@@ -8,6 +8,29 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+
+# Los Angeles County
+Board of Supervisors Meeting - 3/17/26
+ @la-county-isd you have connectivity issues from billy jean in [LongBeach](https://whatismyipaddress.com/ip/205.154.246.79) @cityoflosangeles @nasa-pds @nasa-jpl
+[https://www.youtube.com/watch?v=N620rIEB5Yg](https://www.youtube.com/watch?v=N620rIEB5Yg) <~ @nasa-jpl @emit-jpl im lost in wildfire meetings and the shit hitting the fan from my onboarding and me getting dumped @newshour if i live just know i never tapped the bathrooom on 14th
+```
+IP Details For: 205.154.246.79
+Decimal:3449484879
+Hostname:lib-03-subnet-79.rdns.cenic.net
+ASN:2152
+ISP:CENIC
+Services:None detected
+Country:United States
+State/Region:California
+City:El Segundo
+Latitude:33.9192 (33° 55′ 9.12″ N)
+Longitude:-118.4166 (118° 24′ 59.69″ W)
+```
+
+
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/b1536267-2e3e-4d17-9c1a-63cfb9a7c3ec" />
+
 ## President Trump Makes an Announcement, Jan. 29, 2026
 
 @whitehouse [watch](https://www.youtube.com/watch?v=OE2NtBhozT4) @blackgirlscode [Virtiserv](https://www.facebook.com/thevirtiservway/) @nasa  is listed in [YoungstownOhio BBB](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) @codeyoungstown I had an amazing date with a girl from your town during covid lockdown... her name is latrice, if it rings a bell just tell her i have not shaved and i need the next step because erika stole my foodstamp card with my daughter name on it . . . 
