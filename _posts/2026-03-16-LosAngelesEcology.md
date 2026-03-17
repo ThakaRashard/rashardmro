@@ -27,15 +27,18 @@ date:   2026-03-06 8:51:06
 
 {% endhighlight %}
 
+<a href="https://64.media.tumblr.com/13f90e5f2c1887d279ed5f519ca35b56/34429a9f2ad12fac-13/s1280x1920/b38f6576f71f2ec1b7c4fe6afed27e21458615b1.jpg"/><img  alt="image" src="https://github.com/user-attachments/assets/ccdd6ddf-757b-4224-bcca-5dd7bbeb68bf" /></a>
 
+<a href="https://64.media.tumblr.com/e77b6f56e76548f8daca05894acd50e1/7866df3b9772a9cc-ac/s1280x1920/2cc8b646403c78d26ea9853ec8116f7466f39c26.png"><img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/90e389b2-0151-47e2-a3a3-9e5c17c59779" /> </a>
 
 @CityOfLosAngeles @DataDesk @NBCNEWS @La-County-isd @nasa-jpl
 Today the clouds took on the shape of the pinninsula @cbs-news-data @disney please tell chloe i was out of line im sorry man
 [https://worldview.earthdata.nasa.gov/?v=-123.17157520127292,32.130700256296414,-116.4199191187813,35.45378098439776&t=2026-03-16-T01%3A51%3A46Z](https://worldview.earthdata.nasa.gov/?v=-123.17157520127292,32.130700256296414,-116.4199191187813,35.45378098439776&t=2026-03-16-T01%3A51%3A46Z)
 <img   alt="image" src="https://github.com/user-attachments/assets/4bc02119-fc86-4f2c-888d-a3e5a2fb3180" />
 
-<a href="https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&amp;TIME=2026-03-16T00:00:00Z&amp;BBOX=31.2983,-122.7717,35.7531,-116.3824&amp;CRS=EPSG:4326&amp;LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,Coastlines_15m&amp;WRAP=day,x&amp;FORMAT=image/png&amp;WIDTH=5816&amp;HEIGHT=4055&amp;colormaps=,&amp;ts=1773714943531"/><img width="5816" height="4055" alt="@cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/ddfa5970-f451-4227-966a-67f5c846dcd1" /></a>
+<a href="https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&amp;TIME=2026-03-16T00:00:00Z&amp;BBOX=31.2983,-122.7717,35.7531,-116.3824&amp;CRS=EPSG:4326&amp;LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor,Coastlines_15m&amp;WRAP=day,x&amp;FORMAT=image/png&amp;WIDTH=5816&amp;HEIGHT=4055&amp;colormaps=,&amp;ts=1773714943531"><img width="5816" height="4055" alt="@cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/ddfa5970-f451-4227-966a-67f5c846dcd1" /></a>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/1ea63731-289b-42b1-9fc1-258f00d000c2" />
 
 @nasa-giss out here in @StateOfCalifornia delivery is late @blackgirlscode so some of your data products may not have up to the minute results, i dont know how you guys work @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/b49eb625-43ff-4cd4-8a84-6065a825fd54" />
