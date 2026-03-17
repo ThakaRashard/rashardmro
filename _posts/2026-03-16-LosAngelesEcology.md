@@ -43,6 +43,11 @@ Today the clouds took on the shape of the pinninsula @cbs-news-data @disney plea
 `@normanikordeiofficial @nasajunocam @brandybrandybrandy I’m being woken up violently the scabs hurt they feel like glass and a hard to pull out @podaac @beautifulmars` [link @blackgirlscode](https://rashardmro.tumblr.com/post/811155758421016577/normanikordeiofficial-nasajunocam)
 <img  alt="image" src="https://github.com/user-attachments/assets/6f5343bd-548a-4226-aa52-ed5c8d372065" />
 
+Steve Kang @cityoflosangeles
+[OPERA- Synthetic Aperture Radar March11 - worldview.earthdata.nasa.gov/?v=-118.87933597457226,33.57900260790738,-117.44570706490563,34.28461683688392&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_DIST-ANN-HLS_Color_Index(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.189,33.9943&t=2026-03-11-T01%3A51%3A46Z](https://worldview.earthdata.nasa.gov/?v=-118.87933597457226,33.57900260790738,-117.44570706490563,34.28461683688392&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_DIST-ANN-HLS_Color_Index(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.189,33.9943&t=2026-03-11-T01%3A51%3A46Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/3bfdf2ce-9b45-416b-935a-125c922e82f9" />
+
+
 @nasa-giss out here in @StateOfCalifornia delivery is late @blackgirlscode so some of your data products may not have up to the minute results, i dont know how you guys work @la-county-isd
 <img   alt="image" src="https://github.com/user-attachments/assets/b49eb625-43ff-4cd4-8a84-6065a825fd54" />
 
