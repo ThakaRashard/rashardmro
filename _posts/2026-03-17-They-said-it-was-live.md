@@ -15,6 +15,16 @@ author: RashardKelly @nasa-jpl
 
 @armydotmil [https://github.com/armydotmil](https://github.com/armydotmil) @nasajpl 
 
+![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
+
+@foratlanta [Savannah St. Patrick's Day Parade 2026](https://youtu.be/h2m0osu4KA8) @blackgirlscode [LACOUNTY_DAiLY_MEETING_TO RUN_LOSANGELES](https://www.youtube.com/watch?v=N620rIEB5Yg) @opensavannah
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bf2b96a-d7f6-492b-b026-fb4b0092d389" />
+<img  alt="image" src="https://github.com/user-attachments/assets/2e00d62f-d8a6-4eb7-854f-08247b170548" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9a06b3f2-19d7-4a8b-9457-8d586e21dadf" />
+
+[@usgs / @blackgirlscode @nasa-pds](https://pilot.wr.usgs.gov/?fbclid=IwY2xjawODA_9leHRuA2FlbQIxMABicmlkETA4VmJyN3dxU2FsWDlEdjB6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHup5yqlMXp04opT_a1ZZmPfZAdcKSG0vzSifv0KFmj_ZcuEXm-1Qk6FB5KaZ_aem_Er7ncAdKQGSE6BVBA1ESQg)
+
 # Los Angeles County
 Board of Supervisors Meeting - 3/17/26
  @la-county-isd you have connectivity issues from billy jean in [LongBeach](https://whatismyipaddress.com/ip/205.154.246.79) @cityoflosangeles @nasa-pds @nasa-jpl
