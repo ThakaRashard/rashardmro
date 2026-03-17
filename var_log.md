@@ -4,6 +4,9 @@ title: "/var/log"
 permalink: /var/log
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/2e00d62f-d8a6-4eb7-854f-08247b170548" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/9a06b3f2-19d7-4a8b-9457-8d586e21dadf" />
 
 [@usgs / @blackgirlscode @nasa-pds](https://pilot.wr.usgs.gov/?fbclid=IwY2xjawODA_9leHRuA2FlbQIxMABicmlkETA4VmJyN3dxU2FsWDlEdjB6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHup5yqlMXp04opT_a1ZZmPfZAdcKSG0vzSifv0KFmj_ZcuEXm-1Qk6FB5KaZ_aem_Er7ncAdKQGSE6BVBA1ESQg)
