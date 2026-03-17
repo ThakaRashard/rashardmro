@@ -1,8 +1,8 @@
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a601041-10f2-42bb-99fe-8306b508ae21" />---
 layout: post
 title:  SavannahEcology
 published: true
-date:   2026-03-17 11:01:06 
+date:   2026-03-17 15:52:06 
 permalink: /savannah
 tags: life family blog hr relationships climate 
 image: coral495958980-e7820ab0-fa23-421b-8290-13e29f961576.png
@@ -22,8 +22,10 @@ image: coral495958980-e7820ab0-fa23-421b-8290-13e29f961576.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=jPvmjtoKB9Fok9l-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Savannah](https://www.savannahga.gov/1165/St-Patricks-Day-in-Savannah)
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.64/-8975610.79/3796226.33&layers=aqv_chla_20260203_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.64/-8975610.79/3796226.33&layers=aqv_chla_20260203_landsat:1.00:0.00:30.00:default) 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c34b1207-b03d-4aa3-9722-e41323450375" />
+<img   alt="image" src="https://github.com/user-attachments/assets/c34b1207-b03d-4aa3-9722-e41323450375" />
+<img  alt="image" src="https://github.com/user-attachments/assets/8c4a02ee-caaf-4e87-abb1-c85e6c60a71b" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/70c05733-48c2-4a55-a6a8-970d91b020e9" />
 
