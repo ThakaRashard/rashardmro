@@ -8,6 +8,7 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 <img   alt="image" src="https://github.com/user-attachments/assets/dbea176e-c512-471a-9e28-1f81fc8587a5" />
+
 The Solar Dynamics Observatory will further our understanding of the sun's influence on Earth and near-Earth space by studying the solar atmosphere on small scales of space and time, and in . . . [READMORE](https://science.gsfc.nasa.gov/sci/projects/59)
 @JHUAPL i am laggin in email, but someone reach out to [_barbara.j.thompson_](https://www.google.com/search?q=barbara+thompson+nasa&rlz=1C1GCEJ_enUS1123US1123&oq=barbara+thompson+nasa&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMgcIAhAAGO8FMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgcIBRAAGO8F0gEINTg2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)  @nasa-jpl she might be running the site offa cellphone and it keep getting stolen @la-county-isd @nasa-pds @CityOfLosAngeles [science.gsfc.nasa.gov/sci/bio/barbara.j.thompson](https://science.gsfc.nasa.gov/sci/bio/barbara.j.thompson)
 
