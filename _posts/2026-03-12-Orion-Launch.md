@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-12 08:19:06 -0800
+date:   2026-03-17 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -32,7 +32,7 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's Artemis II 
 #  news
 [`NASA Reassessing Artemis II Rollout as Ground Teams Make Up Time`](https://www.nasa.gov/blogs/missions/2026/03/17/nasa-reassessing-artemis-ii-rollout-as-ground-teams-make-up-time/) @la-county-isd we have been being robbed of our phones... @libretro is there anything we can do to protect ourselves and possibly the whole user base ? @nasa-jpl @blackgirlscode i dont know if you guys are together this semester, but please submit some thoughts to @doug-newman-nasa @nasa-openscapes about how we can use existing cellular to make america safre @cityoflosangeles @nbcnews
-[Unanimous vote in risk assessment clears way for 4 astronauts to launch on moon mission @cnn](https://www.cnn.com/2026/03/12/science/nasa-artemis-2-launch-date-risk-assessment) [@npr NASA’s updated potential launch windows for its delayed moon mission are now between March 6 and 11](https://www.scientificamerican.com/article/nasa-reveals-new-artemis-ii-moon-mission-target-launch-dates-march/) @newshour its April Now thanks im reading scientific American and confusing my tabs [@NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch) :: [NASA gives 'go' for Artemis II rollout, launch date: Space Beat](https://www.yahoo.com/news/articles/nasa-gives-artemis-ii-rollout-170834635.html) :: [To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun ](https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/)
+[Unanimous vote in risk assessment clears way for 4 astronauts to launch on moon mission @cnn](https://www.cnn.com/2026/03/12/science/nasa-artemis-2-launch-date-risk-assessment) [@npr NASA’s updated potential launch windows for its delayed moon mission are now between March 6 and 11](https://www.scientificamerican.com/article/nasa-reveals-new-artemis-ii-moon-mission-target-launch-dates-march/) @newshour its April Now thanks im reading scientific American and confusing my tabs [@NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch) :: [NASA gives 'go' for Artemis II rollout, launch date: Space Beat](https://www.yahoo.com/news/articles/nasa-gives-artemis-ii-rollout-170834635.html) :: [To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun ](https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/) // [cement.k12.ok.us/brandi-deans-profile](https://www.cement.k12.ok.us/brandi-deans-profile) // [Brandi Dean](https://www.linkedin.com/in/brandi-dean-19612a6)
 
 <img alt="image" src="https://github.com/user-attachments/assets/e0fdabd4-ac15-464a-b768-4ae661a41df4" />
 
