@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 published: true
-permalink: /Atlanta
+permalink: /atlanta
 title: Atlanta Ecology @emit-sds @Nasa-jpl
 image: atlanta_oli_2020127.jpg
 author: "RashardKelly @nasa-jpl"
