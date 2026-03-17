@@ -64,15 +64,13 @@ S1-GUNW-A-R-048-tops-20250308_20250224-233020-00084W_00031N-PP-fc92-v3_0_1
 <a href="https://github.com/user-attachments/assets/72fec49e-f9ee-4f9b-8acd-6518f1920b05"> <img   alt="image" src="https://github.com/user-attachments/assets/72fec49e-f9ee-4f9b-8acd-6518f1920b05" /> </a>
 
 
-@BlueOrigin i wanna know how to find an ecostress person 
+@BlueOrigin i wanna know how to find an ecostress person @blackgirlscode @foratlanta @openSavannah im behind emailing folks but its hard when people need to get the data @longbeachinnovationteam [Rex Richardson](https://www.longbeach.gov/mayor/about/) please work with savannah, i dont want to neglect anyone @nasa-jpl @usgs @nps 
+
 <div class="tupperware">
  
-<img  alt="image" src="https://github.com/user-attachments/assets/2cf8ec8a-1a2d-4653-ad19-9287131580b2" />
-<img  alt="image" src="https://github.com/user-attachments/assets/47406f73-f4bb-4e3a-9d47-7f8c701e6562" />
-
-
-
-
+<a href="https://github.com/user-attachments/assets/2cf8ec8a-1a2d-4653-ad19-9287131580b2"><img  alt="image" src="https://github.com/user-attachments/assets/2cf8ec8a-1a2d-4653-ad19-9287131580b2" /></a>
+<a href="https://github.com/user-attachments/assets/47406f73-f4bb-4e3a-9d47-7f8c701e6562"><img  alt="image" src="https://github.com/user-attachments/assets/47406f73-f4bb-4e3a-9d47-7f8c701e6562" /></a>
+<a href="https://github.com/user-attachments/assets/85acafb6-e1a6-4256-a640-8c8c9783bc0f"><img  alt="image" src="https://github.com/user-attachments/assets/85acafb6-e1a6-4256-a640-8c8c9783bc0f" /></a>
 
 </div>
 
