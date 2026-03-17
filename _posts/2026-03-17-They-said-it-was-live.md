@@ -12,7 +12,8 @@ author: RashardKelly @nasa-jpl
 # Los Angeles County
 Board of Supervisors Meeting - 3/17/26
  @la-county-isd you have connectivity issues from billy jean in [LongBeach](https://whatismyipaddress.com/ip/205.154.246.79) @cityoflosangeles @nasa-pds @nasa-jpl
-[https://www.youtube.com/watch?v=N620rIEB5Yg](https://www.youtube.com/watch?v=N620rIEB5Yg) <~ @nasa-jpl @emit-jpl im lost in wildfire meetings and the shit hitting the fan from my onboarding and me getting dumped @newshour if i live just know i never tapped the bathrooom on 14th, its back on 
+[https://www.youtube.com/watch?v=N620rIEB5Yg](https://www.youtube.com/watch?v=N620rIEB5Yg) <~ @nasa-jpl @emit-jpl im lost in wildfire meetings and the shit hitting the fan from my onboarding and me getting dumped @newshour if i live just know i never tapped the bathrooom on 14th, its back on [https://www.youtube.com/live/SlHj8TNDm7U?si=J4LGSg4ulZ4iKLnZ](https://www.youtube.com/live/SlHj8TNDm7U?si=J4LGSg4ulZ4iKLnZ) <~ @CityOfLosAngeles `culvercity` @blackgirlscode hi
+
 ```shell
 IP Details For: 205.154.246.79
 Decimal:3449484879
