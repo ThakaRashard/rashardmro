@@ -11,6 +11,8 @@ date:   2026-02-06 14:51:06
 ---
 
 
+[@foratlanta](https://www.youtube.com/live/RuS0rBGFdLM?si=35VjNNaN2SPzhBRX) @blackgirlscode happy st Patrick's day @nasa-jpl @podaac [@la-county-isd](https://www.youtube.com/live/h2m0osu4KA8?si=F3ULP5YUlqHno27S) Savannah is my home Karen bass i wanna go there @UsNavy 
+
 Link - _Current_ [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,viirs_crtc,earth;@-82.8,32.7,7.9z) @newshour @blackgirlscode @gtri @gatech @nasa-jpl @caltech
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a00e960b-71ec-4d8a-950a-1beee652365b" />

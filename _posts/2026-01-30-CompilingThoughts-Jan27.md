@@ -7,6 +7,27 @@ published: true
 image: luckyGirl.png
 ---
 
+
+### California_Linux: 
+Maintaining Commitment NasaJpl_3arthdata 
+MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 
+@ISRO @CALTECH @BLACKGIRLSCODE @nasa-jpl RajVuchatu @isro [archive](https://archive.org/details/@thakaserika_selassie_kelly)
+`You hae to jump to *ViID* the ones that start with `VID` @foratlanta @newshour
+
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[https://www.nasa.gov/wp-content/uploads/2023/05/11.-soa-ground-data-systems-2022.pdf](https://www.nasa.gov/wp-content/uploads/2023/05/11.-soa-ground-data-systems-2022.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/d19e8e4f-9c42-43cc-910b-e02af28c0020" />
+
+[Japan Spacecraft Departing Station Soon on NASA+](https://www.nasa.gov/blogs/spacestation/2026/03/06/japan-spacecraft-departing-station-soon-on-nasa/) 
+[Chris Williams](https://www.nasa.gov/humans-in-space/astronauts/nasa-astronaut-christopher-l-williams/) @nasa-giss @nasa-develop @nasa-jpl @la-county-isd  will monitored the spacecraft’s systems during its departure. `Thisone is done from my perspective, there is no landing! @blackgirlscode [@CityOfLosAngeles](https://www.youtube.com/live/JRUb5umOw6M?si=O-v6DRLkrQ4tBkI5) its just a one way trip for [ground data systems](https://www.nasa.gov/wp-content/uploads/2023/05/11.-soa-ground-data-systems-2022.pdf) @nasa-jpl
+
+The HTV-X1 spacecraft will remain in orbit for more than three months acting as a scientific platform for JAXA’s experiments. Following the command for deorbit, the spacecraft will dispose of several thousand pounds of trash during re-entry into Earth’s atmosphere, where it will burn up harmlessly. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cecd2320-408b-4ed1-bc9b-157a946d3ba8" />
+
+
+
 [https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
 @blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
 <img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
