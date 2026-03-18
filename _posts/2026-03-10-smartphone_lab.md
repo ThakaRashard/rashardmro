@@ -17,6 +17,9 @@ permalink: /smartphonelab
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a017e28c-ae2c-4981-9020-88c781a385ac" />
 
+![https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif)
+
+
 # init
 n Unix-based computer operating systems, init (short for initialization) is the first process started during booting of the operating system. Init is a daemon process that continues running until the system is shut down [Wiki](https://en.wikipedia.org/wiki/Init)
 [DOSBox v0.74-3 Manual](https://www.dosbox.com/DOSBoxManual.html)
