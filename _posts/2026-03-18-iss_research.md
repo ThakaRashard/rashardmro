@@ -56,7 +56,8 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
 [https://www.nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode
 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/c1a5bc36-e275-4757-90c2-6b51a285ad9f" />
+<img  alt="image" src="https://github.com/user-attachments/assets/4500141a-b00a-4930-a4f1-6d347b32ee61" />
+
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
 	
