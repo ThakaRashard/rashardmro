@@ -16,16 +16,20 @@ n Unix-based computer operating systems, init (short for initialization) is the 
 
 [What Is Quickstep App In Android? - Be App Savvy](https://www.youtube.com/watch?v=RxD981KXGhU)
 [How to replace the quickstep launcher?xdaforums.com  - xdaforums.com](https://xdaforums.com/t/how-to-replace-the-quickstep-launcher.4656578/) [QUICKSTEP APK - LATEST VERSION](https://apkcombo.com/quickstep/com.android.launcher3/download/apk)
-<img width="397" height="303" alt="image" src="https://github.com/user-attachments/assets/ab372e74-b9c6-41ed-825a-98d9bc157251" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ab372e74-b9c6-41ed-825a-98d9bc157251" />
+
 
 {% include ed.md %}
 
 {% include bash.md %}
 
 {% include tar.md %}
+
+
 [Psx-CHD](https://archive.org/details/chd_psx)
 
-![https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png](https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png)
+
 
 r/androidapps
 5y ago
