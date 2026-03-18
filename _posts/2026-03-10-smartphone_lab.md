@@ -8,6 +8,21 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+
+# init
+n Unix-based computer operating systems, init (short for initialization) is the first process started during booting of the operating system. Init is a daemon process that continues running until the system is shut down [Wiki](https://en.wikipedia.org/wiki/Init)
+[DOSBox v0.74-3 Manual](https://www.dosbox.com/DOSBoxManual.html)
+[what are init 0 init 1 init 2 init 3 init 4 init 5 init 6? - linuxonfire.wordpress.com](https://linuxonfire.wordpress.com/2012/10/19/what-are-init-0-init-1-init-2-init-3-init-4-init-5-init-6-2/) [Using the init Command -docs.oracle.com](https://docs.oracle.com/cd/E19455-01/805-6331/6j5vgg687/index.html) [Reboot, poweroff, shutdown, INIT 0, and INIT 6 abnormal - Servers - ibm.com](https://www.ibm.com/support/pages/reboot-poweroff-shutdown-init-0-and-init-6-abnormal-servers) [init command in Linux with examples - @geeksforgeeks.org](https://www.geeksforgeeks.org/linux-unix/init-command-in-linux-with-examples/)
+
+[What Is Quickstep App In Android? - Be App Savvy](https://www.youtube.com/watch?v=RxD981KXGhU)
+[How to replace the quickstep launcher?xdaforums.com  - xdaforums.com](https://xdaforums.com/t/how-to-replace-the-quickstep-launcher.4656578/) [QUICKSTEP APK - LATEST VERSION](https://apkcombo.com/quickstep/com.android.launcher3/download/apk)
+<img width="397" height="303" alt="image" src="https://github.com/user-attachments/assets/ab372e74-b9c6-41ed-825a-98d9bc157251" />
+
+{% include ed.md %}
+
+{% include bash.md %}
+
+{% include tar.md %}
 [Psx-CHD](https://archive.org/details/chd_psx)
 
 ![https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png](https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png)
