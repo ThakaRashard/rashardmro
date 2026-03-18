@@ -42,7 +42,9 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
 
 <img  alt="image" src="https://github.com/user-attachments/assets/120912cd-082d-4220-8408-1bb448b7e78d" />
 
+<imgalt="image" src="https://github.com/user-attachments/assets/4ceac85c-69bf-441f-9ae1-bd11a9e5f6c0" />
 
+[https://www.nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
 # San Diego
