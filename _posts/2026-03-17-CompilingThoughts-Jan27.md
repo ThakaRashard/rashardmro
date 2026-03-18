@@ -12,6 +12,9 @@ and the concern is kindness!
 Pillars of Creation (NIRCam and MIRI Composite Image) [ReadMore](https://esawebb.org/images/pillarsofcreation_composite/)
 ![https://cdn.esawebb.org/archives/images/screen/pillarsofcreation_composite.jpg](https://cdn.esawebb.org/archives/images/screen/pillarsofcreation_composite.jpg)
 
+
+![https://cdn.esawebb.org/archives/images/screen/weic2218a.jpg](https://cdn.esawebb.org/archives/images/screen/weic2218a.jpg)
+
 ### California_Linux: 
 Maintaining Commitment NasaJpl_3arthdata 
 MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 
