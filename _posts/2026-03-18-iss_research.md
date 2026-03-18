@@ -69,7 +69,7 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
  </picture>
 
 [ECOSTRESS:Monitoring plants from space](https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html)
-permalink will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html`
+Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html`
 
 <img   alt="image" src="https://github.com/user-attachments/assets/8783c7c3-1c4b-467e-a37e-d33c335a78d4" />
 
