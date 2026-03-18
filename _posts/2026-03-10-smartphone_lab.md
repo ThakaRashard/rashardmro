@@ -13,6 +13,7 @@ permalink: /smartphonelab
 ~~I forgot what~~ @electronicArts ~~NFS this is but~~ Need For Speed : Underground [link](https://youtu.be/Z5Z7_UC0Vhc), it works well on psp emulators the ride is heavy and seek issues are low. It was actually fun 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/38c4a8bd-784a-4892-871c-0249a9bf24db" />
+
 ![https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif)
 
 [rashardsdata.github.io/rashardmro/](https://rashardsdata.github.io/rashardmro/) @blackgirlscode @nasa-jpl this is how `.box` in my css config renders my links as a fancy [wordcloud](https://seregpie.github.io/VueWordCloud/) [[1](https://www.canva.com/word-cloud-generator/)] @SeregPie thanks the demo site helps get the point across of what it is @nasa-giss 
