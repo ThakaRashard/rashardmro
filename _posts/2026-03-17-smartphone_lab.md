@@ -10,6 +10,13 @@ permalink: /smartphonelab
 
 <img   alt="@la-county-isd" src="https://github.com/user-attachments/assets/f1445c47-c9c1-41e9-9823-530051811670" />
 
+[List of Cel Shaded Games](https://en.wikipedia.org/wiki/List_of_cel-shaded_video_games?wprov=sfla1)
+[CelShading](https://en.wikipedia.org/wiki/Cel_shading?wprov=sfla1)
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+<img  alt="image" src="https://github.com/user-attachments/assets/ebe875de-5106-4501-ae31-05d18bacd0b3" />
+<img   alt="image" src="https://github.com/user-attachments/assets/6c818499-e67d-4f74-9cc5-f21478e71e61" />
+<img alt="image" src="https://github.com/user-attachments/assets/2cf53696-8292-42bf-8345-063c2011ced8" />
+<img alt="image" src="https://github.com/user-attachments/assets/5c99a25c-1975-49ad-a50c-a4223efc86a4" />
 <img  alt="image" src="https://github.com/user-attachments/assets/d470b67e-e245-43dd-ad8f-7678125c5856" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3065d0ea-f1eb-45b7-9fa6-e7cf605389c1" />
