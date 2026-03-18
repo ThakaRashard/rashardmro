@@ -8,7 +8,9 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+<img alt="image" src="https://github.com/user-attachments/assets/8d219e36-2b9b-4138-a80b-fdb95d302731" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/1a60cbdb-eaee-4ed2-be0f-f262db42c009" />
 
 ~~I forgot what~~ @electronicArts ~~NFS this is but~~ Need For Speed : Underground [link](https://youtu.be/Z5Z7_UC0Vhc), it works well on psp emulators the ride is heavy and seek issues are low. It was actually fun 
 
@@ -19,7 +21,7 @@ permalink: /smartphonelab
 [rashardsdata.github.io/rashardmro/](https://rashardsdata.github.io/rashardmro/) @blackgirlscode @nasa-jpl this is how `.box` in my css config renders my links as a fancy [wordcloud](https://seregpie.github.io/VueWordCloud/) [[1](https://www.canva.com/word-cloud-generator/)] @SeregPie thanks the demo site helps get the point across of what it is @nasa-giss 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a017e28c-ae2c-4981-9020-88c781a385ac" />
-
+ <img   alt="image" src="https://github.com/user-attachments/assets/11e79454-38e7-49ff-bb77-b6cd38ce05a0" />
 
 
 
