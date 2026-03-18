@@ -53,7 +53,7 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ceac85c-69bf-441f-9ae1-bd11a9e5f6c0" />
 
-[https://www.nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode
+[nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode [jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/](https://www.jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/)
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/4500141a-b00a-4930-a4f1-6d347b32ee61" />
