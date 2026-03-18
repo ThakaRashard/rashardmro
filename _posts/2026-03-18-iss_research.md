@@ -8,6 +8,15 @@ tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
 
 
 
