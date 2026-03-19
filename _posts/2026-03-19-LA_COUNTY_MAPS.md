@@ -18,6 +18,7 @@ date:   2026-03-19 11:24:06
 
 [comment]: <> (Emergency Files )
 
+<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
 <img   alt="image" src="https://github.com/user-attachments/assets/4f9c8237-ab0b-4958-806f-a7cc2d84fff4" />
 
 
@@ -31,7 +32,7 @@ date:   2026-03-19 11:24:06
 
 {% endhighlight %}
 
-<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+
 
 [MAPLiNK @longbeachinnovationteam @la-county-isd](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.95/-13151758.97/3999762.44&layers=aqv_chla_20260314_sentinel:1.00:0.00:30.00:default,aqv_tss_20260314_landsat:1.00:0.00:30.00:default,aqv_chla_20260314_landsat:1.00:0.00:30.00:default,aqv_secchi_20260314_landsat:1.00:0.00:30.00:secchi) 𝛑 🥧 day [AllFiles](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/73/LC08_L1TP_041037_20260314_20260314_02_RT) use the ::earth:: Globe icon to see the [data](https://catalog.data.gov/dataset/pds-data-dictionary-1r75) display on a map @doug-newman-nasa @cityoflosangeles [Steve Kang](https://dpw.lacity.gov/about-steve-kang) :[:](https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html): @nasa-[pds](https://naif.jpl.nasa.gov/naif/pds.html) @emit-sds _Commissioner Steve Kang was appointed by [Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) to the Board of Public Works for [the](https://atmos.nmsu.edu/IPDA/pds.html) City of Los Angeles._ - [https://dpw.lacity.gov/about-steve-kang](https://dpw.lacity.gov/about-steve-kang) [Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
 
