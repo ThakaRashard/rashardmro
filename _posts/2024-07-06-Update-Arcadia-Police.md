@@ -1,10 +1,12 @@
 ---
 title: Update Arcadia Police 
-published: false
+published: true
 ---
 
 @nasa-jpl all municipalities need to share dns sources with the public @cisa @lacmta @whitehouse @nasa-develop @blackgirlscode @cityoflosangeles @foratlanta treason @newshour 
 
+
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
 
 @la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa @nasa-giss 
 

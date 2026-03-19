@@ -12,6 +12,8 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+@keberwein hi I used to work with aAngela. plz z tell her rashard saidd hi... erika works for p****b** now and I think Angela should meet my girlfriend latrice if I'm comprehending signals and not mixing them up @fbicyber [cantor.angela@bls.gov](mailto:cantor.angela@bls.gov) // [upthejunction2@yahoo.com](mailto:upthejunction2@yahoo.com) [bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm](https://www.bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm) @foratlanta @nasa-jpl @la-county-isd Supervisor Mitchell MayorBass @blackgirlscode
+
 ## California Constitution
 Article I - Declaration of Rights
 Section 6. [Link](https://law.justia.com/constitution/california/article-i/section-6/) [essence.com/news/erika-renee-johnson-kelly-found-georgia/](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)
@@ -19,12 +21,11 @@ Slavery is prohibited [ACA-3 Slavery.](https://www.leginfo.legislature.ca.gov/fa
 
 (Sec. 6 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
 Treason in California is defined under Penal Code 37 as levying war against the state, adhering to its enemies, or giving them aid and comfort, [houselaw.com/ca/defense/penal-code/37/](https://www.shouselaw.com/ca/defense/penal-code/37/) . . . @sfchronicle @sanmateocounty @CityofSantaMonica [https://github.com/SANDAG ~ to check out later](https://github.com/SANDAG) @la-county-isd @nasa-jpl @nasa @whitehouse @blackgirlscode @foratlanta
-
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/6589504e-382c-4b5d-9f99-c669ba1e2412" />
 
 
-![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
 
 <img   alt="image @cityoflosangeles KAren Bass KEisha Bottoms @foratlanta" src="https://github.com/user-attachments/assets/3d48ff30-4e5f-4aa8-a406-24638e31b75e" />
 
