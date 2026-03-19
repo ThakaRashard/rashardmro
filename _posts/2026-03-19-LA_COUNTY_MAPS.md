@@ -18,6 +18,8 @@ date:   2026-03-19 11:24:06
 
 [comment]: <> (Emergency Files )
 
+<img   alt="image" src="https://github.com/user-attachments/assets/4f9c8237-ab0b-4958-806f-a7cc2d84fff4" />
+
 
 
 {% highlight python %}
@@ -61,6 +63,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/a7015a64-ae73-4316-a97e-dbe2bef9565f" />
 
 
 @foratlanta @cityoflosangeles @nasa-jpl @TheSpaceDevs
