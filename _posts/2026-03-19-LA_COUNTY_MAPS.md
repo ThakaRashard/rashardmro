@@ -3,7 +3,7 @@ layout: post
 mermaid: true
 published: true
 permalink: /lacountymaps
-title:  @la-county-isd @Nasa-jpl MapS
+title:  MapS : @la-county-isd @Nasa-jpl 
 image: S1A_IW_GRDH_1SDV_20260221T135233_20260221T135258_063318_07F39D_AED3.jpg
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
