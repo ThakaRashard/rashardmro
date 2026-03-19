@@ -12,7 +12,41 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+## California Constitution
+Article I - Declaration of Rights
+Section 6. [Link](https://law.justia.com/constitution/california/article-i/section-6/) [essence.com/news/erika-renee-johnson-kelly-found-georgia/](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)
+Slavery is prohibited [ACA-3 Slavery.](https://www.leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220ACA3). Involuntary servitude is prohibited except to punish crime. [secretary.weber@sos.ca.gov](mailto:secretary.weber@sos.ca.gov) + [homepage](https://www.sos.ca.gov/contact-information) :: 
+
+(Sec. 6 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
+Treason in California is defined under Penal Code 37 as levying war against the state, adhering to its enemies, or giving them aid and comfort, [houselaw.com/ca/defense/penal-code/37/](https://www.shouselaw.com/ca/defense/penal-code/37/) . . . @sfchronicle @sanmateocounty @CityofSantaMonica [https://github.com/SANDAG ~ to check out later](https://github.com/SANDAG) @la-county-isd @nasa-jpl @nasa @whitehouse @blackgirlscode @foratlanta
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6589504e-382c-4b5d-9f99-c669ba1e2412" />
+
+
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
+
+<img   alt="image @cityoflosangeles KAren Bass KEisha Bottoms @foratlanta" src="https://github.com/user-attachments/assets/3d48ff30-4e5f-4aa8-a406-24638e31b75e" />
+
+
+First Constitution of California, 1849 [[1](https://www.dircost.unito.it/cs/pdf/18490000_UsaCalifornia_eng.pdf)] 
+
+[visitthecapitol.gov/artifact/first-constitution-california-1849](https://www.visitthecapitol.gov/artifact/first-constitution-california-1849) :: [archives.cdn.sos.ca.gov/pdf/1849-california-constitution-for-website-9-16-20.pdf](https://archives.cdn.sos.ca.gov/pdf/1849-california-constitution-for-website-9-16-20.pdf) :: [drshirleyweber.com/](https://drshirleyweber.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/793e125f-da1e-45d3-80f7-b61ec897c1a1" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b249f2c7-cca3-444f-af61-b9b7ef44605d" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ee9e9138-42e3-4fc6-8ace-fe9c020693eb" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a34af1d3-2109-40c6-8502-9c909475c3ed" />
+
+_`Spanish`_ [archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/eaca6989-e316-4b0b-b6f5-a16e6bef40c7" />
+
+![https://drshirleyweber.com/wp-content/uploads/2025/05/RD-DrWeberSOSlogo-White-2.png](https://drshirleyweber.com/wp-content/uploads/2025/05/RD-DrWeberSOSlogo-White-2.png)
 
 @la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair [erika is playing](https://www.essence.com/tags/erika-kelly/) violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
 [https://www3.nasa.gov/send-your-name-with-artemis/](https://www3.nasa.gov/send-your-name-with-artemis/) // [Rapper Jeezy celebrates 20 years of 'Thug Motivation 101' with a 101-piece backing orchestra](https://www.npr.org/2025/12/14/nx-s1-5547203/rapper-jeezy-celebrates-20-years-of-thug-motivation-101-with-a-101-piece-backing-orchestra) @blackgirlscode 
