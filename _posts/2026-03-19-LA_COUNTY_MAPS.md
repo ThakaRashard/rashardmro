@@ -38,6 +38,30 @@ date:   2026-03-19 11:24:06
 
 <img alt="image" src="https://github.com/user-attachments/assets/6412d727-70cd-45fa-b190-cdcda292b0fc" />
 
+@blackgirlscode [Bob Marley - Rastaman Vibration (Full Album) 432hz](https://youtu.be/B0gesoinua0?list=RDB0gesoinua0&t=47)
+hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
+[Must Be dues - Melba Moore - song @voyager-tech-inc @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
+
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+
+<img  alt="image @voyager-tech-inc" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
+
+
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
+
+### Is private security endangering those in California homeless shelters? 
+[Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
+
+
+
+
 @foratlanta @cityoflosangeles @nasa-jpl @TheSpaceDevs
 @blackgirlscode @la-county-isd @NASA-OPENSCAPES /// @LACMTA [CAROL WiGGENS](https://boardagendas.metro.net/person/stephanie-wiggins-0d0b6b5d9d46/)
 i see, its [Stephanie](https://www.linkedin.com/in/stephanie-wiggins) @nasa-giss @chicago
@@ -211,29 +235,6 @@ im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68)
 
 [Towards global long-term water transparency products from the Landsat archive](https://www.sciencedirect.com/science/article/pii/S0034425723004406?via%3Dihub) : @cityoflosangeles [Mayor](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) @ucla thats a link :: news _Casey Wasserman Loses L.A Mayor’s Support For LA28 Job Over Epstein Files Revelations: “He Should Step Down”_  [Link](https://deadline.com/2026/02/casey-wasserman-resign-olympics-mayor-karen-bass-esptein-1236726528/) _`Mayoral Transition Advisory Team`_ ? [Link - https://jobs.lamayor.org/mayoral-transition-advisory-team](https://jobs.lamayor.org/mayoral-transition-advisory-team) @la-county-isd 
 <img   alt="image" src="https://github.com/user-attachments/assets/daa5d1f6-4586-4f78-9d54-d1ecfb616221" />
-
-@blackgirlscode [Bob Marley - Rastaman Vibration (Full Album) 432hz](https://youtu.be/B0gesoinua0?list=RDB0gesoinua0&t=47)
-hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
-
-![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
-
-
-
-### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
-
-
-[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
-
-[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
-
-### Is private security endangering those in California homeless shelters? 
-[Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
-
-
-
-[Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
 
 
 
