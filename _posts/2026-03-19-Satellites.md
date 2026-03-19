@@ -8,6 +8,13 @@ author: "RashardKelly @nasa-jpl"
 permalink: /Satellites
 ---
 
+# Launch Plume: SpaceX Jellyfish
+- Image Credit & Copyright: Michael Seeley
+- Text: [Cecilia Chirenti](https://science.gsfc.nasa.gov/sci/bio/cecilia.bertonimarthahadlerchirenti) (NASA GSFC, UMCP, CRESST II) [[1](https://www.astro.umd.edu/people/cecilia-chirenti)] / [[2](https://scholar.google.com/citations?user=m35NCHEAAAAJ&hl=pt-BR)] / [[3](https://svs.gsfc.nasa.gov/search/?people=Cecilia%20Chirenti)]
+**Explanation**: Even if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment. [APOD @nasa-pds @blackgirlscode @la-county-isd](https://apod.nasa.gov/apod/astropix.html)
+  
+![https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg](https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg)
+
 # Danuri ([다누리](https://www.kari.re.kr/danuri/html/index.html)) 
 ## _**Korea Pathfinder Lunar Orbiter**_
 https://www.kari.re.kr/kor
