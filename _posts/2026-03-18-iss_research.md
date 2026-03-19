@@ -69,11 +69,21 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
  </picture>
 
 [ECOSTRESS:Monitoring plants from space](https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html)
-Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html`
+Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html` 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/8783c7c3-1c4b-467e-a37e-d33c335a78d4" />
 
+[esa.int @ESA /iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026](https://www.esa.int/ESA_Multimedia/Images/2025/12/ISS_Expedition_74_patch_2026) : [https://en.wikipedia.org/wiki/Expedition_74](https://en.wikipedia.org/wiki/Expedition_74) 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://images-assets.nasa.gov/image/iss074-s-001/iss074-s-001~large.jpg" type="image/png" />
+  
+  <source src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" />
+ 
+ </picture>
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 

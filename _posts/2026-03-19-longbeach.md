@@ -4,11 +4,27 @@ mermaid: true
 published: true
 permalink: /longbeach
 title: "LongBeach, California"
-image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
+image: LongBeachEcostress.png
 ---
 
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+
+
+
+<img   alt="LongBeachEcostress @longbeachinnovationteam" src="https://github.com/user-attachments/assets/e0257aad-51a5-4cf6-bc4e-9001a253ff7b" />
+
+<img  alt="earthdatamining-Rashard @BLACKGIRLSCODE @NASA-JPL @LA-COUNTY-ISD" src="https://github.com/user-attachments/assets/84e7fce5-bc08-4034-a24f-ad7d01f4fc24" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A331481&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ninjakat3" title="Ninja Kat" target="_blank" style="color: #cccccc; text-decoration: none;">Ninja Kat</a> · <a href="https://soundcloud.com/ninjakat3/massive-attack-essential-mix" title="Massive Attack - Essential Mix" target="_blank" style="color: #cccccc; text-decoration: none;">Massive Attack - Essential Mix @voyager-tech-inc rashards depressed cube sounds</a></div>
+
+<img alt="GIOVANNI-outputcMc1ABE4 @doug-newman-nasa" src="https://github.com/user-attachments/assets/832b329c-9fb2-431a-b90e-972064a69a12" />
+
+
+<img  alt="Screenshot_20260319-081713 @longbeachinnovationteam" src="https://github.com/user-attachments/assets/04e943dc-0994-4986-9a63-2457f5b23d8f" />
+
+<img   alt="sangabrielLosAngles @EMIT-SDS HELLO FROM LONGBEACH @longbeachinnovationteam" src="https://github.com/user-attachments/assets/75508592-a27b-4b57-baae-dafb443f07c1" />
 
 [STORY_MAP_GALLERY](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f)
 

@@ -1,13 +1,40 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-03-16 15:38:06 -0800
+date:   2026-03-18 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 [@blackgirlscode @esa @nasa-jpl](https://cdn.esawebb.org/archives/images/large/pillarsofcreation_composite.jpg) 
+
+
+@cityOfLosAngeles Streets LA `Ecostress` 
+[geoTiff](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.tif) // kmz @googleworkspace idk is kml the language identifier ? bc i think you guys distribute kml files, google earth works tho [`KM[Z/L]`](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
+
+@newshour @nbcnews [https://ecostress.jpl.nasa.gov/data](https://ecostress.jpl.nasa.gov/data)
+
+[https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png) 
+
+`NASA’s ECOSTRESS Maps LA’s Street Temperatures. Click on image to see larger version. - NASA/JPL-Caltech`
+In this overlay image, retrieved land surface temperature (LST) from NASA’s Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) was downscaled to a spatial resolution of 10m and overlaid on a street map of Los Angeles. The image was derived by taking an average of all clear-sky afternoon (1-4pm) imagery acquired by ECOSTRESS from 2018-2023. The LST represents the ‘skin’ temperature of the surface (that you would feel to the touch) and is usually much hotter than the surface air temperature that meteorologists report in a weather forecast.
+
+<img   alt="streetheat_la.png @intuit image" src="https://github.com/user-attachments/assets/226688c3-87f4-4fdb-92f5-e0d6fb51b727" />
+
+ECOSTRESS was launched to the international space station in 2018. Its primary mission is to identify plants’ thresholds for water use and water stress, giving insight into their ability to adapt to a warming climate. However, it has many other science uses including urban heat mitigation, wildfire mapping, water quality, and surface mineralogy. NASA’s Jet Propulsion Laboratory in Southern California built and manages the ECOSTRESS mission for the Earth Science Division in the Science Mission Directorate at NASA Headquarters in Washington. ECOSTRESS is an Earth Venture Instrument mission; the program is managed by NASA’s Earth System Science Pathfinder program at NASA's Langley Research Center in Hampton, Virginia - [@NASA-JPL / @CALTECH @Whitehouse @la-county-isd @stateofcalifornia @CityOfLosAngeles @longbeachinnovationteam hi MAyorRex
+
+<img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
+
+@la-county-isd if this is one tool i use for mapping and interstellar weather @nasa-giss 
+[giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:@nasa-jpl:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:00:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho)
+
+<img   alt="earthdatamining-Rashard" src="https://github.com/user-attachments/assets/2aa8836b-e0f8-4eed-9e4c-c6ce47287f2c" />
+
+<img   alt="GIOVANNI-outputcMc1ABE4" src="https://github.com/user-attachments/assets/16e0f655-b51c-4383-9601-a46ed7ad632d" />
+
+<img  alt="sangabrielLosAngles" src="https://github.com/user-attachments/assets/611e5a02-9baa-446b-8e2b-a5c810472d0e" />
+
 
 <img   alt="@la-county-isd" src="https://github.com/user-attachments/assets/f1445c47-c9c1-41e9-9823-530051811670" />
 
