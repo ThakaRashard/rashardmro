@@ -32,6 +32,10 @@ date:   2026-03-19 1:51:06
 
 ![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
 
+@la-county-isd this format called geotiff is a standard cartography services @nasa-jpl uses , im playing with an online viewer, it will make me more handy at using radar to create maps @blackgirlscode hi! [https://app.geotiff.io/](https://app.geotiff.io/) thats a web app, but it has a lot of tools to dig in if you cannt make changes to a computer to get the functionality
+
+<img   alt="image" src="https://github.com/user-attachments/assets/288881df-3e45-4f1c-b690-a81bd1257f82" />
+
 @NASA-GISS @LACMTA @la-county-isd 
 Dear Supervisor Wiggins,
 It's rashard Kelly from nasajpl.. as the train approached the Willow st station's  dtla platform I got a violent shock and my legs began itching aggressively and my waist band started burning @RepKarenBass 🥵 I'm seeking relief 😔 😮‍💨 I was sitting in the seat facing the driver behind door a7 @usnavy @nbcnews @nasa-jpl

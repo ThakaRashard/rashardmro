@@ -6,9 +6,105 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
+[@nasa-jpl iss hatch opening and closing - watch @newshour @nbcnews @cbs-news-data @datadesk](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA1.mp4) // Soalr Panel ModKiT insTall [@Nasa-develop news @Nasa-giss @la-county-isd HOLLYMiTCHELL - KARENBASS JANiCHAHN](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA.mp4)
 
 @TheSpaceDevs @BlueOrigin 
-what would rodman of berkeley glass house lexus ass say about me today? please tell @blackgirlscode @nasa-jpl @la-county-isd
+what would rodman of berkeley glass house lexus ass say about me today? please tell @blackgirlscode @nasa-jpl @la-county-isd we had a spacewalk
+
+[spacewalk94 🌌](https://rashardmro.tumblr.com/post/811488226334425088) // [iss @nasa @whitehouse spacewalk94 🌌 @ucla](https://rashardmro.tumblr.com/post/811443112754954240/us-spacewalk-94)
+[https://rashardmro.tumblr.com/](https://rashardmro.tumblr.com/) ++ [@foratlanta Checkitout](https://rashardmro.tumblr.com/post/811496629645557760/baps-rotten-tomatoes)
+
+[https://archive.org/details/commitmentmaintenance/0000000000000_MARS_CURIOSITY_CONVERGENCECHECKiN_BRANDYDYNEESHANORMANiLATRiCEErika_Rashard_NASAjpezgif.com-gif-to-mp4-converter.mp4](https://archive.org/details/commitmentmaintenance/0000000000000_MARS_CURIOSITY_CONVERGENCECHECKiN_BRANDYDYNEESHANORMANiLATRiCEErika_Rashard_NASAjpezgif.com-gif-to-mp4-converter.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/6125d2fb-ebb1-43b8-bf7e-a98f4192d075" />
+
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+_SPACEWALK94DONE_
+![SPACEWALK94DONE_ezgif com-resize](https://github.com/user-attachments/assets/6b4ae7e8-66b9-4c39-8c39-3fbe7116ffce)
+
+@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from  [@blackgirlscode](https://github.com/blackGirlsCode) ::  [@NorthropGrumman](https://github.com/NorthropGrumman)
+@la-county-isd hi [Ms Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) @cityoflosangeles hi ms bass [The Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [[1](https://mayor.lacity.gov/) we had a great spacewalk but have not rolled out the [solar panels](https://www.nasa.gov/image-article/solar-arrays-international-space-station-2/) yet, just a [few parts in place](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) to prep @nasa-pds i hope you guys are keeping up the added power may support new observation gear. I feel like i read that solar panels have a lifetime as well @tesla so it may not be the big upgrade i think it is
+
+[Astronauts Install Solar Array Mod Kit, Complete Spacewalk - @nasa .gov /blogs](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) @jaxa @esa
+
+_Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4) ++ [ECOSTRESS_SCiENCE_TEAM](https://ecostress.jpl.nasa.gov/science) 
+
+[https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+
+<img alt="Screenshot_20260318-115304" src="https://github.com/user-attachments/assets/84ab66da-fb5c-444d-b1ea-9099baf91c47" />
+
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/8c472332-f539-42bb-84b3-b59d4b0a801f)
+
+
+
+<img   alt="Screenshot_20260318-114956" src="https://github.com/user-attachments/assets/9e726d24-cee1-41b8-90cb-9a9072fa430d" />
+
+
+<img alt="Screenshot_20260318-134532" src="https://github.com/user-attachments/assets/665dd141-49c6-4286-8702-06f810da1d97" />
+
+
+<img alt="Screenshot_20260318-062633" src="https://github.com/user-attachments/assets/d918943b-1bbc-443e-9596-049750a9e176" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/120912cd-082d-4220-8408-1bb448b7e78d" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ceac85c-69bf-441f-9ae1-bd11a9e5f6c0" />
+
+[nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode [jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/](https://www.jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4500141a-b00a-4930-a4f1-6d347b32ee61" />
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
+
+[ECOSTRESS:Monitoring plants from space](https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html)
+Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html` 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8783c7c3-1c4b-467e-a37e-d33c335a78d4" />
+
+[esa.int @ESA /iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026](https://www.esa.int/ESA_Multimedia/Images/2025/12/ISS_Expedition_74_patch_2026) : [https://en.wikipedia.org/wiki/Expedition_74](https://en.wikipedia.org/wiki/Expedition_74) 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://images-assets.nasa.gov/image/iss074-s-001/iss074-s-001~large.jpg" type="image/png" />
+  
+  <source src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" />
+ 
+ </picture>
 
 somafm [SpaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4) // [WeFUNK](https://session.wefunkradio.com/radio/play)
@@ -23,17 +119,7 @@ somafm [SpaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
 
-</div>
 
 ```html
 <object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>

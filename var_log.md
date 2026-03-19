@@ -5,9 +5,27 @@ permalink: /var/log
 ---
 
 
-![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
+
+
+@dhs-gov @la-county-isd @longbeachinnovationteam check out the pics!
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 @foratlanta [Savannah St. Patrick's Day Parade 2026](https://youtu.be/h2m0osu4KA8) @blackgirlscode [LACOUNTY_DAiLY_MEETING_TO RUN_LOSANGELES](https://www.youtube.com/watch?v=N620rIEB5Yg) @opensavannah
+
+
+![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
+
+![https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png](https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2bf2b96a-d7f6-492b-b026-fb4b0092d389" />
 

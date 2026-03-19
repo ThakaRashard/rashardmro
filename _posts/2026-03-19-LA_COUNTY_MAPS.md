@@ -2,23 +2,13 @@
 layout: post
 mermaid: true
 published: true
-permalink: /la-county
-title: L.A. Ecology @la-county-isd @Nasa-jpl
+permalink: /lacountymaps
+title:  "MapS : @la-county-isd @Nasa-jpl "
 image: S1A_IW_GRDH_1SDV_20260221T135233_20260221T135258_063318_07F39D_AED3.jpg
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-21 14:24:06 
+date:   2026-03-19 01:24:06 
 ---
-
-
-
-
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
-
-
-[comment]: <> (Emergency Files )
-
-
 
 {% highlight python %}
 
@@ -28,6 +18,81 @@ date:   2026-02-21 14:24:06
 4 # UNiVERSE##LA_COUNTY_MAPS#####virtiservLA____##########
 
 {% endhighlight %}
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+[comment]: <> (Emergency Files )
+
+
+
+ECOSTRESS thermal map of the Port of LA, California, USA @la-county-isd @StateOfCalifornia @CityOFLosAngeles @LongBeachinnovationteam 
+[readmore](https://ecostress.jpl.nasa.gov/galleryimage)
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/6b95c2c5-af66-49b3-8b8b-3f01324e45dc" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/6b95c2c5-af66-49b3-8b8b-3f01324e45dc" />
+  
+</picture>
+
+
+
+
+[Happy Pi Day @CityOfLosAngeles @la-county-isd @nasa-pds @blackgirlscode 10 Ways to Celebrate Pi Day with NASA on March 14](https://science.nasa.gov/learning-resources/10-ways-to-celebrate-pi-day-with-nasa-on-march-14/)
+![https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png](https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png) 
+@CityOfLosAngeles @La-County-isd i dont know the water departments account, but please take this vegitation induce into consideration, there is a leaf coverage index layer as well @whitehouse @stateofcalifornia mr newsom her is a map link that includes the data set names [https://worldview.earthdata.nasa.gov/?v=-129.53327845738087,14.353191066741346,-63.280706038147436,51.62026305256015&l=Reference_Labels_15m,Coastlines_15m(hidden,opacity=0.59),GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MODIS_Combined_L4_LAI_4Day,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-129.53327845738087,14.353191066741346,-63.280706038147436,51.62026305256015&l=Reference_Labels_15m,Coastlines_15m(hidden,opacity=0.59),GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MODIS_Combined_L4_LAI_4Day,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z) @blackgirlscode hi make sure your California educators get this article and verify it [NASA-Led Study Pinpoints Areas Sinking, Rising Along California Coast @nasa-jpl](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
+[https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png](https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+<img   alt="image" src="https://github.com/user-attachments/assets/4f9c8237-ab0b-4958-806f-a7cc2d84fff4" />
+
+
+
+
+
+
+
+[MAPLiNK @longbeachinnovationteam @la-county-isd](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.95/-13151758.97/3999762.44&layers=aqv_chla_20260314_sentinel:1.00:0.00:30.00:default,aqv_tss_20260314_landsat:1.00:0.00:30.00:default,aqv_chla_20260314_landsat:1.00:0.00:30.00:default,aqv_secchi_20260314_landsat:1.00:0.00:30.00:secchi) 𝛑 🥧 day [AllFiles](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/73/LC08_L1TP_041037_20260314_20260314_02_RT) use the ::earth:: Globe icon to see the [data](https://catalog.data.gov/dataset/pds-data-dictionary-1r75) display on a map @doug-newman-nasa @cityoflosangeles [Steve Kang](https://dpw.lacity.gov/about-steve-kang) :[:](https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html): @nasa-[pds](https://naif.jpl.nasa.gov/naif/pds.html) @emit-sds _Commissioner Steve Kang was appointed by [Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) to the Board of Public Works for [the](https://atmos.nmsu.edu/IPDA/pds.html) City of Los Angeles._ - [https://dpw.lacity.gov/about-steve-kang](https://dpw.lacity.gov/about-steve-kang) [Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c46a7016-00fc-4353-842c-ef5c413995db" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/2da139fb-e4fc-4abe-ba86-e77bc574bbc1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/6412d727-70cd-45fa-b190-cdcda292b0fc" />
+
+@blackgirlscode [Bob Marley - Rastaman Vibration (Full Album) 432hz](https://youtu.be/B0gesoinua0?list=RDB0gesoinua0&t=47)
+hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
+[Must Be dues - Melba Moore - song @voyager-tech-inc @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
+
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+
+<img  alt="image @voyager-tech-inc" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
+
+
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+
+[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
+
+### Is private security endangering those in California homeless shelters? 
+[Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a7015a64-ae73-4316-a97e-dbe2bef9565f" />
+
+
+@foratlanta @cityoflosangeles @nasa-jpl @TheSpaceDevs
+@blackgirlscode @la-county-isd @NASA-OPENSCAPES /// @LACMTA [CAROL WiGGENS](https://boardagendas.metro.net/person/stephanie-wiggins-0d0b6b5d9d46/)
+i see, its [Stephanie](https://www.linkedin.com/in/stephanie-wiggins) @nasa-giss @chicago
 
 @nasa-jpl @maxar @Maxar-Public @doug-newman-nasa 
 you guys should reach out to [HollyMitchell](https://women.ca.gov/about-us/holly-mitchell/) or [ Traci Park](https://tracipark.com/) , [MayorBass](https://www.newsnationnow.com/us-news/crowley-accuses-bass-of-retaliation-in-lawsuit/) she tought to get a hold on but needs help because a lot of news sources say shes slow to act and blame the fires on her. I use all the technology that say she behind on and she/they ordered me 15 years ogo! Thats what the fire chief said in [mars garage](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/) @blackgirlscode 
@@ -198,29 +263,6 @@ im concerned about these [maps of losangeles](https://youtu.be/lUclitPknhE?t=68)
 
 [Towards global long-term water transparency products from the Landsat archive](https://www.sciencedirect.com/science/article/pii/S0034425723004406?via%3Dihub) : @cityoflosangeles [Mayor](https://healthpolicy.ucla.edu/30-year-anniversary/honorees/mayor-karen-bass) @ucla thats a link :: news _Casey Wasserman Loses L.A Mayor’s Support For LA28 Job Over Epstein Files Revelations: “He Should Step Down”_  [Link](https://deadline.com/2026/02/casey-wasserman-resign-olympics-mayor-karen-bass-esptein-1236726528/) _`Mayoral Transition Advisory Team`_ ? [Link - https://jobs.lamayor.org/mayoral-transition-advisory-team](https://jobs.lamayor.org/mayoral-transition-advisory-team) @la-county-isd 
 <img   alt="image" src="https://github.com/user-attachments/assets/daa5d1f6-4586-4f78-9d54-d1ecfb616221" />
-
-@blackgirlscode [Bob Marley - Rastaman Vibration (Full Album) 432hz](https://youtu.be/B0gesoinua0?list=RDB0gesoinua0&t=47)
-hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt! @whitehouse 
-
-![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
-
-
-
-### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
-
-
-[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
-
-[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
-
-### Is private security endangering those in California homeless shelters? 
-[Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/) & _old data_ ~> @la-county-isd [Read More rashardiman.github.io/civic01](https://rashardiman.github.io/civic01)
-
-
-
-[Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
 
 
 

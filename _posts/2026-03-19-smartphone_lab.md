@@ -9,6 +9,13 @@ permalink: /smartphonelab
 ---
 [@blackgirlscode @esa @nasa-jpl](https://cdn.esawebb.org/archives/images/large/pillarsofcreation_composite.jpg) 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+
 
 @cityOfLosAngeles Streets LA `Ecostress` 
 [geoTiff](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.tif) // kmz @googleworkspace idk is kml the language identifier ? bc i think you guys distribute kml files, google earth works tho [`KM[Z/L]`](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
@@ -19,6 +26,19 @@ permalink: /smartphonelab
 
 `NASA’s ECOSTRESS Maps LA’s Street Temperatures. Click on image to see larger version. - NASA/JPL-Caltech`
 In this overlay image, retrieved land surface temperature (LST) from NASA’s Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) was downscaled to a spatial resolution of 10m and overlaid on a street map of Los Angeles. The image was derived by taking an average of all clear-sky afternoon (1-4pm) imagery acquired by ECOSTRESS from 2018-2023. The LST represents the ‘skin’ temperature of the surface (that you would feel to the touch) and is usually much hotter than the surface air temperature that meteorologists report in a weather forecast.
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 <img   alt="streetheat_la.png @intuit image" src="https://github.com/user-attachments/assets/226688c3-87f4-4fdb-92f5-e0d6fb51b727" />
 

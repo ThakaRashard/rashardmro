@@ -2,6 +2,11 @@
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
 
+[MAPLiNK @longbeachinnovationteam @la-county-isd](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.95/-13151758.97/3999762.44&layers=aqv_chla_20260314_sentinel:1.00:0.00:30.00:default,aqv_tss_20260314_landsat:1.00:0.00:30.00:default,aqv_chla_20260314_landsat:1.00:0.00:30.00:default,aqv_secchi_20260314_landsat:1.00:0.00:30.00:secchi) 𝛑 🥧 day [AllFiles](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/73/LC08_L1TP_041037_20260314_20260314_02_RT) use the ::earth:: Globe icon to see the [data](https://catalog.data.gov/dataset/pds-data-dictionary-1r75) display on a map @doug-newman-nasa @cityoflosangeles [Steve Kang](https://dpw.lacity.gov/about-steve-kang) :[:](https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html): @nasa-[pds](https://naif.jpl.nasa.gov/naif/pds.html) @emit-sds _Commissioner Steve Kang was appointed by [Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) to the Board of Public Works for [the](https://atmos.nmsu.edu/IPDA/pds.html) City of Los Angeles._ - [https://dpw.lacity.gov/about-steve-kang](https://dpw.lacity.gov/about-steve-kang)
+<img  alt="image" src="https://github.com/user-attachments/assets/c46a7016-00fc-4353-842c-ef5c413995db" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/2da139fb-e4fc-4abe-ba86-e77bc574bbc1" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/6412d727-70cd-45fa-b190-cdcda292b0fc" />
 
 @foratlanta @cityoflosangeles @nasa-jpl @TheSpaceDevs
@@ -75,6 +80,7 @@ _This branch is 4 commits ahead of and 106 commits behind ThakaRashard/rashardmr
 <img  alt="image" src="https://github.com/user-attachments/assets/23816c11-44be-4c2c-99ec-51bf2c1f02ce" />
 <img   alt="image" src="https://github.com/user-attachments/assets/36799593-f2af-4005-92ef-fa19a28412da" />
 <img alt="image" src="https://github.com/user-attachments/assets/bb7c6fe4-83a3-42db-b2ff-6009e383d45d" />
+<img   alt="image" src="https://github.com/user-attachments/assets/08062c26-b5ad-40cf-b4cb-ae087adeee92" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/31111ad4-38f7-445d-97b5-fae0312a335e" />
 

@@ -3,7 +3,7 @@ layout: default
 title:  "iSS_ResearcH"
 published: true
 permalink: /iss
-date:   2026-03-18 11:36:06 -0800
+date:   2026-03-19 11:36:06 -0800
 tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
@@ -18,7 +18,17 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
  
  </picture>
 
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
 
+</div>
 
 _SPACEWALK94DONE_
 ![SPACEWALK94DONE_ezgif com-resize](https://github.com/user-attachments/assets/6b4ae7e8-66b9-4c39-8c39-3fbe7116ffce)
