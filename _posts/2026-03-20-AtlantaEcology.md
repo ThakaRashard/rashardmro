@@ -10,24 +10,18 @@ categories: Atlanta ecology ecostress space dsn nsn climate weather
 date:   2026-03-20 10:51:06 
 ---
 
-
-
-
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 ## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
-
-
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
 
 
-
+<iframe width="499" height="289" src="https://www.youtube.com/embed/vYRfQo6JMxc" title="United Nations - LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #[IWD2026](https://www.un.org/en/observances/womens-day)  |  #[GiveToGain](https://www.unwomen.org/en/get-involved/international-womens-day)
 @la-county-isd @CityOfLosAngeles @nasa-jpl how do i get all the people in the city and county to know that im active multimission and its not nesseary to poison me for those parties down town?! @blackgirlscode @ucla 
 
-<iframe width="499" height="289" src="https://www.youtube.com/embed/vYRfQo6JMxc" title="United Nations - LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src='https://cdnapisec.kaltura.com/p/2503451/embedPlaykitJs/uiconf_id/49754663?iframeembed=true&entry_id=1_mvc3tcfj&config[playback]={"audioLanguage":"en"}&config[ui]={"locale":"en"}' style="width: 528px; height: 297px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"></iframe>
 
