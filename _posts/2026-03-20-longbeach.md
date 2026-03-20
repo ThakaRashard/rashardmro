@@ -8,10 +8,9 @@ image: LongBeachEcostress.png
 ---
 
 ## Rashard Kelly 
- MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-
-# City
+`Area Voices`
 [@CityOfLosangeles - Regular City Council - 06/15/99](https://youtu.be/rJATuBZlJ8E)
  City of Carson State of the City 2026
 [https://www.youtube.com/@cityofcarsoncalifornia](https://www.youtube.com/@cityofcarsoncalifornia)
@@ -22,6 +21,20 @@ image: LongBeachEcostress.png
 
 <img  alt="earthdatamining-Rashard @BLACKGIRLSCODE @NASA-JPL @LA-COUNTY-ISD" src="https://github.com/user-attachments/assets/84e7fce5-bc08-4034-a24f-ad7d01f4fc24" />
 
+@la-county-isd Supervisor Mitchell, if you get this note @blackgirlscode @GavinNewsom i was trying to get the [SpaceLaw101](https://youtu.be/Ak0SuIzNwtQ) rolling for people in the area as [SpaceBeach](https://www.csulb.edu/space-beach-initiative) and other AeroSpace initiatives take root @StateOfCalifornia 
+[unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
+
+
+![https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-`rex` @longbeachinnovationteam richardson-stacked-wordmark_new-colorway.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-stacked-wordmark_new-colorway.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a025911e-ff88-452f-a7ea-c2e3c7edcd46" />
+
+
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
+
+@la-county-isd this format called geotiff is a standard cartography services @nasa-jpl uses , im playing with an online viewer, it will make me more handy at using radar to create maps @blackgirlscode hi! [https://app.geotiff.io/](https://app.geotiff.io/) thats a web app, but it has a lot of tools to dig in if you cannt make changes to a computer to get the functionality
+
+<img   alt="image" src="https://github.com/user-attachments/assets/288881df-3e45-4f1c-b690-a81bd1257f82" />
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A331481&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ninjakat3" title="Ninja Kat" target="_blank" style="color: #cccccc; text-decoration: none;">Ninja Kat</a> · <a href="https://soundcloud.com/ninjakat3/massive-attack-essential-mix" title="Massive Attack - Essential Mix" target="_blank" style="color: #cccccc; text-decoration: none;">Massive Attack - Essential Mix @voyager-tech-inc rashards depressed cube sounds</a></div>
 
 <img alt="GIOVANNI-outputcMc1ABE4 @doug-newman-nasa" src="https://github.com/user-attachments/assets/832b329c-9fb2-431a-b90e-972064a69a12" />
