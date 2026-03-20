@@ -46,6 +46,26 @@ ECOSTRESS was launched to the international space station in 2018. Its primary m
 
 <img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
 
+[https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-01T00:00:00Z&endtime=2026-03-14T23:59:59Z&data=LPRM_AMSR2_A_SOILM3_001_soil_moisture_c1%2CLPRM_AMSR2_DS_D_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_SoilTemp100_200cm_tavg&dataKeyword=Soil](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-01T00:00:00Z&endtime=2026-03-14T23:59:59Z&data=LPRM_AMSR2_A_SOILM3_001_soil_moisture_c1%2CLPRM_AMSR2_DS_D_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_SoilTemp100_200cm_tavg&dataKeyword=Soil)
+
+@la-county-isd
+@LACMTA I was working g on the county soil moisture report and got slammed off 📴 idk if it's a patron or a dirty metro tech @nasa-jpl @emit-sds @foratlanta @blackgirlscode @cityoflosangeles
+
+
+```shell
+This site can’t be reached
+giovanni.gsfc.nasa.gov refused to connect.
+Try:
+
+Checking the connection
+ERR_CONNECTION_REFUSED
+```
+
+
+
+
+
+
 @la-county-isd if this is one tool i use for mapping and interstellar weather @nasa-giss 
 [giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:@nasa-jpl:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:00:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho)
 
