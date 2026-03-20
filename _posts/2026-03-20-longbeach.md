@@ -21,10 +21,27 @@ image: LongBeachEcostress.png
 
 <img  alt="earthdatamining-Rashard @BLACKGIRLSCODE @NASA-JPL @LA-COUNTY-ISD" src="https://github.com/user-attachments/assets/84e7fce5-bc08-4034-a24f-ad7d01f4fc24" />
 
+
+_SPACEWALK94DONE_
+![SPACEWALK94DONE_ezgif com-resize](https://github.com/user-attachments/assets/6b4ae7e8-66b9-4c39-8c39-3fbe7116ffce)
+
+@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from  [@blackgirlscode](https://github.com/blackGirlsCode) ::  [@NorthropGrumman](https://github.com/NorthropGrumman)
+@la-county-isd hi [Ms Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) @cityoflosangeles hi ms bass [The Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [[1](https://mayor.lacity.gov/) we had a great spacewalk but have not rolled out the [solar panels](https://www.nasa.gov/image-article/solar-arrays-international-space-station-2/) yet, just a [few parts in place](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) to prep @nasa-pds i hope you guys are keeping up the added power may support new observation gear. I feel like i read that solar panels have a lifetime as well @tesla so it may not be the big upgrade i think it is
+
+[Astronauts Install Solar Array Mod Kit, Complete Spacewalk - @nasa .gov /blogs](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) @jaxa @esa
+
+_Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4) ++ [ECOSTRESS_SCiENCE_TEAM](https://ecostress.jpl.nasa.gov/science) 
+
+[https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+
+<img alt="Screenshot_20260318-115304" src="https://github.com/user-attachments/assets/84ab66da-fb5c-444d-b1ea-9099baf91c47" />
+
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/8c472332-f539-42bb-84b3-b59d4b0a801f)
 ![https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png) 
 
 @la-county-isd Supervisor Mitchell, if you get this note @blackgirlscode @GavinNewsom i was trying to get the [SpaceLaw101](https://youtu.be/Ak0SuIzNwtQ) rolling for people in the area as [SpaceBeach](https://www.csulb.edu/space-beach-initiative) and other AeroSpace initiatives take root @StateOfCalifornia 
-[unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
+[unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/) / [Long Beach revives aerospace past in new ‘Space Beach’ era - lbbusinessjournal.com](https://lbbusinessjournal.com/aerospace/long-beach-revives-aerospace-past-in-new-space-beach-era/)
 
 
 ![https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-`rex` @longbeachinnovationteam richardson-stacked-wordmark_new-colorway.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-stacked-wordmark_new-colorway.png)
