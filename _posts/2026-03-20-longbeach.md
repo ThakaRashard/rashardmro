@@ -21,6 +21,8 @@ image: LongBeachEcostress.png
 
 <img  alt="earthdatamining-Rashard @BLACKGIRLSCODE @NASA-JPL @LA-COUNTY-ISD" src="https://github.com/user-attachments/assets/84e7fce5-bc08-4034-a24f-ad7d01f4fc24" />
 
+![https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png) 
+
 @la-county-isd Supervisor Mitchell, if you get this note @blackgirlscode @GavinNewsom i was trying to get the [SpaceLaw101](https://youtu.be/Ak0SuIzNwtQ) rolling for people in the area as [SpaceBeach](https://www.csulb.edu/space-beach-initiative) and other AeroSpace initiatives take root @StateOfCalifornia 
 [unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
 
