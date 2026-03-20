@@ -97,7 +97,7 @@ Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will
   
   <source src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" type="image/png" />
   
- <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" />
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @voyager-tech-inc @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" />
  
  </picture>
 
