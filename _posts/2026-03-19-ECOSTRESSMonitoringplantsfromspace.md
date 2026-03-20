@@ -6,6 +6,9 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
+[https://www.youtube.com/watch?v=vYRfQo6JMxc](https://www.youtube.com/watch?v=vYRfQo6JMxc)
+<img  alt="image" src="https://github.com/user-attachments/assets/f8158594-ff03-4f70-a3f9-8b9f0cf2fdd2" />
+
 [@nasa-jpl iss hatch opening and closing - watch @newshour @nbcnews @cbs-news-data @datadesk](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA1.mp4) // Soalr Panel ModKiT insTall [@Nasa-develop news @Nasa-giss @la-county-isd HOLLYMiTCHELL - KARENBASS JANiCHAHN](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA.mp4)
 
 @TheSpaceDevs @BlueOrigin 
