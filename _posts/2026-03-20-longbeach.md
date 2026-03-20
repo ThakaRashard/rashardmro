@@ -10,7 +10,9 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-
+### City of Carson State of the City 2026
+[https://www.youtube.com/@cityofcarsoncalifornia](https://www.youtube.com/@cityofcarsoncalifornia)
+`rex` @longbeachinnovationteam @la-county-isd [https://www.youtube.com/live/Li6eCVdQgJ8?si=9mHckPt400SqBeXa](https://www.youtube.com/live/Li6eCVdQgJ8?si=9mHckPt400SqBeXa)
 
 
 <img   alt="LongBeachEcostress @longbeachinnovationteam" src="https://github.com/user-attachments/assets/e0257aad-51a5-4cf6-bc4e-9001a253ff7b" />
