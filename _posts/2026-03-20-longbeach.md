@@ -32,8 +32,8 @@ _SPACEWALK94DONE_
 
 _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4) ++ [ECOSTRESS_SCiENCE_TEAM](https://ecostress.jpl.nasa.gov/science) 
 
-[https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
-![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+[https://mayor.lacity.gov/about-mayor-karen-bass ](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg @voyager-tech-inc @longeachinnovationteam @nasa-jpl @dhs-gov @fbicyber @la-county-isd](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
 
 <img alt="Screenshot_20260318-115304" src="https://github.com/user-attachments/assets/84ab66da-fb5c-444d-b1ea-9099baf91c47" />
 
@@ -44,7 +44,7 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
 [unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/) / [Long Beach revives aerospace past in new ‘Space Beach’ era - lbbusinessjournal.com](https://lbbusinessjournal.com/aerospace/long-beach-revives-aerospace-past-in-new-space-beach-era/)
 
 
-![https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-`rex` @longbeachinnovationteam richardson-stacked-wordmark_new-colorway.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-stacked-wordmark_new-colorway.png)
+![https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-`rex` @voyager-tech-inc @longeachinnovationteam @nasa-jpl @dhs-gov @fbicyber @la-county-isd @longbeachinnovationteam richardson-stacked-wordmark_new-colorway.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-stacked-wordmark_new-colorway.png)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a025911e-ff88-452f-a7ea-c2e3c7edcd46" />
 
