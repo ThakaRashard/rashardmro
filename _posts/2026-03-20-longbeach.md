@@ -9,8 +9,11 @@ image: LongBeachEcostress.png
 
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
-[@foratlanta @fbicyber](https://codepen.io/thakarashard/pen/vYMWzyx) someone vandalized kashdoll theme @blackgirlscode [HollyjMitchell](https://www.youtube.com/@SupervisorHollyJMitchell) : [[1](mitchell.lacounty.gov
-)] here is one of the themes i made the girls when [they was doing good in music](https://www.youtube.com/watch?v=QL93x7bmGUc)
+
+
+ 
+[@foratlanta @fbicyber](https://codepen.io/thakarashard/pen/vYMWzyx) someone vandalized kashdoll theme @blackgirlscode [HollyjMitchell @whitehouse @emit-sds](https://www.youtube.com/@SupervisorHollyJMitchell) : [[1](mitchell.lacounty.gov
+)] [here](https://codepen.io/thakarashard/pen/oNOoPYL) is one of the themes i made the girls when [they was doing good in music](https://www.youtube.com/watch?v=QL93x7bmGUc)
 `Area Voices`
 [@CityOfLosangeles - Regular City Council - 06/15/99](https://youtu.be/rJATuBZlJ8E)
  City of Carson State of the City 2026
