@@ -100,6 +100,15 @@ On January 7th, 2025, a series of wildfires started in the Southern California a
 [RelatedMetaFACEBOOK](https://www.facebook.com/permalink.php?story_fbid=pfbid022AsmhjApmWb1uyuCR4YyMn4UsmUmUb46U3RvtPDFetd6KQCxcBmE5Bk8eT145eBTl&id=100084464911565) 
 
 
+
+Table Mountain Facility Sends DSOC Laser Beacon to NASA’s Psyche (Infrared Image)
+=================================================================================
+
+https://www.jpl.nasa.gov/images/pia26661-table-mountain-facility-sends-dsoc-laser-beacon-to-nasas-psyche-infrared-image/ // https://en.wikipedia.org/wiki/Table_Mountain_Observatory#/media/File:Table_Mountain_Observatory_control_room1.jpg
+
+https://en.wikipedia.org/wiki/Table_Mountain_Observatory // https://lidar.jpl.nasa.gov/ndacc/sites/tmf.php // https://science.jpl.nasa.gov/projects/table-mountain-observatoryoptical-astronomy-tmo/ // https://locator.lacounty.gov/lac/Location/3070281/table-mountain-observatory // https://atmos.jpl.nasa.gov/ground.htm // https://www.pomona.edu/academics/departments/physics-and-astronomy/facilities/table-mountain-observatory // https://www.jpl.nasa.gov/images/pia26661-table-mountain-facility-sends-dsoc-laser-beacon-to-nasas-psyche-infrared-image/
+
+
 ###
 [Wildfires in Los Angeles, California](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) [Image captured on Jan 8, 2025](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california)
 [ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
