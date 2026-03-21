@@ -15,7 +15,29 @@ permalink: /smartphonelab
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+[@NASA-JPL / @CALTECH @Whitehouse @la-county-isd] @stateofcalifornia @CityOfLosAngeles @longbeachinnovationteam hi MAyorRex im pulling out some excerpts from an old include [`_UnixingAndroid_`](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_includes/unixingandroid.md), an include is a loose string that made the blog harder to port @CityOfLosAngeles @podaac @nasa-jpl 
 
+
+# UnixinG_Android 
+Hi MRO, want you to have an update on what my computing situation has been since Jose took my laptop back. Im in the library system but they wont let me have free access to a computer. Its connected to my spouse's prostitution and porno. In [Santa Monica Porn is filmed at the library at times](https://www.couriermail.com.au/lifestyle/pornhub-movie-filmed-at-public-library-angers-neighbours/news-story/8f4387f7d47490bba31bd28ac27994d8). The security gaurds told me I need an ID to come in! This is the [Santa Monica Public Library](https://smpl.org/)! and the resulting gossip among security gaurds about me having #Normani_aka_SartuAdem nudes on my cellphone! It was a gift! Im grown and i did not do it on library wifi! There is a law on it i found online. Its filtered now, but i want to know where i stand bc I was attending a dance studio with girls my age and i have been in datacenters most of my life, porn is the channel most ppl in my demographic communicate via to talk to people in the physical world. It causes a lot of hormonal problems and i am a really healthy male. Coral is strong even after the NiCU. Anyway the computers i had accquired got stolen in various ways so there is a big chunck of time i am not building on a Desktop. I promised I would grow as a Sun Admin and while i was without a computer i got turned on to [TErmux](https://termux.dev/en/) and leared a lot of cool configurations to do common programming tasks and it even effected my webdesign, i started building on github and what is now my homepage was a fullpage scrolling design like i was seeing life differently. Check out the screenshots below the Termux demo and see my #PocketPC thats what i call [Android](https://www.android.com/) now...
+
+
+### Its just a Personal Computer
+There is such an abstraction when running the manufacure bundeld android. But its normal PC architechture in a small ass package! The Following video is a screenshare of me using [Android](https://www.android.com/) for abt a half hour on a severley disabled cellphone. No root just [termux](https://termux.dev/en/) + [fdroid](https://github.com/termux/termux-app#f-droid)
+
+[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
+
+
+![68747470733a2f2f692e67696665722e636f6d2f5569464f2e676966](https://github.com/user-attachments/assets/fb2ca2f4-f1d1-4b35-b03c-1b66f29f53d9)
+
+
+
+<iframe src="https://archive.org/embed/screen-20240806-030550" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+BluTooth 
+combat erros and intrusion, `logcat` if you got adb
+
+<img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
 
 @cityOfLosAngeles Streets LA `Ecostress` 
 [geoTiff](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.tif) // kmz @googleworkspace idk is kml the language identifier ? bc i think you guys distribute kml files, google earth works tho [`KM[Z/L]`](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
@@ -42,9 +64,7 @@ In this overlay image, retrieved land surface temperature (LST) from NASA’s Ec
 
 <img   alt="streetheat_la.png @intuit image" src="https://github.com/user-attachments/assets/226688c3-87f4-4fdb-92f5-e0d6fb51b727" />
 
-ECOSTRESS was launched to the international space station in 2018. Its primary mission is to identify plants’ thresholds for water use and water stress, giving insight into their ability to adapt to a warming climate. However, it has many other science uses including urban heat mitigation, wildfire mapping, water quality, and surface mineralogy. NASA’s Jet Propulsion Laboratory in Southern California built and manages the ECOSTRESS mission for the Earth Science Division in the Science Mission Directorate at NASA Headquarters in Washington. ECOSTRESS is an Earth Venture Instrument mission; the program is managed by NASA’s Earth System Science Pathfinder program at NASA's Langley Research Center in Hampton, Virginia - [@NASA-JPL / @CALTECH @Whitehouse @la-county-isd @stateofcalifornia @CityOfLosAngeles @longbeachinnovationteam hi MAyorRex
-
-<img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
+ECOSTRESS was launched to the international space station in 2018. Its primary mission is to identify plants’ thresholds for water use and water stress, giving insight into their ability to adapt to a warming climate. However, it has many other science uses including urban heat mitigation, wildfire mapping, water quality, and surface mineralogy. NASA’s Jet Propulsion Laboratory in Southern California built and manages the ECOSTRESS mission for the Earth Science Division in the Science Mission Directorate at NASA Headquarters in Washington. ECOSTRESS is an Earth Venture Instrument mission; the program is managed by NASA’s Earth System Science Pathfinder program at NASA's Langley Research Center in Hampton, Virginia - 
 
 [https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-01T00:00:00Z&endtime=2026-03-14T23:59:59Z&data=LPRM_AMSR2_A_SOILM3_001_soil_moisture_c1%2CLPRM_AMSR2_DS_D_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_SoilTemp100_200cm_tavg&dataKeyword=Soil](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-01T00:00:00Z&endtime=2026-03-14T23:59:59Z&data=LPRM_AMSR2_A_SOILM3_001_soil_moisture_c1%2CLPRM_AMSR2_DS_D_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_SoilTemp100_200cm_tavg&dataKeyword=Soil)
 
