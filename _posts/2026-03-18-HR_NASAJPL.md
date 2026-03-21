@@ -12,6 +12,11 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
 @keberwein hi I used to work with aAngela. plz z tell her rashard saidd hi... erika works for p****b** now and I think Angela should meet my girlfriend latrice if I'm comprehending signals and not mixing them up @fbicyber [cantor.angela@bls.gov](mailto:cantor.angela@bls.gov) // [upthejunction2@yahoo.com](mailto:upthejunction2@yahoo.com) [bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm](https://www.bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm) @foratlanta @nasa-jpl @la-county-isd Supervisor Mitchell MayorBass @blackgirlscode
 
 ## California Constitution
