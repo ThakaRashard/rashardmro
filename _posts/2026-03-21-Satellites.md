@@ -9,16 +9,17 @@ permalink: /Satellites
 ---
 
 
-Suomi NPP
+# Suomi NPP
 []()
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Suomi_NPP_spacecraft_model.png/1280px-Suomi_NPP_spacecraft_model.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Suomi_NPP_spacecraft_model.png/1280px-Suomi_NPP_spacecraft_model.png) 
 
 Suomi National Polar-orbiting Partnership
 >An Introduction to Suomi-NPP NASA VIIRS Data Products
-
+[watch](https://youtu.be/Qu_givjJzds?si=OP21fXRsy3cpVFRg) // [read](https://podaac.jpl.nasa.gov/S-NPP) // [Find @Whitehouse scan-now.gsfc.nasa.gov/dte](https://scan-now.gsfc.nasa.gov/dte)
+>
 _Active Mission_ @voyager-tech-inc @nasa-jpl 
 ### Mission Objectives
-The National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project, or NPP, was launched on 28 October 2011 to collect and distribute remotely-sensed land, ocean, and atmospheric observations for the meteorological, oceanographic, terrestrial and global climate change communities. It aims to provide data continuity of these measurements from existing Earth-observing missions such as Aqua, Terra and Aura. The NPP satellite is the first in a series designed to provide critical data to improve short-term weather forecasts and increase understanding of long-term climate change. - [@podaac @nasa-jpl @la-county-isd @LACountyDPH @CityOfLosAngeles @LongBeachinnovatonTeam @USPTO @Blackgirlscode](https://podaac.jpl.nasa.gov/S-NPP) 
+The National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project, or NPP, was launched on 28 October 2011 to collect and distribute remotely-sensed land, ocean, and atmospheric observations for the meteorological, oceanographic, terrestrial and global climate change communities. It aims to provide data continuity of these measurements from existing Earth-observing missions such as Aqua, Terra and Aura. The NPP satellite is the first in a series designed to provide critical data to improve short-term weather forecasts and increase understanding of long-term climate change. - [@podaac @nasa-jpl @la-county-isd @LACountyDPH @CityOfLosAngeles @LongBeachinnovatonTeam @USPTO @Blackgirlscode](https://podaac.jpl.nasa.gov/S-NPP)  
 
 [https://www.youtube.com/@NASAEarthdata](https://www.youtube.com/@NASAEarthdata) @nasa-openscapes @emit-sds [https://science.nasa.gov/mission/suomi-npp/](https://science.nasa.gov/mission/suomi-npp/)
 <img  alt="image" src="https://github.com/user-attachments/assets/4093551b-c7e4-422c-a0d2-a4ec621cd0a0" />
