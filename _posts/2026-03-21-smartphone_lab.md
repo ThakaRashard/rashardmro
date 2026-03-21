@@ -518,3 +518,83 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/914f1bed-6fa6-4971-a01b-f55562383d53" />
+
+
+<div class="pinupGallery">
+<div class="expandingGallery"> 
+
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/imageAndroid.jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/normani.jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/b71f46f6-0411-413d-a040-91272c2d1d761646827136492420232%20(3).jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/a9b80235-cc27-4182-bb53-e06aa44028784995180549302988617.jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/48ab025f-ae8b-46d6-b924-c34ff12226186239781980657984756.jpg" />
+
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
+
+</div>
+</div>
+
+## What is F-Droid?
+>`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+![n64](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/N64-Console-Set.png/1024px-N64-Console-Set.png)
+
+<iframe src="https://archive.org/embed/tumblr_rtylmxBjam1zhx4f1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+# GaminG
+
+The concept of what a Handheld is is greatly challenged with the virtualization options on the platform! The games played really well under [Lemuroid](https://github.com/Swordfish90/Lemuroid) and [RetroArch](https://www.retroarch.com/) there are a lot of what they refer to as CORES which is simply a [vmdk](https://forensics.wiki/vmware_virtual_disk_format_(vmdk)/) in corporate talk a container and it will run [8-bit programs](https://docs.libretro.com/library/vice/)! The potential is limitless for us not being tied to an office. The Municipal Law Enforcement Guys appear advanced at this outside of Fare Enforcement! 
+![vmdk](https://upload.wikimedia.org/wikipedia/commons/b/b7/VMDK_File_Format_icon.png) here is a few useful core i was reminded of in a [reddit post](https://www.reddit.com/r/retroid/comments/16tipgz/recommended_cores_for_retroarch/)
+
+- [DOSBox, an x86 emulator with DOS](https://www.dosbox.com/)  a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms. DOSBox has already been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X...
+
+DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA graphics, a SoundBlaster/Gravis Ultra Sound card for excellent sound compatibility with older games...
+
+You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!
+
+DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.com/information.php?page=0)
+[DOWNLOAD](https://sourceforge.net/projects/dosbox/) [Classic Dos Games](https://www.classicdosgames.com/)
+> here is a [DosBox](https://sourceforge.net/projects/dosbox/) [example](https://codepen.io/thakarashard/pen/xxeaGjB). Its SuperStreetFighter2Turbo ed.!, I had Flashback going, but the entertainment nazi's my significant other is controlled by broke it, idk if anyone can run it from [abandonware](https://www.myabandonware.com/)
+
+# Super Street Fighter 2 Turbo (dos)
+
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="SuperStreetFighter2Turbo_PC" src="https://codepen.io/ricoThaka/embed/oNKjKoP?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/ricoThaka/pen/oNKjKoP">
+  SuperStreetFighter2Turbo_PC</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
+
+![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
+![RetroArch](https://www.retroarch.com/images/bgbuttons.png)
+
+
+# Gullies on Mars 
+![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
+[Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
+
+## Bright Gully Deposits on Mars
+![Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+[Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+
+
+# Ella Mai::Not Another Love Song
+
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+<embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
+
+
