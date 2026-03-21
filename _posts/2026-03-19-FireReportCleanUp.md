@@ -12,7 +12,8 @@ permalink: /lafire
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
-
+`SupervisorLindsey` @la-county-isd @cityoflosangeles @nasa-pds discusses fire related issues as it relates to the next
+ [MayoralRace](https://youtu.be/a9JQuQelfmI?t=181&si=KsggQUSd5bxK0oyX) <~ @StateOfCalifornia @usatoday
 
 @asfadmin
 
