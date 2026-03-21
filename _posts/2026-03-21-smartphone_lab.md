@@ -34,8 +34,8 @@ There is such an abstraction when running the manufacure bundeld android. But it
 
 <iframe src="https://archive.org/embed/screen-20240806-030550" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-BluTooth 
-combat erros and intrusion, `logcat` if you got adb
+# BluTooth 
+combat erros and intrusion, with `logcat` if you got adb @nasa-jpl @la-county-isd
 
 <img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
 
