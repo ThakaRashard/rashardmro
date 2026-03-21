@@ -199,3 +199,6 @@ In southern California, the combined ports of Los Angeles and Long Beach account
 @la-county-isd @nasa-openscapes @cityoflosangeles @stateofcalifornia
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg)
+[https://codepen.io/thakarashard/pen/oNOoPYL](https://codepen.io/thakarashard/pen/oNOoPYL)
+<img  alt=" @blackgirlscode [GONDER] @nasa-jpl @foratlanta " src="https://github.com/user-attachments/assets/f5cb065b-eb1b-486e-a4c3-495232bc03f2" />
+
