@@ -25,7 +25,13 @@ date:   2026-03-19 01:24:06
 
 [comment]: <> (Emergency Files )
 
+@la-county-isd I recoreded notes about my experiances locally @datadesk and its where the mapping got started because i was [mapping mars](https://an.rsl.wustl.edu/) for [landings](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/)
+CiViC-LosAngeles [Link](https://ra5hard.github.io/2025/08/21/civic.html)
+Written on August 21, 2025 its really about 3 years [old](https://thakarashard.github.io/civic)
+ from an old account github.com/ricothaka [@nasa-jpl @longbeachinnovationteam @voyager-tech-inc](https://codepen.io/ricoThaka/pen/ZYEwdVe) whatever [RicoNasty](https://www.last.fm/music/Rico+Nasty) is, idk if its will smiths daughter and [Will](https://codepen.io/ricoThaka/pen/PwodVXw) is dwayne from ionic and Greg is the same lead Mission Coordinator from @emit-sds but anyway i was communicating with her and thats where the username [ricothaka](https://codepen.io/ricothaka) came from @blackgirlscode @normani got doxxed and sent another girl to help keep up bubblegumpop because ppl in thier community stole my repo and turned it into a farmers market popup shop brand! @la-county-isd @CityOfLosAngeles @ForAtlanta @newshour [RicoThaka](https://codepen.io/ricoThaka/pen/raNdKwR) is now [HEAD:rashardiman.github.io](https://rashardiman.github.io/)
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/dbe3d115-d57c-4b41-b8d5-c02b69b9f0c2" />
 
 ECOSTRESS thermal map of the Port of LA, California, USA @la-county-isd @StateOfCalifornia @CityOFLosAngeles @LongBeachinnovationteam 
 [readmore](https://ecostress.jpl.nasa.gov/galleryimage)
