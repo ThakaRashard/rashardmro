@@ -9,6 +9,19 @@ permalink: /Satellites
 ---
 
 
+# Fermi
+LAUNCH DATE
+June 11, 2008
+[March23](https://scan-now.gsfc.nasa.gov/scan)
+[Fermi Portal @nasa-jpl @la-county-isd @blackgirlscode fermi.gsfc.nasa.gov](https://fermi.gsfc.nasa.gov/)
+[Fermi Portal @nasa-jpl @la-county-isd @blackgirlscode fermi.gsfc.nasa.gov](https://fermi.gsfc.nasa.gov/)
+DESCRIPTION
+This exciting mission has revolutionized our understanding of the cosmos by observing the universe in gamma-rays, the most energetic kind of light. Thanks to Fermi, scientists have learned more about fundamental physics of the cosmos, from dark matter to the nature of space-time and beyond. [science.nasa.gov/mission/`fermi`/](https://science.nasa.gov/mission/fermi/) // [heasarc.gsfc.nasa.gov/docs/heasarc/missions/fermi.html](https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/fermi.html) // [Wiki](https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope)
+
+Service
+-
+![svs.gsfc.nasa.gov/vis/a010000/a014800/a014881/Still_5.0000.png](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014881/Still_5.0000.png)
+
 # Suomi NPP
 []()
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Suomi_NPP_spacecraft_model.png/1280px-Suomi_NPP_spacecraft_model.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Suomi_NPP_spacecraft_model.png/1280px-Suomi_NPP_spacecraft_model.png) 
