@@ -31,7 +31,7 @@ mermaid: true
 
   {% endfor %}
 
-
+@nasa-pds can i have some headphones are you guys or anyone blocking me because i stole a mac book pro adapter out of the trailer trashacan ? @nasa-jpl @blackgirlscode i saw sartu i forgot she was in that shit ![https://pbs.twimg.com/media/GAIhLHgaMAAP8w1?format=jpg&name=medium](https://pbs.twimg.com/media/GAIhLHgaMAAP8w1?format=jpg&name=medium)
 
 The Deep Space Program Science Experiment (DSPSE) 
 @nasa-jpl @nasa-pds @la-county-isd @CityOfLosAngeles
