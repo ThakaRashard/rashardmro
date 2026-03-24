@@ -4,6 +4,8 @@ title: "/var/log"
 permalink: /var/log
 ---
 
+@cityoflosangeles ![https://citycouncil.atlantaga.gov/Project/Contents/Main/_gfx/cmn/mobile/logo_small.png](https://citycouncil.atlantaga.gov/Project/Contents/Main/_gfx/cmn/mobile/logo_small.png) 
+my daughter was kidnapped in decature and they let her mom open a stip club. i just need a few buck here and there im working ! I get paid on a differnt clock because we build and monitor machines @nasa at the end of the day!!!!!!!!!!!!!!!!!!!!! @NBCNEWS @DATADESK 
 
 
 
