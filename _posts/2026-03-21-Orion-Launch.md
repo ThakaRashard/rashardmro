@@ -32,11 +32,6 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's Artemis II 
 #  news
 
-[Ignition: NASA's Plan for Science and Discovery](https://www.youtube.com/watch?v=BYH6W9iCs2E)
-
-<img  alt="@nasa-jpl @la-county-isd" src="https://github.com/user-attachments/assets/a1821976-387f-46d6-8057-44f05f6c45a1" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/c7132f04-0e33-4266-a2bc-c6a696231623" />
 
 
 [Comet 3I/ATLAS](https://science.nasa.gov/solar-system/comets/3i-atlas/) // [View Interstellar Comet 3I/ATLAS Through NASA’s Multiple Lenses](https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/) :: [TiMELiNE - TableMountainFacility @la-county-isd @whitehouse](https://tmf.jpl.nasa.gov/timeline/) @newshour [@ESA ESA observations of interstellar comet 3I/ATLAS](https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS) 
