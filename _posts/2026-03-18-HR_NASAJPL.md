@@ -13,6 +13,13 @@ author: "RashardKelly @nasa-jpl"
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
 
+@CityOfLosangeles Mayor KAren @foratlanta i sent this email 
+
+```
+https://archive.org/download/sega-dreamcast-redump-collection @mayor@longbeach.gov rex @mayor@nola.gov @HollyJMitchell@bos.lacounty.gov @normani@fifthharmonyofficial.com @keishaforgovernor@gmail.com @jplnewsroom@jpl.nasa.gov @douglas.j.newman@nasa.gov sega-dreamcast-redump-collection directory listing .... @mayor@longbeach.gov @mayorandcitycouncil@beverlyhills.org @mayor@lacity.org  rex if u set my phone there up here's the games as a peace offering
+```
+
+
 @nasa-jpl @la-county-isd [MayorBass](https://www.congress.gov/member/karen-bass/B001270) LongBeach was not cooperative today, i kept getting errors that there is no computer usage for my accout, they evcen presented an old library card i signed thaka @blackgirlscode if muna is [rihanna ](https://www.rihannanow.com/) she needs to report to the lab! @nasa-pds she has to talk anyway so i can be graded as safe , them rapist ass writers from whereever tennnesee done corrupted the brand @nasa, y they kill us in so many ovies??????? @StateOfCalifornia then my tooth got knocked out in hollywood @cityoflosangeles @disney 
 
 ![1000000109@la-county-isd @longbeachinnovation @nasa-jpl @voyager-tech-inc](https://github.com/user-attachments/assets/0bac157c-d524-4fb5-90f1-e45961676ef9)
@@ -20,7 +27,9 @@ author: "RashardKelly @nasa-jpl"
 
 <img alt="image" src="https://github.com/user-attachments/assets/f25dbb46-3729-4d53-b93c-3765d656455d" />
 
+<img  alt="1000000067" src="https://github.com/user-attachments/assets/76480a44-a2e3-485d-b69c-774b4a4d2823" />
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2131614840&color=%236c2c14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ericabanks" title="Erica Banks" target="_blank" style="color: #cccccc; text-decoration: none;">Erica Banks</a> · <a href="https://soundcloud.com/ericabanks/church" title="Church" target="_blank" style="color: #cccccc; text-decoration: none;">Church @la-county-isd thats brandy from moesha!!! @foratlanta @CityOflosAngeles @whitehouse @chicago</a></div>
 
 @nasa-jpl hr I posted this on young Jeezy page @la-county-isd @foratlanta
 
