@@ -8,11 +8,85 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-# Rashard Kelly NasaJpl MRO JUNO iSS
+<img alt="Rashard Kelly NasaJpl MRO JUNO iSS @rashard-ecostress-jpl-iss @nasa-jpl @nasa-pds la-county-isd" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+@cityoflosangeles skill assessment rashard kelly @nasa-jpl @blackgirlscode
+<iframe src="https://archive.org/embed/screen-20240731-050451_202408" width="400" height="550" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+@CityOfLosangeles Mayor KAren @foratlanta i sent this email 
+
+```
+https://archive.org/download/sega-dreamcast-redump-collection @mayor@longbeach.gov rex @mayor@nola.gov @HollyJMitchell@bos.lacounty.gov @normani@fifthharmonyofficial.com @keishaforgovernor@gmail.com @jplnewsroom@jpl.nasa.gov @douglas.j.newman@nasa.gov sega-dreamcast-redump-collection directory listing .... @mayor@longbeach.gov @mayorandcitycouncil@beverlyhills.org @mayor@lacity.org  rex if u set my phone there up here's the games as a peace offering
+```
+
+
+@nasa-jpl @la-county-isd [MayorBass](https://www.congress.gov/member/karen-bass/B001270) LongBeach was not cooperative today, i kept getting errors that there is no computer usage for my accout, they evcen presented an old library card i signed thaka @blackgirlscode if muna is [rihanna ](https://www.rihannanow.com/) she needs to report to the lab! @nasa-pds she has to talk anyway so i can be graded as safe , them rapist ass writers from whereever tennnesee done corrupted the brand @nasa, y they kill us in so many ovies??????? @StateOfCalifornia then my tooth got knocked out in hollywood @cityoflosangeles @disney 
+
+![1000000109@la-county-isd @longbeachinnovation @nasa-jpl @voyager-tech-inc](https://github.com/user-attachments/assets/0bac157c-d524-4fb5-90f1-e45961676ef9)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A140228818&color=%236c2c14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kevingates" title="Kevin Gates" target="_blank" style="color: #cccccc; text-decoration: none;">Kevin Gates</a> · <a href="https://soundcloud.com/kevingates/kevin-gates-stop-lyin-prod-by" title="Stop Lyin&#x27;" target="_blank" style="color: #cccccc; text-decoration: none;">Stop Lyin&#x27;</a></div>
+
+<img alt="image" src="https://github.com/user-attachments/assets/f25dbb46-3729-4d53-b93c-3765d656455d" />
+
+<img  alt="1000000067" src="https://github.com/user-attachments/assets/76480a44-a2e3-485d-b69c-774b4a4d2823" />
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2131614840&color=%236c2c14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ericabanks" title="Erica Banks" target="_blank" style="color: #cccccc; text-decoration: none;">Erica Banks</a> · <a href="https://soundcloud.com/ericabanks/church" title="Church" target="_blank" style="color: #cccccc; text-decoration: none;">Church @la-county-isd thats brandy from moesha!!! @foratlanta @CityOflosAngeles @whitehouse @chicago</a></div>
+
+@nasa-jpl hr I posted this on young Jeezy page @la-county-isd @foratlanta
+
+
+```
+@willsmith how do you deal with sex??? This dude killed all my erections
+ @dance411 I want something never pleased by a man @gavinnewsom your stock sucks @SupervisorHollyJMitchell
+ @brandy @normani @Holly4LACounty @nasajpl @itskeishalancebottoms
+ @repkarenbass @SupervisorHollyJMitchell
+````
+
+
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
+@keberwein hi I used to work with aAngela. plz z tell her rashard saidd hi... erika works for p****b** now and I think Angela should meet my girlfriend latrice if I'm comprehending signals and not mixing them up @fbicyber [cantor.angela@bls.gov](mailto:cantor.angela@bls.gov) // [upthejunction2@yahoo.com](mailto:upthejunction2@yahoo.com) [bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm](https://www.bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm) @foratlanta @nasa-jpl @la-county-isd Supervisor Mitchell MayorBass @blackgirlscode
+
+## California Constitution
+Article I - Declaration of Rights
+Section 6. [Link](https://law.justia.com/constitution/california/article-i/section-6/) [essence.com/news/erika-renee-johnson-kelly-found-georgia/](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)
+Slavery is prohibited [ACA-3 Slavery.](https://www.leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220ACA3). Involuntary servitude is prohibited except to punish crime. [secretary.weber@sos.ca.gov](mailto:secretary.weber@sos.ca.gov) + [homepage](https://www.sos.ca.gov/contact-information) :: 
+
+(Sec. 6 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
+Treason in California is defined under Penal Code 37 as levying war against the state, adhering to its enemies, or giving them aid and comfort, [houselaw.com/ca/defense/penal-code/37/](https://www.shouselaw.com/ca/defense/penal-code/37/) . . . @sfchronicle @sanmateocounty @CityofSantaMonica [https://github.com/SANDAG ~ to check out later](https://github.com/SANDAG) @la-county-isd @nasa-jpl @nasa @whitehouse @blackgirlscode @foratlanta
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6589504e-382c-4b5d-9f99-c669ba1e2412" />
+
+
+
+<img   alt="image @cityoflosangeles KAren Bass KEisha Bottoms @foratlanta" src="https://github.com/user-attachments/assets/3d48ff30-4e5f-4aa8-a406-24638e31b75e" />
+
+
+First Constitution of California, 1849 [[1](https://www.dircost.unito.it/cs/pdf/18490000_UsaCalifornia_eng.pdf)] 
+
+[visitthecapitol.gov/artifact/first-constitution-california-1849](https://www.visitthecapitol.gov/artifact/first-constitution-california-1849) :: [archives.cdn.sos.ca.gov/pdf/1849-california-constitution-for-website-9-16-20.pdf](https://archives.cdn.sos.ca.gov/pdf/1849-california-constitution-for-website-9-16-20.pdf) :: [drshirleyweber.com/](https://drshirleyweber.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/793e125f-da1e-45d3-80f7-b61ec897c1a1" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b249f2c7-cca3-444f-af61-b9b7ef44605d" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ee9e9138-42e3-4fc6-8ace-fe9c020693eb" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a34af1d3-2109-40c6-8502-9c909475c3ed" />
+
+_`Spanish`_ [archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/eaca6989-e316-4b0b-b6f5-a16e6bef40c7" />
+
+![https://drshirleyweber.com/wp-content/uploads/2025/05/RD-DrWeberSOSlogo-White-2.png](https://drshirleyweber.com/wp-content/uploads/2025/05/RD-DrWeberSOSlogo-White-2.png)
 
 @la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair [erika is playing](https://www.essence.com/tags/erika-kelly/) violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
 [https://www3.nasa.gov/send-your-name-with-artemis/](https://www3.nasa.gov/send-your-name-with-artemis/) // [Rapper Jeezy celebrates 20 years of 'Thug Motivation 101' with a 101-piece backing orchestra](https://www.npr.org/2025/12/14/nx-s1-5547203/rapper-jeezy-celebrates-20-years-of-thug-motivation-101-with-a-101-piece-backing-orchestra) @blackgirlscode 

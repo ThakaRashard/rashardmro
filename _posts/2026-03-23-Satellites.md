@@ -8,6 +8,57 @@ author: "RashardKelly @nasa-jpl"
 permalink: /Satellites
 ---
 
+
+
+
+@la-county-isd @cisa `https://accounts.google.com/v3/signin/challenge/pwd?TL=AHU8sQtXebkES5eEXxJjrdtKBWgsHM3sObE2kSlri417vNJJcUcnt4WGAVczXWmm&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dlas%2Bvegas%2Bmayor%2Bemail%26sca_esv%3D539c00fc8c0dc83a%26rlz%3D1CASLJZ_enUS1207%26sxsrf%3DANbL-n5MN1njjcKyocNzyR0PeuqJJMXpVA%253A1774289819150%26ei%3Dm4PBacblCMjPkPIP-KrAyQs%26biw%3D957%26bih%3D945%26ved%3D0ahUKEwiGn5jT0LaTAxXIJ0QIHXgVMLkQ4dUDCBE%26uact%3D5%26oq%3Dlas%2Bvegas%2Bmayor%2Bemail%26gs_lp%3DEgxnd3Mtd2l6LXNlcnAiFWxhcyB2ZWdhcyBtYXlvciBlbWFpbDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIIEAAYgAQYogQyCBAAGIAEGKIESNEjUJwRWPAhcAF4AZABAJgBXaAB3AOqAQE2uAEDyAEA-AEBmAIGoALXBMICCxAuGIAEGMcBGK8BwgIKEAAYgAQYQxiKBcICChAAGIAEGBQYhwLCAgUQLhiABMICBRAAGIAEwgILEAAYgAQYhgMYigXCAggQABiiBBiJBZgDAIgGAZIHAzMuM6AHnCayBwMzLjO4B9cEwgcFMy00LjLIB2SACAA%26sclient%3Dgws-wiz-serp%26authuser%3D0&dsh=S1495934891%3A1774290877808159&ec=futura_srp_og_si_72236_p&flowEntry=AccountChooser&flowName=GlifWebSignIn&hl=en&ifkv=AT1y2_WvIqV-IEq6CkSUct7YNJst8kehdwOt6sOGyQfj4Ac-F2EFWmQXtf0UaWVOkL7CDfZnV7c2&pstMsg=1` @google i got shut down are you guys working with us to keep america safe @nasa-jpl @nasa-pds are they being doxxed and is the situation monitored @vsco @usgs 
+
+@la-county-isd i got hacked in the library @googleworkspaces @nasa-jpl @femagov @noaagov @cityoflosangeles KAREN BASS im under cyber attack as well @blackgirlscode get this to mayor shelly of lasv3egas @github [https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs;@-114.72,36.26,10.02z @stateofcalifornia @foratlanta](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs;@-114.72,36.26,10.02z) 
+[]
+[ https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-115.23149%2C36.03375%2C-114.82699%2C36.3561%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-115.23149234730789%2C36.033749924577364%2C-114.82698769215118%2C36.356096118674294%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D  @usgs]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-115.23149%2C36.03375%2C-114.82699%2C36.3561%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-115.23149234730789%2C36.033749924577364%2C-114.82698769215118%2C36.356096118674294%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+<img alt="image" src="https://github.com/user-attachments/assets/6753be2d-6943-4983-927a-f9e62abae4d7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a5acdb7-7005-4f3e-a969-ed15664382ca" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed3ed081-f319-480f-810b-1c65f3d4cc96" />
+
+# Fermi
+LAUNCH DATE
+June 11, 2008
+[March23](https://scan-now.gsfc.nasa.gov/scan)
+[Fermi Portal @nasa-jpl @la-county-isd @blackgirlscode fermi.gsfc.nasa.gov](https://fermi.gsfc.nasa.gov/)
+[Fermi Portal @nasa-jpl @la-county-isd @blackgirlscode fermi.gsfc.nasa.gov](https://fermi.gsfc.nasa.gov/)
+DESCRIPTION
+This exciting mission has revolutionized our understanding of the cosmos by observing the universe in gamma-rays, the most energetic kind of light. Thanks to Fermi, scientists have learned more about fundamental physics of the cosmos, from dark matter to the nature of space-time and beyond. [science.nasa.gov/mission/`fermi`/](https://science.nasa.gov/mission/fermi/) // [heasarc.gsfc.nasa.gov/docs/heasarc/missions/fermi.html](https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/fermi.html) // [Wiki](https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope)
+
+Service
+-
+![svs.gsfc.nasa.gov/vis/a010000/a014800/a014881/Still_5.0000.png](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014881/Still_5.0000.png)
+
+# Suomi NPP
+[]()
+![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Suomi_NPP_spacecraft_model.png/1280px-Suomi_NPP_spacecraft_model.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Suomi_NPP_spacecraft_model.png/1280px-Suomi_NPP_spacecraft_model.png) 
+
+Suomi National Polar-orbiting Partnership
+>An Introduction to Suomi-NPP NASA VIIRS Data Products
+[watch](https://youtu.be/Qu_givjJzds?si=OP21fXRsy3cpVFRg) // [read](https://podaac.jpl.nasa.gov/S-NPP) // [Find @Whitehouse scan-now.gsfc.nasa.gov/dte](https://scan-now.gsfc.nasa.gov/dte)
+>
+_Active Mission_ @voyager-tech-inc @nasa-jpl 
+### Mission Objectives
+The National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project, or NPP, was launched on 28 October 2011 to collect and distribute remotely-sensed land, ocean, and atmospheric observations for the meteorological, oceanographic, terrestrial and global climate change communities. It aims to provide data continuity of these measurements from existing Earth-observing missions such as Aqua, Terra and Aura. The NPP satellite is the first in a series designed to provide critical data to improve short-term weather forecasts and increase understanding of long-term climate change. - [@podaac @nasa-jpl @la-county-isd @LACountyDPH @CityOfLosAngeles @LongBeachinnovatonTeam @USPTO @Blackgirlscode](https://podaac.jpl.nasa.gov/S-NPP)  
+
+[https://www.youtube.com/@NASAEarthdata](https://www.youtube.com/@NASAEarthdata) @nasa-openscapes @emit-sds [https://science.nasa.gov/mission/suomi-npp/](https://science.nasa.gov/mission/suomi-npp/)
+<img  alt="image" src="https://github.com/user-attachments/assets/4093551b-c7e4-422c-a0d2-a4ec621cd0a0" />
+
+
+# Launch Plume: SpaceX Jellyfish
+- Image Credit & Copyright: Michael Seeley
+- Text: [Cecilia Chirenti](https://science.gsfc.nasa.gov/sci/bio/cecilia.bertonimarthahadlerchirenti) (NASA GSFC, UMCP, CRESST II) [[1](https://www.astro.umd.edu/people/cecilia-chirenti)] / [[2](https://scholar.google.com/citations?user=m35NCHEAAAAJ&hl=pt-BR)] / [[3](https://svs.gsfc.nasa.gov/search/?people=Cecilia%20Chirenti)]
+**Explanation**: Even if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment. [APOD @nasa-pds @blackgirlscode @la-county-isd](https://apod.nasa.gov/apod/astropix.html)
+  
+![https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg](https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg)
+
 # Danuri ([다누리](https://www.kari.re.kr/danuri/html/index.html)) 
 ## _**Korea Pathfinder Lunar Orbiter**_
 https://www.kari.re.kr/kor

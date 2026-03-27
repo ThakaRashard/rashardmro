@@ -4,10 +4,10 @@ mermaid: true
 published: true
 permalink: /laecology
 title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
-image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
+image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-03-06 8:51:06 
+date:   2026-03-19 1:51:06 
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
@@ -22,12 +22,27 @@ date:   2026-03-06 8:51:06
 
 {% highlight python %}
 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########02/07/2026##########
+1 # HOLE_TO_ANOTHER_UNiVERSE##########03/20/2026##########
 2 # TO#####MsHOLLY,Hilda,Teresa,CB2,Janice&theMayor#######
 3 # ANOTHER####Coral?#######@nasa-jpl#####################
 4 # UNiVERSE#####################virtiservastro____######
 
 {% endhighlight %}
+
+
+@NASA-GISS @LACMTA @la-county-isd 
+Dear Supervisor Wiggins,
+It's rashard Kelly from nasajpl.. as the train approached the Willow st station's  dtla platform I got a violent shock and my legs began itching aggressively and my waist band started burning @RepKarenBass 🥵 I'm seeking relief 😔 😮‍💨 I was sitting in the seat facing the driver behind door a7 @usnavy @nbcnews @nasa-jpl
+
+
+--
+@MetroSteph(wiggins) pain on train 1116aRe: 👀🫵@MayorKaren I'm being hurt again...Re: Long beach was a setup injury 🩸 🩸 🤕 Re: RashardsData>I'm bleeding after sitting at workstation 26
+
+
+
+
+Sent from Proton Mail for Android.
+@nasajpl @stateofcalifornia @cityoflosangeles
 
 @nasa-jpl I cannot find the dodgers @github @mlb , @foxnews @abcnews can you holla at @jaxa about ShoTei interest in Dodger stadium. we already have a prostitution problem @whitehouse @la-county-isd @CityOfLosAngeles [https://youtu.be/Qyz7_y3sBeg?si=3uo5yRZkLkisUrFj](https://youtu.be/Qyz7_y3sBeg?si=3uo5yRZkLkisUrFj)
 
@@ -1225,239 +1240,6 @@ encouraging meaningless expenditures that reduce the capability for political an
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -4,11 +4,70 @@ mermaid: true
 published: true
 permalink: /longbeach
 title: "LongBeach, California"
-image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
+image: LongBeachEcostress.png
 ---
 
 ## Rashard Kelly 
- MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+Rex Richardson - @la-county-isd / @voyager-tech-inc / @CityOfLosAngeles @ForAtlanta [ElecTionResults @podaac @nasa](https://results.lavote.gov/#year=2022&election=4300) `codesample` ~ >  [https://codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN) < ~ @LongBeachInnovation
+<img   alt="image" src="https://github.com/user-attachments/assets/0cf25d67-1f0c-4ade-993f-b68dc0d51d8e" />
+
+ 
+[@foratlanta @fbicyber](https://codepen.io/thakarashard/pen/vYMWzyx) someone vandalized kashdoll theme @blackgirlscode [HollyjMitchell @whitehouse @emit-sds](https://www.youtube.com/@SupervisorHollyJMitchell) : [[1](mitchell.lacounty.gov
+)] [here](https://codepen.io/thakarashard/pen/oNOoPYL) is one of the themes i made the girls when [they was doing good in music](https://www.youtube.com/watch?v=QL93x7bmGUc)
+`Area Voices`
+[@CityOfLosangeles - Regular City Council - 06/15/99](https://youtu.be/rJATuBZlJ8E)
+ City of Carson State of the City 2026
+[https://www.youtube.com/@cityofcarsoncalifornia](https://www.youtube.com/@cityofcarsoncalifornia)
+`rex` @longbeachinnovationteam @la-county-isd [https://www.youtube.com/live/Li6eCVdQgJ8?si=9mHckPt400SqBeXa](https://www.youtube.com/live/Li6eCVdQgJ8?si=9mHckPt400SqBeXa)
+
+
+<img   alt="LongBeachEcostress @longbeachinnovationteam" src="https://github.com/user-attachments/assets/e0257aad-51a5-4cf6-bc4e-9001a253ff7b" />
+
+<img  alt="earthdatamining-Rashard @BLACKGIRLSCODE @NASA-JPL @LA-COUNTY-ISD" src="https://github.com/user-attachments/assets/84e7fce5-bc08-4034-a24f-ad7d01f4fc24" />
+
+
+_SPACEWALK94DONE_
+![SPACEWALK94DONE_ezgif com-resize](https://github.com/user-attachments/assets/6b4ae7e8-66b9-4c39-8c39-3fbe7116ffce)
+
+@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from  [@blackgirlscode](https://github.com/blackGirlsCode) ::  [@NorthropGrumman](https://github.com/NorthropGrumman)
+@la-county-isd hi [Ms Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) @cityoflosangeles hi ms bass [The Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [[1](https://mayor.lacity.gov/) we had a great spacewalk but have not rolled out the [solar panels](https://www.nasa.gov/image-article/solar-arrays-international-space-station-2/) yet, just a [few parts in place](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) to prep @nasa-pds i hope you guys are keeping up the added power may support new observation gear. I feel like i read that solar panels have a lifetime as well @tesla so it may not be the big upgrade i think it is
+
+[Astronauts Install Solar Array Mod Kit, Complete Spacewalk - @nasa .gov /blogs](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) @jaxa @esa
+
+_Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4) ++ [ECOSTRESS_SCiENCE_TEAM](https://ecostress.jpl.nasa.gov/science) 
+
+[https://mayor.lacity.gov/about-mayor-karen-bass ](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg @voyager-tech-inc @longeachinnovationteam @nasa-jpl @dhs-gov @fbicyber @la-county-isd](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+
+<img alt="Screenshot_20260318-115304" src="https://github.com/user-attachments/assets/84ab66da-fb5c-444d-b1ea-9099baf91c47" />
+
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/8c472332-f539-42bb-84b3-b59d4b0a801f)
+![https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png) 
+
+@la-county-isd Supervisor Mitchell, if you get this note @blackgirlscode @GavinNewsom i was trying to get the [SpaceLaw101](https://youtu.be/Ak0SuIzNwtQ) rolling for people in the area as [SpaceBeach](https://www.csulb.edu/space-beach-initiative) and other AeroSpace initiatives take root @StateOfCalifornia 
+[unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/) / [Long Beach revives aerospace past in new ‘Space Beach’ era - lbbusinessjournal.com](https://lbbusinessjournal.com/aerospace/long-beach-revives-aerospace-past-in-new-space-beach-era/)
+
+
+![https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-`rex` @voyager-tech-inc @longeachinnovationteam @nasa-jpl @dhs-gov @fbicyber @la-county-isd @longbeachinnovationteam richardson-stacked-wordmark_new-colorway.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-stacked-wordmark_new-colorway.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a025911e-ff88-452f-a7ea-c2e3c7edcd46" />
+
+
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
+
+@la-county-isd this format called geotiff is a standard cartography services @nasa-jpl uses , im playing with an online viewer, it will make me more handy at using radar to create maps @blackgirlscode hi! [https://app.geotiff.io/](https://app.geotiff.io/) thats a web app, but it has a lot of tools to dig in if you cannt make changes to a computer to get the functionality
+
+<img   alt="image" src="https://github.com/user-attachments/assets/288881df-3e45-4f1c-b690-a81bd1257f82" />
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A331481&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ninjakat3" title="Ninja Kat" target="_blank" style="color: #cccccc; text-decoration: none;">Ninja Kat</a> · <a href="https://soundcloud.com/ninjakat3/massive-attack-essential-mix" title="Massive Attack - Essential Mix" target="_blank" style="color: #cccccc; text-decoration: none;">Massive Attack - Essential Mix @voyager-tech-inc rashards depressed cube sounds</a></div>
+
+<img alt="GIOVANNI-outputcMc1ABE4 @doug-newman-nasa" src="https://github.com/user-attachments/assets/832b329c-9fb2-431a-b90e-972064a69a12" />
+
+
+<img  alt="Screenshot_20260319-081713 @longbeachinnovationteam" src="https://github.com/user-attachments/assets/04e943dc-0994-4986-9a63-2457f5b23d8f" />
+
+<img   alt="sangabrielLosAngles @EMIT-SDS HELLO FROM LONGBEACH @longbeachinnovationteam" src="https://github.com/user-attachments/assets/75508592-a27b-4b57-baae-dafb443f07c1" />
 
 [STORY_MAP_GALLERY](https://storymaps.arcgis.com/stories/e245977def474bdba60952f30576908f)
 
@@ -142,3 +201,6 @@ In southern California, the combined ports of Los Angeles and Long Beach account
 @la-county-isd @nasa-openscapes @cityoflosangeles @stateofcalifornia
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg)
+[https://codepen.io/thakarashard/pen/oNOoPYL](https://codepen.io/thakarashard/pen/oNOoPYL)
+<img  alt=" @blackgirlscode [GONDER] @nasa-jpl @foratlanta " src="https://github.com/user-attachments/assets/f5cb065b-eb1b-486e-a4c3-495232bc03f2" />
+

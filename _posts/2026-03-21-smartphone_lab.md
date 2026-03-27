@@ -1,16 +1,152 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-03-16 15:38:06 -0800
+date:   2026-03-18 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
+[@blackgirlscode @esa @nasa-jpl](https://cdn.esawebb.org/archives/images/large/pillarsofcreation_composite.jpg) 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+[@NASA-JPL / @CALTECH @Whitehouse @la-county-isd] @stateofcalifornia @CityOfLosAngeles @longbeachinnovationteam hi MAyorRex im pulling out some excerpts from an old include [`_UnixingAndroid_`](https://github.com/rashardsdata/rashardsdata.github.io/blob/master/_includes/unixingandroid.md), an include is a loose string that made the blog harder to port @CityOfLosAngeles @podaac @nasa-jpl 
+
+
+# UnixinG_Android 
+Hi MRO, want you to have an update on what my computing situation has been since Jose took my laptop back. Im in the library system but they wont let me have free access to a computer. Its connected to my spouse's prostitution and porno. In [Santa Monica Porn is filmed at the library at times](https://www.couriermail.com.au/lifestyle/pornhub-movie-filmed-at-public-library-angers-neighbours/news-story/8f4387f7d47490bba31bd28ac27994d8). The security gaurds told me I need an ID to come in! This is the [Santa Monica Public Library](https://smpl.org/)! and the resulting gossip among security gaurds about me having #Normani_aka_SartuAdem nudes on my cellphone! It was a gift! Im grown and i did not do it on library wifi! There is a law on it i found online. Its filtered now, but i want to know where i stand bc I was attending a dance studio with girls my age and i have been in datacenters most of my life, porn is the channel most ppl in my demographic communicate via to talk to people in the physical world. It causes a lot of hormonal problems and i am a really healthy male. Coral is strong even after the NiCU. Anyway the computers i had accquired got stolen in various ways so there is a big chunck of time i am not building on a Desktop. I promised I would grow as a Sun Admin and while i was without a computer i got turned on to [TErmux](https://termux.dev/en/) and leared a lot of cool configurations to do common programming tasks and it even effected my webdesign, i started building on github and what is now my homepage was a fullpage scrolling design like i was seeing life differently. Check out the screenshots below the Termux demo and see my #PocketPC thats what i call [Android](https://www.android.com/) now...
+
+
+### Its just a Personal Computer
+There is such an abstraction when running the manufacure bundeld android. But its normal PC architechture in a small ass package! The Following video is a screenshare of me using [Android](https://www.android.com/) for abt a half hour on a severley disabled cellphone. No root just [termux](https://termux.dev/en/) + [fdroid](https://github.com/termux/termux-app#f-droid)
+
+[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
+
+
+![68747470733a2f2f692e67696665722e636f6d2f5569464f2e676966](https://github.com/user-attachments/assets/fb2ca2f4-f1d1-4b35-b03c-1b66f29f53d9)
+
+
+
+<iframe src="https://archive.org/embed/screen-20240806-030550" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# BluTooth 
+combat erros and intrusion, with `logcat` if you got adb @nasa-jpl @la-county-isd
+
+<img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
+
+@cityOfLosAngeles Streets LA `Ecostress` 
+[geoTiff](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.tif) // kmz @googleworkspace idk is kml the language identifier ? bc i think you guys distribute kml files, google earth works tho [`KM[Z/L]`](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
+
+@newshour @nbcnews [https://ecostress.jpl.nasa.gov/data](https://ecostress.jpl.nasa.gov/data)
+
+[https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png) 
+
+`NASA’s ECOSTRESS Maps LA’s Street Temperatures. Click on image to see larger version. - NASA/JPL-Caltech`
+In this overlay image, retrieved land surface temperature (LST) from NASA’s Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) was downscaled to a spatial resolution of 10m and overlaid on a street map of Los Angeles. The image was derived by taking an average of all clear-sky afternoon (1-4pm) imagery acquired by ECOSTRESS from 2018-2023. The LST represents the ‘skin’ temperature of the surface (that you would feel to the touch) and is usually much hotter than the surface air temperature that meteorologists report in a weather forecast.
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+<img   alt="streetheat_la.png @intuit image" src="https://github.com/user-attachments/assets/226688c3-87f4-4fdb-92f5-e0d6fb51b727" />
+
+ECOSTRESS was launched to the international space station in 2018. Its primary mission is to identify plants’ thresholds for water use and water stress, giving insight into their ability to adapt to a warming climate. However, it has many other science uses including urban heat mitigation, wildfire mapping, water quality, and surface mineralogy. NASA’s Jet Propulsion Laboratory in Southern California built and manages the ECOSTRESS mission for the Earth Science Division in the Science Mission Directorate at NASA Headquarters in Washington. ECOSTRESS is an Earth Venture Instrument mission; the program is managed by NASA’s Earth System Science Pathfinder program at NASA's Langley Research Center in Hampton, Virginia - 
+
+[https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-01T00:00:00Z&endtime=2026-03-14T23:59:59Z&data=LPRM_AMSR2_A_SOILM3_001_soil_moisture_c1%2CLPRM_AMSR2_DS_D_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_SoilTemp100_200cm_tavg&dataKeyword=Soil](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-01T00:00:00Z&endtime=2026-03-14T23:59:59Z&data=LPRM_AMSR2_A_SOILM3_001_soil_moisture_c1%2CLPRM_AMSR2_DS_D_SOILM3_001_soil_moisture_c1%2CFLDAS_NOAHMP001_G_CA_D_001_SoilTemp100_200cm_tavg&dataKeyword=Soil)
+
+@la-county-isd
+@LACMTA I was working g on the county soil moisture report and got slammed off 📴 idk if it's a patron or a dirty metro tech @nasa-jpl @emit-sds @foratlanta @blackgirlscode @cityoflosangeles
+
+
+```shell
+This site can’t be reached
+giovanni.gsfc.nasa.gov refused to connect.
+Try:
+
+Checking the connection
+ERR_CONNECTION_REFUSED
+```
+
+
+
+
+
+
+@la-county-isd if this is one tool i use for mapping and interstellar weather @nasa-giss 
+[giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:@nasa-jpl:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:00:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho)
+
+<img   alt="earthdatamining-Rashard" src="https://github.com/user-attachments/assets/2aa8836b-e0f8-4eed-9e4c-c6ce47287f2c" />
+
+<img   alt="GIOVANNI-outputcMc1ABE4" src="https://github.com/user-attachments/assets/16e0f655-b51c-4383-9601-a46ed7ad632d" />
+
+<img  alt="sangabrielLosAngles" src="https://github.com/user-attachments/assets/611e5a02-9baa-446b-8e2b-a5c810472d0e" />
+
+
+<img   alt="@la-county-isd" src="https://github.com/user-attachments/assets/f1445c47-c9c1-41e9-9823-530051811670" />
+
+[List of Cel Shaded Games](https://en.wikipedia.org/wiki/List_of_cel-shaded_video_games?wprov=sfla1)
+[CelShading](https://en.wikipedia.org/wiki/Cel_shading?wprov=sfla1)
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+<img  alt="image" src="https://github.com/user-attachments/assets/ebe875de-5106-4501-ae31-05d18bacd0b3" />
+<img   alt="image" src="https://github.com/user-attachments/assets/6c818499-e67d-4f74-9cc5-f21478e71e61" />
+<img alt="image" src="https://github.com/user-attachments/assets/2cf53696-8292-42bf-8345-063c2011ced8" />
+<img alt="image" src="https://github.com/user-attachments/assets/5c99a25c-1975-49ad-a50c-a4223efc86a4" />
+<img  alt="image" src="https://github.com/user-attachments/assets/d470b67e-e245-43dd-ad8f-7678125c5856" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3065d0ea-f1eb-45b7-9fa6-e7cf605389c1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/8d219e36-2b9b-4138-a80b-fdb95d302731" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1a60cbdb-eaee-4ed2-be0f-f262db42c009" />
+
+~~I forgot what~~ @electronicArts ~~NFS this is but~~ Need For Speed : Underground [link](https://youtu.be/Z5Z7_UC0Vhc), it works well on psp emulators the ride is heavy and seek issues are low. It was actually fun 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/38c4a8bd-784a-4892-871c-0249a9bf24db" />
+
+![https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif)
+
+[rashardsdata.github.io/rashardmro/](https://rashardsdata.github.io/rashardmro/) @blackgirlscode @nasa-jpl this is how `.box` in my css config renders my links as a fancy [wordcloud](https://seregpie.github.io/VueWordCloud/) [[1](https://www.canva.com/word-cloud-generator/)] @SeregPie thanks the demo site helps get the point across of what it is @nasa-giss 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a017e28c-ae2c-4981-9020-88c781a385ac" />
+ <img   alt="image" src="https://github.com/user-attachments/assets/11e79454-38e7-49ff-bb77-b6cd38ce05a0" />
+
+
+
+# init
+n Unix-based computer operating systems, init (short for initialization) is the first process started during booting of the operating system. Init is a daemon process that continues running until the system is shut down [Wiki](https://en.wikipedia.org/wiki/Init)
+[DOSBox v0.74-3 Manual](https://www.dosbox.com/DOSBoxManual.html)
+[what are init 0 init 1 init 2 init 3 init 4 init 5 init 6? - linuxonfire.wordpress.com](https://linuxonfire.wordpress.com/2012/10/19/what-are-init-0-init-1-init-2-init-3-init-4-init-5-init-6-2/) [Using the init Command -docs.oracle.com](https://docs.oracle.com/cd/E19455-01/805-6331/6j5vgg687/index.html) [Reboot, poweroff, shutdown, INIT 0, and INIT 6 abnormal - Servers - ibm.com](https://www.ibm.com/support/pages/reboot-poweroff-shutdown-init-0-and-init-6-abnormal-servers) [init command in Linux with examples - @geeksforgeeks.org](https://www.geeksforgeeks.org/linux-unix/init-command-in-linux-with-examples/)
+
+[What Is Quickstep App In Android? - Be App Savvy](https://www.youtube.com/watch?v=RxD981KXGhU)
+[How to replace the quickstep launcher?xdaforums.com  - xdaforums.com](https://xdaforums.com/t/how-to-replace-the-quickstep-launcher.4656578/) [QUICKSTEP APK - LATEST VERSION](https://apkcombo.com/quickstep/com.android.launcher3/download/apk)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ab372e74-b9c6-41ed-825a-98d9bc157251" />
+
+
+{% include ed.md %}
+
+{% include bash.md %}
+
+{% include tar.md %}
+
 
 [Psx-CHD](https://archive.org/details/chd_psx)
 
-![https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png](https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png)
+
 
 r/androidapps
 5y ago
@@ -382,3 +518,83 @@ The Android Open Source Project (AOSP) is publicly available and modifiable Andr
 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/914f1bed-6fa6-4971-a01b-f55562383d53" />
+
+
+<div class="pinupGallery">
+<div class="expandingGallery"> 
+
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/imageAndroid.jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/normani.jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/b71f46f6-0411-413d-a040-91272c2d1d761646827136492420232%20(3).jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/a9b80235-cc27-4182-bb53-e06aa44028784995180549302988617.jpg" />
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/48ab025f-ae8b-46d6-b924-c34ff12226186239781980657984756.jpg" />
+
+<img src="https://raw.githubusercontent.com/rashardiman/rashardiman.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
+
+</div>
+</div>
+
+## What is F-Droid?
+>`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+![n64](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/N64-Console-Set.png/1024px-N64-Console-Set.png)
+
+<iframe src="https://archive.org/embed/tumblr_rtylmxBjam1zhx4f1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+# GaminG
+
+The concept of what a Handheld is is greatly challenged with the virtualization options on the platform! The games played really well under [Lemuroid](https://github.com/Swordfish90/Lemuroid) and [RetroArch](https://www.retroarch.com/) there are a lot of what they refer to as CORES which is simply a [vmdk](https://forensics.wiki/vmware_virtual_disk_format_(vmdk)/) in corporate talk a container and it will run [8-bit programs](https://docs.libretro.com/library/vice/)! The potential is limitless for us not being tied to an office. The Municipal Law Enforcement Guys appear advanced at this outside of Fare Enforcement! 
+![vmdk](https://upload.wikimedia.org/wikipedia/commons/b/b7/VMDK_File_Format_icon.png) here is a few useful core i was reminded of in a [reddit post](https://www.reddit.com/r/retroid/comments/16tipgz/recommended_cores_for_retroarch/)
+
+- [DOSBox, an x86 emulator with DOS](https://www.dosbox.com/)  a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms. DOSBox has already been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X...
+
+DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA graphics, a SoundBlaster/Gravis Ultra Sound card for excellent sound compatibility with older games...
+
+You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!
+
+DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.com/information.php?page=0)
+[DOWNLOAD](https://sourceforge.net/projects/dosbox/) [Classic Dos Games](https://www.classicdosgames.com/)
+> here is a [DosBox](https://sourceforge.net/projects/dosbox/) [example](https://codepen.io/thakarashard/pen/xxeaGjB). Its SuperStreetFighter2Turbo ed.!, I had Flashback going, but the entertainment nazi's my significant other is controlled by broke it, idk if anyone can run it from [abandonware](https://www.myabandonware.com/)
+
+# Super Street Fighter 2 Turbo (dos)
+
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="SuperStreetFighter2Turbo_PC" src="https://codepen.io/ricoThaka/embed/oNKjKoP?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/ricoThaka/pen/oNKjKoP">
+  SuperStreetFighter2Turbo_PC</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
+
+![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
+![RetroArch](https://www.retroarch.com/images/bgbuttons.png)
+
+
+# Gullies on Mars 
+![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
+[Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
+
+## Bright Gully Deposits on Mars
+![Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+[Bright Gully Deposits on Mars](https://science.nasa.gov/wp-content/uploads/2024/03/5247_1_Bright_Gully_Deposits_on_Mars-full2.jpg)
+
+[California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+
+
+# Ella Mai::Not Another Love Song
+
+<div class="gullies">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+<embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
+
+

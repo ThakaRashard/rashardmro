@@ -31,7 +31,7 @@ mermaid: true
 
   {% endfor %}
 
-
+@nasa-pds can i have some headphones are you guys or anyone blocking me because i stole a mac book pro adapter out of the trailer trashacan ? @nasa-jpl @blackgirlscode i saw sartu i forgot she was in that shit ![https://pbs.twimg.com/media/GAIhLHgaMAAP8w1?format=jpg&name=medium](https://pbs.twimg.com/media/GAIhLHgaMAAP8w1?format=jpg&name=medium)
 
 The Deep Space Program Science Experiment (DSPSE) 
 @nasa-jpl @nasa-pds @la-county-isd @CityOfLosAngeles
@@ -45,6 +45,9 @@ The Deep Space Program Science Experiment (DSPSE)
 ### Currently Compiling g_e, [m/s^2](https://mars.nasa.gov/files/resources/Planet-Mars-Quick-Facts_Mars-nasa-gov.pdf)
 <img src="https://dn721607.ca.archive.org/0/items/fatal-fury-ccm/Cartridge%20-%20Top.jpg"  alt="GO" />
   <img src="https://ia601408.us.archive.org/15/items/SuperPunchOut-SNS-4Q-USA-Cart/Super%20Punch%20Out%20-%20SNS-4Q-USA%20-%20Cart%20top.jpg" />
+
+[mapmaking1961](https://youtu.be/L7SJVBX7jxo?si=WtCk-MC2FB-v-f0C)
+
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });

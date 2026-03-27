@@ -7,7 +7,9 @@ image: rashardMRO.jpeg
 ---
 
 
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+<img alt="Rashard Kelly NasaJpl MRO JUNO iSS @rashard-ecostress-jpl-iss @nasa-jpl @nasa-pds la-county-isd" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 <img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
 
 

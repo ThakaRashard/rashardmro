@@ -2,38 +2,105 @@
 layout: post
 mermaid: true
 published: true
-permalink: /Atlanta
+permalink: /atlanta
 title: Atlanta Ecology @emit-sds @Nasa-jpl
 image: atlanta_oli_2020127.jpg
 author: "RashardKelly @nasa-jpl"
 categories: Atlanta ecology ecostress space dsn nsn climate weather
-date:   2026-02-06 14:51:06 
+date:   2026-03-20 10:51:06 
 ---
-
-
-[@foratlanta](https://www.youtube.com/live/RuS0rBGFdLM?si=35VjNNaN2SPzhBRX) @blackgirlscode happy st Patrick's day @nasa-jpl @podaac [@la-county-isd](https://www.youtube.com/live/h2m0osu4KA8?si=F3ULP5YUlqHno27S) Savannah is my home Karen bass i wanna go there @UsNavy 
-
-Link - _Current_ [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,viirs_crtc,earth;@-82.8,32.7,7.9z) @newshour @blackgirlscode @gtri @gatech @nasa-jpl @caltech
-
-<img  alt="image" src="https://github.com/user-attachments/assets/a00e960b-71ec-4d8a-950a-1beee652365b" />
-
-Link - _StatiC_ [ThermalAnomolies] () someone cleared out my work @la-county-isd _Ms Holly_ @CityofLosangeles _KarenBass_ @blqackgirlscode, i will work on the report later 
-
-<img   alt="image" src="https://github.com/user-attachments/assets/d8820cf3-027e-423e-b053-275a0e384725" />
-
-<img  alt="OPERA_L2_CSLC-S1_T121-257948-IW2_20251214T233848Z_20251215T223213Z_S1A_VV_v1 1_BROWSE" src="https://github.com/user-attachments/assets/6b4d4ecb-698d-4121-b860-5bb8b5f8d19d" />
-
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
+
+
+<iframe width="499" height="289" src="https://www.youtube.com/embed/vYRfQo6JMxc" title="United Nations - LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#[IWD2026](https://www.un.org/en/observances/womens-day)  |  #[GiveToGain](https://www.unwomen.org/en/get-involved/international-womens-day)
+@la-county-isd @CityOfLosAngeles @nasa-jpl how do i get all the people in the city and county to know that im active multimission and its not nesseary to poison me for those parties down town?! @blackgirlscode @ucla 
+
+
+<iframe src='https://cdnapisec.kaltura.com/p/2503451/embedPlaykitJs/uiconf_id/49754663?iframeembed=true&entry_id=1_mvc3tcfj&config[playback]={"audioLanguage":"en"}&config[ui]={"locale":"en"}' style="width: 528px; height: 297px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"></iframe>
+
+![https://www.un.org/sites/un2.un.org/files/styles/banner-image-style-27-10/public/2026/02/womens_day_2026.jpg](https://www.un.org/sites/un2.un.org/files/styles/banner-image-style-27-10/public/2026/02/womens_day_2026.jpg)
+
+[Keisha Lance Bottoms](https://www.keishaforgovernor.com/)
+@Itskeishalancebottoms / [@youtube.com / @keishalancebottoms7460](https://www.youtube.com/@keishalancebottoms7460)
+• @foratlanta 
+1.81K subscribers
+• _3-17-2026_ [Link](https://www.youtube.com/channel/UC-4ubmBkzK9Bu7a39BD-PmQ)
+
+
+
+@Achrafes_sabir-m9b
+​​مسائكم سعيد وعيدكم مبارك سعيد وكل عام وأنتم بألف خير@isro this was a un chat on @youtube[https://www.youtube.com/watch?v=vYRfQo6JMxc](https://www.youtube.com/watch?v=vYRfQo6JMxc) 
+
+
+```
+@thakasErikaselassie_kelly
+​​@repkarenbass ifeel guilty if this channel not playing RashardKelly: @NasaEarthdata Approved Applications Alaska Satellite Facility NISAR Data Access @isroofficial5866 hi @SteveHarvey @brandy @nasajpl
+
+NISAR_L2_PR_GUNW_009_119_A_018_010_4000_SH_20260105T103803_20260105T103837_20260117T103803_* @isroofficial5866 @normani https://github.com/user-attachments/assets/6fa50e31-cb3d-4f85-9e41-de6d5832f22e
+
+@thakasErikaselassie_kelly
+​​@hollyjmitchell can you grab the gang from the city and county for this bit if you online @lacityclerk @gavinnewsom @normani @blackgirlscode @howarduniversity
+
+
+@thakasErikaselassie_kelly
+​​@brandy @latto777 this effects your next earth from above book @essencemag not into that so you might not be either -rashard
+
+
+@thakasErikaselassie_kelly
+​​@alaskasatellitefacility @isroofficial5866 hi @SteveHarvey @brandy @nasajpl do #isRO people know avout #@Vertex @hollyjmitchell ? https://search.asf.alaska.edu/ @nasajpl
+```
+
+NISAR_L2_PR_GSLC_010_119_A_018_4005_DHDH_A_20260117T103803_20260117T103838_X05010_N_F_J_001 _01/17/2026, 10:38:03Z_
+<a href="https://github.com/user-attachments/assets/e88dda2d-2cfb-4b90-9112-74b57e801e7a"><img  alt="NISAR_L2_PR_GSLC_010_119_A_018_4005_DHDH_A_20260117T103803_20260117T103838_X05010_N_F_J_001" src="https://github.com/user-attachments/assets/e88dda2d-2cfb-4b90-9112-74b57e801e7a" /></a>
+
+NISAR_L2_PR_GUNW_009_119_A_018_010_4000_SH_20260105T103803_20260105T103837_20260117T103803_20260117T103838_X05010_N_F_J_001
+<a href="https://github.com/user-attachments/assets/6fa50e31-cb3d-4f85-9e41-de6d5832f22e"><img alt="NISAR_L2_PR_GUNW_009_119_A_018_010_4000_SH_20260105T103803_20260105T103837_20260117T103803_20260117T103838_X05010_N_F_J_001" src="https://github.com/user-attachments/assets/6fa50e31-cb3d-4f85-9e41-de6d5832f22e" /></a>
+
+S1-GUNW-A-R-048-tops-20250308_20250224-233020-00084W_00031N-PP-fc92-v3_0_1
+[`Aria`](https://www.earthdata.nasa.gov/news/new-vertex-generate-aria-s1-gunw-products-demand) The Advanced Rapid Imaging and Analysis (ARIA) Project, a collaboration between NASA's Jet Propulsion Laboratory (JPL) and the California Institute of Technology, utilizes synthetic aperture radar (SAR) data and Global Positioning System (GPS) for detecting and measuring ground deformation and creating predictive models. [ReadMore](https://www.earthdata.nasa.gov/data/projects/aria) [@nasa-jpl](https://science.jpl.nasa.gov/projects/aria/) 
+
+![https://science.jpl.nasa.gov/media/images/ARIA.max-500x500.jpg](https://science.jpl.nasa.gov/media/images/ARIA.max-500x500.jpg)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8ec5da02-4fe4-47e5-aac5-8d79db3d083f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1dd0e12-55d0-45bf-ac0b-e6a1708fc826" />
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+[download](https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png) @la-county-isd 
+
+
+![ECOv002_L2T_LSTE_43581_006_17SMR_20260313T232156_0713_01_height @blackgirlscode latrice i love you](https://github.com/user-attachments/assets/f3952e8b-a170-4829-a9ee-1e8bc0f28b8f)
+
+[https://search.asf.alaska.edu/#/?zoom=7.356&center=-79.820,30.677&polygon=POLYGON((-81.2652%2032.0623,-80.9649%2032.0623,-80.9649%2032.1641,-81.2652%2032.1641,-81.2652%2032.0623))&dataset=NISAR&resultsLoaded=true&granule=NISAR_L2_PR_GUNW_009_119_A_018_010_4000_SH_20260105T103803_20260105T103837_20260117T103803_20260117T103838_X05010_N_F_J_001&prodConfig=PR](https://search.asf.alaska.edu/#/?zoom=7.356&center=-79.820,30.677&polygon=POLYGON((-81.2652%2032.0623,-80.9649%2032.0623,-80.9649%2032.1641,-81.2652%2032.1641,-81.2652%2032.0623))&dataset=NISAR&resultsLoaded=true&granule=NISAR_L2_PR_GUNW_009_119_A_018_010_4000_SH_20260105T103803_20260105T103837_20260117T103803_20260117T103838_X05010_N_F_J_001&prodConfig=PR) @asfadmin Happy St Patricks day from @nasa-jpl @blackgirlscode i put savannah St Patty Day on [this page](https://rashardsdata.github.io/rashardmro/2026/03/17/They-said-it-was-live.html) @la-county-isd 
+
+<a href="https://github.com/user-attachments/assets/acef2df0-4ad3-4d3c-b75b-0cf52940debf"><img alt="image" src="https://github.com/user-attachments/assets/acef2df0-4ad3-4d3c-b75b-0cf52940debf" /></a>
+
+<a href="https://github.com/user-attachments/assets/45dd275f-14f9-44da-a5d5-78d4a6121f96"><img  alt="image" src="https://github.com/user-attachments/assets/45dd275f-14f9-44da-a5d5-78d4a6121f96" /></a>
+
+<a href="https://github.com/user-attachments/assets/72fec49e-f9ee-4f9b-8acd-6518f1920b05"> <img   alt="image" src="https://github.com/user-attachments/assets/72fec49e-f9ee-4f9b-8acd-6518f1920b05" /> </a>
 
 [comment]: <> (Emergency Files )
 
-## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+<img  alt="image" src="https://github.com/user-attachments/assets/50f4b4bd-cb37-4fb2-be39-b4d1b653b635" />
+
+S1A_IW_GRDH_1SDV_20260315T232944_20260315T233009_063645_080006_13EF [Sentinel-1]() • C-Band
+
+<img   alt="image" src="https://github.com/user-attachments/assets/207c2674-320a-4d3b-8aad-a984ec32fa7f" />
 
 
-_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
-[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
 
 <img  alt="OPERA_L2_CSLC-S1_T121-257948-IW2_20251214T233848Z_20251215T223213Z_S1A_VV_v1 1_BROWSE" src="https://github.com/user-attachments/assets/6b4d4ecb-698d-4121-b860-5bb8b5f8d19d" />
 
@@ -56,6 +123,8 @@ _**Interferometry** is a technique  which uses the interference of superimposed 
 [WEB_P](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ezgif.com-gif-to-webp-converter.webp) // [MP4](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-gif-to-mp4-converter%20%281%29.mp4) // [GiF](https://ia601409.us.archive.org/view_archive.php?archive=/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~1.ZIP&file=ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-animated-gif-maker2.gif)
 
 
+
+
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/09b1c7ca-e984-4a19-a3e9-eeaeb9455151)
 
 [Link](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1)
@@ -73,13 +142,13 @@ Surface Water [https://worldview.earthdata.nasa.gov/?v=-85.32846181957598,33.164
 Chattanooga
 [https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W)
 
-<img width="787" height="443" alt="image" src="https://github.com/user-attachments/assets/af7bdb34-feed-4584-b66b-d30e1b1ed5ac" />
+<img   alt="image" src="https://github.com/user-attachments/assets/af7bdb34-feed-4584-b66b-d30e1b1ed5ac" />
 
 
 Atlanta 
 [https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419451&Signature=J4D65EDOWJXkj3CZ1uw0ej78mAwMUMqe-cw1sCBp~fdFl6mNSTn6rBVEkkTek39j6EusN-JyyDGeITlxJFXyo1rgQMIgGWj8vmV-4jOlUo4vVBay00VBDtwnwVPN6EluusBKkD7ZjobUW0HbGc7uTc0W-gI1fmVVSgbjGjMIppol~Ju36IVufFsO4aF2Cv0vJlZPIIHshiY4gnxPEPeFd9omyOtA-QNQpryRLpPcfyZWkJ~yHU~Hp9XQzUxz-iz2SfkEbJSkVkpXktkU5QRS5qAm-MuC7dqGcAnIzRRHCZ~dFt9zDDGBeGDu4UHbbMvFnQzzKmHjuG5SUAZsBNg5RQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419451&Signature=J4D65EDOWJXkj3CZ1uw0ej78mAwMUMqe-cw1sCBp~fdFl6mNSTn6rBVEkkTek39j6EusN-JyyDGeITlxJFXyo1rgQMIgGWj8vmV-4jOlUo4vVBay00VBDtwnwVPN6EluusBKkD7ZjobUW0HbGc7uTc0W-gI1fmVVSgbjGjMIppol~Ju36IVufFsO4aF2Cv0vJlZPIIHshiY4gnxPEPeFd9omyOtA-QNQpryRLpPcfyZWkJ~yHU~Hp9XQzUxz-iz2SfkEbJSkVkpXktkU5QRS5qAm-MuC7dqGcAnIzRRHCZ~dFt9zDDGBeGDu4UHbbMvFnQzzKmHjuG5SUAZsBNg5RQ__&Key-Pair-Id=K1WN40TUQCFI8W)
 
-<img width="768" height="443" alt="image" src="https://github.com/user-attachments/assets/cfb67e50-29ca-44c7-9495-e817a36a275c" />
+<img   alt="image" src="https://github.com/user-attachments/assets/cfb67e50-29ca-44c7-9495-e817a36a275c" />
 
 [Song](https://youtu.be/E7CtsE52NKw?si=lmIb56Y7CNUgSMDk) @blackgirlscode _trice_ [_alt_mix_ sounds good too H.E.R. - FACTS](https://youtu.be/c_xG0crdnrE?si=FKUZVYxlA42GLzqZ) ... @blackgirlscode i hope tems [feeling good](https://youtu.be/4aeETEoNfOg?list=RDNOG3eus4ZSo) the song not on the street  like it was [https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) that might be brandy norwood @la-county-isd @cityofLosangeles [Free Mind - TEMS](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) @nasa-jpl she should download the [NASA_SAFE app ](https://www.nasa.gov/nasa-safe-app/) @ajc @MarinaMichaud hi @mailchimp all the kids in atlanta have access to some sort of android so please push this app out to the schools @gatech lost children can be safely organized to reach parents @caltech @nasa-jpl @StateOfCalifornia [Trice?](https://youtu.be/NOG3eus4ZSo?list=RDNOG3eus4ZSo) @howard-university-web-services
 
@@ -203,6 +272,47 @@ Los Angeles County Board of Supervisors Meeting 1/13/26](https://youtu.be/oyZIu2
 
 <img   alt="image" src="https://github.com/user-attachments/assets/6c7bbda4-0044-4eb7-b742-a249628baf8c" />
 
+[Savannah](https://www.savannahga.gov/1165/St-Patricks-Day-in-Savannah)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/70c05733-48c2-4a55-a6a8-970d91b020e9" />
+
+
+@BlueOrigin i wanna know how to find an ecostress person @blackgirlscode @foratlanta @openSavannah im behind emailing folks but its hard when people need to get the data @longbeachinnovationteam [Rex Richardson](https://www.longbeach.gov/mayor/about/) please work with savannah, i dont want to neglect anyone @nasa-jpl @usgs @nps 
+
+<div class="tupperware">
+ 
+<a href="https://github.com/user-attachments/assets/2cf8ec8a-1a2d-4653-ad19-9287131580b2"><img  alt="image" src="https://github.com/user-attachments/assets/2cf8ec8a-1a2d-4653-ad19-9287131580b2" /></a>
+<a href="https://github.com/user-attachments/assets/47406f73-f4bb-4e3a-9d47-7f8c701e6562"><img  alt="image" src="https://github.com/user-attachments/assets/47406f73-f4bb-4e3a-9d47-7f8c701e6562" /></a>
+<a href="https://github.com/user-attachments/assets/85acafb6-e1a6-4256-a640-8c8c9783bc0f"><img  alt="image" src="https://github.com/user-attachments/assets/85acafb6-e1a6-4256-a640-8c8c9783bc0f" /></a>
+
+</div>
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+[download](https://ecostress.jpl.nasa.gov/downloads/gallery/00050_LA_beaches_1Aug2020.png) @la-county-isd 
+
+
+[science.gsfc. @nasa .gov/sci/projects/59](https://science.gsfc.nasa.gov/sci/projects/59)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0f3dc967-3b72-4bba-95a1-8304548500df" />
+
+
+[@foratlanta](https://www.youtube.com/live/RuS0rBGFdLM?si=35VjNNaN2SPzhBRX) @blackgirlscode happy st Patrick's day @nasa-jpl @podaac [@la-county-isd](https://www.youtube.com/live/h2m0osu4KA8?si=F3ULP5YUlqHno27S) Savannah is my home Karen bass i wanna go there @UsNavy 
+
+Link - _Current_ [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,viirs_crtc,earth;@-82.8,32.7,7.9z) @newshour @blackgirlscode @gtri @gatech @nasa-jpl @caltech
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a00e960b-71ec-4d8a-950a-1beee652365b" />
+
+Link - _StatiC_ [ThermalAnomolies] () someone cleared out my work @la-county-isd _Ms Holly_ @CityofLosangeles _KarenBass_ @blqackgirlscode, i will work on the report later 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d8820cf3-027e-423e-b053-275a0e384725" />
+
+<img  alt="OPERA_L2_CSLC-S1_T121-257948-IW2_20251214T233848Z_20251215T223213Z_S1A_VV_v1 1_BROWSE" src="https://github.com/user-attachments/assets/6b4d4ecb-698d-4121-b860-5bb8b5f8d19d" />
+
 
 Regular City Council - 1/13/26 [link](https://youtu.be/MNNPKGztZSQ)
 Regular City Council - 1/13/26 [link](https://youtu.be/MNNPKGztZSQ)
@@ -277,70 +387,3 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

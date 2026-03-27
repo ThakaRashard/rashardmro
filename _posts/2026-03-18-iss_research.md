@@ -2,14 +2,104 @@
 layout: default
 title:  "iSS_ResearcH"
 published: true
-date:   2026-01-15 21:19:06 -0800
+permalink: /iss
+date:   2026-03-19 11:36:06 -0800
 tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
 
 
 
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+@la-county-isd Supervisor Mitchell, if you get this note @blackgirlscode @GavinNewsom i was trying to get the [SpaceLaw101](https://youtu.be/Ak0SuIzNwtQ) rolling for people in the area as [SpaceBeach](https://www.csulb.edu/space-beach-initiative) and other AeroSpace initiatives take root @StateOfCalifornia 
+[unoosa.org/oosa/en/ourwork/`spacelaw`/index.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html) // [International Space Law Explained @undp](https://www.un.org/en/peace-and-security/international-space-law-explained) @UN-ICC @rocket-lab @doug-newman-nasa [What Is Space Beach? Inside SoCal’s Space Industry Hub - builtinla.com/articles/space-beach](https://www.builtinla.com/articles/space-beach) :: @nasa-pds [Grow Long Beach - Under Mayor Rex Richardson’s leadership, Long Beach has emerged as a national hub for aerospace innovation—nicknamed “Space Beach.” @la-county-isd @cityoflosangeles](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/) / [Long Beach revives aerospace past in new ‘Space Beach’ era - lbbusinessjournal.com](https://lbbusinessjournal.com/aerospace/long-beach-revives-aerospace-past-in-new-space-beach-era/)
+
+
+_SPACEWALK94DONE_
+![SPACEWALK94DONE_ezgif com-resize](https://github.com/user-attachments/assets/6b4ae7e8-66b9-4c39-8c39-3fbe7116ffce)
+
+@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from  [@blackgirlscode](https://github.com/blackGirlsCode) ::  [@NorthropGrumman](https://github.com/NorthropGrumman)
+@la-county-isd hi [Ms Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) @cityoflosangeles hi ms bass [The Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [[1](https://mayor.lacity.gov/) we had a great spacewalk but have not rolled out the [solar panels](https://www.nasa.gov/image-article/solar-arrays-international-space-station-2/) yet, just a [few parts in place](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) to prep @nasa-pds i hope you guys are keeping up the added power may support new observation gear. I feel like i read that solar panels have a lifetime as well @tesla so it may not be the big upgrade i think it is
+
+[Astronauts Install Solar Array Mod Kit, Complete Spacewalk - @nasa .gov /blogs](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) @jaxa @esa
+
+_Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4) ++ [ECOSTRESS_SCiENCE_TEAM](https://ecostress.jpl.nasa.gov/science) 
+
+[https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+
+<img alt="Screenshot_20260318-115304" src="https://github.com/user-attachments/assets/84ab66da-fb5c-444d-b1ea-9099baf91c47" />
+
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/8c472332-f539-42bb-84b3-b59d4b0a801f)
+
+
+
+<img   alt="Screenshot_20260318-114956" src="https://github.com/user-attachments/assets/9e726d24-cee1-41b8-90cb-9a9072fa430d" />
+
+
+<img alt="Screenshot_20260318-134532" src="https://github.com/user-attachments/assets/665dd141-49c6-4286-8702-06f810da1d97" />
+
+
+<img alt="Screenshot_20260318-062633" src="https://github.com/user-attachments/assets/d918943b-1bbc-443e-9596-049750a9e176" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/120912cd-082d-4220-8408-1bb448b7e78d" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ceac85c-69bf-441f-9ae1-bd11a9e5f6c0" />
+
+[nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode [jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/](https://www.jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4500141a-b00a-4930-a4f1-6d347b32ee61" />
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
+
+[ECOSTRESS:Monitoring plants from space](https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html)
+Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html` 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8783c7c3-1c4b-467e-a37e-d33c335a78d4" />
+
+[esa.int @ESA /iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026](https://www.esa.int/ESA_Multimedia/Images/2025/12/ISS_Expedition_74_patch_2026) : [https://en.wikipedia.org/wiki/Expedition_74](https://en.wikipedia.org/wiki/Expedition_74) 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://images-assets.nasa.gov/image/iss074-s-001/iss074-s-001~large.jpg" type="image/png" />
+  
+  <source src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @voyager-tech-inc @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/iss_expedition_74_patch_2026/27043123-1-eng-GB/ISS_Expedition_74_patch_2026_pillars.png" />
+ 
+ </picture>
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
@@ -588,6 +678,10 @@ The station was designed between 1984 and 1993. Elements of the station were in 
 <img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
 ![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
 # 
 
 {% for image in site.static_files %}

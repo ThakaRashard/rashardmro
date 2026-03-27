@@ -10,6 +10,79 @@ author: "RashardKelly @nasa-jpl"
 
 # Compiling
 
+@blackgirlscode @usgs i made a [News](https://thakarashard.github.io/news) page with some [Vlogging](https://archive.org/details/commitmentmaintenance)
+[https://www.youtube.com/lafd](https://www.youtube.com/lafd) @la-county-isd 
+
+the graff riots @la-county-isd @cityoflosangeles @nasa-jpl 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-riotdata' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+# [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
+[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
+[fg](https://www.fightersgeneration.com/games/sf2-turbo-p4-4.html)
+![image](https://github.com/user-attachments/assets/3d6764d6-85cf-4a1d-a046-f47f2a73fbda)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/04c46590-bca9-4a85-bb91-5dfb54697f43" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/2a9776d7-0488-4f50-9283-ea5d294170f1" />
+<img   alt="image" src="https://github.com/user-attachments/assets/c80517c9-8893-4ec9-aa01-01a54b017d18" />
+
+
+## African Americans In Losangeles
+[FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
+
+<div class="tupperware">
+	
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-africanamericansinlosangeles' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+	
+</div>
+
+
+
+##
+
+<div class="section_2col ic">
+	
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-2' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+![p](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+![image](https://github.com/user-attachments/assets/9a19e84e-6b36-45d6-a069-2a94ea5d138f)
+
+
+
+![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
+
+![https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png](https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png)
+
 ![2025 SINGLES CONFERENCE](https://www.lphfamily.org/event/2025-singles-conference)
 ![SINGLES-2025-GPS-CONFERENCE-768x543](https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55)
 [vsco](https://vsco.co/earthdatarashard/media/6873bd877e706c9219b2e54f) 
@@ -181,6 +254,7 @@ I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.i
         or
   <a href="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4">MP4</a>
         video.
+		
 </video>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/2OYrMFlw46">https://t.co/2OYrMFlw46</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1936603680805097741?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -202,6 +276,7 @@ I forgot what other lil girl at Dance411 was helpinmg me with this. But I have t
 
 
 [Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
+
 
 ```
 W3C CSS Validator results for https://rashardci.github.io/ (CSS level 3 + SVG)
@@ -245,22 +320,6 @@ Transforming Defense operations: [The DOD needs automation](https://www.redhat.c
 [Americana - Paul Bunyan](https://archive.org/details/paul-bunyan-full-1994-walt-disney-home-video-vhs) [The Twilight Zone 1959 S01](https://archive.org/details/the-twilight-zone-1959-s-01-e-00-original-pilot/The+Twilight+Zone+1959+S01E01+Where+Is+Everybody.mp4) [https://archive.org/details/fav-bubblegumpop633](https://archive.org/details/fav-bubblegumpop633) [#ThakaSandroid screen-20240731-050451
 by Ricothaka.github.io rasharkelly](https://archive.org/details/screen-20240731-050451_202408/screen-20240729-075038.mp4) [ImageMajickSequentialsFromHollywood](https://archive.org/details/hollywood-lo-lo-files)
 
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-riotdata' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
-
-# [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
-[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
-[fg](https://www.fightersgeneration.com/games/sf2-turbo-p4-4.html)
-![image](https://github.com/user-attachments/assets/3d6764d6-85cf-4a1d-a046-f47f2a73fbda)
 
 <div class="tupperware" markdown="1">
 
@@ -371,8 +430,10 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
-	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+	
+<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">
+	
 </video> 
 
 ![redhat](https://docs.redhat.com/Logo-Red_Hat-Documentation-A-Reverse-RGB.svg)
@@ -386,6 +447,7 @@ In years past, the recommended amount of swap space increased linearly with the 
 
 
 <div class="tupperware">
+	
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
 </video> 
@@ -395,24 +457,30 @@ In years past, the recommended amount of swap space increased linearly with the 
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	
+	
 </video> 
+
 </div>
 
 
 # @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research]
 
 <video preload="auto" width="auto" height="500px" controls> 
-	<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
-	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+	
+<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	
+	
 </video> 
 
 
 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
-	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+	
+<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+	
 </video> 
 
 ![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
@@ -427,6 +495,7 @@ In years past, the recommended amount of swap space increased linearly with the 
 <a href="https://ricothakarashard.github.io/linux">linux</a>
 ```
 {% raw %}
+
 [/linux]({{ site.url }}/linux)
 <a href="{{ site.url }}/linux">linux</a>
 {% endraw %}
@@ -844,40 +913,6 @@ a leading global city.
 - [Information Technology Agency (ITA) about @cityoflosangeles @stateofcalifornia](https://ita.lacity.gov/about/ita) [relatedTweet](https://x.com/thakasartu/status/1931042889490219219)
 
   
-## African Americans In Losangeles
-[FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
-
-<div class="tupperware">
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-africanamericansinlosangeles' %}
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-</div>
-
-
-
-##
-
-<div class="section_2col ic">
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-2' %}
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-</div>
-
-## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
-
-<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
-
-![p](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
-![image](https://github.com/user-attachments/assets/9a19e84e-6b36-45d6-a069-2a94ea5d138f)
-
 
 `Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
 [Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
@@ -919,6 +954,7 @@ a leading global city.
 [Messenger - Earth Departure Movie](https://messenger.jhuapl.edu/Explore/media/videos/mdis_depart.mpeg)
 
 <div class="tupperware">
+	
 <figure>
  <a href="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
  <img src="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
@@ -946,6 +982,7 @@ a leading global city.
 ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
 
 <div class="postLoop">
+	
 <ul>
 {% for post in site.posts %}
     <li>
@@ -955,6 +992,7 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
    </li>
 {% endfor %}
 </ul>  
+	
 </div> 
 
 [NASA Renames Mars Lander in Honor of Late Carl Sagan ](https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan/) [How did everyone feel about Donald Glover in the Martian? His character was a complete rip off of Abed and it really grated my biscuits.](https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=49228)

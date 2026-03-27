@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-12 08:19:06 -0800
+date:   2026-03-17 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -11,6 +11,7 @@ permalink: /artemis2
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
+- Jump to  [`news`](#news)
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -29,6 +30,41 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 
 ## @NASA's Artemis II 
+#  news
+
+## @NASA's Artemis II Crew Arrives for Launch
+[WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
+
+[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
+@BlueOrigin [@TheSpaceDevs, Commercial space pleads with @NASA to stop moving the goalposts in orbit](https://www.theregister.com/2026/03/27/iss_rethink/) - [_Richard Speed_ @blackgirlscode](https://www.theregister.com/Author/Richard-Speed) 
+
+[[1](https://axiom.co/)]
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-Artemis2-crew-arrival' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+[Comet 3I/ATLAS](https://science.nasa.gov/solar-system/comets/3i-atlas/) // [View Interstellar Comet 3I/ATLAS Through NASA’s Multiple Lenses](https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/) :: [TiMELiNE - TableMountainFacility @la-county-isd @whitehouse](https://tmf.jpl.nasa.gov/timeline/) @newshour [@ESA ESA observations of interstellar comet 3I/ATLAS](https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS) 
+
+### Inside Artemis II:
+Exclusive NASA Access to the Crew, Tech & Training | [SLICE SCIENCE](https://www.youtube.com/channel/UCe50ibE3yQqiltqllDOn3jQ) [[1](https://www.youtube.com/channel/UCGDXj3vSgJ8MCbzbb_C9thA)] @TheSpaceDevs @BlueOrigin 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d9461513-ab80-4b7e-aa88-5754af57112a" />
+
+[`NASA Reassessing Artemis II Rollout as Ground Teams Make Up Time`](https://www.nasa.gov/blogs/missions/2026/03/17/nasa-reassessing-artemis-ii-rollout-as-ground-teams-make-up-time/) @la-county-isd we have been being robbed of our phones... @libretro is there anything we can do to protect ourselves and possibly the whole user base ? @nasa-jpl @blackgirlscode i dont know if you guys are together this semester, but please submit some thoughts to @doug-newman-nasa @nasa-openscapes about how we can use existing cellular to make america safre @cityoflosangeles @nbcnews
+[Unanimous vote in risk assessment clears way for 4 astronauts to launch on moon mission @cnn](https://www.cnn.com/2026/03/12/science/nasa-artemis-2-launch-date-risk-assessment) [@npr NASA’s updated potential launch windows for its delayed moon mission are now between March 6 and 11](https://www.scientificamerican.com/article/nasa-reveals-new-artemis-ii-moon-mission-target-launch-dates-march/) @newshour its April Now thanks im reading scientific American and confusing my tabs [@NASA targets Artemis II crewed moon mission for April 1 launch](https://www.npr.org/2026/03/12/nx-s1-5746128/nasa-artemis-ii-april-launch) :: [NASA gives 'go' for Artemis II rollout, launch date: Space Beat](https://www.yahoo.com/news/articles/nasa-gives-artemis-ii-rollout-170834635.html) :: [To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun ](https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/) // [cement.k12.ok.us/brandi-deans-profile](https://www.cement.k12.ok.us/brandi-deans-profile) // [Brandi Dean](https://www.linkedin.com/in/brandi-dean-19612a6) [https://www.linkedin.com/in/brandi-dean-27399720](https://www.linkedin.com/in/brandi-dean-27399720) @cityoflosangeles [NASA's mega-crawler to move Artemis II moon rocket to launch pad in Florida](https://www.floridatoday.com/story/tech/science/space/2026/03/15/nasa-apollo-era-crawler-transporter-to-move-artemis-ii-rocket-ahead-of-moon-launch-in-florida/88977517007/) :: [NASA officials sidestepped questions on Artemis II risks—there’s a reason why](https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e0fdabd4-ac15-464a-b768-4ae661a41df4" />
+
 Flight Readiness News Conference (March 12, 2026)
 
 @doug-newman-nasa @voyager-tech-inc : @USSF-ORBIT
@@ -658,7 +694,8 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
 
-# Rashards-Status
+#
+#  Rashards-Status
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
 
