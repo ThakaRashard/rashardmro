@@ -24,6 +24,7 @@ https://archive.org/download/sega-dreamcast-redump-collection @mayor@longbeach.g
 
 ![1000000109@la-county-isd @longbeachinnovation @nasa-jpl @voyager-tech-inc](https://github.com/user-attachments/assets/0bac157c-d524-4fb5-90f1-e45961676ef9)
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A140228818&color=%236c2c14&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kevingates" title="Kevin Gates" target="_blank" style="color: #cccccc; text-decoration: none;">Kevin Gates</a> · <a href="https://soundcloud.com/kevingates/kevin-gates-stop-lyin-prod-by" title="Stop Lyin&#x27;" target="_blank" style="color: #cccccc; text-decoration: none;">Stop Lyin&#x27;</a></div>
 
 <img alt="image" src="https://github.com/user-attachments/assets/f25dbb46-3729-4d53-b93c-3765d656455d" />
 
