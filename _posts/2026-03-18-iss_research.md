@@ -3,7 +3,7 @@ layout: default
 title:  "iSS_ResearcH"
 published: true
 permalink: /iss
-date:   2026-03-19 11:36:06 -0800
+date:   2026-03-27 01:36:06 -0800
 tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
@@ -19,6 +19,23 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
  
  </picture>
+
+
+## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
+_Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+[A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
+
+[@intuit @mailChimp theinfiniteatlanta.com/](https://theinfiniteatlanta.com/)
+@education @esa .int
+https://theinfiniteatlanta.com/ @jplnewsroom@jpl.nasa.gov  can someone give @normani@fifthharmonyofficial.com  help to go see it, her handlers can roam freely in TheATL, i need eyes there, i dont know no one else except latrice fitzpatrick that could review it right @benefits@howard.edu or erika, if she safe @Essence@wrightsmedia.com ........
+
+@mayor@lacity.org @mayor@longbeach.gov  Mayor [BASS/Rex] since The International space station is a remote facility for one of our technology leaders locally this exhibit could bring some annoying guest that dont know we are working @FEMA-News-Desk@fema.dhs.gov @atlantacouncil@atlantaga.gov @karen.c.fox@nasa.gov @kathryn@bos.lacounty.gov @keishaforgovernor@gmail.com @Whs Pentagon Esd Mbx Secrev  https://www.nasa.gov/blogs/spacestation/2026/03/26/expedition-74-works-health-research-and-cargo-operations-on-thursday/ @earthdata-support@nasa.gov @HollyJMitchell@bos.lacounty.gov @rtxrecruiting@rtx.com @raytheonbbn @newshour @nbcnews @washingtonpost
+ 
+<img   alt="image" src="https://github.com/user-attachments/assets/0b94e73d-704e-4425-8efa-8d0643f4cf3f" />
+
+![https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg @la-county-isd ask pullman yard about this msupervisor holly im sorry im going to be more formal whenn i take spots and do my paperwork @foratlanta @CityOfLosAngeles](https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg) 
+
+<img   alt="@foratlanta @nasa-pds @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/afc98c3e-a57f-4d2a-8522-68aa6f6ea146" />
 
 <div class="tupperware">
     

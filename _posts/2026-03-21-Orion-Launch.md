@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-17 08:19:06 -0800
+date:   2026-03-27 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -34,6 +34,8 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 ## @NASA's Artemis II Crew Arrives for Launch
 [WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
+
+@Whitehouse the annouced launchdate is April 1st @USnavy idk how to look for anomolies, but since my cell was stolen im moving and i hope i did not put too much shade on [Ryan Gosling](https://en.wikipedia.org/wiki/Talk:Ryan_Gosling) scared of a [blueGTi](https://www.reddit.com/r/GolfGTI/comments/kltx68/2021_mk75_gti_in_cornflower_blue/) i saw at a Covid Era [GraffSpot -\/ra5hard.github.io/art/](https://ra5hard.github.io/art/graffiti/coral/2026/02/15/GraffShit.html)
 
 [NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
 @BlueOrigin [@TheSpaceDevs, Commercial space pleads with @NASA to stop moving the goalposts in orbit](https://www.theregister.com/2026/03/27/iss_rethink/) - [_Richard Speed_ @blackgirlscode](https://www.theregister.com/Author/Richard-Speed) 

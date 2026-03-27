@@ -7,7 +7,7 @@ title: Atlanta Ecology @emit-sds @Nasa-jpl
 image: atlanta_oli_2020127.jpg
 author: "RashardKelly @nasa-jpl"
 categories: Atlanta ecology ecostress space dsn nsn climate weather
-date:   2026-03-20 10:51:06 
+date:   2026-03-27 10:51:06 
 ---
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
@@ -16,14 +16,26 @@ date:   2026-03-20 10:51:06
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
 
+[@intuit @mailChimp theinfiniteatlanta.com/](https://theinfiniteatlanta.com/)
+@education @esa .int
+https://theinfiniteatlanta.com/ @jplnewsroom@jpl.nasa.gov  can someone give @normani@fifthharmonyofficial.com  help to go see it, her handlers can roam freely in TheATL, i need eyes there, i dont know no one else except latrice fitzpatrick that could review it right @benefits@howard.edu or erika, if she safe @Essence@wrightsmedia.com ........
 
+ @mayor@longbeach.gov @mayor@lacity.org Mayor [BASS/Rex] since The International space station is a remote facility for one of our technology leaders locally this exhibit could bring some annoying guest that dont know we are working @FEMA-News-Desk@fema.dhs.gov @atlantacouncil@atlantaga.gov @karen.c.fox@nasa.gov @kathryn@bos.lacounty.gov @keishaforgovernor@gmail.com @Whs Pentagon Esd Mbx Secrev  https://www.nasa.gov/blogs/spacestation/2026/03/26/expedition-74-works-health-research-and-cargo-operations-on-thursday/ @earthdata-support@nasa.gov @HollyJMitchell@bos.lacounty.gov @rtxrecruiting@rtx.com 
+<img   alt="image" src="https://github.com/user-attachments/assets/0b94e73d-704e-4425-8efa-8d0643f4cf3f" />
+
+<img   alt="@foratlanta @nasa-pds @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/afc98c3e-a57f-4d2a-8522-68aa6f6ea146" />
+
+
+```
 <iframe width="499" height="289" src="https://www.youtube.com/embed/vYRfQo6JMxc" title="United Nations - LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 
 #[IWD2026](https://www.un.org/en/observances/womens-day)  |  #[GiveToGain](https://www.unwomen.org/en/get-involved/international-womens-day)
 @la-county-isd @CityOfLosAngeles @nasa-jpl how do i get all the people in the city and county to know that im active multimission and its not nesseary to poison me for those parties down town?! @blackgirlscode @ucla 
 
-
+```
 <iframe src='https://cdnapisec.kaltura.com/p/2503451/embedPlaykitJs/uiconf_id/49754663?iframeembed=true&entry_id=1_mvc3tcfj&config[playback]={"audioLanguage":"en"}&config[ui]={"locale":"en"}' style="width: 528px; height: 297px" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0" allow="accelerometer *; autoplay *; encrypted-media *; gyroscope *; picture-in-picture *"></iframe>
+```
 
 ![https://www.un.org/sites/un2.un.org/files/styles/banner-image-style-27-10/public/2026/02/womens_day_2026.jpg](https://www.un.org/sites/un2.un.org/files/styles/banner-image-style-27-10/public/2026/02/womens_day_2026.jpg)
 
