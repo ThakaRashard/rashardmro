@@ -12,6 +12,8 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+@cityoflosangeles skill assessment rashard kelly @nasa-jpl @blackgirlscode
+<iframe src="https://archive.org/embed/screen-20240731-050451_202408" width="400" height="550" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 @CityOfLosangeles Mayor KAren @foratlanta i sent this email 
 
