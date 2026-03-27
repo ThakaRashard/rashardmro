@@ -12,6 +12,16 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+
+@nasa-jpl @la-county-isd [MayorBass](https://www.congress.gov/member/karen-bass/B001270) LongBeach was not cooperative today, i kept getting errors that there is no computer usage for my accout, they evcen presented an old library card i signed thaka @blackgirlscode if muna is [rihanna ](https://www.rihannanow.com/) she needs to report to the lab! @nasa-pds she has to talk anyway so i can be graded as safe , them rapist ass writers from whereever tennnesee done corrupted the brand @nasa, y they kill us in so many ovies??????? @StateOfCalifornia then my tooth got knocked out in hollywood @cityoflosangeles @disney 
+
+![1000000109@la-county-isd @longbeachinnovation @nasa-jpl @voyager-tech-inc](https://github.com/user-attachments/assets/0bac157c-d524-4fb5-90f1-e45961676ef9)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/f25dbb46-3729-4d53-b93c-3765d656455d" />
+
+
+
 @nasa-jpl hr I posted this on young Jeezy page @la-county-isd @foratlanta
 
 
