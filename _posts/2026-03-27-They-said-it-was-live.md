@@ -9,6 +9,21 @@ author: RashardKelly @nasa-jpl
 ---
 
 
+[@la-county-isd https://www.youtube.com/live/Agf8ABK2QpU?si=G1GRQuuIWh5myngo](https://www.youtube.com/live/Agf8ABK2QpU?si=G1GRQuuIWh5myngo) [@nasa-jpl https://www.youtube.com/live/Agf8ABK2QpU?si=WwNC_KwzPy3DtWi-](https://www.youtube.com/live/Agf8ABK2QpU?si=WwNC_KwzPy3DtWi-) [@nasa @cityoflosangeles @foratlanta](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id)
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-Artemis-status' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 # Cape Canaveral
 ## @NASA's Artemis II Crew Arrives for Launch
 [WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
