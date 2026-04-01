@@ -114,15 +114,19 @@ https://en.wikipedia.org/wiki/Table_Mountain_Observatory // https://lidar.jpl.
 [ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
 
 <video  controls poster="https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23695.width-1024.jpg">
+	
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+	
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 [Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
@@ -162,15 +166,19 @@ _Scientific consulting by:_ [Doug C. Morton](https://svs.gsfc.nasa.gov/search/?p
 These visualizations highlight the spread of the 2025 Palisades and Eaton fires in California using a fire tracking approach (Chen et al., 2022) and near real-time active fire detections from the VIIRS sensors on the Suomi-NPP and NOAA-20 satellites. Every 12 hours, the fire tracking algorithm uses new active fire detections to update the total fire perimeter and estimate the position of active fire lines—active portions of the perimeter where the fire may continue to spread. [READMORE](https://svs.gsfc.nasa.gov/5558/) 
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/LAfiresBeauty_3820x1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314_1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 
@@ -179,17 +187,22 @@ These visualizations highlight the spread of the 2025 Palisades and Eaton fires 
 The Spread of the Palisades Fire
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227.04200.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227_1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
+
 
 The Spread of the Eaton Fire
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242.06200.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242_1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e0f9bd66-7c95-4e50-baee-412c596674d6" />
@@ -336,10 +349,13 @@ Over the past several weeks, the United States has seen significant reductions i
 # GRACE and GRACE-FO track California's land water changes
 
 [MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+
 <video  controls >
+	
   <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 
@@ -358,9 +374,11 @@ By monitoring the color of reflected light via satellite, scientists can determi
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
 
 <video  controls >
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/chloro_cbar.png)
@@ -490,3 +508,93 @@ photo -[@JackQuillinTV](https://x.com/JackQuillinTV)
 California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
 [Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
 ![h](https://pbs.twimg.com/media/GkrAkPQXgAA8Q1k?format=jpg&name=large)
+
+
+## LosAngelesDns
+>_Unless a company, university,
+or other group gets an officially sanctioned
+Internet name, it cannot conduct its business over the Net_
+- [ieee.org](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8048798)
+
+@la-county-isd you guys had the best results in my most recent voayge with [nslookup](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490721(v=technet.10)?redirectedfrom=MSDN) @CityOfLosAngles Im finxing some css errors [Supervisor Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) but The [CountyLibrary](https://lacountylibrary.org/) is serving from a [.org](https://www.seerinteractive.com/insights/domain-extensions-101-guide) see [nslookup.io Report](https://www.nslookup.io/domains/lacountylibrary.org/dns-records/) @nasa-jpl but they not on pphostd @whitehouse
+
+# GRACE and GRACE-FO track California's land water changes
+
+[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+
+<video  controls >
+	
+  <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+  
+</video>
+
+
+NASA’s Gravity Recovery and Climate Experiment (GRACE, 2002 - 2017) mission, and its successor GRACE Follow-On (launched in 2018), map month-to-month changes in Earth's gravity field resulting from the movement of mass, such as water, near the surface of the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2004-2010), while red colors represent drier than average conditions. The yellow line in the graph on the left shows the evolution of the long-term inter-annual variations for the area outlined in yellow on the map (note: the average seasonal cycle has been removed).
+
+
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+	  
+## .org defined
+This is an open TLD; any person or entity is permitted to register. Originally created as a miscellaneous category as stated in RFC 920 (October 1984) "...any other domains meeting the second level requirements," and clarified in RFC 1591 (March 1994), "This domain is intended as the miscellaneous TLD for organizations that didn't fit anywhere else. Some non-government organizations may fit here."[9][10] While mainly non-profits have used this domain, it was never restricted from miscellaneous use. - [Wikipedia](https://en.wikipedia.org/wiki/.org)
+[b4](https://web.archive.org/web/20260331202209/https://ra5hard.github.io/) // [women.ca.gov - snapshot](https://web.archive.org/web/20260331203711/https://women.ca.gov/) // [List of Internet top-level domains - wikipedia](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains) + [The Top-level Domain Name Controversy - @ieee](https://ieeexplore.ieee.org/document/585160) [[1](https://www.facebook.com/groups/309147874725204/posts/930041105969208/)] /// 
+
+![https://upload.wikimedia.org/wikipedia/commons/9/9c/DotORG_logo.svg 50](https://upload.wikimedia.org/wikipedia/commons/9/9c/DotORG_logo.svg)
+	
+```
+W3C CSS Validator results for http://ra5hard.github.io (CSS level 3 + SVG)
+Sorry! We found the following errors (3)
+URI : https://ra5hard.github.io/assets/css/style.css?v=dc80f4b81df2648a0d8efd7c93eb65c57ebb85f4
+1	.scroller	Property container-type doesn't exist : inline-size
+1	.item	Value Error : background-repeat none is not a background-repeat value : none
+URI : https://ra5hard.github.io/
+18	.navbar a	Value Error : padding 10x is not a padding value : 10x 10px
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/756087d1-e276-4ea0-aec6-f114920156a8" />
+<img alt="image" src="https://github.com/user-attachments/assets/3cd5bf61-a62d-426a-9794-90f547708b44" />
+
+
+<img   alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/31705dbc-fd3a-4e4e-8b47-d946109724e7" />
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+<img alt="image" src="https://github.com/user-attachments/assets/d5b35a42-c06b-4836-8642-1782cc07246e" />
+
+![133356182_1820944668067182_5036319584717506336_n @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/da438ea8-a722-450e-b243-f80e522c5181)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+
+Link - _Current_ [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,viirs_crtc,earth;@-82.8,32.7,7.9z) @newshour @blackgirlscode @gtri @gatech @nasa-jpl @caltech
+### L.A. Ecology @CityOfLosAngeles @Nasa-jpl
+<img  alt="image" src="https://github.com/user-attachments/assets/60b6896d-99c0-422c-9a0b-cd3c935e0135" />
+
+Remotely Estimating Total Suspended Solids Concentration in Clear to Extremely Turbid Waters Using a Novel Semi-Analytical Method - [Link](https://ntrs.nasa.gov/citations/20210016749) @blackgirlscode   @blueorigin  @thespacedevs @rocketlab [dsnnow](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/5b812449-789d-4e3c-8612-6b978f03db0c" />
+
+
+## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+
+
+[MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
+ 

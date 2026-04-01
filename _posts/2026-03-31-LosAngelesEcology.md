@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-03-19 1:51:06 
+date:   2026-03-31 1:51:06 
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
@@ -29,6 +29,96 @@ date:   2026-03-19 1:51:06
 
 {% endhighlight %}
 
+
+[Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
+
+## LosAngelesDns
+>_Unless a company, university,
+or other group gets an officially sanctioned
+Internet name, it cannot conduct its business over the Net_
+- [ieee.org](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8048798)
+
+
+### Base Los Angeles / Long Beach
+1001 South Seaside Ave  San Pedro, CA 90731
+-MAIN 206-815-6689
+-AFTER HOURS (310) 781-0619
+-EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
+[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
+![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
+
+@la-county-isd you guys had the best results in my most recent voayge with [nslookup](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490721(v=technet.10)?redirectedfrom=MSDN) @CityOfLosAngles Im finxing some css errors [Supervisor Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) but The [CountyLibrary](https://lacountylibrary.org/) is serving from a [.org](https://www.seerinteractive.com/insights/domain-extensions-101-guide) see [nslookup.io Report](https://www.nslookup.io/domains/lacountylibrary.org/dns-records/) @nasa-jpl but they not on pphostd @whitehouse
+
+# GRACE and GRACE-FO track California's land water changes
+
+[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+
+<video  controls >
+	
+  <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+  
+</video>
+
+
+NASA’s Gravity Recovery and Climate Experiment (GRACE, 2002 - 2017) mission, and its successor GRACE Follow-On (launched in 2018), map month-to-month changes in Earth's gravity field resulting from the movement of mass, such as water, near the surface of the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2004-2010), while red colors represent drier than average conditions. The yellow line in the graph on the left shows the evolution of the long-term inter-annual variations for the area outlined in yellow on the map (note: the average seasonal cycle has been removed).
+
+
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+	  
+## .org defined
+This is an open TLD; any person or entity is permitted to register. Originally created as a miscellaneous category as stated in RFC 920 (October 1984) "...any other domains meeting the second level requirements," and clarified in RFC 1591 (March 1994), "This domain is intended as the miscellaneous TLD for organizations that didn't fit anywhere else. Some non-government organizations may fit here."[9][10] While mainly non-profits have used this domain, it was never restricted from miscellaneous use. - [Wikipedia](https://en.wikipedia.org/wiki/.org)
+[b4](https://web.archive.org/web/20260331202209/https://ra5hard.github.io/) // [women.ca.gov - snapshot](https://web.archive.org/web/20260331203711/https://women.ca.gov/) // [List of Internet top-level domains - wikipedia](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains) + [The Top-level Domain Name Controversy - @ieee](https://ieeexplore.ieee.org/document/585160) [[1](https://www.facebook.com/groups/309147874725204/posts/930041105969208/)] /// 
+
+![https://upload.wikimedia.org/wikipedia/commons/9/9c/DotORG_logo.svg 50](https://upload.wikimedia.org/wikipedia/commons/9/9c/DotORG_logo.svg)
+	
+```
+W3C CSS Validator results for http://ra5hard.github.io (CSS level 3 + SVG)
+Sorry! We found the following errors (3)
+URI : https://ra5hard.github.io/assets/css/style.css?v=dc80f4b81df2648a0d8efd7c93eb65c57ebb85f4
+1	.scroller	Property container-type doesn't exist : inline-size
+1	.item	Value Error : background-repeat none is not a background-repeat value : none
+URI : https://ra5hard.github.io/
+18	.navbar a	Value Error : padding 10x is not a padding value : 10x 10px
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/756087d1-e276-4ea0-aec6-f114920156a8" />
+<img alt="image" src="https://github.com/user-attachments/assets/3cd5bf61-a62d-426a-9794-90f547708b44" />
+
+
+<img   alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/31705dbc-fd3a-4e4e-8b47-d946109724e7" />
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+<img alt="image" src="https://github.com/user-attachments/assets/d5b35a42-c06b-4836-8642-1782cc07246e" />
+
+![133356182_1820944668067182_5036319584717506336_n @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/da438ea8-a722-450e-b243-f80e522c5181)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
 
 @NASA-GISS @LACMTA @la-county-isd 
 Dear Supervisor Wiggins,
@@ -981,6 +1071,14 @@ Team Members: Yash Kansal, Meera G K, Yeyan Wang, Crystal Wang, Shweta Joshi [Li
 Digital Id
 http://hdl.loc.gov/loc.gmd/g4051p.rr003220
 <img  alt="image" src="https://github.com/user-attachments/assets/ecc493a4-00a2-4136-8d53-41f4c5ce8f5b" />
+
+# LA _River
+[FullSet](https://www.loc.gov/resource/hhh.ca2896.photos/?sp=1&st=gallery)
+
+![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
+California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
+[Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
+![h](https://pbs.twimg.com/media/GkrAkPQXgAA8Q1k?format=jpg&name=large)
 
 
 

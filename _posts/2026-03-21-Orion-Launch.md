@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-27 08:19:06 -0800
+date:   2026-03-31 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -12,6 +12,7 @@ permalink: /artemis2
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`news`](#news)
+- Jump to  [`launch-weather`](#launch-weather)
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -29,18 +30,50 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
 
-## @NASA's Artemis II 
+## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II 
 #  news
+[zoom in for detetail](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-80.2,20.5,6.3z)
+@nasa-jpl @blackgirlscode @newshour-+ theres a man,  [Charles Wiggins](https://www.legacy.com/us/obituaries/name/charlie-wiggins-obituary?id=38431185) at [the church](https://www.lafirstumc.org/) i been going to, i told him to see the rocket go off, the issue is he has freedom and i dont want him to drive far 
+- [rashard](rashard.github.io)
+ [Two Boosters Complete for Orion Spacecraft’s First Flight Test - 2014](https://www.nasa.gov/missions/artemis/orion/two-boosters-complete-for-orion-spacecrafts-first-flight-test/)
+![https://www.nasa.gov/wp-content/uploads/2026/03/sls-4299-artemis-ii-visibilty-range-infographic-social-update-01062026-1.jpg](https://www.nasa.gov/wp-content/uploads/2026/03/sls-4299-artemis-ii-visibilty-range-infographic-social-update-01062026-1.jpg)
+[LPi](https://www.lpi.usra.edu/lunar/artemis/) // @NorthropGrumman’s Role in the Artemis I Mission [link](https://www.northropgrumman.com/what-we-do/space/missions/artemis/beyond-the-boost) // [Inside Orion: The Spacecraft Powering Artemis II and Humanity’s Return to the Moon](https://www.lockheedmartin.com/en-us/news/features/2026/inside-orion-the-spacecraft-powering-artemis-ii.html) @lmco
+
+![https://planetary.s3.amazonaws.com/web/assets/pictures/_576x864_crop_center-center_82_line/supercluster_launchmap_2400px_19_06_17.jpg.webp](https://planetary.s3.amazonaws.com/web/assets/pictures/_576x864_crop_center-center_82_line/supercluster_launchmap_2400px_19_06_17.jpg.webp)
+
+
+[link](https://browser.dataspace.copernicus.eu/?zoom=12&lat=28.3473&lng=-80.65407&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BDO8oF3A8SW88BFzLC2BhtcPaqZ%2BvGNmdnhtSuAqsYekfrbpGSt%2Bbu%2F%2FuOIjoDHQGmsAQ1wmmUDilDF1e3OLzoHezNjFyoKAcu3yexF0WpkNfGwQUlsp%2Bz&datasetId=S2_L2A_CDAS&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+<img   alt="@eu-cdse image" src="https://github.com/user-attachments/assets/d7a9f05f-0e71-470b-8450-ab3ab524a51d" />
+
+
+[https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id) // [](https://www.cbsnews.com/news/nasa-artemis-ii-moon-launch-astronauts-flight-plan/)
+
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-Artemis2-crew-arrival' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 ## @NASA's Artemis II Crew Arrives for Launch
 [WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
 
 @Whitehouse the annouced launchdate is April 1st @USnavy idk how to look for anomolies, but since my cell was stolen im moving and i hope i did not put too much shade on [Ryan Gosling](https://en.wikipedia.org/wiki/Talk:Ryan_Gosling) scared of a [blueGTi](https://www.reddit.com/r/GolfGTI/comments/kltx68/2021_mk75_gti_in_cornflower_blue/) i saw at a Covid Era [GraffSpot -\/ra5hard.github.io/art/](https://ra5hard.github.io/art/graffiti/coral/2026/02/15/GraffShit.html)
 
-[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
+[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
 @BlueOrigin [@TheSpaceDevs, Commercial space pleads with @NASA to stop moving the goalposts in orbit](https://www.theregister.com/2026/03/27/iss_rethink/) - [_Richard Speed_ @blackgirlscode](https://www.theregister.com/Author/Richard-Speed) 
 
 [[1](https://axiom.co/)]
+
+
+![https://cdn.northropgrumman.com/-/media/Project/Northrop-Grumman/ngc/what-we-do/fpa/Artemis-Ocean-Beyond-Boost-Article.jpg?h=780&iar=0&w=2000&rev=816885f9f1164fedbb733f911e007236](https://cdn.northropgrumman.com/-/media/Project/Northrop-Grumman/ngc/what-we-do/fpa/Artemis-Ocean-Beyond-Boost-Article.jpg?h=780&iar=0&w=2000&rev=816885f9f1164fedbb733f911e007236) 
 
 <div class="section_2col">
     
@@ -124,8 +157,54 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg)
 
 
+#  launch-weather 
+
+
+@usgs @nasa-giss @la-county-isd @nasa-jpl
+Hi I dont know how to use @github at [Kennedy](https://www.planetary.org/space-images/kennedy-space-center-launch-viewing-map), but this is a percipitation forcast for the next two days to compliment the lightnning maps [map link - click]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-82.23043%2C25.05827%2C-79.65768%2C32.55855%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-82.23043432659718%2C25.05827350557686%2C-79.65767686353576%2C32.55854930346194%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C17%2C18%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A2%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+@nasa @nasa-jpl there is a ton of lighting over Mexico that could impact operations @whitehouse @blackgirlscode @CityOfLosAngeles @Disney @La-County-Isd [@nasa Launch Reqs](https://www.nasa.gov/artemis-ii-weather-criteria/#:~:text=Do%20not%20launch%20through%20a,cloud%20altitude%20can%20be%20met.)
+
+<img  alt="image @nasa-pds @cityoflosangeles" src="https://github.com/user-attachments/assets/9f754da4-5928-4a06-88e0-81415f4ecc35" />
+
+Why are Derived Motion Wind
+Vectors Important?
+[read](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)
+
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260902200_GOES19-ABI-FD-DMW-1808x1808.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260902200_GOES19-ABI-FD-DMW-1808x1808.jpg)
+
+_Geostationary Lightning Mapper:
+Definitions and Detection Methods_ [link](https://www.star.nesdis.noaa.gov/goes/documents/GLM_Quick_Guides_May_2019.pdf)
+[https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G19](https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G19)
+![cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260902311_GOES19-GLM-FD-EXTENT3-1808x1808 @nasa @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260902311_GOES19-GLM-FD-EXTENT3-1808x1808.jpg)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/9205c6ac-f834-4ec4-b158-72f969741c0e" />
+
+
+Normalized Difference Moisture Index (NDMI)
+The NDMI is a normalized difference moisture index, that uses NIR and SWIR bands to display moisture. [Read](https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/)
+
+<img  alt="2026-03-28-00_00_2026-03-28-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/c94601aa-ae54-4134-a862-bbe57e0e7eec" />
+
+
+SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.30/-8984334.74/3252893.61&layers=aqv_tss_20260330_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.30/-8984334.74/3252893.61&layers=aqv_tss_20260330_sentinel:1.00:0.00:30.00:default)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/874c9096-cd5b-4447-b9cf-b86588b0e953" />
+
+
+
 #  splashdown-weather
 
+### Base Los Angeles / Long Beach
+1001 South Seaside Ave  San Pedro, CA 90731
+-MAIN 206-815-6689
+-AFTER HOURS (310) 781-0619
+-EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
+[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/ @cityofsandiego @USnavy](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
+![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
 @cityofsandiego @USnavy im working on [LongBeach](https://www.loc.gov/item/2007660625/) right now and notice [San Diego](https://www.sandiego.gov/public-library) bay has changed some in suspended solids and chlorophyll content , I documented on myhomepage orion being put back in the hangar, for the helium leak fix, I have not checked since then @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
 
 <img alt="image" src="https://github.com/user-attachments/assets/7cab2c2a-0980-41cc-8f58-d71a7c60d058" />
@@ -696,7 +775,20 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
 
-#
-#Rashards-Status
+# Rashards-Status
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+<img alt="image" src="https://github.com/user-attachments/assets/d5b35a42-c06b-4836-8642-1782cc07246e" />
+
+![133356182_1820944668067182_5036319584717506336_n @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/da438ea8-a722-450e-b243-f80e522c5181)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />

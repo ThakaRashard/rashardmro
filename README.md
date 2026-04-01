@@ -2,7 +2,12 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+<img alt="image" src="https://github.com/user-attachments/assets/d5b35a42-c06b-4836-8642-1782cc07246e" />
+
+![133356182_1820944668067182_5036319584717506336_n @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/da438ea8-a722-450e-b243-f80e522c5181)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
 
 [MAPLiNK @longbeachinnovationteam @la-county-isd](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.95/-13151758.97/3999762.44&layers=aqv_chla_20260314_sentinel:1.00:0.00:30.00:default,aqv_tss_20260314_landsat:1.00:0.00:30.00:default,aqv_chla_20260314_landsat:1.00:0.00:30.00:default,aqv_secchi_20260314_landsat:1.00:0.00:30.00:secchi) 𝛑 🥧 day [AllFiles](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/73/LC08_L1TP_041037_20260314_20260314_02_RT) use the ::earth:: Globe icon to see the [data](https://catalog.data.gov/dataset/pds-data-dictionary-1r75) display on a map @doug-newman-nasa @cityoflosangeles [Steve Kang](https://dpw.lacity.gov/about-steve-kang) :[:](https://nasa-pds.github.io/collaborate/jpl-pds-oss-policy.html): @nasa-[pds](https://naif.jpl.nasa.gov/naif/pds.html) @emit-sds _Commissioner Steve Kang was appointed by [Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) to the Board of Public Works for [the](https://atmos.nmsu.edu/IPDA/pds.html) City of Los Angeles._ - [https://dpw.lacity.gov/about-steve-kang](https://dpw.lacity.gov/about-steve-kang)
 <img  alt="image" src="https://github.com/user-attachments/assets/c46a7016-00fc-4353-842c-ef5c413995db" />
