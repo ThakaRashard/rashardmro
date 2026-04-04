@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-04-01 08:19:06 -0800
+date:   2026-04-03 01:47:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -13,6 +13,7 @@ permalink: /artemis2
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
+- Jump to  [`flight-data`](#flight-data)
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -21,389 +22,104 @@ permalink: /artemis2
 
 [`HOME⬆️`](#Artemis2)
 
----
+
+
+
+
+
+
+
+
+
+
+# Rashard Kelly NasaJpl [MRO](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf) [JUNO](https://www.jpl.nasa.gov/news/press_kits/juno/) iSS
 
 # Artemis2
+
+![https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
+
+
 [Orion Spacecraft]
 Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
-
-
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
+[DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+@deptofdefense @whitehouse Pete @Clkoudflare filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
 
-```fortran
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
- Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-Horizons> -
 
-     ___    _____     ___
-    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
-    | | | |  __ \ /| | | |       Solar System Dynamics Group
- ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory
-/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA
-|_____|/  |_|/       |_____|/
+[`HOME⬆️`](#Artemis2)
 
-Connection closed by foreign host.
-~ $ telnet horizons.jpl.nasa.gov 6775
-Trying 137.78.251.144...
-Connected to horizons.jpl.nasa.gov.
-Escape character is '^]'.
+#  news
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
 
-  ======================================================================
-  |                     Jet Propulsion Laboratory                      |
-  |                                                                    |
-  |                  * * *    W A R N I N G   * * *                    |
-  |                                                                    |
-  |                          Property of the                           |
-  |                      UNITED STATES GOVERNMENT                      |
-  |                                                                    |
-  |    This computer is funded by the United States Government and     |
-  | operated by the California Institute of Technology in support of   |
-  | ongoing U.S. Government programs and activities.  If you are not   |
 
-     ___    _____     ___
-    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
-    | | | |  __ \ /| | | |       Solar System Dynamics Group
+[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
 
-JPL Horizons, version 4.98d
-Type '?' for brief help, '?!' for details,
-'-' for previous prompt, 'x' to exit
-System news updated April 1, 2026
+<img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
 
-Horizons> -1024
-*******************************************************************************
- Revised: Apr 02, 2026        Artemis II / Spacecraft (Earth)             -1024
-          04:29 UTC       https://www.nasa.gov/mission/artemis-ii/
-                         https://www.nasa.gov/artemis-ii-press-kit/
 
- BACKGROUND:
-  Four astronauts will fly aboard NASAs Orion spacecraft to confirm the
-  spacecrafts systems operate as designed in preparation for a sustained
-  human presence on the Moon.
 
-  Artemis II astronauts are NASAs Reid Wiseman (Commander), Victor Glover
-  (pilot), Christina Koch (Mission Specialist), and CSA (Canadian Space
-  Agency) astronaut Jeremy Hansen (Mission Specialist).
 
-  "Artemis II" refers to a specific mission within the broader Artemis program.
-  "Orion" refers to the spacecraft/capsule the astronauts ride within. The
-    crew has chosen the nickname "Integrity" for the Artemis II Orion capsule.
-  "SLS" refers to the Space Launch System, or rocket launching Orion into space
 
- MAJOR EVENTS:
-  Launched April 1 @ 22:35:12 UTC from pad LC-39B at the Kennedy Space
-  Center, USA.  Mission length is 10 days.
 
-  Timings of major dynamical events are given RELATIVE TO LAUNCH time for
-  the nominal open-window launch, and will shift accordingly if there is
-  a launch delay (format is "days/HH:MM:SS" since launch):
 
-  Day 1
-     launch   0/00:00    - Launch April 1, 22:35:12 UTC
-     launch + 0/00:20    - Orion deploys solar arrays in Earth orbit
-              0/00:49:50 - Perigee raise maneuver (2223 x 185 km)
-              0/01:47:57 - Apogee raise maneuver  (70377 km)
-              0/03:24:18 - Orion/ICPS separation
-              0/04:50    - Orion upper stage separation burn
-              0/05:00    - ICPS disposal burn for Pacific splashdown
-              0/05:04    - Cubesats deploy at one minute intervals
-              0/12:55    - Perigee raise burn
-  Day 2
-     launch + 1/01:08    - Start Translunar Injection burn (~8 min. duration)
-              1/01:35    - Earth shadow entrance
-              1/02:41    - Earth shadow exit
-  Day 3
-     launch + 2/00:08    - Orbit trajectory correction burn #1
-  Day 4
-     launch + 3/01:08    - Orbit trajectory correction burn #2
-  Day 5
-     launch + 4/04:29    - Orbit trajectory correction burn #3
-              4/06:08    - Orion enters lunar sphere of influence
-  Day 6
-     launch + 5/00:31    - Closest approach to the Moon
-              5/00:34    - Maximum distance from Earth
-  Day 7
-     launch + 5/18:52    - Orion exits lunar sphere of influence
-              6/01:29    - Return trajectory correction burn #1
-  Day 8
-     launch + 7/04:20    - Manual piloting demonstration
-  Day 9
-     launch + 8/04:29    - Return trajectory correction burn #2
-  Day 10
-     launch + 8/20:29    - Return trajectory correction burn #3
-              9/01:09    - Orion crew and service module separation
-              9/01:12    - Crew module raise burn
-              9/01:29    - Entry interface (122 km above Earth)
-                           Events by altitude:
-                            11 km : Forward bay cover deploys
-                            7.6 km: Droque parachute deploys
-                            2.9 km: Pilot parachutes deploy at 2.9 km,
-                                    pulling out 3 main parachutes
-              9/01:42    - Splashdown in Pacific Ocean near Baja California
-              9/01:57    - Orion final power down
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
 
- SPACECRAFT DETAILS
-  SLS
-   * Height                : 98 meters
-   * Mass at liftoff       : 2.61 million kg
-   * Thrust at liftoff     : 39.1 million Newtons
-   * Payload to the moon   : 27,000 kg
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
 
-  Orion module ("Integrity")
-   * Crew + service mod hgt: 7.92 meters
-   * Pressurized volume    : 19.6 m^3
-   * Mass to the Moon      : ~27,000 kg
-   * Return mass at landing: ~10,400 kg (6500kg srvc mod, 1000kg adpt. discard)
-   * Propellant usage      : ~ 9,000 kg
 
- CUBESATS DISPENSED
-  All are 12U CubeSats from international partners tied to the Artemis Accords.
-  Independent missions and trajectories once released on Day 1.
+Moon to Mars
+Space Weather Analysis Office
+Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
 
-   1. ATENEA (Argentina space agency, CONAE)
-       Studies: Radiation environment, shielding techniques, communication
-                systems
-       Goal   : Improve future deep-space mission design
+[Link](https://science.gsfc.nasa.gov/674/m2m-website.html) @nasa-jpl @nasa-giss @blueOrigin @thespacedevs @maxar @la-county-isd @blackgirlscode 
 
-   2. TACHELES (Germany, German Aerospace Center (DLR))
-       Focus  : Testing electronics and components
-       Goal   : Validating tech for future lunar vehicles and infrastructure
+![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
 
-   3. K-RadCube (South Korea, Korea AeroSpace Administration (KASA))
-       Mission: Measure space radiation using materials that mimic human tissue
-       Goal   : Study biological effects of radiation in space
 
-   4. Space Weather CubeSat-1 (Saudi Arabia, Saudi Space Agency)
-       Studies: Solar radiation, magnetic fields, space weather conditions
-                in high Earth orbit
 
- SPACECRAFT TRAJECTORY:
-  Post-launch Orion II trajectory data from NASA/JSC navigation (concatenated):
-  Trajectory data starts 3h24m18s after launch, after nominal ICPS separation.
+## NASA’s Artemis II Crew Flies Around the Moon
+_(Official Broadcast)_
+[Share](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS) // [Add to Calendar](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+During a planned lunar flyby on Monday, April 6, astronauts will take high-resolution photographs and provide their own observations of the lunar surface, including areas of the far side of the Moon never before seen directly by humans.
+[[1](https://www.earthdata.nasa.gov/data/alerts-outages/additional-viirs-version-2-thermal-anomaly-active-fire-data-products-released)] <~ ANDREWFELDMAN @nasa-develop @nasa-giss @doug-newman-nasa [MoonData](https://rashardsdata.github.io/moon) @blackgirlscode @cityoflosangeles 
+[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+[@NOAAGov @weather-gov nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
 
-  Trajectory name                              Start (TDB)    Stop (TDB)
-  ----------------------------------------- ----------------- -----------------
-  Orion_OEM_20260401_0335.V0.1              2026-Apr-02 01:59 2026-Apr-10 23:59
-*******************************************************************************
- Select ... [E]phemeris, [F]tp, [M]ail, [R]edisplay, ?, <cr>:  m
+<img  alt="image" src="https://github.com/user-attachments/assets/4ccc825b-c625-4de8-a047-68163b10ee7c" />
 
- Enter your Internet e-mail address [?]: mayor@lacity.org
-  "mayor@lacity.org"
- Confirm e-mail address [yes(<cr>),no] : yes
- Address stored this login only ... use "email" cmd to change
+[NOAA's Space Weather Mission: Protecting Artemis II Astronauts and Society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+Artemis II is planned as a 10-day crewed mission around the moon that marks humanity’s return to lunar orbit. NOAA's space weather monitoring will help protect the astronauts from solar radiation. [ReadMore](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
 
-Standby ... Data sent to mayor@lacity.org
- Select ... [E]phemeris, [F]tp, [R]edisplay, ?, <cr>: e
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc) 
 
- Observe, Elements, Vectors  [o,e,v,?] : o
- Coordinate center [ <id>,coord,geo  ] :
- Starting UT  [>=   2026-Apr-02 01:59] :
-Using START_TIME based on current system time
-No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:57:23.1193 UT
- Starting UT  [>=   2026-Apr-02 01:59] : v
-Cannot interpret date. Type "?!" or try YYYY-MMM-DD {HH:MN} format.
- Starting UT  [>=   2026-Apr-02 01:59] : ?!
 
--------------------------------------------------------------------------------
-     Time may be specified many ways in addition to the primary form
-"YYYY-MMM-DD HH:MM".  Of particular note are Julian Day Number and day-of-year
-forms.  Examples are shown below. For this program, 1 minute is the smallest
-output step allowed, but input start times may be specified to 1/1000th of a
-second if the default setting is changed from "minutes".
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX)
 
-     Generally, if the input start time has more digits of precision specified
-than the selected output format, start time will be truncated to the
-appropriate level. For example, if a start time of 23:45:12.4 is specified, but
-the output format is only set to minutes, start time will automatically be
-changed to 23:45(:00.000).
+@nbcnews 
+@cbs-news-data + @la-county-isd @blackgirlscode @nasa-jpl 
+ 
+NASA’s Applied Remote Sensing Training (ARSET)
+Program presents this certificate of completion to
+for completing the intermediate training:
+Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
-                    YOUR INPUT             PROGRAM INTERPRETATION
-                 ------------------------  ----------------------
-Recommended:     1997-May-5 12:30:23.3342   ( 5 MAY 1997 12:30 )
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
 
-Acceptable:      1/9/96 3 12 59.2           ( 9 JAN 1996 03:13 )
-                 1 9 96 3,12,59.2           ( 9 JAN 1996 03:13 )
-                 2 jan 91 3:00 12.2         ( 2 JAN 1991 03:00 )
-                 91 MAR 10 12:00:00         (10 MAR 1991 12:00 )
-                 29 February 1975 3:00      ( 1 MAR 1975 03:00 )
-                 10 October 29 3:58         (29 OCT 2010 03:58 )
-                 dec 31 86 12               (31 DEC 1986 12:00 )
-                 86-365 // 12               (31 DEC 1986 12:00 )
-                 JUL 98                     ( 1 JUL 1998 00:00 )
-                 JD 2451545.                ( 1 JAN 2000 12:00 )
-                 JD2451545.                 ( 1 JAN 2000 12:00 )
-                 278bc-jan-12 12:34         (B.C. 12 JAN  278 12:34)
-                 AD 99-Aug-12 12:34         (A.D. 12 JAN   99 12:34)
-                 bc 278-Jan-12 12:34        (B.C. 12 JAN  278 12:34)
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
 
-    The prompts will indicates the earliest and latest dates that may
-be requested for the selected target/center combination, and the assumed
-input timescale (UT, TDB, or TT).
+[@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
+### Books
 
-    For "observer tables", output may be in either UT or TT timescales.
-Vector tables may use any of three {TDB, TT, UT}. For osculating elements,
-only TDB may be used.
-
-    To change the default timescale, append a "UT", "TT", or "TDB" to the
-START time for a table type that supports that timescale. The three timescales
-are described as follows:
-
-      TDB ("Barycentric Dynamical Time"); used for cartesian and osculating
-           element tables. The uniform time scale of the ephemerides.
-
-       TT ("Terrestrial Time"), called TDT prior to 1991, used for observer
-           quantity tables. This is proper time as measured by an Earth-bound
-           observer and is directly related to atomic time, TAI. TT differs
-           from TDB by, at most 0.002 seconds.
-
-       UT  is Universal Time, This is a non-uniform time-scale based on the
-           rotation of the Earth. Pre-1962 corrections give UT1, post-1962 are
-           UTC (Coordinated Universal Time). Corrections after the next July
-           or January 1st arent known yet so the most recent determination
-           is treated as a constant for future dates.
-
- Time Zone corrections:
- ----------------------
- Output time-tags may also be in local civil time. When specifying start time,
- enter your time-zone correction, in the format:
-
-                     YYYY-Mon-Dy HH:MM UT{s}HH{:MM}
- ... where
-
-    {s} ...  optional sign (+ or -). If unspecified, it is assumed "+".
-    HH  ...  integer hours time-zone difference from UT
-  {:MM} ...  optional minutes offset (usually 0)
-
- North American standard time (winter) zone corrections are as follows:
-
-          Atlantic Standard Time (AST) =  UT-4 hours
-          Eastern Standard Time  (EST) =  UT-5 hours
-          Central Standard Time  (CST) =  UT-6 hours
-          Mountain Standard Time (MST) =  UT-7 hours
-          Pacific Standard Time  (PST) =  UT-8 hours
-
- If daylight savings is in effect (summer), add one hour to above offsets.
-
- For example, "1999-jun-2 12:30 UT-8" produces a table in Pacific Standard
- Time. A "-7" would provide Pacific Daylight Time (or MST, if it is winter).
-------------------------------------------------------------------------------
- Starting UT  [>=   2026-Apr-02 01:59] : -
- Coordinate center [ <id>,coord,geo  ] : geo
- Starting UT  [>=   2026-Apr-02 01:59] :
-Using START_TIME based on current system time
-No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:57:23.1193 UT
- Starting UT  [>=   2026-Apr-02 01:59] : -
- Coordinate center [ <id>,coord,geo  ] : -
- Observe, Elements, Vectors  [o,e,v,?] : v
- Use previous center  [ cr=(y), n, ? ] : y
- Reference plane [eclip, frame, body ] : body
- Starting TDB [>=   2026-Apr-02 02:00] :
-Using START_TIME based on current system time
-No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:58:32.3050 TDB
- Starting TDB [>=   2026-Apr-02 02:00] : -
- Reference plane [eclip, frame, body ] : frame
- Starting TDB [>=   2026-Apr-02 02:00] : orion
-Cannot interpret date. Type "?!" or try YYYY-MMM-DD {HH:MN} format.
- Starting TDB [>=   2026-Apr-02 02:00] : ?!
-
--------------------------------------------------------------------------------
-     Time may be specified many ways in addition to the primary form
-"YYYY-MMM-DD HH:MM".  Of particular note are Julian Day Number and day-of-year
-forms.  Examples are shown below. For this program, 1 minute is the smallest
-output step allowed, but input start times may be specified to 1/1000th of a
-second if the default setting is changed from "minutes".
-
-     Generally, if the input start time has more digits of precision specified
-than the selected output format, start time will be truncated to the
-appropriate level. For example, if a start time of 23:45:12.4 is specified, but
-the output format is only set to minutes, start time will automatically be
-changed to 23:45(:00.000).
-
-                    YOUR INPUT             PROGRAM INTERPRETATION
-                 ------------------------  ----------------------
-Recommended:     1997-May-5 12:30:23.3342   ( 5 MAY 1997 12:30 )
-
-Acceptable:      1/9/96 3 12 59.2           ( 9 JAN 1996 03:13 )
-                 1 9 96 3,12,59.2           ( 9 JAN 1996 03:13 )
-                 2 jan 91 3:00 12.2         ( 2 JAN 1991 03:00 )
-                 91 MAR 10 12:00:00         (10 MAR 1991 12:00 )
-                 29 February 1975 3:00      ( 1 MAR 1975 03:00 )
-                 10 October 29 3:58         (29 OCT 2010 03:58 )
-                 dec 31 86 12               (31 DEC 1986 12:00 )
-                 86-365 // 12               (31 DEC 1986 12:00 )
-                 JUL 98                     ( 1 JUL 1998 00:00 )
-                 JD 2451545.                ( 1 JAN 2000 12:00 )
-                 JD2451545.                 ( 1 JAN 2000 12:00 )
-                 278bc-jan-12 12:34         (B.C. 12 JAN  278 12:34)
-                 AD 99-Aug-12 12:34         (A.D. 12 JAN   99 12:34)
-                 bc 278-Jan-12 12:34        (B.C. 12 JAN  278 12:34)
-
-    The prompts will indicates the earliest and latest dates that may
-be requested for the selected target/center combination, and the assumed
-input timescale (UT, TDB, or TT).
-
-    For "observer tables", output may be in either UT or TT timescales.
-Vector tables may use any of three {TDB, TT, UT}. For osculating elements,
-only TDB may be used.
-
-    To change the default timescale, append a "UT", "TT", or "TDB" to the
-START time for a table type that supports that timescale. The three timescales
-are described as follows:
-
-      TDB ("Barycentric Dynamical Time"); used for cartesian and osculating
-           element tables. The uniform time scale of the ephemerides.
-
-       TT ("Terrestrial Time"), called TDT prior to 1991, used for observer
-           quantity tables. This is proper time as measured by an Earth-bound
-           observer and is directly related to atomic time, TAI. TT differs
-           from TDB by, at most 0.002 seconds.
-
-       UT  is Universal Time, This is a non-uniform time-scale based on the
-           rotation of the Earth. Pre-1962 corrections give UT1, post-1962 are
-           UTC (Coordinated Universal Time). Corrections after the next July
-           or January 1st arent known yet so the most recent determination
-           is treated as a constant for future dates.
-
- Time Zone corrections:
- ----------------------
- Output time-tags may also be in local civil time. When specifying start time,
- enter your time-zone correction, in the format:
-
-                     YYYY-Mon-Dy HH:MM UT{s}HH{:MM}
- ... where
-
-    {s} ...  optional sign (+ or -). If unspecified, it is assumed "+".
-    HH  ...  integer hours time-zone difference from UT
-  {:MM} ...  optional minutes offset (usually 0)
-
- North American standard time (winter) zone corrections are as follows:
-
-          Atlantic Standard Time (AST) =  UT-4 hours
-          Eastern Standard Time  (EST) =  UT-5 hours
-          Central Standard Time  (CST) =  UT-6 hours
-          Mountain Standard Time (MST) =  UT-7 hours
-          Pacific Standard Time  (PST) =  UT-8 hours
-
- If daylight savings is in effect (summer), add one hour to above offsets.
-
- For example, "1999-jun-2 12:30 UT-8" produces a table in Pacific Standard
- Time. A "-7" would provide Pacific Daylight Time (or MST, if it is winter).
-------------------------------------------------------------------------------
- Starting TDB [>=   2026-Apr-02 02:00] : -
- Reference plane [eclip, frame, body ] : -
- Coordinate center [ <id>,coord,geo  ] : -
- Observe, Elements, Vectors  [o,e,v,?] : e
- Coordinate system center   [ ###, ? ] :
- Reference plane [eclip, frame, body ] :
- Starting TDB [>=   2026-Apr-02 02:00] :
-Using START_TIME based on current system time
-No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:58:32.3050 TDB
- Starting TDB [>=   2026-Apr-02 02:00] :
-
-```
-
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 
 @blueorigin @nasa-jpl @nbcnews @newshour @usatoday
 @whitehouse @la-county-isd @lacountyDPH @cityoflosangeles @stateofcalifornia @foratlanta
@@ -424,10 +140,6 @@ commander Reid! gm it's Rashard iman kelly @nasa-jpl #ecostress #iss #expedition
 {% endfor %}
 
 </div>
-
-[`HOME⬆️`](#Artemis2)
-
-#  news
 
 
 [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player)
@@ -584,6 +296,7 @@ Apr 01, 2026
 
 
 [link](https://browser.dataspace.copernicus.eu/?zoom=12&lat=28.3473&lng=-80.65407&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BDO8oF3A8SW88BFzLC2BhtcPaqZ%2BvGNmdnhtSuAqsYekfrbpGSt%2Bbu%2F%2FuOIjoDHQGmsAQ1wmmUDilDF1e3OLzoHezNjFyoKAcu3yexF0WpkNfGwQUlsp%2Bz&datasetId=S2_L2A_CDAS&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
 <img   alt="@eu-cdse image" src="https://github.com/user-attachments/assets/d7a9f05f-0e71-470b-8450-ab3ab524a51d" />
 
 
@@ -700,6 +413,23 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg)
+
+
+#  flight-data
+
+Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/1936129031121871215?s=20) in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+
+[How to Use Data From NASA’s AROW Tweets @NASAOrion](https://www.tumblr.com/nasaorion/692871881822502912/how-to-use-data-from-nasas-arow-tweets)
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
 
 
 #  launch-weather 
@@ -1059,6 +789,24 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 [`HOME⬆️`](#Artemis2)
 
 #  space-weather 
+
+current visible [Sunspots](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/02/) @nasa-pds @nasa-giss @nasa-jpl @la-county-isd @fbicyber 
+
+@newshour @nbcnews @cbs-news-data @foratlanta 
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/e1a1bb5a-0e53-423c-a2d8-b8c200fb95e0" />
+
+Moon to Mars
+Space Weather Analysis Office
+Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
+
+[Link](https://science.gsfc.nasa.gov/674/m2m-website.html) @nasa-jpl @nasa-giss @blueOrigin @thespacedevs @maxar @la-county-isd @blackgirlscode 
+
+![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
+
+
+
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
 @nasa [mailto:Kennedy @blackgirlscode _`_virtiserv_`_](mailto:ksc-dl-news-chief@mail.nasa.gov)
@@ -1340,6 +1088,36 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 [`HOME⬆️`](#Artemis2)
 
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/9b598b17-2649-4b8b-906c-f179951c5598" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+
+
+
+
+![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
+Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
+`https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB`
+
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 @la-county-isd i saw a girl that look like LAtrice Fitzpatrick after complaioning in an art gallery across from @LACMTA i got robbed man and my child is out fucking someone who steals my benefits! \
 
@@ -1378,5 +1156,53 @@ NASA Official: Doug Newman
 
 <img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
 
+![https://img.vsco.co/cdn-cgi/image/width=1200,height=539/12f8b0/56497/6965750f8a1f03332b15c0c6/0590c61b-86bd-4385-9d45-e3dd377de7146078410039321786606.jpg](https://img.vsco.co/cdn-cgi/image/width=1200,height=539/12f8b0/56497/6965750f8a1f03332b15c0c6/0590c61b-86bd-4385-9d45-e3dd377de7146078410039321786606.jpg) 
+
+@blackgirlscode i forgotthe pin @disney [Template @la-county-isd @nasa-jpl](https://nasa-external-ocomm.app.box.com/s/breyebcwyjio8jqq8p6yzmd2mwl4e88m/file/1945286922858)
+`https://www3.nasa.gov/send-your-name-with-artemis/#user-information`
+
+<img   alt="image" src="https://github.com/user-attachments/assets/931eb954-1059-4770-9b70-bca925612302" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
+
+
+
+
+```fortran
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -
+
+Horizons> -
+
+     ___    _____     ___
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
+    | | | |  __ \ /| | | |       Solar System Dynamics Group
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA
+|_____|/  |_|/       |_____|/
+
+Connection closed by foreign host.
+~ $ telnet horizons.jpl.nasa.gov 6775
+Trying 137.78.251.144...
+Connected to horizons.jpl.nasa.gov.
+Escape character is '^]'.
+
+  ======================================================================
+  |                     Jet Propulsion Laboratory                      |
+  |                                                                    |
+  |                  * * *    W A R N I N G   * * *                    |
+  |                                                                    |
+  |                          Property of the                           |
+  |                      UNITED STATES GOVERNMENT                      |
+  |                                                                    |
+  |    This computer is funded by the United States Government and     |
+  | operated by the California Institute of Technology in support of   |
+  | ongoing U.S. Government programs and activities.  If you are not   |
+
+
+JPL Horizons, version 4.98d
+Type '?' for brief help, '?!' for details,
+'-' for previous prompt, 'x' to exit
+System news updated April 1, 2026
+
+Horizons> -1024
+```

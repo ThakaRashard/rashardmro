@@ -10,6 +10,29 @@ permalink: /Satellites
 
 
 
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+[Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 
 @la-county-isd @cisa `https://accounts.google.com/v3/signin/challenge/pwd?TL=AHU8sQtXebkES5eEXxJjrdtKBWgsHM3sObE2kSlri417vNJJcUcnt4WGAVczXWmm&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dlas%2Bvegas%2Bmayor%2Bemail%26sca_esv%3D539c00fc8c0dc83a%26rlz%3D1CASLJZ_enUS1207%26sxsrf%3DANbL-n5MN1njjcKyocNzyR0PeuqJJMXpVA%253A1774289819150%26ei%3Dm4PBacblCMjPkPIP-KrAyQs%26biw%3D957%26bih%3D945%26ved%3D0ahUKEwiGn5jT0LaTAxXIJ0QIHXgVMLkQ4dUDCBE%26uact%3D5%26oq%3Dlas%2Bvegas%2Bmayor%2Bemail%26gs_lp%3DEgxnd3Mtd2l6LXNlcnAiFWxhcyB2ZWdhcyBtYXlvciBlbWFpbDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIIEAAYgAQYogQyCBAAGIAEGKIESNEjUJwRWPAhcAF4AZABAJgBXaAB3AOqAQE2uAEDyAEA-AEBmAIGoALXBMICCxAuGIAEGMcBGK8BwgIKEAAYgAQYQxiKBcICChAAGIAEGBQYhwLCAgUQLhiABMICBRAAGIAEwgILEAAYgAQYhgMYigXCAggQABiiBBiJBZgDAIgGAZIHAzMuM6AHnCayBwMzLjO4B9cEwgcFMy00LjLIB2SACAA%26sclient%3Dgws-wiz-serp%26authuser%3D0&dsh=S1495934891%3A1774290877808159&ec=futura_srp_og_si_72236_p&flowEntry=AccountChooser&flowName=GlifWebSignIn&hl=en&ifkv=AT1y2_WvIqV-IEq6CkSUct7YNJst8kehdwOt6sOGyQfj4Ac-F2EFWmQXtf0UaWVOkL7CDfZnV7c2&pstMsg=1` @google i got shut down are you guys working with us to keep america safe @nasa-jpl @nasa-pds are they being doxxed and is the situation monitored @vsco @usgs 
 

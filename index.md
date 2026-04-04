@@ -43,6 +43,28 @@ The Deep Space Program Science Experiment (DSPSE)
 @nasa-jpl @blackgirlscode
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 ### Currently Compiling g_e, [m/s^2](https://mars.nasa.gov/files/resources/Planet-Mars-Quick-Facts_Mars-nasa-gov.pdf)
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+[Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 <img src="https://dn721607.ca.archive.org/0/items/fatal-fury-ccm/Cartridge%20-%20Top.jpg"  alt="GO" />
   <img src="https://ia601408.us.archive.org/15/items/SuperPunchOut-SNS-4Q-USA-Cart/Super%20Punch%20Out%20-%20SNS-4Q-USA%20-%20Cart%20top.jpg" />
 

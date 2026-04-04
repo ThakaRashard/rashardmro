@@ -2,16 +2,23 @@
 layout: post
 mermaid: true
 title:  "Heliophysics"
-date:   2026-01-23 12:51:06 -0800
+date:   2026-04-03 12:51:06 -0800
 published: true
 image: latest_1024_0193.jpg
 tags: covid
 permalink: Sun
 ---
 
-
 # Heliophysics
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
+
+current visible [Sunspots](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/02/) @nasa-pds @nasa-giss @nasa-jpl @la-county-isd @fbicyber 
+
+<img alt="image" src="https://github.com/user-attachments/assets/e1a1bb5a-0e53-423c-a2d8-b8c200fb95e0" />
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/b4dd93cd-8ef0-4f8e-bb41-5949cf95bf2e" />
 
 ## CODEX
 _Coronal Diagnostic Experiment_

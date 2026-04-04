@@ -1,11 +1,150 @@
 ---
 layout: post
 title:  "Compiling-Jan27:OLDDATASORT"
-date:   2026-01-01 22:51:06 -0800
-categories: art graffiti coral
+date:   2026-04-02 12:51:06 -0800
+categories: art hr atlanta nasa la
 published: true
 image: luckyGirl.png
 ---
+
+
+
+![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
+Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
+`https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB`
+
+<pre>
+@HollyJMitchell@bos.lacounty.gov @dsnnow@jpl.nasa.gov i submitted
+ this to @The White House via the 
+contact form https://www.whitehouse.gov/contact/ 
+@Shristi Rijal on behalf of Cloudflare's DPO i got the normal message back upon 
+submission but y you a middle man . . . @normani@fifthharmonyofficial.com 
+tell Latrice That Happened https://trello.com/b/CN1UytXe/housekeeping , 
+they stole ppl twitter accounts @jplnewsroom@jpl.nasa.gov
+@jsc-hunch-mail.nasa@nasahunch.info @ksc-newsroom@mail.nasa.gov @Gordon, 
+Seth W (JPL-5145)[JPL Employee] @Gallagher, Dori (JPL-5143)[JPL Employee] 
+        
+*** LBPADC2.lbpa.local can't find d: Non-existent domain
+>
+C:\Users\pac>nslookup -type=mx whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2400641863
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\pac>
+pursuit of excellence and unrelenting success.  We will not forget our country, we will not forget our Constitution, and we will not forget our God.”
+
+President Donald J. Trump – January 20, 2025
+Thank you for sharing your thoughts with President Donald J. Trump.
+
+
+
+press@obama.org https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01819/ids/edr/browse/fcam/FRF_1819_0828428468_799ECM_N0873896FHAZ00206_01_295J01_1200.jpg // https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04852/opgs/edr/ncam/NRB_828219632EDR_F1211656CCAM01852M_.JPG CURiOSiTY https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=9&mission=msl + PeRSEVEREANCE https://mars.nasa.gov/mars2020/multimedia/raw-images/ ~ https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/ ~ https://keishalancebottoms.com/ ~ https://solarsystem.nasa.gov/cassini-raw-images/ + https://eyes.nasa.gov/apps/solar-system/#/home #ECOSTRESS https://ecostress.jpl.nasa.gov/ Rashard Kelly
+Profile Home
+ 
+Edit Profile
+ 
+Change Password
+ 
+Applications
+ 
+EULAs
+ 
+My Groups
+ 
+Generate Token https://www.jpl.nasa.gov/virtual-tour/
+   
+Profile Information
+Name: Rashard I Kelly https://ra5hard.github.io/artemis2
+Username: rashardkelly https://rashardmro.tumblr.com/post/812414676969373696/obamawhitehouse-nasajunocam
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-02-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+https://mail.google.com/mail/u/0/#search/in%3Asent+helpdesk/FMfcgzQbfLWxhvXwkVngLnzCDGhpTHQd
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman
+
+</pre>
+
+![https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif](https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif)
+
+[doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/](https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/)
+
+Apr 01, 2026
+
+NASA's Artemis II Mission Around the Moon
+This Doodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the Moon and back for the first time in over 50 years.
+https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/
+Apr 01, 2026
+
+NASA's Artemis II Mission Around the Moon
+This Doodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the Moon and back for the first time in over 50 years.
+
+## Dental HEalth Status
+_Today_ @nasa-jpl @blackgirlscode @la-county-isd 
+@CityOfLosAngeles @nasa-pds @nasa-giss @nasa @whitehouse @dhs-gov
+<img   alt="image" src="https://github.com/user-attachments/assets/5c8acab3-bbec-4b42-903c-2bf78bae0f22" />
+<img  alt="image" src="https://github.com/user-attachments/assets/f6bea4b9-0c56-44c8-804d-5d730f5d7dca" />
+
+_On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote_:
+
+> Re: Ossoff#MayorBass/BOARDOFSUPERVISORS HILDA JANICE HOLLY #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment - RashardKelly
+> #LEFT TODAY [onTUMBLR]
+> [https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000_HTAU_DENTALEMERGENCY_SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatrice.mp4)
+> RiGHT [onTUMBLR]
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> #DentalEmergency #LosAngelesCounty #ManessahWarner #danielleMushonga #erikakelly #karenbass #keishalancebottoms - #DestitutionPunishment
+> On Thu, Jan 8, 2026, 1:55 PM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+
+> Mayor Bass, Supervisor Mitchell, it's Rashard. Someone poisoned my tooth.. I need protection from the prostitution mob and clean food 🥑 🥝 
+> [https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4](https://archive.org/download/vid-20250914-182140/00000000000_PreMatureToothRot_GavinNewsom_KarenBass_Latrice_virtiserv_prostitutionLaw_is_treasonus_and_marking_me_for_disablement_VID_20260108_133903_082.mp4)
+> 
+> [https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot](https://www.tumblr.com/rashardmro/805210829855260672/rashard-iman-kelly-prematuretoothrot) ?
+
+![https://www.redhat.com/rhdc/managed-files/RHSummit-WhyAttend-Desktop-1x.png](https://www.redhat.com/rhdc/managed-files/RHSummit-WhyAttend-Desktop-1x.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1bbe2435-7b26-4f54-91eb-6ece56084218" />
+
+[redhatofficial.github.io/ @redhatofficial + @longbeachinnovationteam ](https://redhatofficial.github.io/)
+[@doug-newman-nasa @cityoflosangeles @StateOfCalifornia @newshour @nbcnews @foxnews](https://www.tumblr.com/rashardmro/812360759335108608/hollyjmitchellkarenbasskeishabottoms-can-i?source=share) [@CityofSantaMonica eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+[redhat.com/rhdc/managed-files/Summit-convince-your-boss-2026.pdf @la-county-isd @lacountyDPH much love to dance411 brandy and normani i said she a freak in an online communication and she got embarrassed, her pimp or some shit is torituring the shit out of me @nasa-jpl they cleared all my formdata because i appened @Blackgirlscode @Howard-university-web-services latrice fitzpatrick to the @officialredhat document to go to the summit MARS RUNS ON RHEL!!!!!!!!!!!!!!!!!!!!!!!!](https://www.redhat.com/rhdc/managed-files/Summit-convince-your-boss-2026.pdf)
+
+<img  alt="@la-county-isd @lacountyDPH much love to dance411 brandy and normani i said she a freak in an online communication and she got embarrassed, her pimp or some shit is torituring the shit out of me @nasa-jpl they cleared all my formdata because i appened @Blackgirlscode @Howard-university-web-services latrice fitzpatrick to the @officialredhat document to go to the summit MARS RUNS ON RHEL!!!!!!!!!!!! @blackgirlscode @ucla wassup with the ankel monitor and yall homie mars movies?!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/dcbe65cc-00c0-4df8-9464-86ccc683c3e1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/020259cf-06a9-40c3-a655-52161f9d71e1" />
+
+@nasa-jpl @CityOfLosAngeles @LAcountyDPH
+[CHECkiN - CLiCKHErE - RANdom notes](https://rashardiman.github.io/compiling/) // [CHECkiN - CLiCKHErE - old workspace](https://rashardiman.github.io) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/78ebbe7f-a9f5-4565-9337-9b33e828e2ae" />
+
+
+![https://www.nasa.gov/wp-content/uploads/2023/03/iss065e241659.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2023/03/iss065e241659.jpg?resize=600,400) 
+
 
 @esa layered images, im studying, people get religions over these things @cityoflosangeles
 and the concern is kindness!
