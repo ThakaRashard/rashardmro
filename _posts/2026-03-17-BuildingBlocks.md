@@ -7,6 +7,29 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+
+@whitehouse this senate member is blocked at the library [@la-county-isd](https://www.congress.gov/member/karen-bass/B001270)
+[butler.senate.gov/share-your-opinion/](https://www.butler.senate.gov/share-your-opinion/)
+
+```
+ 502 Bad Gateway
+
+An upstream server error has occurred. If you believe you are seeing this message in error, please contact your network administrator.
+
+This page is served by Cisco Secure Access.
+
+ Server: swg-nginx-proxy-https-fcfb66613a37.signginx.lax
+
+
+
+Mon, 06 Apr 2026 19:25:45 GMT
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/be1d562e-ab8d-4304-9440-c01b1e415ebc" />
+
+---
+
 @landsat your data is late in NAsaSTREAM, and @ESA CSDE-EU's Copernicus was complaining about connectivity ... i sent and [email](https://mail.proton.me/u/0/all-sent/uEZbjsox0Rcbpfw61qaCVC6nEdyaN4msQkLb5Qjq_SyPMiXunSCrWDhnFg9UBimi8IYjNEwCI8ItyFW_FEcXYQ==/9vtgprBHrdSlc6_ZNVafZhaCcGPUZvwImU-HGEtvMtFDz6zz6BfIevUA6vb73gErcblLDuPEFR0aMt40CbHOFg==) via @protonmail @rashardsdata hi @blackgirlscode
 [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.24/-13054546.70/4038256.02&grids=0,1 @eu-cdse hi @CityOfLosAngeles @LongbeachInnovationTeam @CityOfSantaMonica ](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.24/-13054546.70/4038256.02&grids=0,1) @nasa-jpl [@DiSNEY @NBCNEWS @LA-County-Isd @lacountyDPH](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.79/-13170113.68/3984389.34&layers=aqv_rgb_20260314_landsat:1.00:default) [https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/041037](https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/041037) 
 
