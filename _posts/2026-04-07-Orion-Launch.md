@@ -8,12 +8,15 @@ image: Orion_dimensions_pillars.png
 permalink: /artemis2
 ---
 
-@NASA's Artemis II Live Views from Kennedy Space Cente
-[Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
+
+@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
+[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
+~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
+[~~Live Views~~LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
-- Jump to  [`flight-data`](#flight-data)
+- Jump to  [`flight-data`](#flight-data) <~for tracking info!
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -56,6 +59,48 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ed358218-4ec7-41a4-9a48-7b7f30ef80e1" /> 
+
+@asfadmin 
+
+[Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+
+[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
+The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
+
+
+<img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/b0f0e759-49e0-4fa6-bacd-ecf264bde9a5" />
+
+NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
+
+[Moon Mascot Ready to Rise with Artemis II](https://svs.gsfc.nasa.gov/14995/)
+Meet Rise! The Moon Mascot for the Artemis II mission will fly along with the crew, carrying 5,647,889 names with us on this journey around the Moon.
+People from around the world submitted their names through the Send Your Name with Artemis campaign. These names were downloaded onto an SD card that is safely stored inside Rise, the zero gravity indicator designed by 3rd grader Lucas Ye from California.
+
+The zero gravity indicator for the Moonbound crew was selected from thousands of submissions from over 50 countries and is named “Rise.” The design was inspired by the iconic Earthrise moment from the Apollo 8 mission.
+During the selection process, the crew narrowed a list of 25 finalists to five top designs, including:
+“Big Steps of Little Octopus,” Anzhelika Iudakova, Finland
+“Corey the Explorer,” Daniela Colina, Peru
+“Creation Mythos,” Johanna Beck, McPherson, Kansas
+“Lepus the Moon Rabbit,” Oakville Trafalgar School, Canada
+“Rise,” Lucas Ye, Mountain View, California
+
+![<video src="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version.mp4)
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png)
+
+Artemis II builds on the success of the uncrewed Artemis I in 2022, and will demonstrate a broad range of capabilities needed on deep space missions. The Artemis II test fight will be NASA's first mission with crew aboard the SLS (Space Launch System) rocket and Orion spacecraft.[Read/Watch](https://svs.gsfc.nasa.gov/31368/)
+[Planting an Artemis I Moon Tree](https://svs.gsfc.nasa.gov/14929/)
+[Artemis III Landing Region Candidates https://svs.gsfc.nasa.gov/5013/](https://svs.gsfc.nasa.gov/5013/)
+
+```shell
+The recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 [fifthharmonyofficial.com 2606:4700:3030::ac43:c0b4: timed out] [fifthharmonyofficial.com 2606:4700:3034::6815:3c3d: timed out] [fifthharmonyofficial.com 104.21.60.61: timed out] [fifthharmonyofficial.com 172.67.192.180: timed out]
+```
+<img   alt="image" src="https://github.com/user-attachments/assets/31f22ec8-779a-4001-8802-cba3f3ad75ef" />
+
+
 Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
 
 
@@ -417,6 +462,14 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 #  flight-data
 
+
+[https://www3.nasa.gov/specials/trackartemis/ @disney @nbcnews
+](https://www3.nasa.gov/specials/trackartemis/) 
+@la-county-isd @blackgirlscode 
+
+<img alt="image" src="https://github.com/user-attachments/assets/d1287057-2737-4022-bd18-743e9fd10fbc" />
+
+
 Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/1936129031121871215?s=20) in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
 
 [How to Use Data From NASA’s AROW Tweets @NASAOrion](https://www.tumblr.com/nasaorion/692871881822502912/how-to-use-data-from-nasas-arow-tweets)
@@ -470,6 +523,11 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 [`HOME⬆️`](#Artemis2)
 
 #  splashdown-weather
+
+@longbeachinnovation @la-county-isd @cityofsandiego
+[https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a9302779-bc33-4035-9da2-546301a1ca46" />
 
 ### Base Los Angeles / Long Beach
 1001 South Seaside Ave  San Pedro, CA 90731
@@ -938,6 +996,86 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 
 
 #  moon-data
+
+[WATCH @nasa-jpl](https://www.youtube.com/watch?v=z-j1uxBmis0) [[@blackgirlscode @foratlanta Moon Pics](https://www.tumblr.com/rashardmro/813169735144472576/messenger-nasajunocam-normanikordeiofficial?source=share) ]
+[ARCHiVE SCreenShare](https://archive.org/details/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color) ; How I got the images [watch karen bass @la-county-isd @nasa-jpl @blackgirlscode](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/VirtiServ_Orion_Rashards_Contribution_Blackgirlscode_NASAJPL_KARENBASS_HiLDA_SOLiS_Screen%20recording%202026-04-06%2010.38.16%20AM.webm) /////// [https://pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) Name: Rashard I Kelly Username: rashardkelly Email Address: holetoanotheruniverse40@gmail.com Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California Country: United States Member Since: 08-24-2024 @cityoflosangeles @doug-newman-nasa
+<img  alt="image" src="https://github.com/user-attachments/assets/d279897d-89e7-46f7-90d4-a51fce60162f" />
+
+
+@nasa-pds @cbs-news-data @nasa-jpl @la-county-isd @datadesk
+here are some pics for the flyby @usgs taken from [Messenger](https://astrobiology.nasa.gov/missions/messenger/) and [Lunar Orbiter est 1964](https://www.lpi.usra.edu/lunar/missions/orbiter/) [https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-orion-photo-ref](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-orion-photo-ref) @blackgirlscode @cityoflosangeles @foratlanta + [@NASA GitHub Project Board @nasa-jpl @la-county-isd](https://gcn.nasa.gov/docs/contributing/project)
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-orion-photo-ref' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+![https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/02/a2/02a2a2c2-ddab-4ab8-9fc6-2986522b86b3/messenger_mission_emblem.png__270x197_q85_crop_subject_location-310%2C151_subsampling-2.png](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/02/a2/02a2a2c2-ddab-4ab8-9fc6-2986522b86b3/messenger_mission_emblem.png__270x197_q85_crop_subject_location-310%2C151_subsampling-2.png)
+
+## albedo
+Definition
+Albedo is ratio of the light received by a body to the light reflected by that body. Albedo values range from 0 (pitch black) to 1 (perfect reflector).
+
+Technical Definition
+Geometric albedo is the ratio of a body’s brightness at zero phase angle to the brightness of a perfectly diffusing disk with the same position and apparent size as the body.
+
+Examples
+Our Moon has a very low albedo (0.07), while Venus has a high albedo (0.60). The albedo combined with the absolute magnitude can help determine the size of an asteroid.
+ [https://cneos.jpl.nasa.gov/glossary/albedo.html](https://cneos.jpl.nasa.gov/glossary/albedo.html) @nasa-jpl orion! @podaac @lacountyDPH @BLACKGIRLSCODE [The Global Albedo of the Moon at 1064 nm from LOLA https://ntrs.nasa.gov/citations/20140017658](https://ntrs.nasa.gov/citations/20140017658)
+
+## @whitehouse Far-ultraviolet albedo of the moon
+
+The albedo and photometric function of the moon have been measured between 121.6 and 168.0 nm by comparing the brightness of the moon, observed with an orbiting far-ultraviolet spectrometer during the Apollo 17 mission, to the solar brightness observed simultaneously from a sounding rocket. The instruments were carefully cross-calibrated. In contrast to what is found in the visible and the near ultraviolet, the brightness of the moon is found to increase toward shorter wavelengths; the moon is 'blue' in the far ultraviolet. This is confirmed by a laboratory study of lunar samples. A brief review of lunar albedo measurements in the 120-600-nm range is given.
+Document ID
+19770039788
+Acquisition Source
+Legacy CDMS
+Document Type
+Reprint (Version printed in journal)
+External Source(s)
+doi:[10.1086/112000](https://ui.adsabs.harvard.edu/abs/1976AJ.....81.1162L) // [https://ntrs.nasa.gov/citations/19770039788](https://ntrs.nasa.gov/citations/19770039788)
+
+Authors
+Lucke, R. L.
+(Johns Hopkins Univ.)
+
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON) @dhs-gov
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/a969ea5b-d3f4-4651-8431-c9ada71cf96a" />
+
+
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON) @nasa-pds @nasa-jpl @la-county-isd _Holly J itchell_ @foratlanta
+<img  alt="image" src="https://github.com/user-attachments/assets/eeee1054-d374-42dc-b0f8-273883de34cf" />
+
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.target=MOON](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.target=MOON)
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:lo:lunar_orbiters:/LO_1001/DATA/LO1/FRAME_1026/FRAME_1026_H2.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:lo:lunar_orbiters:/LO_1001/DATA/LO1/FRAME_1026/FRAME_1026_H2.IMG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/81f80f6b-a5c4-42c3-8126-e70f2f1ceb95" />
+
+[https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/](https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/)
+
+[@AxiomSpace Jeremy @BlueOrigin](https://youtu.be/syFxDpP1QLU?si=OtJyzLyIGM8ZIjDB)
+
+
+@la-county-isd i am so depressed @blackgirlscode i know people going to be mean because i warned @doug-newman-nasa not to be offended if i dont speak. I dont know white people well enough at all to start any convos! And thats marketing not normal @CityOfLosAngeles im just checking in @nasa-jpl @emit-sds @ucla 
+[https://lroc.im-ldi.com/data/color_palette](https://lroc.im-ldi.com/data/color_palette)
+
+[ra5hard.github.io/moon](https://ra5hard.github.io/moon) [MOON - MAP `quickmap`- LROC](https://quickmap.im-ldi.com/?prjExtent=-1680884.3651626%2C-1735576.9150052%2C1680884.3651626%2C1735576.9150052&stack=3314&proj=10&defs=N4IgzGCMAsIFygPYAcCGBjAlgFwJ70gF9Cg) // [LUNASERV =- @nasa-pds wms.im-ldi.com/lunaserv.html](https://wms.im-ldi.com/lunaserv.html) // [https://target.lroc.im-ldi.com/output/lroc/lroc_page.html](https://target.lroc.im-ldi.com/output/lroc/lroc_page.html) // 
+<img  alt="image" src="https://github.com/user-attachments/assets/7ae3804e-37dc-4c93-85e1-b556b1625de6" />
+
+
+### PDS Data @nasa-pds @NAsa-Openscapes @nasaOpenscapes @la-county-isd 
+LROC PDS: Index of LRO-L-LROC-2-EDR-V1.0/ <~ @BlueOrigin @TheSpaceDevs @BlackGirlsCode
+[https://pds.lroc.im-ldi.com/data/LRO-L-LROC-2-EDR-V1.0/](https://pds.lroc.im-ldi.com/data/LRO-L-LROC-2-EDR-V1.0/)
+
 
 
 # Danuri ([다누리](https://www.kari.re.kr/danuri/html/index.html)) 

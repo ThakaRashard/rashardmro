@@ -16,6 +16,74 @@ date:   2026-03-27 10:51:06
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 [A-Town Players - Wassup Wassup ( Bankhead Bounce ) Atlanta Classic 1995](https://youtu.be/J90bUNuJ20k)
 
+
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE####################################CORaL#####
+{% endhighlight %}
+
+
+
+
+
+{% include nav.html %}
+
+# _NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth_
+[Read @CityOfLosAngeles @la-county-isd @foratlanta @blackgirlscode](https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/) 
+[https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint)
+![https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009571/art002e009571~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint)
+
+[https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint) 
+![https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint](https://images-assets.nasa.gov/image/art002e009298/art002e009298~large.jpg?w=768&h=512&fit=crop&crop=faces%2Cfocalpoint) 
+
+[https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512](https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512)
+![https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512](https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512)
+
+[https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512](https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg?resize=768,512)
+
+![images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg)
+
+[https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg) ![https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.04.07/pg-BR1A0000-2026040701_001_025.1.VNIR.jpg)
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+
+# today
+
+`CouncilWoman` Megan Kerr @StateOfCalifornia @Cityoflosangeles @la-county-isd [district5@longbeach.gov](mailto:district5@longbeach.gov)
+
+https://sdo.gsfc.nasa.gov/data/rules.php](https://sdo.gsfc.nasa.gov/data/rules.php)
+
+https://sdo.gsfc.nasa.gov/assets/img/dailymov/
+
+https://sdo.gsfc.nasa.gov/
+
+
+<pre>
+~ $ date
+Tue Feb  3 09:17:27 PST 2026
+~ $ cal
+    February 2026
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7
+ 8  9 10 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+</pre>
+
+@blackgirlscode check out our mayor in LA [L.A. Mayor Karen Bass delivers State of the City address](https://youtu.be/DK3FuT3oOKY?t=3) @nasa-jpl @nasa @whitehouse @la-county-isd [github.com/ra5hard](https://github.com/ra5hard) &&& [https://ra5hard.github.io/](https://ra5hard.github.io/) @dhs-gov 
+@STATEOFCALiFORNiA 
+Coral, if I need a phone 🤳 📱 number to watch @youtube we have a big pre launch outage @nasa-jpl @nasa Glenn `trice` ❤️‍🩹✌️🥱🆗😶‍🌫️👌🙂‍↔️🙂‍↕️🧑‍🦼🚶🏃
+the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
+[https://archive.org/details/fav-thakaserika_selassie_kelly](https://archive.org/details/fav-thakaserika_selassie_kelly) // [https://archive.org/details/@thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly)
+
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg)
+
 [@intuit @mailChimp theinfiniteatlanta.com/](https://theinfiniteatlanta.com/)
 @education @esa .int
 https://theinfiniteatlanta.com/ @jplnewsroom@jpl.nasa.gov  can someone give @normani@fifthharmonyofficial.com  help to go see it, her handlers can roam freely in TheATL, i need eyes there, i dont know no one else except latrice fitzpatrick that could review it right @benefits@howard.edu or erika, if she safe @Essence@wrightsmedia.com ........

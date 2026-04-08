@@ -3,6 +3,13 @@
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+
+<img src="https://1000logos.net/wp-content/uploads/2021/04/FreeBSD-logo-500x281.png">
+<img src="https://flyclipart.com/thumbs/redhat-logo-beige-1174644.png">
+<img src="https://avatars.githubusercontent.com/u/55198424?s=600&v=4">
+<img src="https://www.kindpng.com/picc/m/100-1000670_transparent-background-google-chrome-chromebook-logo-hd-png.png">
+<img src="https://www.training-hipaa.net/wp-content/uploads/2015/10/MicrosoftCertifiedProfessional.jpg">
+<img src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/Asset-Red_Hat-Frame-1%20copy%203-RGB.jpg?itok=kUHl_2PV">
 <img alt="image" src="https://github.com/user-attachments/assets/d5b35a42-c06b-4836-8642-1782cc07246e" />
 
 ![133356182_1820944668067182_5036319584717506336_n @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/da438ea8-a722-450e-b243-f80e522c5181)

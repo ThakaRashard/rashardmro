@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-03-31 1:51:06 
+date:   2026-04-04 1:51:06 
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
@@ -20,14 +20,26 @@ date:   2026-03-31 1:51:06
 
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
 {% highlight python %}
 
 1 # HOLE_TO_ANOTHER_UNiVERSE##########03/20/2026##########
 2 # TO#####MsHOLLY,Hilda,Teresa,CB2,Janice&theMayor#######
 3 # ANOTHER####Coral?#######@nasa-jpl#####################
-4 # UNiVERSE#####################virtiservastro____######
+4 # UNiVERSE#####@blackgirlscode#####is Trice_GLORiLLA#####
 
 {% endhighlight %}
+
+_Boats_
+
+
+
+<img alt="2026-03-20-00_00_2026-03-20-23_59_Sentinel-2_L2A_1_TRUE_COLOR" src="https://github.com/user-attachments/assets/814f9690-10aa-430a-9b18-cfce622e8be3" />
+
+[https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.71391&lng=-118.2089&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FWML4l9mzYjd2cn0%2B4gyyIAYTK0%2BPbSLTjG%2FWg3xLTP1mFXxdJThTnRwdYK23UTZY9auaotT9QPDM%2BdU3OkMaTAkCwNVKRxJgmOczccQOpCaRrJMWREwFB&datasetId=S2_L2A_CDAS&fromTime=2026-03-20T00%3A00%3A00.000Z&toTime=2026-03-20T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&terrainViewerSettings=%7B%22sunTime%22%3Anull%2C%22settings%22%3A%7B%22isSky%22%3Atrue%2C%22isSunFlares%22%3Atrue%2C%22isShading%22%3Atrue%2C%22isShadows%22%3Atrue%2C%22verticalTerrainScaleFactor%22%3A1%2C%22shading%22%3A%7B%22ambientFactor%22%3A0.4000000059604645%2C%22diffuseFactor%22%3A0.5400000214576721%2C%22specularFactor%22%3A0.10000000149011612%2C%22specularPower%22%3A4%7D%2C%22shadows%22%3A%7B%22shadowVisibilityFactor%22%3A0.5%2C%22shadowRenderDistanceFactor%22%3A1%7D%7D%2C%22x%22%3A-13158954.432481842%2C%22y%22%3A3990451.1144695943%2C%22z%22%3A7753.358399418446%2C%22rotH%22%3A347.6069999999986%2C%22rotV%22%3A36.04700000000001%7D&cloudCoverage=30&dateMode=SINGLE @eu-cdse @esa @usgs @la-county-isd @usnavy @lmco](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.71391&lng=-118.2089&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FWML4l9mzYjd2cn0%2B4gyyIAYTK0%2BPbSLTjG%2FWg3xLTP1mFXxdJThTnRwdYK23UTZY9auaotT9QPDM%2BdU3OkMaTAkCwNVKRxJgmOczccQOpCaRrJMWREwFB&datasetId=S2_L2A_CDAS&fromTime=2026-03-20T00%3A00%3A00.000Z&toTime=2026-03-20T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&terrainViewerSettings=%7B%22sunTime%22%3Anull%2C%22settings%22%3A%7B%22isSky%22%3Atrue%2C%22isSunFlares%22%3Atrue%2C%22isShading%22%3Atrue%2C%22isShadows%22%3Atrue%2C%22verticalTerrainScaleFactor%22%3A1%2C%22shading%22%3A%7B%22ambientFactor%22%3A0.4000000059604645%2C%22diffuseFactor%22%3A0.5400000214576721%2C%22specularFactor%22%3A0.10000000149011612%2C%22specularPower%22%3A4%7D%2C%22shadows%22%3A%7B%22shadowVisibilityFactor%22%3A0.5%2C%22shadowRenderDistanceFactor%22%3A1%7D%7D%2C%22x%22%3A-13158954.432481842%2C%22y%22%3A3990451.1144695943%2C%22z%22%3A7753.358399418446%2C%22rotH%22%3A347.6069999999986%2C%22rotV%22%3A36.04700000000001%7D&cloudCoverage=30&dateMode=SINGLE)
+
+<img alt="image" src="https://github.com/user-attachments/assets/efbc2f79-97e6-42cc-afc4-e2b85c4fb10f" />
+
 
 
 [Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)

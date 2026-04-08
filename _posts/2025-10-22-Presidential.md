@@ -6,6 +6,14 @@ title: Presidential
 image: pentagon.jpg
 ---
 
+![https://www.senate.gov/about/images/butler-laphonza.htm](https://www.senate.gov/about/images/butler-laphonza.htm) 
+[https://www.senate.gov/about/images/butler-laphonza.htm](https://www.senate.gov/about/images/butler-laphonza.htm) [karenbass @whitehouse @Nasa-jpl @stateofcalifornia](https://mayor.lacity.gov/)
+
+
+[https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_1200x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=Acpia38N](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_1200x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=Acpia38N)
+
+![https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_1200x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=Acpia38N](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_1200x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=Acpia38N)
+
 
 # NASA Appropriations and Authorizations:
 At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance

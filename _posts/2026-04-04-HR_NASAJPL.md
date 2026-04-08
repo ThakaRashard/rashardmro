@@ -12,6 +12,40 @@ author: "RashardKelly @nasa-jpl"
 
 <img alt="Rashard Kelly NasaJpl MRO JUNO iSS @rashard-ecostress-jpl-iss @nasa-jpl @nasa-pds la-county-isd" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
+
+
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+@nasa-jpl @cbs-news-data i sent [Chloe](https://www.cbsnews.com/video/chloe-bailey-on-bet-awards-upcoming-album/) this a few years back, not thinking she was latrice @la-county-isd @paramount-engineering but [she](https://www.paramountpressexpress.com/cbs-media-ventures/shows/the-drew-barrymore-show/releases/?view=103927-the-drew-barrymore-show-praise-this-star-chloe-bailey) was in the studio too and i was scared because she started waving like [Coral ](https://ra5hard.github.io/coral/) @blackgirlscode 
+@lacountyDPH Much of the prostitution I have seen among [Dance411_ALUMNi](https://www.youtube.com/watch?v=idQ_9DWCI64) has led me to crossing paths with private security. They took over everything. You cant even use wifi outside Central Library... Mark_Twain is disabled as well. They got these hypnotizing theives on the street. HumaMama gave me $100 to help about 4-5months ago and while I was skating deep downtown Los Angeles I came across Muna's trail and she left a water bottle out for me. I had a bad feeling about the area I was going into and I got really sleepy and sat down. I drifted off and the weed I collected off the ground,(since I have no money I learned my dosing, its not much and my doctor is here in LA she got kidnapped as well!)was gone! They poisoned me and stole it. They do hypnotize people as well, thats hoow... Welll The Thinkpad, the Dell, and the MOONLOVER skateboard that Muna pimp stole was all poison just like the mustard gas attack that UCLA split my ankle open and kicked me outside leaving me as prey for Organ harvesters. I dont know how to expose curruption in private security and the hospitals, but there are laws against it. You know mama is from Yemen, Somalia, some shit... Im just learning a lot! My dad rode a skateboard according to local legend and I just want to see my children. I can prove with Coral that she is mine and I did not molest her. The children Muna pinned on me keep talking to me in my head! So im having trouble disproving it. Not that Id want to... I never wanted to be the dirty guy that smokes and doesnt age in my neighborhood. But whatever, I love youguys and will prove to everyone that a dance husband can be faithful and non-controlling only managing via guidance... I would hit you if you hit me tho.... Not as hard tho
+
+# Pasted from WikiPedia
+## Racketeer Influenced and Corrupt Organizations Act
+The Racketeer Influenced and Corrupt Organizations (RICO) Act is a United States federal law that provides for extended criminal penalties and a civil cause of action for acts performed as part of an ongoing criminal organization.
+
+RICO was enacted by section 901(a) of the Organized Crime Control Act of 1970 (Pub.L. 91–452, 84 Stat. 922, enacted October 15, 1970) and is codified at 18 U.S.C. ch. 96 as 18 U.S.C. §§ 1961–1968. G. Robert Blakey, an adviser to the United States Senate Government Operations Committee, drafted the law under the close supervision of the committee's chairman, Senator John Little McClellan. It was enacted as Title IX of the Organized Crime Control Act of 1970, and signed into law by US President Richard M. Nixon. While its original use in the 1970s was to prosecute the Mafia as well as others who were actively engaged in organized crime, its later application has been more widespread.
+
+Beginning in 1972, thirty-three states adopted state RICO laws to be able to prosecute similar conduct...[Read_More](https://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act)
+
+[Film Noir](https://www.filmnoirfoundation.org/)
+Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
+* [60 Free Film Noir Movies](https://www.openculture.com/free_film_noir_movies)
+* [What Exactly Is Film Noir?](https://www.nfi.edu/film-noir/)
+* [Roger Ebert A Guide to Film Noir Genre](https://www.rogerebert.com/roger-ebert/a-guide-to-film-noir-genre)
+* [Top 50 Film-Noir Movies and TV Shows##ACCORDiNG_TO_iMDB##METRiCS](https://www.imdb.com/search/title/?&genres=film_noir&explore=title_type,genres)
+
+@nasa-jpl @foratlanta @la-county-isd  @blackgirlscode 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O-KDKBCPrwA?si=2h_WGFcPa0IzFz9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
+
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
 @cityoflosangeles skill assessment rashard kelly @nasa-jpl @blackgirlscode

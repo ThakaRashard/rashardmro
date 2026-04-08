@@ -7,6 +7,55 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+# NASA's Artemis II Live Views from Orion
+[WATCH @CityOflOsAngeles](https://youtu.be/6RwfNBtepa4) 
+
+@nasa-pds the camera was flikering on orion and somoen told me to report that 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/63553541-cd5b-446d-bba7-2bf3a2375622" />
+
+
+@nasa  im not mad at nasa spaceflight timeouts i just dont know who to talk to everyone is so quiet and rtfm 
+
+```shell
+@thakasErikaselassie_kelly
+​​@nasajpl @nasas @blackgirlscode the video feed from orion is
+experianceing some interfereance / disruption @RepKarenBass @Nasajpl https://www.youtube.com/live/6RwfNBtepa4ill check weather
+-
+You have been placed in timeout by the owner of this video or a moderator Edit and try again.
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/6e3c66e7-db21-4187-91c8-3ca3b42f619e" />
+
+
+@whitehouse this senate member is blocked at the library [@la-county-isd](https://www.congress.gov/member/karen-bass/B001270)
+[butler.senate.gov/share-your-opinion/](https://www.butler.senate.gov/share-your-opinion/)
+
+```
+ 502 Bad Gateway
+
+An upstream server error has occurred. If you believe you are seeing this message in error, please contact your network administrator.
+
+This page is served by Cisco Secure Access.
+
+ Server: swg-nginx-proxy-https-fcfb66613a37.signginx.lax
+
+
+
+Mon, 06 Apr 2026 19:25:45 GMT
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/be1d562e-ab8d-4304-9440-c01b1e415ebc" />
+
+---
+
+@landsat your data is late in NAsaSTREAM, and @ESA CSDE-EU's Copernicus was complaining about connectivity ... i sent and [email](https://mail.proton.me/u/0/all-sent/uEZbjsox0Rcbpfw61qaCVC6nEdyaN4msQkLb5Qjq_SyPMiXunSCrWDhnFg9UBimi8IYjNEwCI8ItyFW_FEcXYQ==/9vtgprBHrdSlc6_ZNVafZhaCcGPUZvwImU-HGEtvMtFDz6zz6BfIevUA6vb73gErcblLDuPEFR0aMt40CbHOFg==) via @protonmail @rashardsdata hi @blackgirlscode
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.24/-13054546.70/4038256.02&grids=0,1 @eu-cdse hi @CityOfLosAngeles @LongbeachInnovationTeam @CityOfSantaMonica ](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.24/-13054546.70/4038256.02&grids=0,1) @nasa-jpl [@DiSNEY @NBCNEWS @LA-County-Isd @lacountyDPH](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.79/-13170113.68/3984389.34&layers=aqv_rgb_20260314_landsat:1.00:default) [https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/041037](https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/041037) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/2e2e0cab-b61a-419e-9cc7-af60342dd8f2" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e3930898-c58d-421a-adf0-c1e549d57380" />
+
+
+
 <img   alt="image" src="https://github.com/user-attachments/assets/dbea176e-c512-471a-9e28-1f81fc8587a5" />
 
 The Solar Dynamics Observatory will further our understanding of the sun's influence on Earth and near-Earth space by studying the solar atmosphere on small scales of space and time, and in . . . [READMORE](https://science.gsfc.nasa.gov/sci/projects/59)
