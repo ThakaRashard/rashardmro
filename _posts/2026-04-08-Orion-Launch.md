@@ -12,7 +12,7 @@ permalink: /artemis2
 @NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
 [MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
 ~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
-[~~Live Views~~LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
+~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
@@ -60,12 +60,25 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @nasa-develop @datadesk](https://www.bbc.com/news/videos/c3exp80x7vqo)
+[https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360](https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360) @blackgirlscode 
+[floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi](https://www.floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7d71c9cc-8559-4d4c-bd40-3da58be2492c" />
+
+
+[πhttps://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI](https://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI) // [https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8](https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8) // [https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6](https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6) @whitehouse @nasa-jpl @la-county-isd
 
 <img alt="image" src="https://github.com/user-attachments/assets/ed358218-4ec7-41a4-9a48-7b7f30ef80e1" /> 
 
-@asfadmin 
 
 [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+The Voyager Neptune travel guide
+@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3b287c48-a4e2-4546-b59c-53fdb7a217cb" />
+
+@asfadmin 
 
 [San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
 The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
@@ -463,6 +476,10 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 #  flight-data
 
 
+[https://www.nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+<img  alt="image" src="https://github.com/user-attachments/assets/aa71d6b0-9a58-412c-9e28-f83ccd0e601f" />
+
+
 [https://www3.nasa.gov/specials/trackartemis/ @disney @nbcnews
 ](https://www3.nasa.gov/specials/trackartemis/) 
 @la-county-isd @blackgirlscode 
@@ -488,6 +505,8 @@ Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/193612903112
 #  launch-weather 
 
 [`HOME⬆️`](#Artemis2)
+
+
 
 @usgs @nasa-giss @la-county-isd @nasa-jpl
 Hi I dont know how to use @github at [Kennedy](https://www.planetary.org/space-images/kennedy-space-center-launch-viewing-map), but this is a percipitation forcast for the next two days to compliment the lightnning maps [map link - click]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-82.23043%2C25.05827%2C-79.65768%2C32.55855%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-82.23043432659718%2C25.05827350557686%2C-79.65767686353576%2C32.55854930346194%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C17%2C18%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A2%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
@@ -524,6 +543,17 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 #  splashdown-weather
 
+@nasa-jpl
+
+[rain forcast @usgs]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-132.17067%2C30.49225%2C-103.18195%2C44.58899%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-132.1706696208537%2C30.49224818827639%2C-103.18195416602602%2C44.58899109747177%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A5%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1d8babef-2036-4134-80d0-4562a415d281" />
+
+
+[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
 @longbeachinnovation @la-county-isd @cityofsandiego
 [https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
 

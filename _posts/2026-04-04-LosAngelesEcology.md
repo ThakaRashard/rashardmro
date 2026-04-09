@@ -32,7 +32,7 @@ date:   2026-04-04 1:51:06
 
 _Boats_
 
-
+[https://www.youtube.com/live/Hd2kA-bVjs0?si=XB33EsIpdH-laPuG @la-county-isd carson city council](https://www.youtube.com/live/Hd2kA-bVjs0?si=XB33EsIpdH-laPuG)
 
 <img alt="2026-03-20-00_00_2026-03-20-23_59_Sentinel-2_L2A_1_TRUE_COLOR" src="https://github.com/user-attachments/assets/814f9690-10aa-430a-9b18-cfce622e8be3" />
 

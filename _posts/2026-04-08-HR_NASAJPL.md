@@ -8,11 +8,40 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 <img alt="Rashard Kelly NasaJpl MRO JUNO iSS @rashard-ecostress-jpl-iss @nasa-jpl @nasa-pds la-county-isd" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
+@la-county-isd inside chinatown a masked man that looked like erika daddy left this screen up on a computer he shared. He knew i did not have enough time @blackgirlscode i hope you all know if im alive ill fix anything you need, @doug-newman-nasa they was just having fun, the bunnies made a dollhouse while i was at work and i was a poisoned ken doll, @foratlanta to grow and you to slow @CityOfLosAngeles 
 
+```
+Based on your description, your actions stem from a conflict between your internal emotions (anger/resentment) and your deeply held spiritual beliefs (the obligation to give). 
+Catholic Exchange
+Catholic Exchange
+ +2
+Here is a breakdown of why this is likely happening:
+Spiritual Obedience Overrides Personal Emotion: You explicitly stated you give because you believe God commanded it ("give to those who ask of you"). Even when you feel anger or resentment, you are choosing to prioritize this spiritual commitment over your immediate feelings, seeing it as a duty to help those in need.
+Cognitive Dissonance: You are experiencing "cognitive dissonance," which is the mental discomfort of holding two conflicting ideas: "I want to be a good person/follow God" and "I am angry and do not want to give." You resolve this tension by giving, as it aligns with your identity as someone who follows this spiritual mandate, even if it feels bad at the time.
+Fear of Consequences or Guilt: You mentioned sometimes saying "not today" but mostly giving. You might be experiencing guilt or the pressure of social conditioning, where failing to meet the request makes you feel less moral, despite the anger the encounter brings.
+Habitual Compliance: It may have become a default behavior that feels automatic. 
+Hoffman Psychological Counselling
+Hoffman Psychological Counselling
+ +5
+Important Perspective on Your Feelings:
+It is important to know that in many interpretations of this teaching, the goal is not to give out of resentment. The Bible also notes, "God loves a cheerful giver" (2 Corinthians 9:7) and that if you give while feeling it is a "burden" or "under compulsion," it may not be in line with the true spirit of charity. 
+Reddit
+Reddit
+ +1
+Possible Ways to Reconcile Your Feelings:
+Give Differently: Some find it helpful to donate to charities, food banks, or shelters that serve these individuals, which meets the goal of helping without the personal face-to-face anger or giving cash directly to someone who may use it for unhealthy reasons.
+Set Firm Boundaries: It is acceptable to say "no" or simply ignore the request. Giving to everyone is a demanding personal interpretation, not a universal requirement for everyone, especially if it leads to anger and a feeling of being unsafe.
+
+``` 
+[https://www.google.com/search?q=when+stranger+ask+me+for+something+mostly+money%2C+I+have+given+it+to+them+even+when+i+really+would+like+to+beat+they+down+instead+of+doing+what+they+asked+and+I+don%27t+even+care+when+they+say+God+bless+you.+some+time+i+will+say+not+today+but+mostly+i+give+it+to+them.+why%3F+p.s.+i+give+because+god+said+give+to+those+who+ask+of+you&rlz=1CASLJZ_enUS1209&biw=1920&bih=945&sca_esv=881e3c42fb0fb053&ei=gAHXadzyGeW_kPIPrqXjkAY&ved=0ahUKEwjcsqfVz9-TAxXlH0QIHa7SGGIQ4dUDCBE&oq=when+stranger+ask+me+for+something+mostly+money%2C+I+have+given+it+to+them+even+when+i+really+would+like+to+beat+they+down+instead+of+doing+what+they+asked+and+I+don%27t+even+care+when+they+say+God+bless+you.+some+time+i+will+say+not+today+but+mostly+i+give+it+to+them.+why%3F+p.s.+i+give+because+god+said+give+to+those+who+ask+of+you&gs_lp=Egxnd3Mtd2l6LXNlcnAiyAJ3aGVuIHN0cmFuZ2VyIGFzayBtZSBmb3Igc29tZXRoaW5nIG1vc3RseSBtb25leSwgSSBoYXZlIGdpdmVuIGl0IHRvIHRoZW0gZXZlbiB3aGVuIGkgcmVhbGx5IHdvdWxkIGxpa2UgdG8gYmVhdCB0aGV5IGRvd24gaW5zdGVhZCBvZiBkb2luZyB3aGF0IHRoZXkgYXNrZWQgYW5kIEkgZG9uJ3QgZXZlbiBjYXJlIHdoZW4gdGhleSBzYXkgR29kIGJsZXNzIHlvdS4gc29tZSB0aW1lIGkgd2lsbCBzYXkgbm90IHRvZGF5IGJ1dCBtb3N0bHkgaSBnaXZlIGl0IHRvIHRoZW0uIHdoeT8gcC5zLiBpIGdpdmUgYmVjYXVzZSBnb2Qgc2FpZCBnaXZlIHRvIHRob3NlIHdobyBhc2sgb2YgeW91SABQAFgAcAB4AZABAJgBAKABAKoBALgBDMgBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAA&sclient=gws-wiz-serp](https://www.google.com/search?q=when+stranger+ask+me+for+something+mostly+money%2C+I+have+given+it+to+them+even+when+i+really+would+like+to+beat+they+down+instead+of+doing+what+they+asked+and+I+don%27t+even+care+when+they+say+God+bless+you.+some+time+i+will+say+not+today+but+mostly+i+give+it+to+them.+why%3F+p.s.+i+give+because+god+said+give+to+those+who+ask+of+you&rlz=1CASLJZ_enUS1209&biw=1920&bih=945&sca_esv=881e3c42fb0fb053&ei=gAHXadzyGeW_kPIPrqXjkAY&ved=0ahUKEwjcsqfVz9-TAxXlH0QIHa7SGGIQ4dUDCBE&oq=when+stranger+ask+me+for+something+mostly+money%2C+I+have+given+it+to+them+even+when+i+really+would+like+to+beat+they+down+instead+of+doing+what+they+asked+and+I+don%27t+even+care+when+they+say+God+bless+you.+some+time+i+will+say+not+today+but+mostly+i+give+it+to+them.+why%3F+p.s.+i+give+because+god+said+give+to+those+who+ask+of+you&gs_lp=Egxnd3Mtd2l6LXNlcnAiyAJ3aGVuIHN0cmFuZ2VyIGFzayBtZSBmb3Igc29tZXRoaW5nIG1vc3RseSBtb25leSwgSSBoYXZlIGdpdmVuIGl0IHRvIHRoZW0gZXZlbiB3aGVuIGkgcmVhbGx5IHdvdWxkIGxpa2UgdG8gYmVhdCB0aGV5IGRvd24gaW5zdGVhZCBvZiBkb2luZyB3aGF0IHRoZXkgYXNrZWQgYW5kIEkgZG9uJ3QgZXZlbiBjYXJlIHdoZW4gdGhleSBzYXkgR29kIGJsZXNzIHlvdS4gc29tZSB0aW1lIGkgd2lsbCBzYXkgbm90IHRvZGF5IGJ1dCBtb3N0bHkgaSBnaXZlIGl0IHRvIHRoZW0uIHdoeT8gcC5zLiBpIGdpdmUgYmVjYXVzZSBnb2Qgc2FpZCBnaXZlIHRvIHRob3NlIHdobyBhc2sgb2YgeW91SABQAFgAcAB4AZABAJgBAKABAKoBALgBDMgBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAA&sclient=gws-wiz-serp)
+<img  alt="image" src="https://github.com/user-attachments/assets/08aa8ee9-7d0a-465b-b047-c2ded0499106" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/dea0cb54-6e16-4f8f-84d2-92847e5a242d" />
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
