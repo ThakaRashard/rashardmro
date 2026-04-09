@@ -16,6 +16,9 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
   
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
   
+
+[@Nasa Johnson - iss playlist https://youtube.com/playlist?list=PLTXQuaxXBKKwtqw9fmVw9YnMKxz6FcmWf&si=4RofY24OcifmTpdx](https://youtube.com/playlist?list=PLTXQuaxXBKKwtqw9fmVw9YnMKxz6FcmWf&si=4RofY24OcifmTpdx)
+
  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
  
  </picture>
