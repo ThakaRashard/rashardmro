@@ -506,10 +506,6 @@ Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/193612903112
 
 [`HOME⬆️`](#Artemis2)
 
-[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
-@cbsla _animate_ @disney [tar.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode
-
-<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
 
 
 @usgs @nasa-giss @la-county-isd @nasa-jpl
@@ -547,6 +543,12 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 #  splashdown-weather
 
+
+
+[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [tar.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc @Doug-newman-nasa Rick asked for wind data @la-county-isd @StateOfCalifornia [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
 @longbeachinnovation @la-county-isd @cityofsandiego
 [https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
 
