@@ -506,6 +506,12 @@ Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/193612903112
 
 [`HOME⬆️`](#Artemis2)
 
+[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [tar.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
+
+
 @usgs @nasa-giss @la-county-isd @nasa-jpl
 Hi I dont know how to use @github at [Kennedy](https://www.planetary.org/space-images/kennedy-space-center-launch-viewing-map), but this is a percipitation forcast for the next two days to compliment the lightnning maps [map link - click]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-82.23043%2C25.05827%2C-79.65768%2C32.55855%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-82.23043432659718%2C25.05827350557686%2C-79.65767686353576%2C32.55854930346194%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C17%2C18%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A2%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
 @nasa @nasa-jpl there is a ton of lighting over Mexico that could impact operations @whitehouse @blackgirlscode @CityOfLosAngeles @Disney @La-County-Isd [@nasa Launch Reqs](https://www.nasa.gov/artemis-ii-weather-criteria/#:~:text=Do%20not%20launch%20through%20a,cloud%20altitude%20can%20be%20met.)
