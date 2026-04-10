@@ -11,6 +11,12 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+[AboutMe and My Job @blackgirlscode @paramount-engineering](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) ~ Watching Over the Deep Space Network Before Artemis II Signal Acquisition [@disney](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) [- photo - @la-county-isd @CityOfLosAngeles](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26744/PIA26744.jpg) - [@nasa-jpl - ](https://scan-now.gsfc.nasa.gov/scan)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5d8f1d66-d6f9-47f7-894c-c645faa8b711" />
+
+
 <img alt="Rashard Kelly NasaJpl MRO JUNO iSS @rashard-ecostress-jpl-iss @nasa-jpl @nasa-pds la-county-isd" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 @la-county-isd inside chinatown a masked man that looked like erika daddy left this screen up on a computer he shared. He knew i did not have enough time @blackgirlscode i hope you all know if im alive ill fix anything you need, @doug-newman-nasa they was just having fun, the bunnies made a dollhouse while i was at work and i was a poisoned ken doll, @foratlanta to grow and you to slow @CityOfLosAngeles 
