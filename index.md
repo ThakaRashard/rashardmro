@@ -31,6 +31,9 @@ mermaid: true
 
   {% endfor %}
 
+
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026)
+
 @nasa-pds can i have some headphones are you guys or anyone blocking me because i stole a mac book pro adapter out of the trailer trashacan ? @nasa-jpl @blackgirlscode i saw sartu i forgot she was in that shit ![https://pbs.twimg.com/media/GAIhLHgaMAAP8w1?format=jpg&name=medium](https://pbs.twimg.com/media/GAIhLHgaMAAP8w1?format=jpg&name=medium)
 
 The Deep Space Program Science Experiment (DSPSE) 

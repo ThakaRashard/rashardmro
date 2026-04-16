@@ -11,6 +11,10 @@ permalink: /artemis2
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 [DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
+Landed Safely
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/efd84d70-79f3-4b89-9af8-cc925d0a8e48)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/ca63a399-badc-4b60-83a5-c7cd6702ac8e)
 
 
 - Jump to  [`news`](#news)
@@ -26,18 +30,181 @@ permalink: /artemis2
 
 [https://melodymaddox.com/](https://melodymaddox.com/)
 
-![https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
 
+<div class="tupperware" markdown="1">
+ 
+![https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png 50](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
 
+![ORiON 50](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
-![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
-
-
+</div>
 
 #  splashdown-weather
 
 
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+
+# Preparing for splashdown
+@usNavy @nasa-jpl @la-county-isd @cityofsandeigo
+[https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/) [When does Artemis II reenter Earth's atmosphere? What time is Artemis 2 splashdown? - `_Florida_` @usatoday @nasa-jpl @blackgirlscode](https://www.floridatoday.com/story/tech/science/space/2026/04/10/artemis-orion-splashdown-visibility-map-nasa-graphic-california-what-time/89543929007/)
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-entry-descent-landing.png?resize=600,336](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-entry-descent-landing.png?resize=600,336)
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-lofted-entry-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-lofted-entry-sequence.png) 
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨📰 <a href="https://twitter.com/hashtag/USNAVY?src=hash&amp;ref_src=twsrc%5Etfw">#USNAVY</a> UPDATE: USS John P. Murtha to support NASA&#39;s Artemis II mission<br><br>SAN DIEGO – Amphibious transport dock ship USS John P. Murtha (LPD 26) is slated to serve as the recovery ship for the Orion spacecraft and its crew upon their return from the historic Artemis II… <a href="https://t.co/eMUDr04rhP">pic.twitter.com/eMUDr04rhP</a></p>&mdash; U.S. Navy (@USNavy) <a href="https://twitter.com/USNavy/status/2041909011591713227?ref_src=twsrc%5Etfw">April 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026) @blackgirlscode @la-county-isd @emit-sds @nasa-jpl
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+![https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_0193.jpg](https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_0193.jpg)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+[ncei.noaa.gov/maps/bathymetry-classic/ @doug-newman-nasa](https://www.ncei.noaa.gov/maps/bathymetry-classic/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/84b17268-2bdb-4d00-8a05-e81cf8ebc3ca" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3dada0cd-de02-4b10-9624-af5d1cfd9bfd" />
+
+MARiNE _GeoLOGY DataBrowsR @usnavy
+[ncei.noaa.gov/maps/marine_geology/ @NOAA-OWP @NOAA-EPIC](https://www.ncei.noaa.gov/maps/marine_geology/)
+@nasa-pds @nasa-develop @nasa-giss @doug-newman-nasa this might be useful i hope im not too late @blackgirlscode @TheSpaceDevs @BlueOrigin @la-county-isd 
+
+<img alt="image" src="https://github.com/user-attachments/assets/f5bf603a-c771-47fb-b338-64657bd6dd0d" />
+
+[EMAG2v3: Earth Magnetic Anomaly Grid - MAPLiNK](https://www.arcgis.com/apps/mapviewer/index.html?layers=1aaac59a6076461e8e1380a7195222f6&error=invalid_request&error_description=Unable%20to%20sign%20the%20user%20in.%20Please%20use%20create%20an%20account%20option.&messageCode=OAUTH_0051&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22CRihG2rJGSZ1IOvXgdeoIj1Q0pZQCFUGDGkIxaVMH-M%22%7D)
+
+<div class="tupperware">
+	
+<img   alt="image" src="https://github.com/user-attachments/assets/5a0968a6-826d-4ce3-acbe-4359d5a37107" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3eab3d69-4b50-4bc5-b8db-c741888d0e2d" />
+
+</div>
+
+@nasa-pds @la-county-isd 
+<img  alt="image" src="https://github.com/user-attachments/assets/0bfcd52a-ccc8-4f9a-9096-22eb2df806a1" />
+
+[tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg) // [https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf @nasa-jpl @nasa-pds @la-county-isd](https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf) // [ossoff.senate.gov/contact-us/](https://www.ossoff.senate.gov/contact-us/)
+
+
+_code sample @jekyll @blackgirlscode_ @la-county-isd video player [Mrs Mitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/)
+
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif">](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+
+```
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif" />](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+```
+
+```html
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+```
+
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨📰 <a href="https://twitter.com/hashtag/USNAVY?src=hash&amp;ref_src=twsrc%5Etfw">#USNAVY</a> UPDATE: USS John P. Murtha to support NASA&#39;s Artemis II mission<br><br>SAN DIEGO – Amphibious transport dock ship USS John P. Murtha (LPD 26) is slated to serve as the recovery ship for the Orion spacecraft and its crew upon their return from the historic Artemis II… <a href="https://t.co/eMUDr04rhP">pic.twitter.com/eMUDr04rhP</a></p>&mdash; U.S. Navy (@USNavy) <a href="https://twitter.com/USNavy/status/2041909011591713227?ref_src=twsrc%5Etfw">April 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026) @blackgirlscode @la-county-isd @emit-sds @nasa-jpl
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
+
+
+![nasa-pds @nasa-jpl @la-countyjpg](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/56c434c7-0917-49f1-9cf0-b9b9f6fa79eb" />
+
+
+@la-county-isd @cityoflosangeles @whitehouse Sentate MEmber Butlerś site is blocked from the chinatown los angeles public library branch @blackgirlscode [https://www.tumblr.com/rashardmro/813174749613162496/deep-space-network-now?source=share](https://www.tumblr.com/rashardmro/813174749613162496/deep-space-network-now?source=share)
+
+<img alt="image" src="https://github.com/user-attachments/assets/de694115-5b0f-411f-b0a2-872ccd2d7079" />
+
+## Splashdown 101:
+@USNavy @La-County-isd
+Joint Team to Recover Crew, Orion After Moon Missions
+[splashdown - READ](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+
+
+## Artemis II splashdown in California visual guide, what it would look like
+When is the Artemis II splashdown in California? Orion capsule is set to splash down about 8:07 pm ET Friday, April 10, 2026, possibly near [San Diego](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.184,32.664,11.055z). @usatoday 
+[floridatoday.com/story/tech/science/space/2026/04/09/nasa-artemis-splashdown-california-map-what-time-how-watch/89487303007/](https://www.floridatoday.com/story/tech/science/space/2026/04/09/nasa-artemis-splashdown-california-map-what-time-how-watch/89487303007/)
+
+@lmco @nasa-jpl [AquaticksLink](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.04/-13078412.27/3838838.01&layers=aqv_tss_20260407_sentinel:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/f8a7dd90-236d-40a9-9a77-acf7553ff34a" />
+
+[Temp](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-156.0939983459478,35.635836808033844,156.8695522080135&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-04-08-T01%3A13%3A12Z) 
+
+<imgalt="image" src="https://github.com/user-attachments/assets/580ac533-5072-4593-8076-a8dbcf1094ce" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5f8b6cc5-84a7-443e-ac86-e033e0d20bc5" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a0ec0c78-9e91-497c-bcbc-5beda109dbb8" />
+[https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/04/09/PBRE/89535099007-splashdown.jpeg?width=660&height=370&fit=crop&format=pjpg&auto=webp](https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/04/09/PBRE/89535099007-splashdown.jpeg?width=660&height=370&fit=crop&format=pjpg&auto=webp)
+<img  alt="image" src="https://github.com/user-attachments/assets/14346e1f-5d68-4f47-9bce-dd42bfc2a6c2" />
+<img   alt="image" src="https://github.com/user-attachments/assets/a53ea833-d687-41f1-830e-80e2ff63aa07" />
+
+
+@blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
+Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
+
+@cbs-news-data @cbsnews
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026)
+[What to know about Artemis II crew’s return to Earth, splashdown in California](https://www.kxnet.com/news/national-news/what-to-know-about-artemis-ii-crews-return-to-earth-splashdown-in-california/) Artemis II crew gets up to 'Under [Pressure](https://www.rlsmaradona.org.ua/young-jeezy-pressure-2017-flac-320kbps/)' on Day 8, with 'wakeup song playlist' online [@foxnews myfox28columbus.com/news/nation-world/artemis-ii-crew-heading-home-after-historic-moon-loop-ready-for-splashdown-this-week-nasa-astronauts-orion-spacecraft-earth-lunar-flyby-mission-launch-kennedy-space-center](https://myfox28columbus.com/news/nation-world/artemis-ii-crew-heading-home-after-historic-moon-loop-ready-for-splashdown-this-week-nasa-astronauts-orion-spacecraft-earth-lunar-flyby-mission-launch-kennedy-space-center)
+
+## 3 Americans and a Human
+- The Flame Trench
+[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia @NASASpaceFlight
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
+
+### Base Los Angeles / Long Beach
+1001 South Seaside Ave  San Pedro, CA 90731
+-MAIN 206-815-6689
+-AFTER HOURS (310) 781-0619
+-EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
+[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/ @cityofsandiego @USnavy](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
+![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
+@cityofsandiego @USnavy im working on [LongBeach](https://www.loc.gov/item/2007660625/) right now and notice [San Diego](https://www.sandiego.gov/public-library) bay has changed some in suspended solids and chlorophyll content , I documented on myhomepage orion being put back in the hangar, for the helium leak fix, I have not checked since then @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
+
+<img alt="image" src="https://github.com/user-attachments/assets/7cab2c2a-0980-41cc-8f58-d71a7c60d058" />
+
+[Artemis II crew to return home as Nasa lays out steps for safe splashdown - the @guardian .com/](https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return)
+Astronauts prepare for re-entry several miles off coast of southern California after 10-day lunar fly-by mission
+![https://i.guim.co.uk/img/media/115ed6bc5a0e3817e454e44e1ec00524b410fbf1/0_0_4037_2691/master/4037.jpg?width=700&dpr=1&s=none&crop=none](https://i.guim.co.uk/img/media/115ed6bc5a0e3817e454e44e1ec00524b410fbf1/0_0_4037_2691/master/4037.jpg?width=700&dpr=1&s=none&crop=none)
 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/20260992206_GOES18-GLM-tpw-EXTENT3-1800x1080.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/20260992206_GOES18-GLM-tpw-EXTENT3-1800x1080.jpg) @noaa @weathergov @commercegov 
 [@nasa-jpl @nasa-giss @nasaopenscapes @doug-newman-nasa - for Rick](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/Dust/GOES18-ABI-FD-Dust-21696x21696.tif)
@@ -94,20 +261,6 @@ The Voyager Neptune travel guide
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a9302779-bc33-4035-9da2-546301a1ca46" />
 
-### Base Los Angeles / Long Beach
-1001 South Seaside Ave  San Pedro, CA 90731
--MAIN 206-815-6689
--AFTER HOURS (310) 781-0619
--EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
-[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/ @cityofsandiego @USnavy](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
-![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
-
-![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
-@cityofsandiego @USnavy im working on [LongBeach](https://www.loc.gov/item/2007660625/) right now and notice [San Diego](https://www.sandiego.gov/public-library) bay has changed some in suspended solids and chlorophyll content , I documented on myhomepage orion being put back in the hangar, for the helium leak fix, I have not checked since then @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
-
-<img alt="image" src="https://github.com/user-attachments/assets/7cab2c2a-0980-41cc-8f58-d71a7c60d058" />
 
 Official map of San Diego County, California [Link](https://www.loc.gov/item/2012592092/)
 ![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg)
@@ -118,21 +271,6 @@ Official map of San Diego County, California [Link](https://www.loc.gov/item/201
 @blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
 <img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
 
-
-# Splashdown 101: @USNavy @La-County-isd
-Joint Team to Recover Crew, Orion After Moon Missions
-[splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
-
-![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
-
-@blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
-Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
-
-
-## 3 Americans and a Human - The Flame Trench
-[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia @NASASpaceFlight
-
-<img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
 #  news
 
@@ -1447,3 +1585,10 @@ System news updated April 1, 2026
 
 Horizons> -1024
 ```
+
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+[senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) // [codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8cd3b23d-79d4-4173-9860-45d9b8fff25c" />
