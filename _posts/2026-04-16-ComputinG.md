@@ -21,6 +21,11 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 </picture>
 
 
+Source code for the X Recommendation Algorithm
+[blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm](https://blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) /// @la-county-isd @landsat [github.com/deptofwar/the-algorithm](https://github.com/deptofwar/the-algorithm)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fbd9db8a-e913-4432-89ca-aa8fd57cfcbd" />
+
 
 _code sample @jekyll @blackgirlscode_ @la-county-isd video player [Mrs Mitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/)
 

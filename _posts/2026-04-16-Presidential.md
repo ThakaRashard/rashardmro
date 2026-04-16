@@ -8,9 +8,78 @@ image: pentagon.jpg
 
 # Blockade Line 
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
-Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/)
+Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/) [baniasadzadeh.mo@parliran.ir](mailto:baniasadzadeh.mo@parliran.ir),
+[IPUgroup@parliran.ir](mailto:IPUgroup@parliran.ir),
+[ds_legal@isro.gov.in](mailto:ds_legal@isro.gov.in) @la-county-isd @cityoflosangeles @blackgirlscode @stateofcalifornia 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+<img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+
+@deptofwar
+@nasa-jpl @usnavy @armydotmilthis map has a few [dams](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01) listed and groupings of people aka [settlements @cityoflosangeles Mayor Karen Bass](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00) @stateofcalifornia @blackgirlscode
+
+[https://worldview.earthdata.nasa.gov/?v=42.410104088201386,-3.6077120778216702***2.558&t=2026-04-15-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=42.410104088201386,-3.6077120778216702,69.70274533062457,41.703126577423475&as=2026-04-03-T00%3A00%3A00Z&ae=2026-04-15-T00%3A00%3A00Z&l=Reference_Labels_15m,Coastlines_15m(hidden,opacity=0.59),GRanD_Reservoirs,GRanD_Dams,GRUMP_Settlements,OMPS_NOAA20_NadirMapper_AerosolIndex_380,OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&ab=on&s=54.3059,32.558&t=2026-04-15-T00%3A00%3A00Z)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/25b3a51c-b2c9-47b8-80c5-c7364c924429" />
+
+Pete im looking at an animation of THermal Anomolies and its either really peaceful or not much life at the blockade, dueling is illegal in california.  @nasa-openscapes [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z)
+
+<img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl nasa-worldview-2026 APR 03-to-2026 APR 15" src="https://github.com/user-attachments/assets/77f11e44-f26b-4a94-bdd9-b09a386a2a2d" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/f74e5ce2-9acf-4eb1-8cda-4b8b8c2b57ae" />
+
+
+
+_Current @usnavy @nasa-jpl_
+[MapLink - @emit-sds @isro](https://worldview.earthdata.nasa.gov/?v=56.908842175757336,10.044066614419176,68.68792070831906,29.59951828931099&l=Reference_Labels_15m,Coastlines_15m(opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&s=54.3059,32.558&t=2026-04-15-T21%3A21%3A06Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/72db0677-f0f4-40e7-b1dc-f3fc110abcfd" />
+
+
+[MAPLink - firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z)
+<img   alt="FIRMS_24hrs @60 7,36 4,5 3z @deptofwar @usnavy @nasa-pds @nasa-jpl" src="https://github.com/user-attachments/assets/9b012b8d-2b7c-4fcf-95b2-4b5e40fd5162" />
+
+
+
+
+sorry these lights in the sea are old @usnavy @la-county-isd @nasa-jpl
+
+[Map LinK - @USNAVY @nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=56.908842175757336,10.044066614419176,68.68792070831906,29.59951828931099&l=Reference_Labels_15m,Coastlines_15m(opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&s=54.3059,32.558&t=2022-01-30-T20%3A11%3A27Z)
+
+
+<div class="tupperware"> 
+    
+<img  alt="image lights at night @deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/bc65a1d4-db0d-4b7b-841f-6cc2101c8e4f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4b319d09-00b3-4abc-af60-be9a488d192c" />
+
+</div>
+
+**Column Average** - The average mole fraction of carbon dioxide in a vertical column of air starting at some point on the earth's surface and extending to the top of the atmosphere. This is a relevant quantity for comparison with satellite observations. [Glossery @noaagov @whitehouse @nasa-jpl](https://gml.noaa.gov/ccgg/carbontracker/glossary.php)
+
+<img   alt="GIOVANNI-outputY8vcX0pg" src="https://github.com/user-attachments/assets/c5bc44de-c833-415d-947c-ed4930a66095" />
+`pdf` 
+
+
+
+[ntrs.nasa.gov/api/citations/20170010422/downloads/20170010422.pdf Recent progress in the NASA
+‘e-Deep Blue’ algorithm for remote
+sensing of aerosol optical properties
+](https://ntrs.nasa.gov/api/citations/20170010422/downloads/20170010422.pdf)
+
+[giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-04-10T00:00:00Z&endtime=2026-04-14T23:59:59Z&data=OMNO2d_004_ColumnAmountNO2CloudScreened%2COMNO2d_004_ColumnAmountNO2TropCloudScreened%2CAIRS3STD_7_0_TotO3_D%2CAIRS3STD_7_0_TotO3_A%2CAIRS3STD_7_0_Temperature_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_A(z%3D1000)%2CMYD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CMOD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CAIRS3STD_006_TotO3_D%2CAIRS3STD_006_TotO3_A%2CAIRS3STD_006_Temperature_D(z%3D1000) @deptofwar](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-04-10T00:00:00Z&endtime=2026-04-14T23:59:59Z&data=OMNO2d_004_ColumnAmountNO2CloudScreened%2COMNO2d_004_ColumnAmountNO2TropCloudScreened%2CAIRS3STD_7_0_TotO3_D%2CAIRS3STD_7_0_TotO3_A%2CAIRS3STD_7_0_Temperature_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_A(z%3D1000)%2CMYD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CMOD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CAIRS3STD_006_TotO3_D%2CAIRS3STD_006_TotO3_A%2CAIRS3STD_006_Temperature_D(z%3D1000))
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0b3438c5-f01b-4833-998f-c7b259994bb0" />
+
+
+[@usnavy @github .com/google/earthengine-api](https://github.com/google/earthengine-api) /// [Map to Home](https://earth.google.com/web/@29.20841968,53.56068888,1176.75764377a,8901433.8339293d,30.00019998y,0.0000622h,0t,0r/data=CgRCAggBMikKJwolCiExcHFBMzM1MXpKaEYyRlVNTHlCUXJCUl8tQzhjZ2hyeEogAToDCgEwQgIIAEoICNWVv9cFEAE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3c91500c-3139-4774-a0c7-b2d9fbc6cf2c" />
+<img alt="image @google i dont know how to ensure this gets to @deptofwar https://earth.google.com/web/@29.20841968,53.56068888,1176.75764377a,8901433.8339293d,30.00019998y,0.0000622h,0t,0r/data=CgRCAggBMikKJwolCiExcHFBMzM1MXpKaEYyRlVNTHlCUXJCUl8tQzhjZ2hyeEogAToDCgEwQgIIAEoICNWVv9cFEAE" src="https://github.com/user-attachments/assets/5dc634ca-4bff-4066-8301-25e4fd2a5c31" />
+
+[https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886](https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886) <~ @deptofwar ill send more but for now @nasa-jpl i need to hand off for the last lunch of the day
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e4e961dd-dfd7-438c-8f2c-36c116f0aac0" />
 
 
 [ECOSTRESS @emit-sds ecostress.jpl.nasa.gov/](https://ecostress.jpl.nasa.gov/) - [Land Temp](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322) 
@@ -49,6 +118,14 @@ S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
 https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON((55.4712%2024.7351,57.9125%2024.7351,57.9125%2027.7472,55.4712%2027.7472,55.4712%2024.7351))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3-GRD_HD
 ```
 
+@la-county-isd [My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
+
+<div class="tupperware">
+ 
+<img   alt="image" src="https://github.com/user-attachments/assets/3e677dfe-4c29-4fae-b3d6-d128e307a496" />
+<img   alt="image" src="https://github.com/user-attachments/assets/0c0cb5b3-895a-4a72-be25-79df32e69cea" />
+
+</div>
 
 
 
