@@ -6,10 +6,52 @@ permalink: /hr
 tags: earth hr NearSpaceNetwork gds 
 image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
+mathjax: true
 ---
 
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+
+
+# Finding Trice
+[profiles.howard.edu](https://profiles.howard.edu/) // [howard.edu/faculty-staff](https://howard.edu/faculty-staff) // [@Detective KEisha Bottoms](https://www.atlantaga.gov/Home/Components/News/News/13077/672) ~>  [provost.howard.edu/staff-directory](https://provost.howard.edu/staff-directory) @cityoflosangeles
+<img alt="image @nasa-jpl @howard-university-web-services @la-county-isd" src="https://github.com/user-attachments/assets/fec51eea-c161-4200-a174-df3a0a6c1992" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b01adadf-e049-45b7-8aac-011f09514252" />
+
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-15-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5d18f23e-5d7e-4e75-bdd7-49c436e19714" />
+
+
+<img alt="image @la-county-isd @cityoflosangeles @blackgirlscode @nasa-jpl @whitehouse @foratlanta im getting harassed by one of her lovers rn irt" src="https://github.com/user-attachments/assets/6648897f-eb81-4430-b1a3-c78ac2e136b6" />
 
 
 [AboutMe and My Job @blackgirlscode @paramount-engineering](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) ~ Watching Over the Deep Space Network Before Artemis II Signal Acquisition [@disney](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) [- photo - @la-county-isd @CityOfLosAngeles](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26744/PIA26744.jpg) - [@nasa-jpl - ](https://scan-now.gsfc.nasa.gov/scan)

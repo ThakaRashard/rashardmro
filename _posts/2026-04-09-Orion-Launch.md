@@ -11,6 +11,10 @@ permalink: /artemis2
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 [DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
+Landed Safely
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/efd84d70-79f3-4b89-9af8-cc925d0a8e48)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/ca63a399-badc-4b60-83a5-c7cd6702ac8e)
 
 
 - Jump to  [`news`](#news)

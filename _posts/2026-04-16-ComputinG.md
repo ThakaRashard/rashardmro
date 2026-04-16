@@ -2,11 +2,48 @@
 layout: post
 mermaid: true
 published: true
+author: "RashardKelly @nasa-jpl"
+mathjax: true
 image: Aitken_supercomputer_big.jpg
 ---
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+
+
+_code sample @jekyll @blackgirlscode_ @la-county-isd video player [Mrs Mitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/)
+
+[<video controls width="100%" height="auto" src="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4" poster="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/20261012116_GOES18-GLM-psw-EXTENT3-600x600.jpg" />](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4)
+
+```
+[<video controls width="100%" height="auto" src="https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4" poster="https://i.redd.it/qv9qfpq69dc91.gif" />](https://archive.org/download/FreedomDowntime-TheStoryOfKevinMitnick/FreedomDowntime-TheStoryOfKevinMitnick.mp4)
+```
+
+```html
+[<img src="https://i.redd.it/qv9qfpq69dc91.gif"/>](https://i.redd.it/qv9qfpq69dc91.gif)
+```
+
+[<img src="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/20261012116_GOES18-GLM-psw-EXTENT3-600x600.jpg"/>](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/20261012116_GOES18-GLM-psw-EXTENT3-600x600.jpg)
+
+
+
+
+[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
+
+
+![68747470733a2f2f692e67696665722e636f6d2f5569464f2e676966](https://github.com/user-attachments/assets/fb2ca2f4-f1d1-4b35-b03c-1b66f29f53d9)
+
 
 
 Listing Posts in LiQUiD

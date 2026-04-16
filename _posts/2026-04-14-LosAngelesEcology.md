@@ -6,12 +6,13 @@ permalink: /laecology
 title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
+mathjax: true
 categories: LA eco ecostress space dsn nsn climate weather
 date:   2026-04-04 1:51:06 
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
-
+[@CityOfSantaMonica Apr14 meeting @la-cou ty-iss](https://www.youtube.com/live/2LUouGMRixY?si=jZks-j2rlNJ5Kz7E) sap on a clip to paste it in the text box.
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
@@ -29,6 +30,17 @@ date:   2026-04-04 1:51:06
 4 # UNiVERSE#####@blackgirlscode#####is Trice_GLORiLLA#####
 
 {% endhighlight %}
+
+
+@la-county-isd @lacountyDPH @CityOfLosAngeles
+- @stateofcalifornia lets start with [nodatacentermpk.org](nodatacentermpk.org) @podaac @nasa-jpl . . . its listed as a dangerous site at the [BillyJeanBranch](https://www.yelp.com/biz/billie-jean-king-main-library-long-beach) @blackgirlscode if someone needs extracredit, we need to learn about datacenters and how they make money, you guys can talk without snitching you know the real on your side
+
+[Los Angeles City Hall - https://waterandpower.org/](https://waterandpower.org/Museum2/Los_Angeles_City_Hall_1928.html)
+Los Angeles City Hall is one of the most iconic buildings in America; some say, the world. A bold symbol of the ambition of America and its people, City Hall graces California as one of its most enduring landmarks. [Related - DNS](https://x.com/MooNLOVER404/status/1822009495826133056)
+
+![cityhall](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/City_Hall_1927.jpg)
+
+![cityhall](https://waterandpower.org/7%20Historic%20Photos%207/City_Hall_Cornerstone_2015.jpg)
 
 [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)

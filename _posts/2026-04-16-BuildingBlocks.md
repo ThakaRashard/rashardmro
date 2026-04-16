@@ -7,10 +7,254 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+# Writing mathematical expressions
+
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) @la-county-isd [Supervisor Janice Hahn](https://www.youtube.com/@SupJaniceHahn) // [@SupervisorLindseyP.Horvath](https://www.youtube.com/channel/UC1nFvaK_2b6u8eQ0XU_OFbQ)
+
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+```
+
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
+
+[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
+
+
+
+[`https://www.ra5hard.github.io/`](https://www.ra5hard.github.io/)
+@la-county-isd @cityoflosangeles [lapl](https://www.lapl.org/)'s wired network accused me of cert errors @github @nasa-jpl [SupervisorHollyMitchell](https://bos.lacounty.gov/executive-office/about-us/board-photo-gallery/2nd-district-supervisor-holly-j-mitchell/) // [judyChu](https://chu.house.gov/) // [Reverend Karen Bass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWm) // [Dr. Hilda Solis](https://history.house.gov/People/Detail/22566) & [Dr Janic Hahn](https://history.house.gov/People/Detail/15617) . . . @nasa-pds @nasa-jpl i had a pediatrician in pasadena, i dont know what molestation story she got, becasue those [girls darkness](youtube.com/watch?v=tnRyJUpy_9I) @blackgirlscode @nbcnews @newshour 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/037e663d-940b-4097-a899-54394e4f790e" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/55aba2ba-3cf6-40d5-ab6b-bc18aa7615e9" />
+
+
+```
+516 Upstream Certificate CN Mismatch
+
+The SSL security certificate presented by this site was issued for a different
+ site's address. This happens when the common name of the SSL Certificate
+doesn't exactly match the name displayed in the address bar. Certificate
+doesn't exactly match the name displayed in the address bar and can indicate
+that attackers might be trying to steal your information (for example,
+passwords, messages, or credit cards). If you believe you are seeing this
+message in error, please contact your network administrator.
+
+
+```
+
+---
+
+@cisco
+
+```
+This page is served by Cisco Secure Access.
+
+ Server: swg-nginx-proxy-https-ed39b0ae52f9.signginx.lax
+
+Wed, 15 Apr 2026 22:00:37 GMT
+```
+
+
+Rashard Kelly Profile Information
+Name: Rashard I Kelly @nasa
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-15-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa it was just a dance class and ppl started stealing from me like @whitehouse [dns](https://www.lapdonline.org/) @cityoflosangeles
+
+
+avatar of user ThakaRashard
+Message fromThakaRashard
+Message was sent1 minute ago
+one of my pages urls is blocked at the library in Los angeles
+
+Message 2 of 4 from Copilot received at 3:02:15 PM That usually points to a **network restriction**, not a GitHub Pages problem with your site itself. If a GitHub Pages URL is blocked from a specific location (like a public library in Los Angeles), it’s typically because the library’s network filters block GitHub domains or GitHub Pages content. Here’s how to narrow it down and what you can do: ### 1. Confirm it’s a network block From the library network: - Try opening a different GitHub Pages site (for example, `https://github.io` user sites). - Try opening `https://github.com` directly. If GitHub or other Pages sites are also blocked, that confirms it’s the library’s network policy. ### 2. Check whether your site is reachable elsewhere From a different network (home, mobile hotspot): - Open the same Pages URL. - If it loads normally, your site isn’t blocked by GitHub. You can also quickly rule out a Pages error by checking: - **[GitHub Status](https://githubstatus.com)** for incidents - That your site doesn’t return a 404 (see **[Troubleshooting 404 errors for GitHub Pages sites](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites)**) ### 3. What the library would need to allow If the library is willing to help, their network admin can allow GitHub’s domains. GitHub documents how to do this here: - **[Allowing access to GitHub’s services from a restricted network](https://docs.github.com/en/get-started/using-github/allowing-access-to-githubs-services-from-a-restricted-network)** They can also retrieve GitHub’s domain list using the REST API if needed (not guaranteed to be fully comprehensive). ### 4. Important limitations GitHub Support can’t unblock a site on a third‑party network, and GitHub Pages doesn’t offer IP‑based allow/deny controls. The unblock has to happen on the library’s side. If you want, tell me: - The **exact Pages URL** - Whether this is a **user/organization site** or a **project site** - What **error message** shows at the library (blocked page text, timeout, DNS error, etc.) That helps confirm there’s nothing Pages‑specific contributing to the block.
+Message fromCopilot
+Message was sent1 minute ago
+That usually points to a network restriction, not a GitHub Pages problem with your site itself.
+
+If a GitHub Pages URL is blocked from a specific location (like a public library in Los Angeles), it’s typically because the library’s network filters block GitHub domains or GitHub Pages content.
+
+Here’s how to narrow it down and what you can do:
+
+1. Confirm it’s a network block
+From the library network:
+
+Try opening a different GitHub Pages site (for example, https://github.io user sites).
+Try opening https://github.com directly.
+If GitHub or other Pages sites are also blocked, that confirms it’s the library’s network policy.
+
+2. Check whether your site is reachable elsewhere
+From a different network (home, mobile hotspot):
+
+Open the same Pages URL.
+If it loads normally, your site isn’t blocked by GitHub.
+You can also quickly rule out a Pages error by checking:
+
+GitHub Status (opens in a new tab) for incidents
+That your site doesn’t return a 404 (see Troubleshooting 404 errors for GitHub Pages sites (opens in a new tab))
+3. What the library would need to allow
+If the library is willing to help, their network admin can allow GitHub’s domains. GitHub documents how to do this here:
+
+Allowing access to GitHub’s services from a restricted network (opens in a new tab)
+They can also retrieve GitHub’s domain list using the REST API if needed (not guaranteed to be fully comprehensive).
+
+4. Important limitations
+GitHub Support can’t unblock a site on a third‑party network, and GitHub Pages doesn’t offer IP‑based allow/deny controls. The unblock has to happen on the library’s side.
+
+If you want, tell me:
+
+The exact Pages URL
+Whether this is a user/organization site or a project site
+What error message shows at the library (blocked page text, timeout, DNS error, etc.)
+That helps confirm there’s nothing Pages‑specific contributing to the block.
+
+References from GitHub Free/Team/Pro
+List of sources used to generate response
+Message 3 of 4 from user ThakaRashard sent at 3:02:25 PM 516 Upstream Certificate CN Mismatch The SSL security certificate presented by this site was issued for a different site's address. This happens when the common name of the SSL Certificate doesn't exactly match the name displayed in the address bar. Certificate doesn't exactly match the name displayed in the address bar and can indicate that attackers might be trying to steal your information (for example, passwords, messages, or credit cards). If you believe you are seeing this message in error, please contact your network administrator.
+avatar of user ThakaRashard
+Message fromThakaRashard
+Message was sentthis minute
+516 Upstream Certificate CN Mismatch The SSL security certificate presented by this site was issued for a different site's address. This happens when the common name of the SSL Certificate doesn't exactly match the name displayed in the address bar. Certificate doesn't exactly match the name displayed in the address bar and can indicate that attackers might be trying to steal your information (for example, passwords, messages, or credit cards). If you believe you are seeing this message in error, please contact your network administrator.
+
+Message 4 of 4 from Copilot received at 3:02:28 PM That error is specific enough to work with. It means the **TLS certificate being served does not match the domain name you’re visiting**, and on GitHub Pages that almost always points to a **custom domain or DNS issue**, not a regional block. Here’s how to fix it. --- ## What the error means A **“Upstream Certificate CN Mismatch”** happens when: - Your Pages site is reached, but - The HTTPS certificate GitHub has for it was issued for a *different hostname* Public networks (like libraries) often **enforce strict certificate validation**, so they’ll block the page instead of showing a warning. --- ## Most common causes on GitHub Pages ### 1. DNS is pointing to GitHub Pages, but the domain isn’t correctly configured in Pages Your DNS might point to `USERNAME.github.io`, but the **custom domain is missing, wrong, or stale** in repository settings. **Fix** 1. Open your repository 2. Go to **Settings → Pages** 3. Check **Custom domain** - Make sure it exactly matches the domain you’re visiting (no `http://`, no paths) 4. If it’s already there: - Click **Remove** - Re‑enter the domain - Click **Save** This forces GitHub to reprovision the certificate Docs: **[Securing your GitHub Pages site with HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)** --- ### 2. Incorrect DNS records (very common) If *any* extra records exist, GitHub may issue a cert for the wrong host. Verify your DNS matches one of the supported setups exactly: #### Apex domain (`example.com`) Use **only one** of these approaches: **A records** ``` 185.199.108.153 185.199.109.153 185.199.110.153 185.199.111.153 ``` or **ALIAS / ANAME** ``` USERNAME.github.io ``` #### Subdomain (`www.example.com`) ``` CNAME → USERNAME.github.io ``` Docs: **[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)** ⚠️ Remove: - Wildcard records (`*.example.com`) - Duplicate `A`, `AAAA`, or `CNAME` records for the same host --- ### 3. HTTPS certificate hasn’t finished provisioning After DNS or domain changes: - Certificate creation can take **up to an hour** - Some networks fail hard until it completes If you see **“Certificate not yet created”** in Pages settings: - Remove and re‑add the custom domain to restart the process Docs: **[Troubleshooting HTTPS errors](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#https-errors)** --- ### 4. Domain is not verified (recommended) Unverified domains are more likely to break when configurations change. **Verify the domain** at the account or organization level: - **[Verifying your custom domain for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)** This also protects against takeover issues. --- ## Why it only fails at the LA library Many public institutions: - Use TLS‑inspecting proxies - Reject **any** CN mismatch outright - Don’t allow users to bypass warnings So even if the site “works at home,” the cert mismatch will get blocked there. --- ## Next step If you want a precise answer instead of a checklist, share: - The **exact URL** that’s blocked - Whether it’s using a **custom domain** - Whether Pages shows a ✅ or an error next to the domain With that, I can tell you exactly which record or setting is causing the mismatch.
+Message fromCopilot
+Message was sentthis minute
+That error is specific enough to work with. It means the TLS certificate being served does not match the domain name you’re visiting, and on GitHub Pages that almost always points to a custom domain or DNS issue, not a regional block.
+
+Here’s how to fix it.
+
+What the error means
+A “Upstream Certificate CN Mismatch” happens when:
+
+Your Pages site is reached, but
+The HTTPS certificate GitHub has for it was issued for a different hostname
+Public networks (like libraries) often enforce strict certificate validation, so they’ll block the page instead of showing a warning.
+
+Most common causes on GitHub Pages
+1. DNS is pointing to GitHub Pages, but the domain isn’t correctly configured in Pages
+Your DNS might point to USERNAME.github.io, but the custom domain is missing, wrong, or stale in repository settings.
+
+Fix
+
+Open your repository
+Go to Settings → Pages
+Check Custom domain
+Make sure it exactly matches the domain you’re visiting (no http://, no paths)
+If it’s already there:
+Click Remove
+Re‑enter the domain
+Click Save This forces GitHub to reprovision the certificate
+Docs: Securing your GitHub Pages site with HTTPS (opens in a new tab)
+
+2. Incorrect DNS records (very common)
+If any extra records exist, GitHub may issue a cert for the wrong host.
+
+Verify your DNS matches one of the supported setups exactly:
+
+Apex domain (example.com)
+Use only one of these approaches:
+
+A records
+
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+or
+
+ALIAS / ANAME
+
+USERNAME.github.io
+Subdomain (www.example.com)
+CNAME → USERNAME.github.io
+Docs: Managing a custom domain for your GitHub Pages site (opens in a new tab)
+
+⚠️ Remove:
+
+Wildcard records (*.example.com)
+Duplicate A, AAAA, or CNAME records for the same host
+3. HTTPS certificate hasn’t finished provisioning
+After DNS or domain changes:
+
+Certificate creation can take up to an hour
+Some networks fail hard until it completes
+If you see “Certificate not yet created” in Pages settings:
+
+Remove and re‑add the custom domain to restart the process
+Docs: Troubleshooting HTTPS errors (opens in a new tab)
+
+4. Domain is not verified (recommended)
+Unverified domains are more likely to break when configurations change.
+
+Verify the domain at the account or organization level:
+
+Verifying your custom domain for GitHub Pages (opens in a new tab)
+This also protects against takeover issues.
+
+Why it only fails at the LA library
+Many public institutions:
+
+Use TLS‑inspecting proxies
+Reject any CN mismatch outright
+Don’t allow users to bypass warnings
+So even if the site “works at home,” the cert mismatch will get blocked there.
+
+Next step
+If you want a precise answer instead of a checklist, share:
+
+The exact URL that’s blocked
+Whether it’s using a custom domain
+Whether Pages shows a ✅ or an error next to the domain
+With that, I can tell you exactly which record or setting is causing the mismatch.
+
+References from GitHub Free/Team/Pro
+List of sources used to generate response
+
+
+
+
+@cityoflosangeles ![https://citycouncil.atlantaga.gov/Project/Contents/Main/_gfx/cmn/mobile/logo_small.png](https://citycouncil.atlantaga.gov/Project/Contents/Main/_gfx/cmn/mobile/logo_small.png) 
+my daughter was kidnapped in decature and they let her mom open a stip club. i just need a few buck here and there im working ! I get paid on a differnt clock because we build and monitor machines @nasa at the end of the day!!!!!!!!!!!!!!!!!!!!! @NBCNEWS @DATADESK 
+
+
+
+@dhs-gov @la-county-isd
 # NASA's Artemis II Live Views from Orion
 [WATCH @CityOflOsAngeles](https://youtu.be/6RwfNBtepa4) 
 
-@nasa-pds the camera was flikering on orion and somoen told me to report that 
+@nasa-pds the camera was flitering on orion and somoen told me to report that 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/63553541-cd5b-446d-bba7-2bf3a2375622" />
 
