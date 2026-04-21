@@ -8,7 +8,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
-[@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+[@letschat@virtiserv.com @nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles @stateofcalifornia](mailto:letschat@virtiserv.com)
 
 
 <img  alt="Screenshot_20260421-052137" src="https://github.com/user-attachments/assets/69e3b815-bb88-470e-b7bb-a2cb84715e33" />
