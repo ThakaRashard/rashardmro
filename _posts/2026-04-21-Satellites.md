@@ -27,6 +27,29 @@ The Story of NASA's Spaceflight Tracking and Data Network
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
+
+## NASA News Conference: 
+Nancy Grace Roman Space Telescope is Complete
+[Watch youtube.com/watch?v=XX4f6dOoi08](youtube.com/watch?v=XX4f6dOoi08)
+Our new flagship telescope is fully assembled. Come find out what it will discover.
+
+We're hosting a news conference at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, to talk about our Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing.
+
+Participants include:
+NASA Administrator Jared Isaacman
+Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters, Washington
+Jamie Dunn, Roman telescope project manager, NASA Goddard
+Julie McEnery, Roman telescope senior project scientist, NASA Goddard
+
+Named after NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will have a deep, panoramic view of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of the universe. Roman will also showcase cutting-edge technology, including a test of the most advanced technology ever flown in space to directly image planets around nearby stars, a key step in NASA’s search for life on other worlds.
+
+Learn more: https://www.nasa.gov/news-release/nas...
+
+Credit: NASA
+![https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014461/Roman_Mirror_Overlay_Still.jpg @blackgirlscode @newshour @npr @Nasa-jpl](https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014461/Roman_Mirror_Overlay_Still.jpg)
+
+<img   src="https://github.com/user-attachments/assets/449bee36-2f4f-4c20-bbbe-41bf8c01104a" />
+
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
