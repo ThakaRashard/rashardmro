@@ -1210,12 +1210,15 @@ The Facebook onion address located at https://www.facebookwkhpilnemxj7asaniu7vnj
 	
 <h1>AXIOM-4 SPLASHDOWN, July 15, 2025, coastal California, 5:31 am ET</h1>
 During undocking activities on July 14, the webcast commentator said Axiom-4 will splashdown on July 15 at 5:31 am ET off the coast of California, about 22.5 hours after undocking.  SpaceX has moved all of its splashdowns (Dragon recovery locations) for crew and cargo to off the coast of California instead of Florida. [spacepolicyonline.com](https://spacepolicyonline.com/events/axiom-4-splashdown-july-15-2025-coastal-california-531-am-et/)
+
 <img src="https://spacepolicyonline.com/wp-content/uploads/2025/03/dragon-recovery-locations-CA-768x366.png" />
 
 <video controls itemprop="location" itemscope itemtype="https://schema.org/Place">
+	
 <source src="https://ia800905.us.archive.org/23/items/mars-m-r-o-landing-scout-rashard-kelly-hi-ri-se-univeresity-of-ari-zon-nasa-jet-propulsi-on-lab-mro/MARS_M_R_O_landingScout_rashardKelly_HiRiSE_Univeresity_of_ARiZON_NASA_JET_PROPULSiON_LAB_MRO.mp4" type="video/mp4">
 <source src="https://ia600905.us.archive.org/23/items/mars-m-r-o-landing-scout-rashard-kelly-hi-ri-se-univeresity-of-ari-zon-nasa-jet-propulsi-on-lab-mro/MARS_M_R_O_landingScout_rashardKelly_HiRiSE_Univeresity_of_ARiZON_NASA_JET_PROPULSiON_LAB_MRO.mp4" type="video/mp4">
 Your browser does not support the video tag.
+	
 </video> 
 
 <iframe src="https://archive.org/embed/Mars_PDS_SWOT_ECOSTRESS_EMIT" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -1259,27 +1262,8 @@ did i attack him St. Francis Center earlier ? #Undercover ? [https://ia601401.us
 
 @nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
 [splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
-
-### WebSite Analytics [rashard_mro @nasa @whitehouse @google @nasa-jpl @deptofdefense @atfweb @dhs-gov @stateofcalifornia good morning + @blackgirlscode](https://analytics.google.com/analytics/web/#/p460744555/reports/explorer?r=all-pages-and-screens&params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22unifiedPagePathScreen%22,%22firstTouchDate%22%5D%26_r.explorerCard..sortKey%3Dd-1&ruid=4a625d4a-811d-4a18-8023-7e8d72ec8f81&collectionId=11116098727)
-@google my analytics super bad after the last attack @podaac @CityoflosAngeles @stateofcalifornia
-<img alt="https://analytics.google.com/analytics/web/#/p460744555/reports/intelligenthome" src="https://github.com/user-attachments/assets/94ea86b9-86fb-438c-bc59-62adafa390fe" />
-<img alt="image" src="https://github.com/user-attachments/assets/3430e185-98e9-4ef0-8f99-0edf18a78fea" />
-<img alt="image" src="https://github.com/user-attachments/assets/bb395cf2-1c8c-42d5-a5b5-06e3fc7a117d" />
-<img alt="Top pages/screens" src="https://github.com/user-attachments/assets/30f3549a-fadd-4e5c-a8b4-0955d3edd10d" />
-<img alt="///" src="https://github.com/user-attachments/assets/c73f3107-6b97-4c57-b5e9-e00401bd8681" />
-<img alt="Landing page: Landing page" src="https://github.com/user-attachments/assets/dc62681b-61f4-47fd-a846-f1cb66fcd107" />
-<img alt="image" src="https://github.com/user-attachments/assets/e97eac0e-bbaf-438e-8b14-d4301d3479bb" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/36f1414f-f442-444d-968f-badba21d0ef3" />
-<img alt="image" src="https://github.com/user-attachments/assets/cdd53b3c-03fc-48fa-ba7d-1e28cdd0a049" />
-
-
-# [doxxed](https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flsrc%3Dlb#) @nasa-jpl ?@nasa @whitehouse @cityoflosangeles please understand im finding out who my responsible relatives are and i work with dangerous equipment and hold secrets that are not for ppl that might be annoying to you, but please forgive yourself because kidnapping confuses everyone @stateofcalifonia [gavin newsom](https://yandex.com/search/?text=gavin+newsome&lr=20765&search_source=yacom_desktop_common) [rep karen bass](https://yandex.com/search/?text=rep+karen+bass&lr=20765) 
-![image](https://github.com/user-attachments/assets/816203b5-c6f0-4046-b3f8-a75ec39a6614)
-![image](https://github.com/user-attachments/assets/3528ab5b-0716-48b1-ae98-d61931d21a10)
-
-@nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
-[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+`Books` [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) / [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) /[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) / [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /
+The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) {% include nav.html %}
