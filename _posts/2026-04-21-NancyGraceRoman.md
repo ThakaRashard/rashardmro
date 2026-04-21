@@ -2,10 +2,10 @@
 layout: post
 mermaid: true
 published: true
-title: Satellites
-image: 0102619orig.webp
+title: "Nancy Grace Roman Space Telescope"
+image: Roman_Mirror_Overlay_Still.jpg
 author: "RashardKelly @nasa-jpl"
-permalink: /Satellites
+permalink: /nancygrace
 ---
 
 
@@ -125,7 +125,6 @@ As U.S. EPA rolls back protections, California launches satellite project to det
 @TheSpaceDevs [MathML Core @blackgirlscode](https://w3c.github.io/mathml-core/#the-top-level-math-element)
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EyMKK3vfZ7mRmM6FxNwx5PnnbQg469nD4RcgTKU4X9PciKAfm2fwBFb2Q77VXdvUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # PreLaunch  Plots
 [WindSpeed @airbus @nasa-jpl 20253201800-GOES18](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20253191800-20253201800-GOES18-ABI-FD-DMW-1808x1808.gif)
@@ -168,7 +167,6 @@ Agreed To Sentinel-3 EULA: True
 hi @nasa-jpl @nasa-develp @nasa @whitehouse its a checking @blackgirlscode
 Long Beach Public Library we have a launch meeting in an hour dail in if you like -#rashard NASA Jet Propulsion Laboratory Karen Bass plz referee im getting tased on this pc! Normani are you having sex ? ? ? 2 Los Angeles Wave U.S. Department of War Secretary of War Pete Hegseth @datadesk 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0utHY3gMoiiAworXrPkk3PChvh7tLXBetsWhJ5fW1smgHw2WmxnXHMPpBUKdAUz4Cl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 # Mars Reconnaissance Orbiter (MRO)
@@ -210,7 +208,7 @@ instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data wi
 @blackgirlscode @blueorigin Preparing for Martian Explorers: NASA's ESCAPADE Investigates [Mars Space Weather](https://youtu.be/iSrMOB2oxX4) // [NASA’s ESCAPADE Mission to Mars - LEARNWiTH @NAsa](https://youtu.be/nBa5ZIt_M2c)
 // [Planet Mars: 1979 - US NATiONAL ARCHiVES](https://youtu.be/dZzY8-nxabA)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 Thaka Sartu
 Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
@@ -459,7 +457,6 @@ There have been 46 space missions to the planet Venus [wiki](https://en.wikipedi
 
 <iframe src="https://archive.org/embed/20250816_20250816_1754_EcoStress_CRAM" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid0JfgMYLrQzaansxxbGMyPedyKm3ReJuuWDFmnYoBGe7KeYbZP1ECYXfh5WnWBNT24l&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/139132715_853010218832110_867348476190138051_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=yvPIPM2tcngQ7kNvwHeKoTl&amp;_nc_oc=AdnN0xr-yrmwZy1xnWKwQlTTyO9Sebr409rtLogpohiIr3AP-2qL2POlVhWsXqgadGQ&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=EnKPqz1-3hgjt48jn_NiTA&amp;oh=00_AfW2ddnwz5bU9GeAOa2NIjAPVJQcUpn1Evcuyfib1WT9Pw&amp;oe=68CB3B57" alt="No photo description available."/><img width="1848" height="1224" alt="image" src="https://github.com/user-attachments/assets/d869c1d7-cf04-4e8c-8ec1-3a1bcf80d43f" />
 
@@ -496,11 +493,6 @@ catagory post loop - by [Rashard Kelly](https://kellyrashardiman.github.io/) [NA
 [BinderHub](https://binderhub.readthedocs.io/en/latest/) BinderHub is a kubernetes-based cloud service that allows users to share reproducible interactive computing environments from code repositories. It is the primary technology behind [https://mybinder.org/](https://mybinder.org/) [How-to Guides](https://repo2docker.readthedocs.io/en/latest/howto/index.html) [x11docker/gnome](https://hub.docker.com/r/x11docker/gnome)
 [You’ve discovered the about page of Michael Rose.](https://mademistakes.com/about/) + [MASTERinG_JEKYLL](https://mademistakes.com/mastering-jekyll/)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0o3cVJ7aWyGtXM35RvLcojbcgAGWzebhFjZb4SsYg2cPwW4SNNdPC8m4y9gLxd16l%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02oLQCy2seUB1PuT89KmCxUJuM4UnofkMXUkmEtSBEmf94ArSekuoeRmzKDgVDSUVjl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Eu9WmsovNrcBkG7MwNe7Z8u69nLBT35dFPAVDj8y4DDMbY4Zv7WfAmMokCQ8t72kl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ### Check out [LROC](https://lroc.im-ldi.com/)
 <img   alt="image" src="https://github.com/user-attachments/assets/6fd05625-bdf7-482f-8ba8-725b0e811da8" />
@@ -992,8 +984,6 @@ Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a 
 
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0rY41gGEAYA7wyh3EcEyobxKmTM85yFgzRcNqhzQ8BxkgCc6x4ea6a2tVTpZDZamPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="788" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 
 @nasa last post i put [NASASpaceFlight](https://kellyrashardiman.github.io/compiling/they-said-it-was-live) on 'They Said It Was Live"
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNASASpaceflight%2Fposts%2Fpfbid02RvEprbZdSW9jcUfttZLNkVW1tg7Ngx6GJtF9utzLwSWHu5aK4WyvX4owQQZ7zbcpl&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -1002,20 +992,20 @@ Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a 
 [bundle @nasa someone is breaking me markdown previews @github](https://solarsystem.nasa.gov/downloads/download_6286_1754075759.zip)
 
 <video width="320" height="240" controls autoplay loop>
+	
   <source src="https://ia600904.us.archive.org/27/items/compiling-CAssiniRingsClosechangeswithLight/ezgif-31f16762484a49.mp4" type="video/mp4">
+  
 <source src="https://raw.githubusercontent.com/ThakaRashard/rashardmro/refs/heads/master/assets/video/saturnsRings2005.mp4" type="video/mp4">
+
   <source src="https://ia800904.us.archive.org/27/items/compiling-CAssiniRingsClosechangeswithLight/ezgif-31f16762484a49.mp4" type="video/mp4">
 
   Your browser does not support the video tag.
+  
 </video>
 
 
 [The Regulation of Atomic Radiation (Special Version)](https://youtu.be/vE8fMJh8-Tg) [Within this Decade: America in Space - 1969](https://youtu.be/Z-8qS-fdBy4?si=0AS9Zwf8-il9cLxI) [Space for Women (Extended Version)](https://youtu.be/yypaV7IFcQM?si=6nfIedVy_rIQSeC8) [Close Up of the Moon, A Look at Lunar Orbiter, ca. 1966 - ca. 1971](https://youtu.be/wEnRn8OEXW0) [NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://youtu.be/JPAyg7-p9oM?si=VgFrJ48onTX69aCp) [Musical Descent to Titan](https://www.youtube.com/watch?v=P7rVj_XbDnU&ab_channel=NASASolarSystem) [Viking - Remaster NASA Documentary, 1976 - Planet Mars, Space, Search for Life, Mars Landing](https://youtu.be/qiEkuME9O2g) [PLANET MARS (Mariner, Viking) - NASA Documentary (1979)](https://youtu.be/LYGerLj-s5E) [@nasa 's [SpaceX](https://www.facebook.com/photo.php?fbid=724399677052190&set=p.724399677052190&type=3) Crew-11 Launch ([July 31, 2025](https://youtu.be/U-k_LyA1DQQ?t=3198) Attempt) [Eric Burdon - The Vision Of Rassan](https://www.youtube.com/watch?v=14iUJFTmWJE&ab_channel=MrKarat68) @whitehouse @nasa-jpl [fox35orlando launch recap](https://www.fox35orlando.com/news/spacex-crew-11-rocket-launch-updates-august-1-2025?fbclid=IwY2xjawL5z6pleHRuA2FlbQIxMQABHgDn91vZQKNgOK-MhY13Ksc0GM4aC2v9umZ6rph8EV_mrURStGIVGbnXsFja_aem_gL1OUqlwVJZSoxG6uXpBWA) [TeslaDinerRevolt](https://thakarashard.github.io/compiling/Tesla-Diner-Revolt) :: [Earth's Atmosphere Layers](https://svs.gsfc.nasa.gov/20014/) [layers-of-atmosphere @NoAAgov https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere](https://www.noaa.gov/jetstream/atmosphere/layers-of-atmosphere) [CAssini ciCLops / maps](https://ciclops.org/maps/Cartographic.html)
 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bBsvfPZiSkGQBTbx8uiX4Nh2EZXtQZPxJxZWUx1rHQhcjNd9MsV8E5vAhtrPaaNcl%26id%3D100084464911565&show_text=true&width=500" width="500" height="684" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0oTpYdoafvBEvxWZxGjaFNYwGYPn9F3MSrZP6pfvLvn2jFstBQo2kpqsq2j61kjc1l%26id%3D100084464911565&show_text=true&width=500" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # CAssini
 
@@ -1024,6 +1014,7 @@ Im looking for more color images and seeking an understanding on false color and
 
 
 [W00006765](https://solarsystem.nasa.gov/raw_images/69301/?layout=hds)
+
 <div class="tupperware">
 
  <img src="https://solarsystem.nasa.gov/images/casJPGFullS10/W00006765.jpg" alt="W00006765.jpg was taken on 2005-05-02 08:32 (PDT) and received on Earth 2005-05-04 10:19 (PDT)" />
@@ -1053,8 +1044,6 @@ Im looking for more color images and seeking an understanding on false color and
 
 <iframe src="https://archive.org/embed/PLAN-PIA07212" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0EhzpT5TMSmaMHYa35aDN147rFpCsT1DBWTjDBCn8YL37mEWQdjY5ARkXB6JxJSVSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 <div class="tupperware" markdown="1" >
 	
 ![f703b22 imq](https://github.com/user-attachments/assets/f67b35a7-1ff7-43ab-9a7e-7e0c80172310)
@@ -1066,8 +1055,6 @@ Im looking for more color images and seeking an understanding on false color and
 ![f703b38 imq](https://github.com/user-attachments/assets/2f0557e7-a062-4f48-97ab-98c58d358009)
 
 </div>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02C6dUg1w9wCS5D6c5fpQpDancdBohU75iLsZgkX9nsxnHSwJZo5ed6dSd4v5rUQdSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="539" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [ATLAS -SNOW ](https://pds-imaging.jpl.nasa.gov/beta/archive-explorer?mission=mgs&bundle=mgsc_1576&uri=atlas:pds3:mgs:mars_global_surveyor:/mgsc_1576/s22016/s2201621.imq-) : [imq](https://planetarydata.jpl.nasa.gov/img/data/mgs/moc/mgsc_1576/s22016/s2201621.imq) : [artimis](https://www.nasa.gov/mission/artemis-ii/) [Near Space Network (NSN)](https://esc.gsfc.nasa.gov/projects/NSN) 
 
@@ -1184,7 +1171,9 @@ over 2025-07-17 00:46:20Z - 2025-07-20 00:27:40Z
 	
 <img alt="image" src="https://github.com/user-attachments/assets/34502a8d-0f72-4b7f-aaec-13a80f863944" />
 <img alt="image" src="https://github.com/user-attachments/assets/57a88360-16b9-4b6c-98e6-72288083d19a" />
+
 </div>
+
 # NasaInsight [ATLAS-PDS @nasa-jpl](https://planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/data/sol/0014/mipl/edr/icc/C000M0014_597774697EJP_F0000_0130M2.JPG)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/edd41cca-fe52-4c23-8085-259c6a272e1d" />
@@ -1196,6 +1185,7 @@ over 2025-07-17 00:46:20Z - 2025-07-20 00:27:40Z
 
 ## US_FiREMAP:[CLiCKHERE](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-101.3,40.2,4.1z)
 @LACMTA @whitehouse @dhs-gov @atfweb @deptofdefense @boeing @nasa-jpl  @google  @cityoflosangeles @stateofcalifornia please tell [Karen Bass](https://karenbass.com/) [@blackgirlscode](https://www.youtube.com/live/IKRwdxtuwas?si=Wa8O-Rm0IJ2DvOnB)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1a73a3b7-4cf1-4cf4-b850-90a42bf13cc6" />
 <img  alt="FIRMS_24hrs @-100 0,40 0,4 0z" src="https://github.com/user-attachments/assets/3080aa3c-8d1c-4cbc-9148-83b2b98f8f3e" />
 
@@ -1263,8 +1253,6 @@ aDD Michael McCarriagher is an exceptional manager in the Division of Forensic S
 
 
 did i attack him St. Francis Center earlier ? #Undercover ? [https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250714-202653.mp4](https://ia601401.us.archive.org/6/items/California_Linux_SANTADENAWATERWAYS/screen-20250714-202653.mp4) anyway NBC LA use #PeePeeMail so its hard to get to a lot of shit NASA Space Communications and Navigation how can i not be hurt by your management? I was supressed and could not find anything to track Axiom Space! and missed the event, someone poisoned me bad and i got sleepy but NASA Jet Propulsion Laboratory Bill Nelson if i had a special app to always have the updates i could have navigated the poisoner! #yourfault! #myfault for listening to music at work NASA Mars #JUNO bc i was told we need the normal population tracking things confidently and #CitizenScience is a mandate of the state of California Gavin Newsom i think im wrong again, but i think u just take charming photos... Congressmember Karen Bass Keisha Lance Bottoms DeKalb County Police Department
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGeorgia.Bureau.of.Investigation%2Fposts%2Fpfbid0364D582iizGsCQ2jK9LSumh5p7bfBSpxkMCc9TQDU43suWVsiy8JD5NDZvMdM61Rl&show_text=true&width=500" width="500" height="738" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
 
 ![Username rashardkelly](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
@@ -1299,8 +1287,6 @@ did i attack him St. Francis Center earlier ? #Undercover ? [https://ia601401.us
 ![nasa_logo](https://github.com/user-attachments/assets/90a525c8-a81a-4334-ad15-67a242b271d6)
 
 # Compiling
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0yuVME9zLWRVyabRtgR93KFLcQWafv13Md4amSyPsRr4m8gdxsozVX4AuL1GR8ENFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 @nasa-jpl i hope this makes it through, its another [WeatherReport on @codepen](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) in a zip file named [splashdownweather.zip](https://archive.org/download/vid-20250714-084801/splashdownweather.zip) @cityoflosangeles @stateofcalifornia we need to alert all law enforce ment of [TheSplashdown](https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/) and beware of [california](https://www.justice.gov/usao-cdca/pr/four-southern-california-men-arrested-charges-alleging-they-kidnapped-migrants-and) [poachers](https://wildlife.ca.gov/Enforcement/CalTIP) to make sure they get to [The Lab](https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/) or [AirForce base](https://www.losangeles.spaceforce.mil/), whatever applies safely
 -[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html) :: @blackgirlscode, goodluck with [The Splashdown](https://www.floridatoday.com/story/tech/science/space/2025/07/14/axiom-spacex-splashdown-california-how-watch-nasa/85189399007/) i dont know how ot track the object! :( 
