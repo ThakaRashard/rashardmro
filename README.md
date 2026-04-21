@@ -2,6 +2,26 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
+
+```html
+
+~$ curl virtiserv.com
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
+
+~$ curl whitehouse.gov
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+~ $
+```
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2a5ee214-c88f-4361-8799-e8f5f5e4c027" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
 
 <img src="https://1000logos.net/wp-content/uploads/2021/04/FreeBSD-logo-500x281.png">

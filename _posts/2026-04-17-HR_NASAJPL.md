@@ -12,9 +12,394 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
+
+```html
+curl virtiserv.com
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>~ $ curl whitehouse.gov
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+~ $
+```
+
+@la-county-isd hollyjmitchell [coral k
+login.jw.org/en/forgot-username](https://login.jw.org/en/forgot-username) [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa ' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with  with hostname ~ $ bash -x types.sh |grep aka
++ echo 'CURRENT DNS MAP'
++ uname -a @cityoflosangeles
++ ifconfig -a
+Warning: cannot open /proc/net/dev (Permission denied). Limited output.
++ uptime
++ cal @cia @usnavy 
++ nslookup -type=ns jpl.nasa.gov
+jpl.nasa.gov    nameserver = a2-67.akam.net.
+jpl.nasa.gov    nameserver = a11-67.akam.net.
+jpl.nasa.gov    nameserver = a14-67.akam.net. @nasa-jpl
+jpl.nasa.gov    nameserver = a8-65.akam.net.
+jpl.nasa.gov    nameserver = a1-91.akam.net.
+jpl.nasa.gov    nameserver = a7-65.akam.net.
+a11-67.akam.net internet address = 84.53.139.67
+a14-67.akam.net internet address = 184.26.161.67
+a2-67.akam.net  internet address = 95.100.174.67
+a1-91.akam.net  internet address = 193.108.91.91
+a7-65.akam.net  internet address = 23.61.199.65
+a8-65.akam.net  internet address = 2.16.40.65
+a11-67.akam.net has AAAA address 2600:1480:1::43
+a14-67.akam.net has AAAA address 2600:1480:1800::43
+a2-67.akam.net  has AAAA address 2600:1480:7000::43
+a1-91.akam.net  has AAAA address 2600:1401:2::5b
+a7-65.akam.net  has AAAA address 2600:1406:32::41
+a8-65.akam.net  has AAAA address 2600:1403:a::41
++ nslookup -type=ns jpl.nasa.gov
+jpl.nasa.gov    nameserver = a2-67.akam.net.
+jpl.nasa.gov    nameserver = a8-65.akam.net.
+jpl.nasa.gov    nameserver = a1-91.akam.net.
+jpl.nasa.gov    nameserver = a11-67.akam.net.
+jpl.nasa.gov    nameserver = a14-67.akam.net.
+jpl.nasa.gov    nameserver = a7-65.akam.net.
+a11-67.akam.net internet address = 84.53.139.67
+a14-67.akam.net internet address = 184.26.161.67
+a2-67.akam.net  internet address = 95.100.174.67
+a1-91.akam.net  internet address = 193.108.91.91
+a7-65.akam.net  internet address = 23.61.199.65
+a8-65.akam.net  internet address = 2.16.40.65
+a11-67.akam.net has AAAA address 2600:1480:1::43
+a14-67.akam.net has AAAA address 2600:1480:1800::43
+a2-67.akam.net  has AAAA address 2600:1480:7000::43
+a1-91.akam.net  has AAAA address 2600:1401:2::5b
+a7-65.akam.net  has AAAA address 2600:1406:32::41
+a8-65.akam.net  has AAAA address 2600:1403:a::41
++ nslookup -type=mx lacourt.ca.gov
++ nslookup -type=ns lacourt.ca.gov
++ nslookup -type=ns lacourt.org
++ nslookup -type=mx lacourt.org
++ nslookup -type=ns nasa.gov
+nasa.gov        nameserver = a8-66.akam.net.
+nasa.gov        nameserver = a5-66.akam.net.
+nasa.gov        nameserver = a9-64.akam.net.
+nasa.gov        nameserver = a14-67.akam.net.
+nasa.gov        nameserver = a12-64.akam.net.
+nasa.gov        nameserver = a1-32.akam.net.
+a5-66.akam.net  internet address = 95.100.168.66
+a1-32.akam.net  internet address = 193.108.91.32
+a9-64.akam.net  internet address = 184.85.248.64
+a14-67.akam.net internet address = 184.26.161.67
+a8-66.akam.net  internet address = 2.16.40.66
+a12-64.akam.net internet address = 184.26.160.64
+a5-66.akam.net  has AAAA address 2600:1480:b000::42
+a1-32.akam.net  has AAAA address 2600:1401:2::20
+a9-64.akam.net  has AAAA address 2a02:26f0:117::40
+a14-67.akam.net has AAAA address 2600:1480:1800::43
+a8-66.akam.net  has AAAA address 2600:1403:a::42
+a12-64.akam.net has AAAA address 2600:1480:f000::40
++ nslookup -type=mx nasa.gov
++ nslookup -type=mx cia.gov
++ nslookup -type=ns cia.gov
+cia.gov nameserver = a13-65.akam.net.
+cia.gov nameserver = a1-22.akam.net.
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a22-66.akam.net.
+cia.gov nameserver = a3-64.akam.net.
+cia.gov nameserver = a12-65.akam.net.
+a16-67.akam.net internet address = 23.211.132.67
+a22-66.akam.net internet address = 23.211.61.66
+a3-64.akam.net  internet address = 96.7.49.64
+a12-65.akam.net internet address = 184.26.160.65
+a13-65.akam.net internet address = 2.22.230.65
+a1-22.akam.net  internet address = 193.108.91.22
+a16-67.akam.net has AAAA address 2600:1406:1b::43
+a22-66.akam.net has AAAA address 2600:1480:7800::42
+a3-64.akam.net  has AAAA address 2600:1408:1c::40
+a12-65.akam.net has AAAA address 2600:1480:f000::41
+a13-65.akam.net has AAAA address 2600:1480:800::41
+a1-22.akam.net  has AAAA address 2600:1401:2::16
++ traceroute google.com
++ nslookup -type=mx google.com
++ nslookup -type=ns google.com
++ nslookup -type=ns fbi.gov
++ nslookup -type=mx fbi.gov
++ nslookup -type=mx noaa.gov
++ nslookup -type=ns noaa.gov
++ nslookup -type=mx lacity.gov
++ nslookup -type=ns lacity.org
++ nslookup -type=ns longbeach.gov
++ nslookup -type=mx longbeach.gov
++ nslookup -type=mx lapl.org
++ nslookup -type=mx lapl.org
++ nslookup -type=ns georgia.gov
++ nslookup -type=mx georgia.gov
++ nslookup -type=mx georgia.gov
++ nslookup -type=mx earthlink.net
++ nslookup -type=ns earthlink.net
++ nslookup -type=mx waterandpower.org
++ nslookup -type=ns waterandpower.org
++ nslookup -type=mx level3.net
++ nslookup -type=ns level3.net
++ nslookup -type=ns fultoncountyga.gov
++ nslookup -type=mx fultoncountyga.gov
++ nslookup -type=mx whitehouse.gov
++ nslookup -type=mx whitehouse.gov
++ nslookup -type=mx metro.net
++ nslookup -type=ns metro.net
++ nslookup -type=ns lacounty.gov
++ nslookup -type=mx lacounty.gov
++ nslookup -type=ns commerce.gov
++ nslookup -type=mx commerce.gov
++ nslookup -type=ns polb.com
+polb.com        nameserver = a22-67.akam.net.
+polb.com        nameserver = a9-67.akam.net.
+polb.com        nameserver = a14-64.akam.net.
+polb.com        nameserver = a5-67.akam.net.
+polb.com        nameserver = a1-172.akam.net.
+polb.com        nameserver = a28-65.akam.net.
+a5-67.akam.net  internet address = 95.100.168.67
+a1-172.akam.net internet address = 193.108.91.172
+a9-67.akam.net  internet address = 184.85.248.67
+a22-67.akam.net internet address = 23.211.61.67
+a14-64.akam.net internet address = 184.26.161.64
+a28-65.akam.net internet address = 95.100.173.65
+a5-67.akam.net  has AAAA address 2600:1480:b000::43
+a1-172.akam.net has AAAA address 2600:1401:2::ac
+a9-67.akam.net  has AAAA address 2a02:26f0:117::43
+a22-67.akam.net has AAAA address 2600:1480:7800::43
+a14-64.akam.net has AAAA address 2600:1480:1800::40
+a28-65.akam.net has AAAA address 2600:1480:d800::41
++ nslookup -type=mx polb.com
++ nslookup -type=mx wellsfargo.com
++ nslookup -type=ns wellsfargo.com
+wellsfargo.com  nameserver = a24-66.akam.net.
+wellsfargo.com  nameserver = a2-64.akam.net.
+wellsfargo.com  nameserver = a1-189.akam.net.
+a1-189.akam.net internet address = 193.108.91.189
+a24-66.akam.net internet address = 2.16.130.66
+a2-64.akam.net  internet address = 95.100.174.64
+a1-189.akam.net has AAAA address 2600:1401:2::bd
+a24-66.akam.net has AAAA address 2600:1480:9800::42
++ nslookup -type=ns musiccenter.org
++ nslookup -type=mx musiccenter.org
++ traceroute musiccenter.org
++ nslookup -type=ns laopera.org nslookup -type=mx laopera.org traceroute laoperA.org
+Usage:
+   nslookup [-opt ...]             # interactive mode using default server
+   nslookup [-opt ...] - server    # interactive mode using 'server'
+   nslookup [-opt ...] host        # just look up 'host' using default server
+   nslookup [-opt ...] host server # just look up 'host' using 'server'
++ nslookup -type=ns fire.ca.gov nslookup -type=ns ca.gov
+Usage:
+   nslookup [-opt ...]             # interactive mode using default server
+   nslookup [-opt ...] - server    # interactive mode using 'server'
+   nslookup [-opt ...] host        # just look up 'host' using default server
+   nslookup [-opt ...] host server # just look up 'host' using 'server'
++ nslookup -type=mx ca.gov
++ nslookup -type=mx fire.ca.gov
++ nslookup -type=ns stfranciscenterla.org
++ nslookup -type=mx stfranciscenterla.org
++ nslookup -type=mx lacounty.govnslookup -type=ns lacounty.govnslookup -type=mx state.gov
+Usage:
+   nslookup [-opt ...]             # interactive mode using default server
+   nslookup [-opt ...] - server    # interactive mode using 'server'
+   nslookup [-opt ...] host        # just look up 'host' using default server
+   nslookup [-opt ...] host server # just look up 'host' using 'server'
++ nslookup -type=ns state.gov
+state.gov       nameserver = a14-64.akam.net.
+state.gov       nameserver = a1-63.akam.net.
+state.gov       nameserver = a3-66.akam.net.
+state.gov       nameserver = a26-65.akam.net.
+state.gov       nameserver = a9-64.akam.net.
+state.gov       nameserver = a8-67.akam.net.
+a26-65.akam.net internet address = 23.74.25.65
+a1-63.akam.net  internet address = 193.108.91.63
+a3-66.akam.net  internet address = 96.7.49.66
+a14-64.akam.net internet address = 184.26.161.64
+a8-67.akam.net  internet address = 2.16.40.67
+a9-64.akam.net  internet address = 184.85.248.64
+a26-65.akam.net has AAAA address 2600:1480:b800::41
+a1-63.akam.net  has AAAA address 2600:1401:2::3f
+a3-66.akam.net  has AAAA address 2600:1408:1c::42
+a14-64.akam.net has AAAA address 2600:1480:1800::40
+a8-67.akam.net  has AAAA address 2600:1403:a::43
+a9-64.akam.net  has AAAA address 2a02:26f0:117::40
++ nslookup -type=ns embassyeritrea.org
++ nslookup -type=mx embassyeritrea.org
++ nslookup -type=mx ethiopianembassy.org
++ nslookup -type=ns ethiopianembassy.org
++ nslookup -type=mx ethiopianembassy.org
++ nslookup -type=mx state.gov
++ nslookup -type=ns embassyeritrea.org
++ nslookup -type=mx stfranciscenterla.org
++ nslookup -type=mx fire.ca.gov
++ nslookup -type=ns ca.gov
++ nslookup -type=mx ca.gov
++ nslookup -type=mx starbucks.com
++ nslookup -type=ns starbucks.com
++ nslookup -type=ns starbucks.com
++ nslookup -type=mx commonspirit.org
++ nslookup -type=ns commonspirit.org
++ nslookup -type=ns dignityhealth.org
++ nslookup -type=mx dignityhealth.org
++ ping -c2 dignityhealth.org
++ traceroute dignityhealth.org
++ nslookup -type=ns starbucks.com
++ traceroute lacounty.gov
++ ping -c2 lacounty.gov
++ traceroute fultoncountyga.gov
++ ping -c2 fultoncountyga.gov
++ traceroute lacity.gov
+14  ae2.r01.ewr01.icn.netarch.akamai.com (23.203.154.36)  106.549 ms ae2.r02.ewr01.icn.netarch.akamai.com (23.203.154.40)  116.091 ms  103.401 ms
+15  ae6.r23.iad04.icn.netarch.akamai.com (23.193.113.16)  114.140 ms  113.073 ms ae6.r21.iad04.icn.netarch.akamai.com (23.193.112.222)  110.964 ms
+16  ae7.r22.iad02.mag.netarch.akamai.com (23.209.165.128)  109.400 ms  108.003 ms ae5.r21.iad02.mag.netarch.akamai.com (23.209.170.80)  106.783 ms
+17  ae0.r25.iad04.ien.netarch.akamai.com (23.209.170.125)  105.602 ms ae1.r25.iad04.ien.netarch.akamai.com (23.209.170.127)  104.287 ms ae1.r23.iad02.ien.netarch.akamai.com (23.209.165.163)  103.122 ms
+18  ae41.r03.border101.iad03.fab.netarch.akamai.com (23.203.153.23)  93.232 ms  92.349 ms ae37.r02.border101.iad03.fab.netarch.akamai.com (23.203.152.195)  100.149 ms
+22  a23-73-207-13.deploy.static.akamaitechnologies.com (23.73.207.13)  106.693 ms  105.648 ms  104.893 ms
++ ping -c2 lacity.org
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=45 time=94.4 ms
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=2 ttl=45 time=81.5 ms
++ ping -c2 lacity.gov
+64 bytes from a23-73-207-13.deploy.static.akamaitechnologies.com (23.73.207.13): icmp_seq=1 ttl=44 time=92.6 ms
+64 bytes from a23-73-207-13.deploy.static.akamaitechnologies.com (23.73.207.13): icmp_seq=2 ttl=44 time=99.4 ms
++ traceroute lacity.org
+14  lo1.r02.stem01.iad04.fab.netarch.akamai.com (23.44.169.21)  86.486 ms lo1.r01.stem01.iad04.fab.netarch.akamai.com (23.44.169.20)  87.181 ms  97.063 ms
+15  lo1.r03.spine02.iad04.fab.netarch.akamai.com (23.44.169.10)  89.130 ms lo1.r02.spine02.iad04.fab.netarch.akamai.com (23.44.169.9)  93.392 ms lo1.r01.spine03.iad04.fab.netarch.akamai.com (23.44.169.12)  91.573 ms
+16  lo1.r03.leaf02.iad04.fab.netarch.akamai.com (23.44.169.62)  88.879 ms lo1.r04.leaf02.iad04.fab.netarch.akamai.com (23.44.169.63)  85.996 ms lo1.r03.leaf02.iad04.fab.netarch.akamai.com (23.44.169.62)  94.263 ms
+17  vlan100.r08.tor02.iad04.fab.netarch.akamai.com (23.50.129.161)  85.930 ms  88.065 ms  99.570 ms
+18  a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166)  96.611 ms  90.416 ms  83.485 ms
++ traceroute longbeach.gov
++ ping -c2 longbeach.gov
++ traceroute whitehouse.gov
++ ping -c2 whitehouse.gov
++ traceroute nasa.gov
++ ping -c2 nasa.gov
++ ping -c2 lacourt.org
++ traceroute lacourt.org
++ ping -c2 lacourt.ca.gov
++ traceroute lacourt.ca.gov
++ ping -c1 state.gov
++ traceroute state.gov
++ ping -c2 level3.net
++ traceroute level3.net
++ traceroute level1.net
++ traceroute level2.net
+~ $
+
+
+virtiserv latrice @blackgirlscode @nasa-pds
+ [https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html](https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html)
+
+Artemis II [Astronauts](https://rashardmro.tumblr.com/post/812731741445963776/nasas-artemis-ii-live-views-from-orion?is_related_post=1) Make First Public Remarks Since Returning to Earth
+NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
+
+
+
+[wildfire @emit-sds](https://archive.org/download/commitmentmaintenance/ezgif-743af2e85bf09573.mp4) [wildfire @datadesk](https://archive.org/download/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4)
+
+[https://5WILDFIRE2VID_20251126_225215_114.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2VID_20251126_225215_114.mp4)
+
+
+[/21_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/commitmentmaintenance/21_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+[https://WILDFIRE2_20251126_224338_353.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2_20251126_224338_353.mp4)
+
+[WILDFIRE1VID_20251126_224319_400.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE1VID_20251126_224319_400.mp4) @nasa @blackgirlscode @dhs-gov @cityoflosangeles @stateofcalifornia @usnavy @podaac @emit-sds
+
+<div class="tupperware">
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a92d1ca1-fb0e-41c6-b6c1-1ba630abe320" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/53a326ca-38ec-4cac-891c-56bdc97a5e46" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/bbf31230-2960-4e27-b79d-f2a81e85a1d7" />
+
+</div> 
+
+#  Rashards Teeth
+@lacountyDPH @NASA-OPENSCAPES @EMIT-SDS @PODAAC @nasa-jpl @whitehouse @la-county-isd @cityoflosangeles @newshour
+My premolars were removed before my tonsils
+
+![https://brookhavenchildrensdentistry.com/wp-content/uploads/2013/10/permanent-teeth-eruption-schedule.jpg @deptofwar](https://brookhavenchildrensdentistry.com/wp-content/uploads/2013/10/permanent-teeth-eruption-schedule.jpg)
+
+![https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140840.jpg](https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140840.jpg)
+
+[WATCH @nasa-jpl - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
+@nasa-pds the [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object) tag and [embed](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) can be used for video, [@NASA Jared Isaccman @deptofwar](https://www.nasa.gov/people/jared-isaacman/), thats a submission... While on CovidLockdown I read [The Living HTML standard](https://html.spec.whatwg.org/multipage/)
+
+```html
+<object
+data="https://www.youtube.com/embed/hfoHFnGuVCw"></object>
+```
+
+<object data="https://www.youtube.com/embed/hfoHFnGuVCw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></object>
+
+<embed src="https://www.youtube.com/embed/3R2H0rcP2vg" />
+
+
+```html
+<embed src="https://www.youtube.com/embed/3R2H0rcP2vg" />
+```
+
+
+<img alt="image @whitehouse" src="https://github.com/user-attachments/assets/ad2b0750-c558-487a-801f-f3adbf4fc0af" />
+
+<img  alt="image " src="https://github.com/user-attachments/assets/b32de302-3553-4183-b3a7-5abd3d9ec8b2" />
+
+
+@blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<img   alt="image @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/5328f8d1-b492-492f-a024-06582493e229" />
+
+![ @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg](https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg)
+
+i dont know who poisoned my mouth but i smellt a funny smell at a table @LBPDCommunityEngagement@longbeach.gov and started feeling it flake out, its rocking now @ThirdDistrict@bos.lacounty.gov @jplnewsroom@jpl.nasa.gov ... @jasmine.crockett@mail.house.gov do you have an abusive person in your life that hurt me like this? https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg @la-county-isd @nasa-jpl @cityoflosangeles @foratlanta 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f927caa3-7b55-4e9d-a7e1-202b6f9e82c6" />
+
+@doug-newman-nasa i sent out an email earlier for you to forward @la-county-isd [MayorBass](https://jobs.lamayor.org/) / [SupervisorHollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) for somone to talk to [Jasmine - crockett.house.gov/](https://crockett.house.gov/) about [earthdata](https://www.earthdata.nasa.gov/learn/webinars) ad see if she is interested, I think she has an issue with me. I have so many ties to girls in my demographic i have to make sure no gossip from atlanta poisoning me in Texas at [JSC - @nasa-jsc-robotics](https://web.archive.org/web/19990125091025/http://nasa.gov/)
+
+![https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png](https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png)
+
+<img   alt="image @nasa-openscapes @nasa-jpl @foratlanta @blackgirlscode @nasa-jsc-robotics" src="https://github.com/user-attachments/assets/49727185-1a63-4ac4-a70a-b80378d82e27" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d55e5950-64f4-4a20-9b90-e570ee66feb1" />
+
+![https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260417-082002.png](https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260417-082002.png)
+
+
+
+
+<img  alt="image @nasa-jpl @howard-university-web-services i dont know who answers this inbox but if Latrice Fitzpatrick is telling me to include this account its because she is trying to get you all jobs did someone from Howard destroy my tooth earlier ? @longbeachinnovationteam @voyager-tech-inc @la-county-isd" src="https://github.com/user-attachments/assets/3e930536-ef0e-46c8-9f43-97882110b4e9" />
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-17-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.13 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa
 
 
 # Finding Trice
+ @howard-university-web-services her name is on an sdcard in the head Victor got an Christina got the head too @nasa @nasa-jpl @emit-sds @blackgirlscode i put mostly everyone in there including erika, normani, Coral and kashdoll @la-county-isd @foratlanta
+<img  alt="image @howard-university-web-services her name is on an sdcard in the head victog got an Christina got the head too" src="https://github.com/user-attachments/assets/d75a95a7-33da-421c-80b8-161f732da202" />
+
+![https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260416-212347.png](https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260416-212347.png)
+
 [profiles.howard.edu](https://profiles.howard.edu/) // [howard.edu/faculty-staff](https://howard.edu/faculty-staff) // [@Detective KEisha Bottoms](https://www.atlantaga.gov/Home/Components/News/News/13077/672) ~>  [provost.howard.edu/staff-directory](https://provost.howard.edu/staff-directory) @cityoflosangeles
 <img alt="image @nasa-jpl @howard-university-web-services @la-county-isd" src="https://github.com/user-attachments/assets/fec51eea-c161-4200-a174-df3a0a6c1992" />
 

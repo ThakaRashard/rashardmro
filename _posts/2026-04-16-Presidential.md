@@ -6,13 +6,41 @@ title: Presidential
 image: pentagon.jpg
 ---
 
+
+
+
+
 # Blockade Line 
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
 Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/) [baniasadzadeh.mo@parliran.ir](mailto:baniasadzadeh.mo@parliran.ir),
 [IPUgroup@parliran.ir](mailto:IPUgroup@parliran.ir),
-[ds_legal@isro.gov.in](mailto:ds_legal@isro.gov.in) @la-county-isd @cityoflosangeles @blackgirlscode @stateofcalifornia 
+[ds_legal@isro.gov.in](mailto:ds_legal@isro.gov.in) [war.gov/News/News-Stories/Article/Article/4461708/hegseth-urges-iran-to-choose-wisely-during-epic-fury-ceasefire-blockade/](https://www.war.gov/News/News-Stories/Article/Article/4461708/hegseth-urges-iran-to-choose-wisely-during-epic-fury-ceasefire-blockade/) @nasa-jpl i will not go anywhere without @foratlanta Keisha Lance Bottoms or Karen Bass together in front of MRO Mission Leads
+
+@la-county-isd @cityoflosangeles @blackgirlscode @stateofcalifornia 
+
+![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png)
 
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+
+@asfadmin @deptofwar 
+
+<img  alt="S1A_IW_GRDH_1SDV_20260313T135148_20260313T135217_063610_07FEB7_FC95" src="https://github.com/user-attachments/assets/d7ab0e5c-e526-402e-baf6-2e63497db4df" />
+
+
+@deptofwar @whitehouse thse links are not stable so i just included the code @blackgirlscode 
+
+```html
+<img src="https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20260411T140027_20260411T140052_064033_080E79_95E9.jpg?A-userid=rashardkelly&amp;Expires=1776397725&amp;Signature=K8ZmWMMhfNdt~~Vh8lIGmhIEFniTdsoc3eMo4C2td60xvww43Xvw6CtVmq5Wmm2tAbYTFi8LcHGUYMzmaZkq-RPzWJy~QwAA3lBGnumQ8TiQMihLWMba8rWaGO3icSohTIj~DX0RpIoii~KVZLlyx6txCgM-ZtUkNh6sqk5jCSxjemALpkaxAfh-9tj4HAIFULn34cqtyY3w-3fBmj6viCDnoD2eAlHncYRs9fLxHcIIi-q5XnXMMVcmJHyZ2AhPzu629O7YNkpGG6nfHPUy5psS3mK~8Siuw7qpTdiDvrePHfKP9FmWkcH37vLSHMJq-fSaX7--DQRZpCNHu5XAew__&amp;Key-Pair-Id=K3I9VYQ8B6XGU5"/>
+
+<img src="https://dy4owt9f80bz7.cloudfront.net/s3-06b3213905ebfa9144871d6c7f9306f0/asf-ngap2w-p-s1-img-c6fc3715.s3.us-west-2.amazonaws.com/S1A_IW_GRDH_1SDV_20260313T135148_20260313T135217_063610_07FEB7_FC95.jpg?A-userid=rashardkelly&amp;Expires=1776397653&amp;Signature=dkbsmyl~9kNyJNNYP6GuU3lWg6fPrI6BUfyErVsVDDr-Lzy2nL6DNDV~MYu2yXjFd7HU7yrLXHq21-wSqgIs1clYXxkxdI4zlNXwI9VrVbI~DG6zX93ELKi2VMWqAXgDSVKhpnVMgxvTaA69neCtirovLnc-bcgyENMRRmWGH0pTpqJT~gm1X56Z5NKyn67GtzMvY8SMyVcNY07R3Dz5NPTWzw9C7nUMqRLj736TRKSzzJA-BZZQItiI4TOcjIl-sM03RNuW7R7Szan60gV2fFd~wWYTAme24a7pXgDUALs5atcFL97tEJGksulBf1axWMCvbXkgtffMPrXT-uS3RA__&amp;Key-Pair-Id=K3I9VYQ8B6XGU5"/>
+```
+_Normalized Difference Moisture Index (NDMI)_ [readMore](https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/) @eu-cdse @deptofwar @nasa-jpl @la-county-isd [MAP - Link @whitehouse](https://browser.dataspace.copernicus.eu/?zoom=8&lat=24.46465&lng=60.40833&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FIzdGAzwQ6rJ7M6dOIj374gwx0joeTN2BB0xjHDBtKe7wmhocLPEVHaB2U8CNEGTjlF8nPZnflKX4FMg%2B65TZGlSjUI%2BvzU2qW2a0EYlwGeGHWK818MsGh&datasetId=S2_L2A_CDAS&fromTime=2026-04-16T00%3A00%3A00.000Z&toTime=2026-04-16T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="2026-04-16-00_00_2026-04-16-23_59_Sentinel-2_L2A_Moisture_index (1)" src="https://github.com/user-attachments/assets/07cdfb05-bd0c-4799-9dcc-3ab3c61ab0f1" />
+<img  alt="image" src="https://github.com/user-attachments/assets/53dde2da-f081-4105-9fe6-7a4281dbc58d" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/31774303-82f6-4f84-9045-07bf4a7423cc" />
+
 
 @deptofwar
 @nasa-jpl @usnavy @armydotmilthis map has a few [dams](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01) listed and groupings of people aka [settlements @cityoflosangeles Mayor Karen Bass](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00) @stateofcalifornia @blackgirlscode
@@ -140,6 +168,14 @@ https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON
 
 ![https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_1200x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=Acpia38N](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_1200x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=Acpia38N)
 
+
+
+# Operation Epic Fury
+![https://www.centcom.mil/portals/6/Documents/Publications/260406-FactSheet.jpg?ver=feFMEjsauUGGOuWDD29bDg%3d%3d](https://www.centcom.mil/portals/6/Documents/Publications/260406-FactSheet.jpg?ver=feFMEjsauUGGOuWDD29bDg%3d%3d)
+
+
+[Maps Are Weapons](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/videoid/990696/dvpmoduleid/41413/dvpTag/map/dvpcc/false/#DVIDSVideoPlayer41413)
+<img  alt="image" src="https://github.com/user-attachments/assets/73c7551b-1871-4c01-8f3e-f9a36bcfafa4" />
 
 # NASA Appropriations and Authorizations:
 At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
@@ -421,7 +457,20 @@ You can also find ["An Ocean in Bloom" on NASA+.](https://plus.nasa.gov/video/an
 ![Karen Bass MAyor Of Los Angeles](https://i.ytimg.com/vi/IJFlH7u5gic/maxresdefault.jpg)
 
 
-<img />
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Karen Bass Congress Los ANgeles Nasajpl" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
+
+
+[<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png" alt="Karen Bass Congress Los ANgeles Nasajpl" />](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-3_patch/26188360-1-eng-GB/Sentinel-3_patch_card_medium.png](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-3_patch/26188360-1-eng-GB/Sentinel-3_patch_card_medium.png)
+
+[science.nasa.gov/mission/mars-reconnaissance-orbiter/](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/d392ac3b-2651-45fc-a1d6-8aeadb7a5d64" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/54eec224-609a-40f9-9c39-af429ec3130a" />
+
+
+![virtiserv_not_bugging_youLATRiCE_OPERATiON_EPiCFURY_ARTEMIs=LifE](https://upload.wikimedia.org/wikipedia/commons/f/f7/Sentinel-3_spacecraft_model.svg)
 
 - Rashard NASAJPL
 
