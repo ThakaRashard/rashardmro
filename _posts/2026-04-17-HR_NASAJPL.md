@@ -12,6 +12,19 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@nasa-jpl @la-county-isd
+i made a page for latrice virtual assistant data submissions [https://rashardsdata.github.io/rashardmro/2026/04/21/ViRTiSERV.html](https://rashardsdata.github.io/rashardmro/2026/04/21/ViRTiSERV.html)
+@usnavy @whitehouse she gave me instructions not to stop till she had another sit down with me normani @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3360da32-83d6-40e4-b327-484c3e191607" />
+
+
+
+@nasa-jpl i hope this made it through. its a [WeatherReport on @codepen @TheSpaceDevs](https://codepen.io/RashardKElly/pen/YPyXNBa) @TheSpaceDevs The archive [California_Morning; Monday July 14](https://archive.org/details/vid-20250714-084801) has a zip with [NasaGiovanni](https://giovanni.gsfc.nasa.gov/giovanni/) _ [plots](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts)
+[splashDOWNWEATHER](https://archive.org/download/vid-20250714-084801)
+`Books` [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) / [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) /[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) / [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /
+The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
 @nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
 
 ```html
