@@ -16,6 +16,8 @@ mathjax: true
 i made a page for latrice virtual assistant data submissions [https://rashardsdata.github.io/rashardmro/2026/04/21/ViRTiSERV.html](https://rashardsdata.github.io/rashardmro/2026/04/21/ViRTiSERV.html)
 @usnavy @whitehouse she gave me instructions not to stop till she had another sit down with me normani @blackgirlscode 
 
+
+[@letschat@virtiserv.com](mailto:letschat@virtiserv.com) I dont want to get hurt, im just manageing [KarenBass](https://history.house.gov/People/Detail/10433) [[1](https://www.congress.gov/member/karen-bass/B001270)] , [[2](https://www.karenbass.com/)], 
 <img  alt="image" src="https://github.com/user-attachments/assets/3360da32-83d6-40e4-b327-484c3e191607" />
 
 
