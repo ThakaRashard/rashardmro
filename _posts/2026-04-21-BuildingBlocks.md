@@ -19,7 +19,7 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 
 [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 
-@nasa-pds @la-county-isd @newshour
+@nasa-pds @la-county-isd @newshour ... seems fixed @nassa @whitehouse @deptofwar
 The Nancy Grasce Space Telescope SVSpage [svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/) is aving issues, at least from here near @longbeachinnovationteam
 
 ```
