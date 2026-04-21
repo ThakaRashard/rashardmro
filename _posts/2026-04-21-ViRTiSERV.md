@@ -4,7 +4,27 @@ layout: default
 
 
 ## Rashard Kelly 
-MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
+: [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+[@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+
+
+<img  alt="Screenshot_20260421-052137" src="https://github.com/user-attachments/assets/69e3b815-bb88-470e-b7bb-a2cb84715e33" />
+
+<img  alt="virtiserv" src="https://github.com/user-attachments/assets/1c02835d-be94-4fff-9ef2-dc9ff486aaf1" />
+
+
+<img alt="Screenshot_20260421-045726" src="https://github.com/user-attachments/assets/bb8fc759-85e2-4a48-ba66-b1be277d405b" />
+
+<img alt="virtiServ (1)" src="https://github.com/user-attachments/assets/8f723869-3700-408e-ac19-a559d06377a0" />
+
+<img alt="this_is_where_i_work_i_hate_being_late" src="https://github.com/user-attachments/assets/41710f3b-747b-442a-96dd-37a3e372fce4" />
+
+<img   alt="Screenshot_20260212-165407" src="https://github.com/user-attachments/assets/d80c06d4-1e15-4a5b-9f5a-4d8263f45a0c" />
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨📰 <a href="https://twitter.com/hashtag/USNAVY?src=hash&amp;ref_src=twsrc%5Etfw">#USNAVY</a> UPDATE: USS John P. Murtha to support NASA&#39;s Artemis II mission<br><br>SAN DIEGO – Amphibious transport dock ship USS John P. Murtha (LPD 26) is slated to serve as the recovery ship for the Orion spacecraft and its crew upon their return from the historic Artemis II… <a href="https://t.co/eMUDr04rhP">pic.twitter.com/eMUDr04rhP</a></p>&mdash; U.S. Navy (@USNavy) <a href="https://twitter.com/USNavy/status/2041909011591713227?ref_src=twsrc%5Etfw">April 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
