@@ -8,6 +8,12 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+@esa @usgs @UKSpaceAgency FOR _CamiLLA& CHarlsThe3rd @alphagov ~ @whitehouse @la-county-isd @JHUAPL @nasa-jpl @nasa-pds [Todays Files - sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4](sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4)
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/014d9711-eb18-4df4-b6c4-6c33334d0d08" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/96973ac4-6f69-42b9-b4e3-c11fcdca3e89" />
+
 
 ## Curiosity 
 The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies. [ReadMore](https://svs.gsfc.nasa.gov/30707/)

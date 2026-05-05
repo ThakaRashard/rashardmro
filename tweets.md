@@ -3,6 +3,18 @@ layout: null
 title: tweets
 ---
 
+OBJECT                            = MISSION                                   
+  MISSION_NAME                    = "MAGELLAN"                                
+                                                                              
+  OBJECT                          = MISSION_INFORMATION                       
+    MISSION_START_DATE            = 1989-05-04                                
+    MISSION_STOP_DATE             = 1994-10-12                                
+    MISSION_ALIAS_NAME            = "VENUS RADAR MAPPER (VRM)"                
+    MISSION_DESC                  = "                                         
+                                                                              
+    Mission Overview                                                          
+ [https://pds-geosciences.wustl.edu/mgn/mgn-v-rss-1-tracking-v1-old/MG_2601/CATALOG/MISSION.CAT](https://pds-geosciences.wustl.edu/mgn/mgn-v-rss-1-tracking-v1-old/MG_2601/CATALOG/MISSION.CAT)
+
 <div class="tupperware">
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> can anywhere n <a href="https://twitter.com/hashtag/LosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngeles</a> be comfortable to sit and read. the bugs man, they have electronic signals for flies an gnats iDid not draw ants to <a href="https://twitter.com/hashtag/CityHall?src=hash&amp;ref_src=twsrc%5Etfw">#CityHall</a> <a href="https://twitter.com/hashtag/DTLA?src=hash&amp;ref_src=twsrc%5Etfw">#DTLA</a> the back patio was vandalized <a href="https://t.co/oBVYKHu8RE">https://t.co/oBVYKHu8RE</a> <a href="https://twitter.com/MalaikaJabali?ref_src=twsrc%5Etfw">@MalaikaJabali</a><a href="https://twitter.com/LA28?ref_src=twsrc%5Etfw">@LA28</a><a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a><a href="https://twitter.com/LACDMH?ref_src=twsrc%5Etfw">@LACDMH</a><a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a><a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/f374hwQRUu">pic.twitter.com/f374hwQRUu</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1833592881535455309?ref_src=twsrc%5Etfw">September 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

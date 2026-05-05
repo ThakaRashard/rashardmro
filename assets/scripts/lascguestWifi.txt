@@ -1,0 +1,1602 @@
+CURRENT DNS MAP
+ #NEWS https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:18:51 CST 2026 aarch64 Android
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.188.90.231  netmask 255.255.252.0  broadcast 10.188.91.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+ 15:21:42 up 2 days,  2:29,  load average: 16.59, 17.32, 16.32
+     April 2026     
+Su Mo Tu We Th Fr Sa
+          1  2  3  4
+ 5  6  7  8  9 10 11
+12 13 14 15 16 17 18
+19 20 21 22 23 24 25
+26 27 28 29 30      
+                    
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usps.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usps.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usps.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usps.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wp1-ext.usps.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wp1-ext.usps.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for flylax.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for flylax.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cia.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cia.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for google.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for google.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for epa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for epa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jw.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jw.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for azbec.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for azbec.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rtx.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rtx.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	nameserver = a8.uberns.com.
+longbeach.gov	nameserver = dns02.ci.long-beach.ca.us.
+longbeach.gov	nameserver = dns01.ci.long-beach.ca.us.
+longbeach.gov	nameserver = b8.uberns.com.
+
+Authoritative answers can be found from:
+
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	mail exchanger = 10 mxa-00539a01.gslb.pphosted.com.
+longbeach.gov	mail exchanger = 10 mxb-00539a01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	nameserver = sogns1.state.ga.us.
+georgia.gov	nameserver = sogns2.state.ga.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	mail exchanger = 10 mxa-003fd101.gslb.pphosted.com.
+georgia.gov	mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	mail exchanger = 5 mx03.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx04.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx02.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx01.earthlink-vadesecure.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	nameserver = carl.ns.cloudflare.com.
+earthlink.net	nameserver = rihana.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	mail exchanger = 10 mx1c38.carrierzone.com.
+waterandpower.org	mail exchanger = 120 mx4c38.carrierzone.com.
+waterandpower.org	mail exchanger = 110 mx3c38.carrierzone.com.
+waterandpower.org	mail exchanger = 100 mx2c38.carrierzone.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	nameserver = dns2.earthlink.net.
+waterandpower.org	nameserver = dns1.earthlink.net.
+waterandpower.org	nameserver = dns3.earthlink.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	mail exchanger = 10 mx0b-007e5801.pphosted.com.
+level3.net	mail exchanger = 10 mx0a-007e5801.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	nameserver = ns2.level3.net.
+level3.net	nameserver = ns1.level3.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	nameserver = ns2.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns1.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns3.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	mail exchanger = 10 mxa-0032a901.gslb.pphosted.com.
+fultoncountyga.gov	mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	nameserver = cmtu.mt.ns.els-gms.att.net.
+atlantaga.gov	nameserver = ns1.cl.bellsouth.net.
+atlantaga.gov	nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov	nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov	nameserver = ns3.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+atlantaga.gov	mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2402441130
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2402441130
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	mail exchanger = 10 metro-net.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	nameserver = ns3.dnsmadeeasy.com.
+metro.net	nameserver = ns1.dnsmadeeasy.com.
+metro.net	nameserver = ns0.dnsmadeeasy.com.
+metro.net	nameserver = ns2.dnsmadeeasy.com.
+metro.net	nameserver = ns4.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+amtrack.com	nameserver = ns48.domaincontrol.com.
+amtrack.com	nameserver = ns47.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find amtrack.com: No answer
+
+Authoritative answers can be found from:
+amtrack.com
+	origin = ns47.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2025120906
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	mail exchanger = 10 lapdonline-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	nameserver = ns2-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns4-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns1-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns3-02.azuregov-dns.us.
+
+Authoritative answers can be found from:
+
+traceroute to lapdonline.org (23.1.33.17), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  80.119 ms  79.248 ms  77.630 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  101.244 ms  79.251 ms  78.648 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  78.261 ms  77.164 ms  76.241 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  74.608 ms  86.048 ms  84.951 ms
+ 5  lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  83.836 ms lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  91.149 ms  93.623 ms
+ 6  lag-401.dllstx976iw-bcr00.netops.charter.com (66.109.5.229)  148.709 ms  60.041 ms lag-16.dllstx976iw-bcr00.netops.charter.com (66.109.6.1)  59.277 ms
+ 7  lag-21.hstqtx0209w-bcr00.netops.charter.com (107.14.19.48)  57.954 ms lag-11.hstqtx0209w-bcr00.netops.charter.com (66.109.6.38)  72.482 ms lag-21.hstqtx0209w-bcr00.netops.charter.com (107.14.19.48)  71.188 ms
+ 8  lag-405.atlngamq46w-bcr00.netops.charter.com (66.109.9.28)  69.677 ms * *
+ 9  lag-807.bpr03atlngamq.netops.charter.com (66.109.9.105)  66.732 ms  65.881 ms lag-805.bpr03atlngamq.netops.charter.com (66.109.5.125)  65.063 ms
+10  syn-024-027-236-113.inf.spectrum.com (24.27.236.113)  64.275 ms  63.410 ms  62.550 ms
+11  ae20.r03.border101.atl02.fab.netarch.akamai.com (23.203.144.21)  71.547 ms ae18.r01.border101.atl02.fab.netarch.akamai.com (23.207.235.129)  78.010 ms ae20.r03.border101.atl02.fab.netarch.akamai.com (23.203.144.21)  61.437 ms
+12  * * *
+13  * * *
+14  * * *
+15  a23-1-33-17.deploy.static.akamaitechnologies.com (23.1.33.17)  63.850 ms  61.801 ms  58.461 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	nameserver = dci-ib-e01.isd.lacounty.gov.
+lacounty.gov	nameserver = dci-ib-e02.isd.lacounty.gov.
+lacounty.gov	nameserver = lrci-ib-e04.isd.lacounty.gov.
+lacounty.gov	nameserver = lrci-ib-e03.isd.lacounty.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+lacounty.gov	mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	nameserver = cecelia.ns.cloudflare.com.
+commerce.gov	nameserver = max.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	mail exchanger = 0 commerce-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	nameserver = a9-67.akam.net.
+polb.com	nameserver = a22-67.akam.net.
+polb.com	nameserver = a14-64.akam.net.
+polb.com	nameserver = a5-67.akam.net.
+polb.com	nameserver = a28-65.akam.net.
+polb.com	nameserver = a1-172.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	mail exchanger = 5 us-smtp-inbound-1.mimecast.com.
+polb.com	mail exchanger = 5 us-smtp-inbound-2.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wellsfargo.com	mail exchanger = 10 mxa-00004003.gslb.pphosted.com.
+wellsfargo.com	mail exchanger = 10 mxb-00004003.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wellsfargo.com	nameserver = edns1.ultradns.com.
+wellsfargo.com	nameserver = a24-66.akam.net.
+wellsfargo.com	nameserver = a1-189.akam.net.
+wellsfargo.com	nameserver = a2-64.akam.net.
+wellsfargo.com	nameserver = edns1.ultradns.org.
+wellsfargo.com	nameserver = edns1.ultradns.net.
+wellsfargo.com	nameserver = edns1.ultradns.biz.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+musiccenter.org	nameserver = ns98.worldnic.com.
+musiccenter.org	nameserver = ns97.worldnic.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+musiccenter.org	mail exchanger = 10 musiccenter-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+traceroute to musiccenter.org (104.20.39.139), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  20.329 ms  18.759 ms *
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  150.075 ms  148.796 ms  147.545 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  143.240 ms  141.769 ms  144.383 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  143.122 ms  141.821 ms  140.364 ms
+ 5  lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  150.116 ms * *
+ 6  lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  134.979 ms lag-2.pr2.lax10.netops.charter.com (66.109.3.19)  133.919 ms lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  130.329 ms
+ 7  * * *
+ 8  141.101.72.19 (141.101.72.19)  92.859 ms 141.101.72.29 (141.101.72.29)  96.496 ms 141.101.72.81 (141.101.72.81)  93.246 ms
+ 9  104.20.39.139 (104.20.39.139)  88.535 ms  90.667 ms  91.248 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+laopera.org	nameserver = ns63.domaincontrol.com.
+laopera.org	nameserver = ns64.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+laopera.org	mail exchanger = 0 laopera-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+traceroute to laoperA.org (13.91.105.246), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	nameserver = kelly.ns.cloudflare.com.
+fire.ca.gov	nameserver = keaton.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	nameserver = asa.ns.cloudflare.com.
+ca.gov	nameserver = chase.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	mail exchanger = 50 state-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov	mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	nameserver = rachel.ns.cloudflare.com.
+stfranciscenterla.org	nameserver = cameron.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	mail exchanger = 10 mx10.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 30 mx30.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 20 mx20.antispam.mailspamprotection.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	mail exchanger = 20 stimson.state.gov.
+state.gov	mail exchanger = 20 christopher-ew.state.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	nameserver = a1-63.akam.net.
+state.gov	nameserver = a9-64.akam.net.
+state.gov	nameserver = a14-64.akam.net.
+state.gov	nameserver = a8-67.akam.net.
+state.gov	nameserver = a3-66.akam.net.
+state.gov	nameserver = a26-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cedars-sinai.org	nameserver = ns2.csmc.edu.
+cedars-sinai.org	nameserver = ns1.csmc.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cedars-sinai.org	mail exchanger = 10 mxb-00260502.gslb.pphosted.com.
+cedars-sinai.org	mail exchanger = 10 mxa-00260502.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	nameserver = ns-26.awsdns-03.com.
+embassyeritrea.org	nameserver = ns-983.awsdns-58.net.
+embassyeritrea.org	nameserver = ns-1184.awsdns-20.org.
+embassyeritrea.org	nameserver = ns-1638.awsdns-12.co.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	mail exchanger = 10 mx1c25.carrierzone.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethiopianembassy.org	nameserver = ns54.domaincontrol.com.
+ethiopianembassy.org	nameserver = ns53.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethiopianembassy.org	mail exchanger = 0 ethiopianembassy-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	mail exchanger = 20 christopher-ew.state.gov.
+state.gov	mail exchanger = 20 stimson.state.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	nameserver = ns-1638.awsdns-12.co.uk.
+embassyeritrea.org	nameserver = ns-1184.awsdns-20.org.
+embassyeritrea.org	nameserver = ns-26.awsdns-03.com.
+embassyeritrea.org	nameserver = ns-983.awsdns-58.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	mail exchanger = 30 mx30.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 20 mx20.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 10 mx10.antispam.mailspamprotection.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov	mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	nameserver = chase.ns.cloudflare.com.
+ca.gov	nameserver = asa.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	mail exchanger = 50 state-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	mail exchanger = 200 mx2.starbucks.iphmx.com.
+starbucks.com	mail exchanger = 100 mx1.starbucks.iphmx.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commonspirit.org	mail exchanger = 20 mx0a-00116001.pphosted.com.
+commonspirit.org	mail exchanger = 20 mx0b-00116001.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commonspirit.org	nameserver = nick.ns.cloudflare.com.
+commonspirit.org	nameserver = vida.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org	nameserver = beth.ns.cloudflare.com.
+dignityhealth.org	nameserver = albert.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org	mail exchanger = 10 mxa-00116001.gslb.pphosted.com.
+dignityhealth.org	mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+PING dignityhealth.org (104.16.65.119) 56(84) bytes of data.
+64 bytes from 104.16.65.119: icmp_seq=1 ttl=55 time=10.1 ms
+64 bytes from 104.16.65.119: icmp_seq=2 ttl=55 time=17.7 ms
+
+--- dignityhealth.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 10.149/13.931/17.713/3.782 ms
+traceroute to dignityhealth.org (104.16.65.119), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  6.257 ms  5.816 ms  5.434 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  7.492 ms  7.173 ms  6.795 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  20.887 ms  20.377 ms  19.814 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  22.485 ms  22.002 ms  21.388 ms
+ 5  * * lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  40.851 ms
+ 6  lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  20.716 ms lag-2.pr2.lax10.netops.charter.com (66.109.3.19)  11.460 ms lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  10.597 ms
+ 7  141.101.72.52 (141.101.72.52)  9.782 ms  25.731 ms  8.282 ms
+ 8  141.101.72.85 (141.101.72.85)  14.758 ms 141.101.72.29 (141.101.72.29)  10.387 ms  9.234 ms
+ 9  104.16.65.119 (104.16.65.119)  10.349 ms  9.228 ms  7.225 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+traceroute to lacounty.gov (45.60.171.78), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  7.825 ms  7.143 ms  6.482 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  12.282 ms  6.902 ms  11.331 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  10.351 ms  9.690 ms  9.222 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  8.292 ms  7.912 ms  7.529 ms
+ 5  lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  11.470 ms lag-36-10.tustca4200w-bcr00.netops.charter.com (66.109.6.202)  10.655 ms  10.172 ms
+ 6  lag-401.dllstx976iw-bcr00.netops.charter.com (66.109.5.229)  67.361 ms  74.539 ms lag-16.dllstx976iw-bcr00.netops.charter.com (66.109.6.1)  67.562 ms
+ 7  * lag-11.hstqtx0209w-bcr00.netops.charter.com (66.109.6.38)  66.426 ms lag-21.hstqtx0209w-bcr00.netops.charter.com (107.14.19.48)  67.200 ms
+ 8  lag-405.atlngamq46w-bcr00.netops.charter.com (66.109.9.28)  66.271 ms lag-12.atlngamq46w-bcr00.netops.charter.com (66.109.6.37)  68.397 ms  67.721 ms
+ 9  * * *
+10  lag-0.pr2.dca10.netops.charter.com (66.109.5.117)  66.159 ms lag-310.pr2.dca10.netops.charter.com (209.18.43.59)  91.681 ms lag-0.pr2.dca10.netops.charter.com (66.109.5.117)  88.980 ms
+11  eqix-dc2.imperva.com (206.126.237.203)  78.175 ms  72.119 ms  69.380 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING lacounty.gov (45.60.171.78) 56(84) bytes of data.
+64 bytes from 45.60.171.78: icmp_seq=1 ttl=49 time=78.8 ms
+64 bytes from 45.60.171.78: icmp_seq=2 ttl=49 time=97.6 ms
+
+--- lacounty.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 78.866/88.259/97.653/9.398 ms
+traceroute to fultoncountyga.gov (20.119.136.1), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  3.901 ms * *
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  23.419 ms  22.565 ms  21.949 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  25.305 ms  24.483 ms  23.947 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  22.355 ms  21.537 ms  20.547 ms
+ 5  * lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  18.522 ms lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  17.495 ms
+ 6  lag-1.pr2.lax00.netops.charter.com (107.14.19.27)  18.496 ms lag-801.pr2.lax00.netops.charter.com (66.109.5.247)  16.531 ms  16.013 ms
+ 7  * ae64-0.ier02.lax.ntwk.msn.net (104.44.198.245)  10.127 ms *
+ 8  ae29-0.ear03.lax30.ntwk.msn.net (104.44.55.26)  8.278 ms *  12.612 ms
+ 9  * * be21.ibr02.lax30.ntwk.msn.net (104.44.33.171)  221.287 ms
+10  be1.ibr01.lax31.ntwk.msn.net (104.44.18.172)  85.759 ms be3.owr02.lax30.ntwk.msn.net (51.10.49.55)  76.181 ms  84.588 ms
+11  be1.owr02.lax31.ntwk.msn.net (51.10.49.214)  77.745 ms  76.961 ms  76.302 ms
+12  be2.ibr02.cys04.ntwk.msn.net (104.44.16.157)  72.076 ms be3.ibr02.lax31.ntwk.msn.net (51.10.49.56)  84.709 ms be2.ibr02.cys04.ntwk.msn.net (104.44.16.157)  109.643 ms
+13  * be10.ibr04.cys04.ntwk.msn.net (104.44.7.41)  85.296 ms *
+14  * * *
+15  be6.owr02.ch4.ntwk.msn.net (51.10.8.29)  86.060 ms be1.owr02.cle02.ntwk.msn.net (51.10.40.20)  72.952 ms be6.owr02.ch4.ntwk.msn.net (51.10.8.29)  96.408 ms
+16  * * *
+17  po1012.rwa03.lvl02.ntwk.msn.net (104.44.50.144)  83.515 ms be6.owr02.lvl01.ntwk.msn.net (51.10.23.64)  75.924 ms po1012.rwa03.lvl02.ntwk.msn.net (104.44.50.144)  82.937 ms
+18  * be1010.rwa02.lvl01.ntwk.msn.net (104.44.50.112)  80.202 ms be5.owr01.fty01.ntwk.msn.net (51.10.36.106)  76.515 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING fultoncountyga.gov (20.119.136.1) 56(84) bytes of data.
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=107 time=97.2 ms
+64 bytes from 20.119.136.1: icmp_seq=2 ttl=107 time=68.7 ms
+
+--- fultoncountyga.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 68.731/82.984/97.238/14.256 ms
+traceroute to lacity.gov (23.73.207.8), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  3.651 ms  2.329 ms  7.047 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  6.221 ms  5.359 ms  11.358 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  7.008 ms  5.990 ms  8.607 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  10.885 ms  9.432 ms  8.427 ms
+ 5  lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  7.739 ms  9.392 ms lag-36-10.tustca4200w-bcr00.netops.charter.com (66.109.6.202)  13.553 ms
+ 6  lag-16.dllstx976iw-bcr00.netops.charter.com (66.109.6.1)  71.597 ms  69.915 ms  79.382 ms
+ 7  * * *
+ 8  lag-405.atlngamq46w-bcr00.netops.charter.com (66.109.9.28)  67.686 ms  71.325 ms lag-12.atlngamq46w-bcr00.netops.charter.com (66.109.6.37)  67.299 ms
+ 9  * * *
+10  lag-0.pr2.dca10.netops.charter.com (66.109.5.117)  67.176 ms lag-311.pr2.dca10.netops.charter.com (24.27.236.9)  66.653 ms lag-310.pr2.dca10.netops.charter.com (209.18.43.59)  68.110 ms
+11  syn-024-030-200-115.inf.spectrum.com (24.30.200.115)  67.326 ms  67.998 ms syn-107-014-018-011.inf.spectrum.com (107.14.18.11)  66.738 ms
+12  * ae3.r21.iad04.mag.netarch.akamai.com (23.209.170.72)  69.927 ms *
+13  * ae2.r25.iad04.ien.netarch.akamai.com (23.209.170.121)  66.123 ms ae3.r26.iad04.ien.netarch.akamai.com (23.209.170.131)  122.891 ms
+14  ae38.r01.border101.iad03.fab.netarch.akamai.com (23.203.152.143)  121.069 ms * *
+15  a23-73-207-8.deploy.static.akamaitechnologies.com (23.73.207.8)  68.045 ms  69.941 ms  69.548 ms
+PING lacity.org (23.205.106.83) 56(84) bytes of data.
+64 bytes from a23-205-106-83.deploy.static.akamaitechnologies.com (23.205.106.83): icmp_seq=1 ttl=48 time=66.9 ms
+64 bytes from a23-205-106-83.deploy.static.akamaitechnologies.com (23.205.106.83): icmp_seq=2 ttl=48 time=76.8 ms
+
+--- lacity.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 66.973/71.921/76.869/4.948 ms
+PING lacity.gov (23.73.207.8) 56(84) bytes of data.
+64 bytes from a23-73-207-8.deploy.static.akamaitechnologies.com (23.73.207.8): icmp_seq=1 ttl=49 time=67.7 ms
+64 bytes from a23-73-207-8.deploy.static.akamaitechnologies.com (23.73.207.8): icmp_seq=2 ttl=49 time=75.6 ms
+
+--- lacity.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 67.727/71.670/75.613/3.943 ms
+traceroute to lacity.org (23.205.106.83), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  15.767 ms  14.963 ms  14.170 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  18.502 ms  17.819 ms  36.817 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  30.479 ms  29.513 ms  28.599 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  27.262 ms  26.105 ms  25.206 ms
+ 5  lag-36-10.tustca4200w-bcr00.netops.charter.com (66.109.6.202)  24.521 ms lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  23.673 ms lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  22.979 ms
+ 6  lag-401.dllstx976iw-bcr00.netops.charter.com (66.109.5.229)  71.444 ms  81.381 ms lag-16.dllstx976iw-bcr00.netops.charter.com (66.109.6.1)  80.533 ms
+ 7  * * *
+ 8  lag-405.atlngamq46w-bcr00.netops.charter.com (66.109.9.28)  71.757 ms lag-12.atlngamq46w-bcr00.netops.charter.com (66.109.6.37)  68.481 ms lag-405.atlngamq46w-bcr00.netops.charter.com (66.109.9.28)  67.567 ms
+ 9  * * *
+10  lag-310.pr2.dca10.netops.charter.com (209.18.43.59)  68.344 ms lag-0.pr2.dca10.netops.charter.com (66.109.5.117)  76.820 ms lag-310.pr2.dca10.netops.charter.com (209.18.43.59)  67.361 ms
+11  syn-024-030-200-227.inf.spectrum.com (24.30.200.227)  66.275 ms syn-024-030-200-115.inf.spectrum.com (24.30.200.115)  71.118 ms syn-107-014-018-011.inf.spectrum.com (107.14.18.11)  67.559 ms
+12  lo1.r03.stem01.iad03.fab.netarch.akamai.com (23.40.64.130)  74.560 ms ae4.r21.iad04.mag.netarch.akamai.com (23.209.170.74)  71.054 ms lo1.r03.stem01.iad03.fab.netarch.akamai.com (23.40.64.130)  69.316 ms
+13  lo1.r08.spine02.iad03.fab.netarch.akamai.com (23.40.64.111)  68.169 ms ae3.r25.iad04.ien.netarch.akamai.com (23.209.170.123)  66.578 ms lo1.r04.spine04.iad03.fab.netarch.akamai.com (23.40.64.123)  68.057 ms
+14  lo1.r01.leaf01.iad03.fab.netarch.akamai.com (23.40.64.36)  66.663 ms ae42.r04.border101.iad03.fab.netarch.akamai.com (23.203.153.25)  66.981 ms  116.195 ms
+15  lo1.r01.stem01.iad03.fab.netarch.akamai.com (23.40.64.128)  106.830 ms lo1.r09.tor01.iad03.fab.netarch.akamai.com (23.222.6.64)  94.983 ms  93.233 ms
+16  a23-205-106-83.deploy.static.akamaitechnologies.com (23.205.106.83)  90.956 ms  89.305 ms  87.162 ms
+traceroute to longbeach.gov (204.108.16.117), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  2.654 ms  2.017 ms  2.420 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  5.526 ms  5.240 ms  4.888 ms
+ 3  syn-076-058-025-115.biz.spectrum.com (76.58.25.115)  10.375 ms  9.557 ms  9.138 ms
+ 4  syn-098-153-208-058.biz.spectrum.com (98.153.208.58)  8.522 ms  8.052 ms  7.490 ms
+ 5  192.168.111.2 (192.168.111.2)  9.579 ms  8.893 ms  8.365 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING longbeach.gov (204.108.16.117) 56(84) bytes of data.
+
+--- longbeach.gov ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1034ms
+
+traceroute to whitehouse.gov (192.0.66.51), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  30.509 ms  29.716 ms  29.024 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  13.481 ms  12.787 ms  12.000 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  26.009 ms  24.976 ms  24.069 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  22.807 ms  21.931 ms  20.893 ms
+ 5  lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  20.004 ms lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  19.027 ms  22.763 ms
+ 6  ae5.ear3.tus1.sp.lumen.tech (4.68.111.101)  17.465 ms  37.990 ms  36.888 ms
+ 7  ae1.3505.ear1.losangeles1.net.lumen.tech (4.69.210.33)  35.994 ms  20.433 ms ae2.3605.ear1.losangeles1.net.lumen.tech (4.69.210.37)  24.933 ms
+ 8  63.214.155.102 (63.214.155.102)  24.696 ms  18.955 ms  18.579 ms
+ 9  wordpress.com (198.181.119.15)  31.187 ms  29.987 ms  27.930 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING whitehouse.gov (192.0.66.51) 56(84) bytes of data.
+64 bytes from 192.0.66.51: icmp_seq=1 ttl=53 time=13.3 ms
+64 bytes from 192.0.66.51: icmp_seq=2 ttl=53 time=11.9 ms
+
+--- whitehouse.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 11.911/12.623/13.335/0.712 ms
+traceroute to nasa.gov (192.0.66.108), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  3.905 ms  2.306 ms  4.502 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  4.991 ms *  19.250 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  22.877 ms  22.131 ms  21.732 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  20.382 ms  19.666 ms  18.821 ms
+ 5  lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  18.408 ms lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  17.773 ms *
+ 6  ae5.ear3.tus1.sp.lumen.tech (4.68.111.101)  16.102 ms  10.404 ms  9.848 ms
+ 7  ae2.3605.ear1.losangeles1.net.lumen.tech (4.69.210.37)  17.269 ms  16.457 ms  11.980 ms
+ 8  63.214.155.102 (63.214.155.102)  45.037 ms  34.179 ms  33.613 ms
+ 9  wordpress.com (198.181.119.11)  10.141 ms  9.667 ms  9.208 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING nasa.gov (192.0.66.108) 56(84) bytes of data.
+64 bytes from 192.0.66.108: icmp_seq=1 ttl=51 time=17.7 ms
+64 bytes from 192.0.66.108: icmp_seq=2 ttl=51 time=39.2 ms
+
+--- nasa.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 17.774/28.534/39.295/10.761 ms
+PING lacourt.org (192.170.100.56) 56(84) bytes of data.
+
+--- lacourt.org ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1018ms
+
+traceroute to lacourt.org (192.170.100.56), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  14.258 ms  13.234 ms  11.624 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  14.351 ms  13.470 ms  12.755 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  13.068 ms  12.157 ms  11.495 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  10.702 ms  9.909 ms  8.903 ms
+ 5  lag-26-10.tustca4200w-bcr00.netops.charter.com (66.109.3.232)  11.616 ms  12.900 ms lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  15.715 ms
+ 6  lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  10.436 ms  10.918 ms  10.358 ms
+ 7  * * 192.205.32.253 (192.205.32.253)  24.853 ms
+ 8  32.130.90.120 (32.130.90.120)  24.371 ms  23.878 ms  23.164 ms
+ 9  * * *
+10  12.87.55.102 (12.87.55.102)  20.030 ms  12.979 ms  12.827 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING lacourt.ca.gov (104.18.13.158) 56(84) bytes of data.
+64 bytes from 104.18.13.158: icmp_seq=1 ttl=54 time=16.3 ms
+64 bytes from 104.18.13.158: icmp_seq=2 ttl=54 time=12.0 ms
+
+--- lacourt.ca.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 12.057/14.190/16.323/2.133 ms
+traceroute to lacourt.ca.gov (104.18.13.158), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  3.933 ms  3.485 ms  3.139 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  5.554 ms  5.218 ms  5.826 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  10.053 ms  9.590 ms  9.054 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  7.996 ms  7.900 ms  7.146 ms
+ 5  * * *
+ 6  lag-2.pr2.lax10.netops.charter.com (66.109.3.19)  9.677 ms lag-1.pr2.lax10.netops.charter.com (66.109.5.241)  10.969 ms  10.312 ms
+ 7  141.101.72.52 (141.101.72.52)  31.151 ms * *
+ 8  141.101.72.100 (141.101.72.100)  8.647 ms 141.101.72.85 (141.101.72.85)  8.587 ms  8.386 ms
+ 9  104.18.13.158 (104.18.13.158)  8.220 ms  9.235 ms  8.861 ms
+PING state.gov (100.28.244.61) 56(84) bytes of data.
+
+--- state.gov ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+traceroute to state.gov (100.28.244.61), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  3.713 ms  2.879 ms  9.253 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  9.037 ms  8.222 ms  7.512 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  10.457 ms  9.444 ms  8.627 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  23.598 ms  22.972 ms  22.180 ms
+ 5  lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  21.466 ms lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  20.306 ms lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  19.225 ms
+ 6  lag-16.dllstx976iw-bcr00.netops.charter.com (66.109.6.1)  40.999 ms lag-401.dllstx976iw-bcr00.netops.charter.com (66.109.5.229)  47.611 ms  46.894 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING level3.net (4.68.80.110) 56(84) bytes of data.
+
+--- level3.net ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1006ms
+
+traceroute to level3.net (4.68.80.110), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  5.061 ms  4.296 ms  3.400 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  4.095 ms  3.410 ms  2.633 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  7.133 ms  8.155 ms  7.206 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  6.245 ms  5.525 ms  6.655 ms
+ 5  lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  7.119 ms  9.909 ms lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  9.094 ms
+ 6  ae5.ear3.tus1.sp.lumen.tech (4.68.111.101)  10.703 ms  35.243 ms  34.762 ms
+ 7  * * *
+ 8  4.68.94.50 (4.68.94.50)  61.662 ms  73.512 ms  66.943 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level1.net (13.223.25.84), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  12.420 ms  11.621 ms  10.914 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  25.837 ms  24.775 ms  23.903 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  24.457 ms  23.361 ms  22.379 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  20.470 ms  19.333 ms  18.181 ms
+ 5  lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  17.747 ms  16.618 ms  15.439 ms
+ 6  lag-16.dllstx976iw-bcr00.netops.charter.com (66.109.6.1)  46.163 ms  42.489 ms  45.405 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level2.net (76.223.54.146), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  5.022 ms  4.271 ms  3.607 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  7.971 ms  6.998 ms  5.923 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  9.874 ms  8.767 ms  7.570 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  10.042 ms  8.673 ms  7.347 ms
+ 5  * * lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  8.177 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html><html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+virtiserv.com	nameserver = ns30.domaincontrol.com.
+virtiserv.com	nameserver = ns29.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find virtiserv.com: No answer
+
+Authoritative answers can be found from:
+virtiserv.com
+	origin = ns29.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2024102401
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+traceroute to en.beidou.gov.cn (123.127.200.28), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  5.813 ms  4.919 ms  4.233 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  6.317 ms  5.291 ms  4.216 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  21.042 ms  19.613 ms  18.259 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  15.279 ms  14.072 ms  12.758 ms
+ 5  lag-16-10.tustca4200w-bcr00.netops.charter.com (66.109.6.64)  12.734 ms  12.647 ms lag-36-10.tustca4200w-bcr00.netops.charter.com (66.109.6.202)  9.822 ms
+ 6  ae5.ear3.tus1.sp.lumen.tech (4.68.111.101)  9.849 ms  7.717 ms  7.901 ms
+ 7  ae1.3509.ear1.losangeles6.net.lumen.tech (4.69.210.93)  8.197 ms  7.727 ms  8.029 ms
+ 8  china-unico.ear1.losangeles6.level3.net (4.26.3.26)  11.905 ms  11.971 ms 4.26.2.118 (4.26.2.118)  11.154 ms
+ 9  * * *
+10  219.158.16.65 (219.158.16.65)  166.623 ms * *
+11  219.158.5.145 (219.158.5.145)  190.107 ms 219.158.8.29 (219.158.8.29)  204.293 ms *
+12  125.33.186.246 (125.33.186.246)  185.675 ms * 124.64.212.34 (124.64.212.34)  187.288 ms
+13  202.106.37.50 (202.106.37.50)  185.815 ms  186.612 ms 125.33.187.78 (125.33.187.78)  201.177 ms
+14  61.148.115.82 (61.148.115.82)  198.447 ms  195.636 ms  192.248 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to esa.int (178.32.232.86), 30 hops max, 60 byte packets
+ 1  10.188.88.1 (10.188.88.1)  15.705 ms  15.053 ms  14.591 ms
+ 2  syn-076-081-212-153.biz.spectrum.com (76.81.212.153)  14.593 ms  14.259 ms  13.899 ms
+ 3  lag-103.mcr02tustcaft.netops.charter.com (72.129.5.14)  14.860 ms  14.362 ms  14.526 ms
+ 4  lag-9-10.rcr01tustcaft.netops.charter.com (72.129.5.116)  13.268 ms  12.856 ms  12.406 ms
+ 5  lag-46-10.tustca4200w-bcr00.netops.charter.com (209.18.43.72)  15.105 ms lag-56-10.tustca4200w-bcr00.netops.charter.com (66.109.10.10)  14.642 ms  14.206 ms
+ 6  lag-24.lsancarc0yw-bcr00.netops.charter.com (107.14.19.37)  21.824 ms  19.779 ms  19.121 ms
+ 7  lag-12.snjucacl67w-bcr00.netops.charter.com (66.109.6.6)  18.282 ms  39.510 ms  39.088 ms
+ 8  lag-0.pr1.sjc10.netops.charter.com (66.109.5.133)  16.953 ms  16.151 ms  15.707 ms
+ 9  sjo-sv5-bb1-a9.ca.us (142.44.208.196)  20.490 ms  20.055 ms  19.645 ms
+10  * * *
+11  * * *
+12  sjo-sv5-sbb1-8k.ca.us (192.99.146.196)  18.139 ms  17.739 ms *
+13  sjo-sv5-sbb1-8k.ca.us (192.99.146.196)  16.899 ms  16.539 ms  20.116 ms
+14  be103.bhs-g1-nc5.qc.ca (198.27.73.206)  80.219 ms  79.679 ms *
+15  nyc-ny9-sbb1-8k.ny.us (192.99.146.216)  83.824 ms be103.bhs-g1-nc5.qc.ca (198.27.73.206)  84.139 ms  82.729 ms
+16  nyc-ny9-sbb2-8k.ny.us (192.99.146.218)  85.607 ms nyc-ny9-sbb1-8k.ny.us (192.99.146.216)  84.157 ms  82.988 ms
+17  be102.lil1-rbx8-sbb1-nc5.fr.eu (54.36.50.241)  156.810 ms lon-thw-sbb1-nc5.uk.eu (192.99.146.126)  148.578 ms be104.lon-drch-sbb1-nc5.uk.eu (192.99.146.132)  151.810 ms
+18  be104.lon-drch-sbb1-nc5.uk.eu (192.99.146.132)  148.930 ms be102.lil1-rbx8-sbb2-nc5.fr.eu (54.36.50.231)  156.157 ms be102.lil1-rbx8-sbb1-nc5.fr.eu (54.36.50.241)  153.654 ms
+19  37.59.16.24 (37.59.16.24)  158.900 ms * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
