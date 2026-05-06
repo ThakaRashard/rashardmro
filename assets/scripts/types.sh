@@ -39,11 +39,12 @@ nslookup -type=ns uspto.com
 nslookup -type=ns cbs.com
 nslookup -type=mx cbs.com
 nslookup -type=any cbs.com
-
+dig cbssports.com ALL
+dig cbssports.com ANY
 nslookup -type=ns nbc.com
 nslookup -type=mx nbc.com
 nslookup -type=any nbc.com
-
+dig nbcsports.com ALL
 nslookup -type=ns foxnews.com
 nslookup -type=mx foxnews.com
 nslookup -type=any foxnews.com
