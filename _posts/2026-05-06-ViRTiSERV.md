@@ -27,8 +27,81 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 
-[https://cd10.lacity.gov/](https://cd10.lacity.gov/) @la-county-isd here is a korean Nmap book [https://www.acornpub.co.kr/book/nmap](https://www.acornpub.co.kr/book/nmap) craft beef fat boy paranoia done infected your library ms bass @cityoflosangeles [ 502 Bad Gateway](https://www.acornpub.co.kr/book/nmap)
-_An upstream server error has occurred. If you believe you are seeing this message in error, please contact your network administrator._
+[https://cd10.lacity.gov/](https://cd10.lacity.gov/) @la-county-isd here is a korean [@Nmap](https://nmap.org/book/) book [https://www.acornpub.co.kr/book/nmap](https://www.acornpub.co.kr/book/nmap) craft beef fat boy paranoia done infected your library ms bass @cityoflosangeles [ 502 Bad Gateway](https://www.acornpub.co.kr/book/nmap)
+_An upstream server error has occurred. If you believe you are seeing this message in error, please contact your network administrator._ . . . @nmap hi im sure you know Chris and Sam from @gatech / @gtri i was working as a junior admin under a peer of thiers. We were server oriented so we talked networking, but at that level its still desktop support and they gave us some numbers to put in... @cityOfLosAngeles is under a cyber attack and people are stranded enMasse at this point homeless is stranded and human heaerders are not that gentle!
+
+Dig this output
+`dig whitehouse.gov MX`
+@cloudflare i am not your enemy, i want my [@commercegov @nasa-jpl is it real @cbs-news-data ?? `trumpCard`](https://www.commerce.gov/) [https://www.trumpcard.gov/](https://www.trumpcard.gov/) and these dns queries make it look like i cannot talk to @whitehouse clean without you filtering @nasa-pds [This Is out Put](https://github.com/rashardsdata/rashardmro/blob/master/assets/scripts/types_output_) from [`ThisScript types.sh` _truncated @la-county-isd @blackgirlscode @esa](https://github.com/rashardsdata/rashardmro/blob/master/assets/scripts/types.sh) @StateOf California [_SupervisorHollyJMitCHell_@fbicyber](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [[pic](https://lacounty.gov/wp-content/uploads/2025/12/Supervisor-Holly-J-Mitchell-2024-1-819x1024.jpg)]
+
+```shell
+;; AUTHORITY SECTION:
+whitehouse.gov.         721     IN      S
+OA      ernest.ns.cloudflare.com. dns.clo
+udflare.com. 2403320241 10000 2400 604800
+1800
+
+; <<>> DiG 9.20.18 <<>> whitehouse.gov NS
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24660
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;whitehouse.gov.			IN	NS
+
+;; ANSWER SECTION:
+whitehouse.gov.		86400	IN	NS	wally.ns.cloudflare.com.
+whitehouse.gov.		86400	IN	NS	ernest.ns.cloudflare.com.
+
+;; Query time: 40 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Wed May 06 10:33:35 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2403559660
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+ernest.ns.cloudflare.com	internet address = 173.245.59.164
+ernest.ns.cloudflare.com	internet address = 108.162.193.164
+ernest.ns.cloudflare.com	internet address = 172.64.33.164
+wally.ns.cloudflare.com	internet address = 173.245.58.239
+wally.ns.cloudflare.com	internet address = 108.162.192.239
+wally.ns.cloudflare.com	internet address = 172.64.32.239
+ernest.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3ba4
+ernest.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c1a4
+wally.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0ef
+
+```
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e3d06ef4-6305-4b33-ad75-483c9e432a51" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/f88ef145-228e-4c48-aecf-da66a5a9134d" />
 
 
