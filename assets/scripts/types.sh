@@ -24,13 +24,17 @@ nslookup -type=ns ebony.com
 nslookup -type=ns ebony.com
 nslookup -type=ns usgs.gov
 nslookup -type=mx usgs.gov
+dig whitehouse.gov NS
+nslookup -type=mx whitehouse.gov
+nslookup -type=ns whitehouse.gov
 nslookup -type=ns usps.com
-nslookup -type=ns usps.com
-nslookup -type=mx uspto.com
-nslookup -type=ns uspto.com
+nslookup -type=mx usps.com
+dig usps.com ANY
 nslookup -type=ns wp1-ext.usps.gov
 nslookup -type=mx wp1-ext.usps.gov
-
+dig wp1-ext.usps.gov ANY
+nslookup -type=mx uspto.com
+nslookup -type=ns uspto.com
 ## channels
 nslookup -type=ns cbs.com
 nslookup -type=mx cbs.com
@@ -74,7 +78,7 @@ nslookup -type=mx noaa.gov
 nslookup -type=ns noaa.gov
 nslookup -type=ns aia-aerospace.org
 nslookup -type=mx aia-aerospace.org
-nslookup -type=mx rocketlabcorp.com
+nslookup -type=ns rocketlabcorp.com
 nslookup -type=mx rocketlabcorp.com
 nslookup -type=ns rtx.com
 nslookup -type=mx rtx.com
@@ -106,7 +110,7 @@ nslookup -type=ns amtrack.com
 nslookup -type=mx amtrack.com
 nslookup -type=ns bigbluebus.com
 nslookup -type=mx ladottransit.com
- nslookup -type=ns bigbluebus.com
+nslookup -type=ns bigbluebus.com
 nslookup -type=mx ladottransit.com
 nslookup -type=mx lapdonline.org
 traceroute ladottransit.com

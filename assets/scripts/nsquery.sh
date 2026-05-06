@@ -1,7 +1,5 @@
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
-nslookup -type=ns ice.gov
-nslookup -type=mx ice.gov
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=mx karenbass.com
