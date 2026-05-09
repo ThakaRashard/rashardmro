@@ -25,7 +25,8 @@ permalink: /virtiserv
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
-[https://www.crimemapping.com/map/ca/losangeles @la-county-isd im being harassed in the library @longbeachinnovationteam, i hope i dont lose a `ANOTHERTOOTH`!!!!](https://www.crimemapping.com/map/ca/losangeles) ![https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg](https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg)
+[https://www.crimemapping.com/map/ca/losangeles @la-county-isd im being harassed in the library @longbeachinnovationteam, i hope i dont lose a `ANOTHERTOOTH`!!!!](https://www.crimemapping.com/map/ca/losangeles) ![https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg](https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg) [https://lasd.org/](https://lasd.org/) @cloudflare i dont know your situation... but there was a lot of gunfire last night @LACMTA area and the @commercegov @trumpcard condition in networking and counterfitting... its just like yo talk to my boss @nasa-jpl im not interested in any contact at all! 
+
 <img alt="image" src="https://github.com/user-attachments/assets/1187d90c-3a94-45cb-9fff-72efa5d46bd0" />
 
 [https://search.earthdata.nasa.gov/search?lat=38.92221471633313&long=-77.01608820025304&zoom=16.395299004194168 @whitehouse hi! @nasa @lmco](https://search.earthdata.nasa.gov/search?lat=38.92221471633313&long=-77.01608820025304&zoom=16.395299004194168)
