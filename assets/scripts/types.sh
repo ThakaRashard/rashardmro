@@ -1,5 +1,5 @@
 #################⁸#####
-echo "CURRENT DNS MAP"
+echo "CURRENT DNS MAP @la-county-isd @whitehouse"
 echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
@@ -8,6 +8,8 @@ uptime
 cal
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns uahirise.org
+nslookup -type=mx uahirise.org
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=mx karenbass.com
@@ -193,6 +195,7 @@ curl whitehouse.gov
 traceroute esa.int
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
+echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 #whois lacourt.ca.gov
 #whois lacourt.org
 #whois whitehouse.gov
