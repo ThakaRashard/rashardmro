@@ -27,6 +27,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/717cacc0-8a7d-4e52-804a-14d8fd0c5a45" />
+
 
 <img   alt="image @nasa-jpl @emit-sds @nasa-openscapes @doug-newman-nasa im watching the graduation @Nbcnews" src="https://github.com/user-attachments/assets/86dc0ad4-5865-4ee1-b25b-d1d992515493" />
 
