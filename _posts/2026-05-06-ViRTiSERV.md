@@ -17,7 +17,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
   
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
 
@@ -27,7 +27,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[@blackgirlscode kim bryant for the girls @howard-university-web-services @apple @la-county-isd uahirise.org/hiview/](https://www.uahirise.org/hiview/)
+[@blackgirlscode kim bryant for the girls @howard-university-web-services @apple @la-county-isd uahirise.org/hiview @nasa-pds can you push @whitehouse @commercegov @weather-gov](https://www.uahirise.org/hiview/)
 
 <img alt="mssiewe@Howard.edu" src="https://github.com/user-attachments/assets/d3a06f38-3c31-43ef-bb2d-7896fa550425" />
 
