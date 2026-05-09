@@ -11,6 +11,7 @@ permalink: /virtiserv
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
@@ -24,6 +25,9 @@ permalink: /virtiserv
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+`rashad james` [https://youtu.be/Klx3TVvmIHA](https://youtu.be/Klx3TVvmIHA)
+<img  alt="image" src="https://github.com/user-attachments/assets/68360e5c-5ef2-48d2-8d7c-f7a578b11623" />
 
 [https://www.crimemapping.com/map/ca/losangeles @la-county-isd im being harassed in the library @longbeachinnovationteam, i hope i dont lose a `ANOTHERTOOTH`!!!!](https://www.crimemapping.com/map/ca/losangeles) ![https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg](https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg) [https://lasd.org/](https://lasd.org/) @cloudflare i dont know your situation... but there was a lot of gunfire last night @LACMTA area and the @commercegov @trumpcard condition in networking and counterfitting... its just like yo talk to my boss @nasa-jpl im not interested in any contact at all! 
 
