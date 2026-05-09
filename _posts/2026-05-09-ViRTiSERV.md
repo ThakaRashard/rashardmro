@@ -27,6 +27,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/e531a71e-17c5-4804-be1a-15b9d7e73511" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/717cacc0-8a7d-4e52-804a-14d8fd0c5a45" />
 
 
