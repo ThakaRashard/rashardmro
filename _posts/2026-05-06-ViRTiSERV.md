@@ -13,6 +13,11 @@ permalink: /virtiserv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+@whitehouse it looks like there is standing water to the northwest  @howard-university-web-services . . . @eu-cdse [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.90/-8586867.80/4718556.08&layers=aqv_chla_20260503_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.90/-8586867.80/4718556.08&layers=aqv_chla_20260503_landsat:1.00:0.00:30.00:default)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/127b2779-42fc-4d83-b3c7-93c4828a2171" />
+
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
