@@ -8,7 +8,7 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
-## Rashard Kelly ... @nasa-jpl @blackgirlscode i was just burned somehow my sholder is on fire and my teeth were threatened!!!! @la-county-isd its radio bullying through the headphones high freuaQ KarenBassDaMAyor @CityOfLosAngeles @stateofcalifornia 
+## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -27,6 +27,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+ @nasa-jpl @blackgirlscode i was just burned somehow my sholder is on fire and my teeth were threatened!!!! @la-county-isd its radio bullying through the headphones high freuaQ KarenBassDaMAyor @CityOfLosAngeles @stateofcalifornia  
+ 
 <img  alt="image" src="https://github.com/user-attachments/assets/e531a71e-17c5-4804-be1a-15b9d7e73511" />
 
 
