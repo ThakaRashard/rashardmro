@@ -1,0 +1,28 @@
+nslookup -type=ns jpl.nasa.gov
+nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns esa.int
+nslookup -type=mx esa.int
+nslookup -type=mx karenbass.com
+nslookup -type=ns karenbass.com
+nslookup -type=mx bet.com
+nslookup -type=ns bet.com
+nslookup -type=ns essence.com
+nslookup -type=mx essence.com
+nslookup -type=any essence.com
+
+## channels
+nslookup -type=ns cbs.com
+nslookup -type=mx cbs.com
+nslookup -type=any cbs.com
+
+nslookup -type=ns nbc.com
+nslookup -type=mx nbc.com
+nslookup -type=any nbc.com
+
+nslookup -type=ns foxnews.com
+nslookup -type=mx foxnews.com
+nslookup -type=any foxnews.com
+
+nslookup -type=ns abc.com    nslookup -type=mx abc.com
+nslookup -type=any abc.com
+

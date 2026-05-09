@@ -6,7 +6,12 @@ categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
- 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5ec011b3-0742-4cd3-8626-0b7f03deed0f" />
+<img   alt="image" src="https://github.com/user-attachments/assets/5bf40fd4-fa3b-4bd2-9b5f-ba5498ad41c6" />
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/4f6dbe9a-b5ac-4406-93b5-50d4a8c0e39e" />
+
 @la-county-isd 
 If Latrice writes geek, check on her @blackgirlscode she may have lost a friend @foratlanta normani if Niki or  cardi write soren i hope i can talk to the fam at some point just to say she was a coral birthday and i respected her physicality without being nasty  ././ @nasa-jpl @cityoflosangeles
 <img  alt="https://64.media.tumblr.com/9bab133a9a660e65e7592124d1ba78af/f7f44045e3cd4b34-1b/s1280x1920/d69f9bf92801155176ae94ddde77df9db7b8b3c0.jpg" src="https://github.com/user-attachments/assets/34349334-fffe-4ace-8ad2-ec10a332f46b" />

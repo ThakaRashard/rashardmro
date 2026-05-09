@@ -9,8 +9,21 @@ tags: nasaoffice nasajpl helpdesk
 
 
 
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+<img alt="image" src="https://github.com/user-attachments/assets/d5b35a42-c06b-4836-8642-1782cc07246e" />
+
+![133356182_1820944668067182_5036319584717506336_n @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @stateofcalifornia](https://github.com/user-attachments/assets/da438ea8-a722-450e-b243-f80e522c5181)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+
+[MAPLiNK @longbeachinnovationteam @la-county-isd](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.95/-13151758.97/3999762.44&layers=aqv_chla_20260314_sentinel:1.00:0.00:30.00:default,aqv_tss_20260314_landsat:1.00:0.00:30.00:default,aqv_chla_20260314_landsat:1.00:0.00:30.00:default,aqv_secchi_20260314_landsat:1.00:0.00:30.00:secchi) 𝛑 🥧 day
 
 
 {{ site.time | date: '%B %d, %Y' }} 

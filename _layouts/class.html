@@ -6,7 +6,9 @@
 
 {% seo %}
 <link rel="stylesheet" href="{{ '/assets/css/class.css?v=' | append: site.github.build_revision | relative_url }}">
-
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+  </script> 
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -34,6 +36,11 @@
 <main class="floatleft floatright"  itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
 
+
+
+        {{ content }}
+
+
         <div class="box">
 
           {% for post in site.posts %}
@@ -44,11 +51,6 @@
           {% endfor %}
            
           </div> 
-
-
-        {{ content }}
-
-
           
 <div class="swatch">
               <div></div>
