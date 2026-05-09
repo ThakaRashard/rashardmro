@@ -1,7 +1,7 @@
 #################⁸#####
 echo "CURRENT DNS MAP @la-county-isd @whitehouse"
 date
-echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
 ifconfig 
