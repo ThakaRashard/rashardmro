@@ -25,6 +25,12 @@ permalink: /virtiserv
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+@blackgirlscode sorry i missed a pic, it looked like rihanna... [https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA)  @howard-university-web-services . . . @eu-cdse howard is not too far from @whitehouse and a lot of people online for the [Graduation](https://commencement.howard.edu/) @esa if you guys need perms for pics today is a good day @nasa @nasa-jpl @nasa-giss @nasa-openscapes @podaac 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad3b3904-10ca-4449-ae83-9e43cdf49952" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ab60f112-9269-4b20-b27d-661bed324582" />
 
 
 [https://cd10.lacity.gov/](https://cd10.lacity.gov/) @la-county-isd here is a korean [@Nmap](https://nmap.org/book/) book [https://www.acornpub.co.kr/book/nmap](https://www.acornpub.co.kr/book/nmap) craft beef fat boy paranoia done infected your library ms bass @cityoflosangeles [ 502 Bad Gateway](https://www.acornpub.co.kr/book/nmap)
