@@ -25,6 +25,9 @@ permalink: /virtiserv
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+[https://search.earthdata.nasa.gov/search?lat=38.92221471633313&long=-77.01608820025304&zoom=16.395299004194168 @whitehouse hi! @nasa @lmco](https://search.earthdata.nasa.gov/search?lat=38.92221471633313&long=-77.01608820025304&zoom=16.395299004194168)
+<img alt="image" src="https://github.com/user-attachments/assets/81aac354-608a-4b9d-ba76-3558ad364deb" />
+
 @blackgirlscode sorry i missed a pic, it looked like rihanna... [https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA)  @howard-university-web-services . . . @eu-cdse howard is not too far from @whitehouse and a lot of people online for the [Graduation](https://commencement.howard.edu/) @esa if you guys need perms for pics today is a good day @nasa @nasa-jpl @nasa-giss @nasa-openscapes @podaac 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ad3b3904-10ca-4449-ae83-9e43cdf49952" />
