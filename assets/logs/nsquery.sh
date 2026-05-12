@@ -1,3 +1,11 @@
+#################⁸#####
+echo "CURRENT DNS MAP"
+echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+uname -a
+ifconfig 
+uptime
+cal
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns esa.int
@@ -16,21 +24,37 @@ nslookup -type=ns ebony.com
 nslookup -type=ns ebony.com
 nslookup -type=ns usgs.gov
 nslookup -type=mx usgs.gov
+dig whitehouse.gov NS
+nslookup -type=mx whitehouse.gov
+nslookup -type=ns whitehouse.gov
 nslookup -type=ns usps.com
-nslookup -type=ns usps.com
-nslookup -type=mx uspto.com
-nslookup -type=ns uspto.com
+nslookup -type=mx usps.com
+dig usps.com ANY
 nslookup -type=ns wp1-ext.usps.gov
 nslookup -type=mx wp1-ext.usps.gov
+dig wp1-ext.usps.gov ANY
+nslookup -type=mx uspto.com
+nslookup -type=ns uspto.com
+## channels
 nslookup -type=ns cbs.com
 nslookup -type=mx cbs.com
 nslookup -type=any cbs.com
+dig cbssports.com ALL
+dig cbssports.com ANY
 nslookup -type=ns nbc.com
 nslookup -type=mx nbc.com
 nslookup -type=any nbc.com
+dig nbcsports.com ALL
 nslookup -type=ns foxnews.com
 nslookup -type=mx foxnews.com
 nslookup -type=any foxnews.com
+nslookup -type=ns spectrum.com
+nslookup -type=mx spectrum.com
+nslookup -type=any spectrum.com
+dig spectrum.com ALL
+nslookup -type=ns thehollywoodtheater.com
+nslookup -type=mx thehollywoodtheater.com
+host google.com
 nslookup -type=ns abc.com
 nslookup -type=mx abc.com
 nslookup -type=any abc.com
@@ -60,7 +84,7 @@ nslookup -type=mx noaa.gov
 nslookup -type=ns noaa.gov
 nslookup -type=ns aia-aerospace.org
 nslookup -type=mx aia-aerospace.org
-nslookup -type=mx rocketlabcorp.com
+nslookup -type=ns rocketlabcorp.com
 nslookup -type=mx rocketlabcorp.com
 nslookup -type=ns rtx.com
 nslookup -type=mx rtx.com
@@ -115,6 +139,7 @@ nslookup -type=mx fire.ca.gov
 nslookup -type=ns stfranciscenterla.org   
 nslookup -type=mx stfranciscenterla.org   
 nslookup -type=mx state.gov
+
 nslookup -type=ns state.gov
 nslookup -type=ns cedars-sinai.org
 nslookup -type=mx cedars-sinai.org
@@ -123,6 +148,7 @@ nslookup -type=mx embassyeritrea.org
 nslookup -type=ns ethiopianembassy.org                
 nslookup -type=mx ethiopianembassy.org                 
 nslookup -type=mx state.gov
+		        
 nslookup -type=ns embassyeritrea.org                  
 nslookup -type=mx stfranciscenterla.org                  
 nslookup -type=mx fire.ca.gov
@@ -135,6 +161,30 @@ nslookup -type=mx commonspirit.org
 nslookup -type=ns commonspirit.org
 nslookup -type=ns dignityhealth.org
 nslookup -type=mx dignityhealth.org
+ping -c2 dignityhealth.org
 nslookup -type=ns starbucks.com
+ping -c2 lacounty.gov
+ping -c2 fultoncountyga.gov
+ping -c2 lacity.org
+ping -c2 lacity.gov
+ping -c2 longbeach.gov
+ping -c2 whitehouse.gov
+ping -c2 nasa.gov
+ping -c2 lacourt.org
+ping -c2 lacourt.ca.gov
+ping -c1 state.gov 
+ping -c2 level3.net
+curl virtiserv.com
+curl nasa.gov
+curl whitehouse.gov
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
+#whois lacourt.ca.gov
+#whois lacourt.org
+#whois whitehouse.gov
+#whois commerce.gov
+#whois lacity.gov
+#whois lacity.org
+#whois lacounty.gov
+#westernunion
+#usajobs.gov nasaforce

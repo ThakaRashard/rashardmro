@@ -1,0 +1,1231 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	nameserver = a2-67.akam.net.
+jpl.nasa.gov	nameserver = a11-67.akam.net.
+jpl.nasa.gov	nameserver = a14-67.akam.net.
+jpl.nasa.gov	nameserver = a7-65.akam.net.
+jpl.nasa.gov	nameserver = a1-91.akam.net.
+jpl.nasa.gov	nameserver = a8-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	nameserver = ns4.esa.int.
+esa.int	nameserver = ns3.esa.int.
+esa.int	nameserver = ns1.esa.int.
+esa.int	nameserver = ns2.esa.int.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	mail exchanger = 10 esa-int.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+karenbass.com	mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com	mail exchanger = 1 aspmx.l.google.com.
+karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com	mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com	mail exchanger = 10 alt4.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+karenbass.com	nameserver = nicole.ns.cloudflare.com.
+karenbass.com	nameserver = conrad.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bet.com	mail exchanger = 10 mxa-00262c01.gslb.pphosted.com.
+bet.com	mail exchanger = 10 mxb-00262c01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bet.com	nameserver = dns3.p09.nsone.net.
+bet.com	nameserver = ns0004.secondary.cloudflare.com.
+bet.com	nameserver = dns4.p09.nsone.net.
+bet.com	nameserver = dns2.p09.nsone.net.
+bet.com	nameserver = ns0243.secondary.cloudflare.com.
+bet.com	nameserver = dns1.p09.nsone.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tiktok.com	mail exchanger = 30 mx3.tiktok.com.
+tiktok.com	mail exchanger = 20 mx2.tiktok.com.
+tiktok.com	mail exchanger = 10 mx1.tiktok.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tiktok.com	nameserver = a12-66.akam.net.
+tiktok.com	nameserver = a18-64.akam.net.
+tiktok.com	nameserver = a9-66.akam.net.
+tiktok.com	nameserver = a13-67.akam.net.
+tiktok.com	nameserver = a6-65.akam.net.
+tiktok.com	nameserver = a1-97.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+facebook.com	nameserver = c.ns.facebook.com.
+facebook.com	nameserver = a.ns.facebook.com.
+facebook.com	nameserver = d.ns.facebook.com.
+facebook.com	nameserver = b.ns.facebook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+facebook.com	mail exchanger = 10 smtpin.vvv.facebook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+essence.com	nameserver = dahlia.ns.cloudflare.com.
+essence.com	nameserver = lou.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+essence.com	mail exchanger = 10 us-smtp-inbound-2.mimecast.com.
+essence.com	mail exchanger = 10 us-smtp-inbound-1.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ebony.com	nameserver = macy.ns.cloudflare.com.
+ebony.com	nameserver = henrik.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ebony.com	nameserver = henrik.ns.cloudflare.com.
+ebony.com	nameserver = macy.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usgs.gov	nameserver = chin.ns.cloudflare.com.
+usgs.gov	nameserver = ram.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usgs.gov	mail exchanger = 0 usgs-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	nameserver = dns082.usps.com.
+usps.com	nameserver = dns141.usps.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	nameserver = dns082.usps.com.
+usps.com	nameserver = dns141.usps.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	mail exchanger = 0 mail.uspto.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	nameserver = ns6.mpower.nl.
+uspto.com	nameserver = ns5.mpower.nl.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1777920345
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1777920345
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov	mail exchanger = 1 lacourt-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov	nameserver = keaton.ns.cloudflare.com.
+lacourt.ca.gov	nameserver = kelly.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.org	nameserver = ns17.domaincontrol.com.
+lacourt.org	nameserver = ns18.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.org	mail exchanger = 0 lacourt-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nasa.gov	mail exchanger = 0 nasa-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nasa.gov	nameserver = a14-67.akam.net.
+nasa.gov	nameserver = a9-64.akam.net.
+nasa.gov	nameserver = a12-64.akam.net.
+nasa.gov	nameserver = a5-66.akam.net.
+nasa.gov	nameserver = a1-32.akam.net.
+nasa.gov	nameserver = a8-66.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+flylax.com	nameserver = vlasns1.lawa.org.
+flylax.com	nameserver = veuscoreinfo03.lawa.org.
+flylax.com	nameserver = vwuscoreinfo03.lawa.org.
+flylax.com	nameserver = vlaxnashns1.lawa.org.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+flylax.com	mail exchanger = 10 inbound-smtp.us-east-1.amazonaws.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cia.gov	mail exchanger = 10 mail3.cia.gov.
+cia.gov	mail exchanger = 10 mail4.cia.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cia.gov	nameserver = a1-22.akam.net.
+cia.gov	nameserver = a16-67.akam.net.
+cia.gov	nameserver = a13-65.akam.net.
+cia.gov	nameserver = a3-64.akam.net.
+cia.gov	nameserver = a22-66.akam.net.
+cia.gov	nameserver = a12-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+google.com	mail exchanger = 10 smtp.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+google.com	nameserver = ns1.google.com.
+google.com	nameserver = ns2.google.com.
+google.com	nameserver = ns3.google.com.
+google.com	nameserver = ns4.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov	nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e1.googledomains.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov	mail exchanger = 10 mx-east.fbi.gov.
+fbi.gov	mail exchanger = 20 mx-west.fbi.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+epa.gov	mail exchanger = 0 usepa.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+epa.gov	nameserver = nccns2.epa.gov.
+epa.gov	nameserver = dcns2.epa.gov.
+epa.gov	nameserver = dcns1.epa.gov.
+epa.gov	nameserver = nccns1.epa.gov.
+
+Authoritative answers can be found from:
+
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacoe.edu	nameserver = netmgr.lacoe.edu.
+lacoe.edu	nameserver = dns4.lacoe.edu.
+lacoe.edu	nameserver = pws.lacoe.edu.
+lacoe.edu	nameserver = nccunix.lacoe.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacoe.edu	mail exchanger = 0 lacoe-edu.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jw.org	nameserver = a1-141.akam.net.
+jw.org	nameserver = a11-66.akam.net.
+jw.org	nameserver = a22-67.akam.net.
+jw.org	nameserver = a7-66.akam.net.
+jw.org	nameserver = a26-64.akam.net.
+jw.org	nameserver = a28-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jw.org	mail exchanger = 10 jw-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+azbec.org	mail exchanger = 0 azbec-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+azbec.org	nameserver = ns51.domaincontrol.com.
+azbec.org	nameserver = ns52.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov	mail exchanger = 20 ALT1.ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 10 ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 40 ALT3.ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 40 ALT4.ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 20 ALT2.ASPMX.L.GOOGLE.COM.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov	nameserver = ns-03.noaa.gov.
+noaa.gov	nameserver = ns-01.noaa.gov.
+noaa.gov	nameserver = ns-02.noaa.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+aia-aerospace.org	nameserver = miles.ns.cloudflare.com.
+aia-aerospace.org	nameserver = chelsea.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+aia-aerospace.org	mail exchanger = 0 mx1-us1.ppe-hosted.com.
+aia-aerospace.org	mail exchanger = 0 mx2-us1.ppe-hosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rocketlabcorp.com	mail exchanger = 0 rocketlabcorp-com.mail.protection.office365.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rocketlabcorp.com	mail exchanger = 0 rocketlabcorp-com.mail.protection.office365.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rtx.com	nameserver = aria.ns.cloudflare.com.
+rtx.com	nameserver = algin.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rtx.com	mail exchanger = 10 mxa-00105402.gslb.gpphosted.com.
+rtx.com	mail exchanger = 10 mxb-00105402.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.org	nameserver = ns1.dnsmadeeasy.com.
+lacity.org	nameserver = ns4.dnsmadeeasy.com.
+lacity.org	nameserver = ns0.dnsmadeeasy.com.
+lacity.org	nameserver = ns2.dnsmadeeasy.com.
+lacity.org	nameserver = ns3.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.org	mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.org	mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.org	mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.org	mail exchanger = 1 aspmx.l.google.com.
+lacity.org	mail exchanger = 5 alt1.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.gov	mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov	mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov	mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov	mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov	mail exchanger = 1 aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.gov	nameserver = ns3.dnsmadeeasy.com.
+lacity.gov	nameserver = ns1.dnsmadeeasy.com.
+lacity.gov	nameserver = ns0.dnsmadeeasy.com.
+lacity.gov	nameserver = ns4.dnsmadeeasy.com.
+lacity.gov	nameserver = ns2.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	nameserver = a8.uberns.com.
+longbeach.gov	nameserver = b8.uberns.com.
+longbeach.gov	nameserver = dns02.ci.long-beach.ca.us.
+longbeach.gov	nameserver = dns01.ci.long-beach.ca.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	mail exchanger = 10 mxa-00539a01.gslb.pphosted.com.
+longbeach.gov	mail exchanger = 10 mxb-00539a01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	nameserver = sogns2.state.ga.us.
+georgia.gov	nameserver = sogns1.state.ga.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	mail exchanger = 10 mxa-003fd101.gslb.pphosted.com.
+georgia.gov	mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	mail exchanger = 5 mx02.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx03.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx04.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx01.earthlink-vadesecure.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	nameserver = rihana.ns.cloudflare.com.
+earthlink.net	nameserver = carl.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	mail exchanger = 10 mx1c38.carrierzone.com.
+waterandpower.org	mail exchanger = 110 mx3c38.carrierzone.com.
+waterandpower.org	mail exchanger = 100 mx2c38.carrierzone.com.
+waterandpower.org	mail exchanger = 120 mx4c38.carrierzone.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	nameserver = dns2.earthlink.net.
+waterandpower.org	nameserver = dns3.earthlink.net.
+waterandpower.org	nameserver = dns1.earthlink.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	mail exchanger = 10 mx0a-007e5801.pphosted.com.
+level3.net	mail exchanger = 10 mx0b-007e5801.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	nameserver = ns2.level3.net.
+level3.net	nameserver = ns1.level3.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	nameserver = ns1.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns2.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns3.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	mail exchanger = 10 mxa-0032a901.gslb.pphosted.com.
+fultoncountyga.gov	mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov	nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov	nameserver = cmtu.mt.ns.els-gms.att.net.
+atlantaga.gov	nameserver = ns1.cl.bellsouth.net.
+atlantaga.gov	nameserver = ns3.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+atlantaga.gov	mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2403320241
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	mail exchanger = 10 metro-net.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	nameserver = ns3.dnsmadeeasy.com.
+metro.net	nameserver = ns0.dnsmadeeasy.com.
+metro.net	nameserver = ns1.dnsmadeeasy.com.
+metro.net	nameserver = ns2.dnsmadeeasy.com.
+metro.net	nameserver = ns4.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+amtrack.com	nameserver = ns47.domaincontrol.com.
+amtrack.com	nameserver = ns48.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find amtrack.com: No answer
+
+Authoritative answers can be found from:
+amtrack.com
+	origin = ns47.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2025120906
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	mail exchanger = 10 lapdonline-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	nameserver = ns2-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns3-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns4-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns1-02.azuregov-dns.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	nameserver = lrci-ib-e04.isd.lacounty.gov.
+lacounty.gov	nameserver = lrci-ib-e03.isd.lacounty.gov.
+lacounty.gov	nameserver = dci-ib-e01.isd.lacounty.gov.
+lacounty.gov	nameserver = dci-ib-e02.isd.lacounty.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+lacounty.gov	mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	nameserver = max.ns.cloudflare.com.
+commerce.gov	nameserver = cecelia.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	mail exchanger = 0 commerce-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	nameserver = a5-67.akam.net.
+polb.com	nameserver = a14-64.akam.net.
+polb.com	nameserver = a1-172.akam.net.
+polb.com	nameserver = a9-67.akam.net.
+polb.com	nameserver = a28-65.akam.net.
+polb.com	nameserver = a22-67.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	mail exchanger = 5 us-smtp-inbound-2.mimecast.com.
+polb.com	mail exchanger = 5 us-smtp-inbound-1.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wellsfargo.com	mail exchanger = 10 mxb-00004003.gslb.pphosted.com.
+wellsfargo.com	mail exchanger = 10 mxa-00004003.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wellsfargo.com	nameserver = edns1.ultradns.org.
+wellsfargo.com	nameserver = a1-189.akam.net.
+wellsfargo.com	nameserver = a2-64.akam.net.
+wellsfargo.com	nameserver = edns1.ultradns.biz.
+wellsfargo.com	nameserver = a24-66.akam.net.
+wellsfargo.com	nameserver = edns1.ultradns.net.
+wellsfargo.com	nameserver = edns1.ultradns.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+musiccenter.org	nameserver = ns97.worldnic.com.
+musiccenter.org	nameserver = ns98.worldnic.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+musiccenter.org	mail exchanger = 10 musiccenter-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+laopera.org	nameserver = ns63.domaincontrol.com.
+laopera.org	nameserver = ns64.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+laopera.org	mail exchanger = 0 laopera-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	nameserver = keaton.ns.cloudflare.com.
+fire.ca.gov	nameserver = kelly.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	nameserver = chase.ns.cloudflare.com.
+ca.gov	nameserver = asa.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	mail exchanger = 50 state-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov	mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	nameserver = rachel.ns.cloudflare.com.
+stfranciscenterla.org	nameserver = cameron.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	mail exchanger = 20 mx20.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 30 mx30.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 10 mx10.antispam.mailspamprotection.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	mail exchanger = 20 christopher-ew.state.gov.
+state.gov	mail exchanger = 20 stimson.state.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	nameserver = a8-67.akam.net.
+state.gov	nameserver = a9-64.akam.net.
+state.gov	nameserver = a14-64.akam.net.
+state.gov	nameserver = a1-63.akam.net.
+state.gov	nameserver = a3-66.akam.net.
+state.gov	nameserver = a26-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cedars-sinai.org	nameserver = ns2.csmc.edu.
+cedars-sinai.org	nameserver = ns1.csmc.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cedars-sinai.org	mail exchanger = 10 mxa-00260502.gslb.pphosted.com.
+cedars-sinai.org	mail exchanger = 10 mxb-00260502.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	nameserver = ns-1184.awsdns-20.org.
+embassyeritrea.org	nameserver = ns-983.awsdns-58.net.
+embassyeritrea.org	nameserver = ns-1638.awsdns-12.co.uk.
+embassyeritrea.org	nameserver = ns-26.awsdns-03.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	mail exchanger = 10 mx1c25.carrierzone.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethiopianembassy.org	nameserver = ns53.domaincontrol.com.
+ethiopianembassy.org	nameserver = ns54.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethiopianembassy.org	mail exchanger = 0 ethiopianembassy-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	mail exchanger = 20 christopher-ew.state.gov.
+state.gov	mail exchanger = 20 stimson.state.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	nameserver = ns-983.awsdns-58.net.
+embassyeritrea.org	nameserver = ns-1638.awsdns-12.co.uk.
+embassyeritrea.org	nameserver = ns-1184.awsdns-20.org.
+embassyeritrea.org	nameserver = ns-26.awsdns-03.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	mail exchanger = 10 mx10.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 20 mx20.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 30 mx30.antispam.mailspamprotection.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov	mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	nameserver = asa.ns.cloudflare.com.
+ca.gov	nameserver = chase.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	mail exchanger = 50 state-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	mail exchanger = 200 mx2.starbucks.iphmx.com.
+starbucks.com	mail exchanger = 100 mx1.starbucks.iphmx.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns2.cscdns.uk.
+starbucks.com	nameserver = udns1.cscdns.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commonspirit.org	mail exchanger = 20 mx0b-00116001.pphosted.com.
+commonspirit.org	mail exchanger = 20 mx0a-00116001.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commonspirit.org	nameserver = nick.ns.cloudflare.com.
+commonspirit.org	nameserver = vida.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org	nameserver = beth.ns.cloudflare.com.
+dignityhealth.org	nameserver = albert.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org	mail exchanger = 10 mxa-00116001.gslb.pphosted.com.
+dignityhealth.org	mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+virtiserv.com	nameserver = ns29.domaincontrol.com.
+virtiserv.com	nameserver = ns30.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find virtiserv.com: No answer
+
+Authoritative answers can be found from:
+virtiserv.com
+	origin = ns29.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2024102401
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+

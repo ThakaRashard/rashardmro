@@ -1,3 +1,45 @@
+
+
+
+traceroute cloudflare.com
+
+nslookup -type=any aia-aerospace.org
+nslookup -type=all lacity.gov
+nslookup -type=any lacity.gov 
+nslookup -type=all aia-aerospace.org
+nslookup -type=any ca.gov
+nslookup -type=all ca.gov
+nslookup -type=any commerce.gov
+nslookup -type=all commerce.gov
+nslookup -type=any commonspirit.org
+nslookup -type=all commonspirit.org
+nslookup -type=any dignityhealth.org
+nslookup -type=all dignityhealth.org
+nslookup -type=any earthlink.net
+nslookup -type=all earthlink.net
+nslookup -type=any fbi.gov
+nslookup -type=all fbi.gov
+nslookup -type=any fire.ca.gov
+nslookup -type=all fire.ca.gov
+nslookup -type=any karenbass.com
+nslookup -type=all karenbass.com
+nslookup -type=any lacourt.ca.gov
+nslookup -type=all lacourt.ca.gov
+nslookup -type=any rtx.com
+nslookup -type=all rtx.com
+nslookup -type=any stfranciscenterla.org
+nslookup -type=all stfranciscenterla.org
+nslookup -type=any usgs.gov
+nslookup -type=all usgs.gov
+nslookup -type=any whitehouse.gov
+nslookup -type=all whitehouse.gov
+nslookup -type=all bet.com
+nslookup -type=any bet.com
+nslookup -type=all ebony.com
+nslookup -type=any ebony.com
+#sportscenter
+#espn
+
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns esa.int
@@ -6,10 +48,6 @@ nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
 nslookup -type=mx bet.com
 nslookup -type=ns bet.com
-nslookup -type=mx tiktok.com
-nslookup -type=ns tiktok.com
-nslookup -type=ns facebook.com
-nslookup -type=mx facebook.com
 nslookup -type=ns essence.com
 nslookup -type=mx essence.com
 nslookup -type=ns ebony.com
@@ -22,18 +60,6 @@ nslookup -type=mx uspto.com
 nslookup -type=ns uspto.com
 nslookup -type=ns wp1-ext.usps.gov
 nslookup -type=mx wp1-ext.usps.gov
-nslookup -type=ns cbs.com
-nslookup -type=mx cbs.com
-nslookup -type=any cbs.com
-nslookup -type=ns nbc.com
-nslookup -type=mx nbc.com
-nslookup -type=any nbc.com
-nslookup -type=ns foxnews.com
-nslookup -type=mx foxnews.com
-nslookup -type=any foxnews.com
-nslookup -type=ns abc.com
-nslookup -type=mx abc.com
-nslookup -type=any abc.com
 nslookup -type=mx lacourt.ca.gov
 nslookup -type=ns lacourt.ca.gov
 nslookup -type=ns lacourt.org
@@ -90,10 +116,6 @@ nslookup -type=mx metro.net
 nslookup -type=ns metro.net
 nslookup -type=ns amtrack.com
 nslookup -type=mx amtrack.com
-nslookup -type=ns bigbluebus.com
-nslookup -type=mx ladottransit.com
-nslookup -type=ns bigbluebus.com
-nslookup -type=mx ladottransit.com
 nslookup -type=mx lapdonline.org
 nslookup -type=ns lapdonline.org
 nslookup -type=ns lacounty.gov

@@ -12,6 +12,9 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@whitehouse 
+<img   alt="image" src="https://github.com/user-attachments/assets/f51db488-7d6d-463a-881a-1a7fc025d312" />
+
 ![Launch Criteria @nasa-jpl @la-county-isd @blackgirlscode](https://www.google.com/logos/doodles/2026/celebrating-the-route-66-centennial-6753651837111083-2xa.gif)
 ![https://www.google.com/logos/doodles/2026/labour-day-2026-6753651837111008-2x.png](https://www.google.com/logos/doodles/2026/labour-day-2026-6753651837111008-2x.png)
 ![https://www.google.com/logos/doodles/2026/celebrating-the-2026-doodle-for-google-finalists-5-6753651837111268-2x.png](https://www.google.com/logos/doodles/2026/celebrating-the-2026-doodle-for-google-finalists-5-6753651837111268-2x.png) 

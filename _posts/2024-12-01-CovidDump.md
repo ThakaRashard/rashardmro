@@ -1,14 +1,14 @@
 ---
 layout: covid
 title:  "CovidDump"
-date:   2025-11-18 22:51:06 -0800
+date:   2026-05-11 00:51:06 -0800
 published: true
 image: Coronavirus._SARS-CoV-2.png
 tags: covid
 ---
 
 # Covid BrainDumP
-
+@NIHGOV @Howard-university-web-service
 @USPTO @CityOfLosAngeles @StateOfCAlifornia 
 [SARS/COViD/CoronaVirus](https://www.facebook.com/photo.php?fbid=1754571571371159&set=a.190274967800835&type=3) 
 <img  alt="image us patentet and trademark @nasa @blackgirlscode" src="https://github.com/user-attachments/assets/6fe0f6ca-0d31-41d4-9113-eb4c8ed00347" />
