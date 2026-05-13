@@ -12,17 +12,20 @@ image: LongBeachEcostress.png
 
 
 
+[ncei.noaa.gov/maps/bathymetry-classic/](https://www.ncei.noaa.gov/maps/bathymetry-classic/)
+<img  alt="image" src="https://github.com/user-attachments/assets/69ef8ed7-249e-494f-a6b4-f9f17ec7d101" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88448b10-0029-4004-9a7d-345974ab6b66" />
+
+
 [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.08/-13115746.48/3979809.90&layers=aqv_rgb_20260507_sentinel:1.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.08/-13115746.48/3979809.90&layers=aqv_rgb_20260507_sentinel:1.00:default)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e72d546f-4e04-4aef-a5b9-e157109a55be" />
 
 <img  alt="@la-county-isd @longbeachinnovationteam plz fwd to rex and ms bass its standing suspended solids" src="https://github.com/user-attachments/assets/01516587-f0f0-4fb0-b73e-a0c93e7ce7b7" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/5654567e-2153-4686-b5b0-a5f4c52f9652" />
 
-[ncei.noaa.gov/maps/bathymetry-classic/](https://www.ncei.noaa.gov/maps/bathymetry-classic/)
-<img  alt="image" src="https://github.com/user-attachments/assets/69ef8ed7-249e-494f-a6b4-f9f17ec7d101" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/88448b10-0029-4004-9a7d-345974ab6b66" />
 
 
 iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE) [https://kjlhradio.com/ Plays on Air for FM](https://kjlhradio.com/)
