@@ -44,6 +44,7 @@ Landed Safely
 #  news
 
 ## The Artemis II Crew Share with [Oprah](https://www.kennedy-center.org/artists/w/wa-wn/oprah-winfrey/) _the Wisdom of Leaving Earth_ @nasa-jpl @blackgirlscode @emit-sds
+[@blackgirlscode @nasa-jpl youtube.com/watch?v=2ES9WGxEMK0](https://www.youtube.com/watch?v=2ES9WGxEMK0)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c448b5f1-c103-4ab7-a714-6f65277d66ee" />
 
