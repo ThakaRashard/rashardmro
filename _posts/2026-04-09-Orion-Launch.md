@@ -2,7 +2,7 @@
 layout: post
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-04-03 01:47:06 -0800
+date:   2026-05-13 01:47:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -50,6 +50,9 @@ Landed Safely
 
 
 ![https://www.loc.gov/crsinfo/images/capitol.jpg @libraryofcongress](https://www.loc.gov/crsinfo/images/capitol.jpg) 
+
+[https://www.congress.gov/crs_external_products/IF/PDF/IF11643/IF11643.21.pdf](https://www.congress.gov/crs_external_products/IF/PDF/IF11643/IF11643.21.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/cf582200-68b2-488d-9d18-32ca5270b9eb" />
 
 Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @nasa-develop @datadesk](https://www.bbc.com/news/videos/c3exp80x7vqo)
 [https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360](https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360) @blackgirlscode 
