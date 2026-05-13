@@ -39,6 +39,140 @@ Landed Safely
 
 </div>
 
+
+
+#  news
+
+## The Artemis II Crew Share with [Oprah](https://www.kennedy-center.org/artists/w/wa-wn/oprah-winfrey/) _the Wisdom of Leaving Earth_ @nasa-jpl @blackgirlscode @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c448b5f1-c103-4ab7-a714-6f65277d66ee" />
+
+
+![https://www.loc.gov/crsinfo/images/capitol.jpg @libraryofcongress](https://www.loc.gov/crsinfo/images/capitol.jpg) 
+
+Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @nasa-develop @datadesk](https://www.bbc.com/news/videos/c3exp80x7vqo)
+[https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360](https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360) @blackgirlscode 
+[floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi](https://www.floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7d71c9cc-8559-4d4c-bd40-3da58be2492c" />
+
+
+[πhttps://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI](https://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI) // [https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8](https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8) // [https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6](https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6) @whitehouse @nasa-jpl @la-county-isd
+
+<img alt="image" src="https://github.com/user-attachments/assets/ed358218-4ec7-41a4-9a48-7b7f30ef80e1" /> 
+
+
+[Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+The Voyager Neptune travel guide 
+@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3b287c48-a4e2-4546-b59c-53fdb7a217cb" />
+
+@asfadmin 
+
+[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
+The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
+
+
+<img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/b0f0e759-49e0-4fa6-bacd-ecf264bde9a5" />
+
+NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
+
+[Moon Mascot Ready to Rise with Artemis II](https://svs.gsfc.nasa.gov/14995/)
+Meet Rise! The Moon Mascot for the Artemis II mission will fly along with the crew, carrying 5,647,889 names with us on this journey around the Moon.
+People from around the world submitted their names through the Send Your Name with Artemis campaign. These names were downloaded onto an SD card that is safely stored inside Rise, the zero gravity indicator designed by 3rd grader Lucas Ye from California.
+
+The zero gravity indicator for the Moonbound crew was selected from thousands of submissions from over 50 countries and is named “Rise.” The design was inspired by the iconic Earthrise moment from the Apollo 8 mission.
+During the selection process, the crew narrowed a list of 25 finalists to five top designs, including:
+“Big Steps of Little Octopus,” Anzhelika Iudakova, Finland
+“Corey the Explorer,” Daniela Colina, Peru
+“Creation Mythos,” Johanna Beck, McPherson, Kansas
+“Lepus the Moon Rabbit,” Oakville Trafalgar School, Canada
+“Rise,” Lucas Ye, Mountain View, California
+
+![<video src="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version.mp4)
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png)
+
+Artemis II builds on the success of the uncrewed Artemis I in 2022, and will demonstrate a broad range of capabilities needed on deep space missions. The Artemis II test fight will be NASA's first mission with crew aboard the SLS (Space Launch System) rocket and Orion spacecraft.[Read/Watch](https://svs.gsfc.nasa.gov/31368/)
+[Planting an Artemis I Moon Tree](https://svs.gsfc.nasa.gov/14929/)
+[Artemis III Landing Region Candidates https://svs.gsfc.nasa.gov/5013/](https://svs.gsfc.nasa.gov/5013/)
+
+```shell
+The recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 [fifthharmonyofficial.com 2606:4700:3030::ac43:c0b4: timed out] [fifthharmonyofficial.com 2606:4700:3034::6815:3c3d: timed out] [fifthharmonyofficial.com 104.21.60.61: timed out] [fifthharmonyofficial.com 172.67.192.180: timed out]
+```
+<img   alt="image" src="https://github.com/user-attachments/assets/31f22ec8-779a-4001-8802-cba3f3ad75ef" />
+
+
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+
+
+[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
+
+
+
+
+
+
+
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
+
+
+Moon to Mars
+Space Weather Analysis Office
+Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
+
+[Link](https://science.gsfc.nasa.gov/674/m2m-website.html) @nasa-jpl @nasa-giss @blueOrigin @thespacedevs @maxar @la-county-isd @blackgirlscode 
+
+![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
+
+
+
+## NASA’s Artemis II Crew Flies Around the Moon
+_(Official Broadcast)_
+[Share](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS) // [Add to Calendar](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+During a planned lunar flyby on Monday, April 6, astronauts will take high-resolution photographs and provide their own observations of the lunar surface, including areas of the far side of the Moon never before seen directly by humans.
+[[1](https://www.earthdata.nasa.gov/data/alerts-outages/additional-viirs-version-2-thermal-anomaly-active-fire-data-products-released)] <~ ANDREWFELDMAN @nasa-develop @nasa-giss @doug-newman-nasa [MoonData](https://rashardsdata.github.io/moon) @blackgirlscode @cityoflosangeles 
+[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+[@NOAAGov @weather-gov nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4ccc825b-c625-4de8-a047-68163b10ee7c" />
+
+[NOAA's Space Weather Mission: Protecting Artemis II Astronauts and Society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+Artemis II is planned as a 10-day crewed mission around the moon that marks humanity’s return to lunar orbit. NOAA's space weather monitoring will help protect the astronauts from solar radiation. [ReadMore](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc) 
+
+
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX)
+
+@nbcnews 
+@cbs-news-data + @la-county-isd @blackgirlscode @nasa-jpl 
+ 
+NASA’s Applied Remote Sensing Training (ARSET)
+Program presents this certificate of completion to
+for completing the intermediate training:
+Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+
+[@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+
+@blueorigin @nasa-jpl @nbcnews @newshour @usatoday
+@whitehouse @la-county-isd @lacountyDPH @cityoflosangeles @stateofcalifornia @foratlanta
+commander Reid! gm it's Rashard iman kelly @nasa-jpl #ecostress #iss #expedition74 ground data delivery/ mission control help desk ... would u like me to stay on space weather for the flight? I sent you guys @ksc pics from Clementine of the dark side of the moon .. this is what I wrote because the girls I was with in Atlanta I can get in trouble with their families if I leave unannounced because I'm married in Alameda and common law with two other girls in Atlanta and I dont k ow who got my benefits !!!!!! 😮😅😊 u don't like the editing imo. I think it was the best so far , @repkarenbass hi I was wondering if I can go with the coast guard to retrieve the orange booster @nasajpl @gavinnewsom @normani @latto @kashdoll @blackgirlscode @brandy @megantheestallion @ellamai @beyonce #JAYZ hi can u relay? @munilong #nickiminaj @defjam @dance411 @itskeishancebottoms @essencemag #latriceFitzpatrick @howarduniversity #cardiB @dojacat #dojacat
+
 #  splashdown-weather
 
 
@@ -271,131 +405,6 @@ Official map of San Diego County, California [Link](https://www.loc.gov/item/201
 @blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
 <img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
 
-
-#  news
-
-Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @nasa-develop @datadesk](https://www.bbc.com/news/videos/c3exp80x7vqo)
-[https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360](https://rashardmro.tumblr.com/post/813379186121162752/nasa-jpl-360) @blackgirlscode 
-[floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi](https://www.floridatoday.com/story/tech/science/space/2026/04/08/artemis-ii-splashdown-time-return-schedule-florida-moon-nasa/89513092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113029p000750c000750e004900v113029d--30--b--30--&gca-ft=11&gca-ds=sophi)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/7d71c9cc-8559-4d4c-bd40-3da58be2492c" />
-
-
-[πhttps://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI](https://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI) // [https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8](https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8) // [https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6](https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6) @whitehouse @nasa-jpl @la-county-isd
-
-<img alt="image" src="https://github.com/user-attachments/assets/ed358218-4ec7-41a4-9a48-7b7f30ef80e1" /> 
-
-
-[Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
-The Voyager Neptune travel guide 
-@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/3b287c48-a4e2-4546-b59c-53fdb7a217cb" />
-
-@asfadmin 
-
-[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
-The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
-
-
-<img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/b0f0e759-49e0-4fa6-bacd-ecf264bde9a5" />
-
-NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
-
-[Moon Mascot Ready to Rise with Artemis II](https://svs.gsfc.nasa.gov/14995/)
-Meet Rise! The Moon Mascot for the Artemis II mission will fly along with the crew, carrying 5,647,889 names with us on this journey around the Moon.
-People from around the world submitted their names through the Send Your Name with Artemis campaign. These names were downloaded onto an SD card that is safely stored inside Rise, the zero gravity indicator designed by 3rd grader Lucas Ye from California.
-
-The zero gravity indicator for the Moonbound crew was selected from thousands of submissions from over 50 countries and is named “Rise.” The design was inspired by the iconic Earthrise moment from the Apollo 8 mission.
-During the selection process, the crew narrowed a list of 25 finalists to five top designs, including:
-“Big Steps of Little Octopus,” Anzhelika Iudakova, Finland
-“Corey the Explorer,” Daniela Colina, Peru
-“Creation Mythos,” Johanna Beck, McPherson, Kansas
-“Lepus the Moon Rabbit,” Oakville Trafalgar School, Canada
-“Rise,” Lucas Ye, Mountain View, California
-
-![<video src="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version.mp4)
-
-![https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png)
-
-Artemis II builds on the success of the uncrewed Artemis I in 2022, and will demonstrate a broad range of capabilities needed on deep space missions. The Artemis II test fight will be NASA's first mission with crew aboard the SLS (Space Launch System) rocket and Orion spacecraft.[Read/Watch](https://svs.gsfc.nasa.gov/31368/)
-[Planting an Artemis I Moon Tree](https://svs.gsfc.nasa.gov/14929/)
-[Artemis III Landing Region Candidates https://svs.gsfc.nasa.gov/5013/](https://svs.gsfc.nasa.gov/5013/)
-
-```shell
-The recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 [fifthharmonyofficial.com 2606:4700:3030::ac43:c0b4: timed out] [fifthharmonyofficial.com 2606:4700:3034::6815:3c3d: timed out] [fifthharmonyofficial.com 104.21.60.61: timed out] [fifthharmonyofficial.com 172.67.192.180: timed out]
-```
-<img   alt="image" src="https://github.com/user-attachments/assets/31f22ec8-779a-4001-8802-cba3f3ad75ef" />
-
-
-Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
-
-
-[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
-
-
-
-
-
-
-
-Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
-
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
-
-
-Moon to Mars
-Space Weather Analysis Office
-Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
-
-[Link](https://science.gsfc.nasa.gov/674/m2m-website.html) @nasa-jpl @nasa-giss @blueOrigin @thespacedevs @maxar @la-county-isd @blackgirlscode 
-
-![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
-
-
-
-## NASA’s Artemis II Crew Flies Around the Moon
-_(Official Broadcast)_
-[Share](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS) // [Add to Calendar](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
-During a planned lunar flyby on Monday, April 6, astronauts will take high-resolution photographs and provide their own observations of the lunar surface, including areas of the far side of the Moon never before seen directly by humans.
-[[1](https://www.earthdata.nasa.gov/data/alerts-outages/additional-viirs-version-2-thermal-anomaly-active-fire-data-products-released)] <~ ANDREWFELDMAN @nasa-develop @nasa-giss @doug-newman-nasa [MoonData](https://rashardsdata.github.io/moon) @blackgirlscode @cityoflosangeles 
-[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
-[@NOAAGov @weather-gov nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/4ccc825b-c625-4de8-a047-68163b10ee7c" />
-
-[NOAA's Space Weather Mission: Protecting Artemis II Astronauts and Society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
-Artemis II is planned as a 10-day crewed mission around the moon that marks humanity’s return to lunar orbit. NOAA's space weather monitoring will help protect the astronauts from solar radiation. [ReadMore](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
-
-![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc) 
-
-
-![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX)
-
-@nbcnews 
-@cbs-news-data + @la-county-isd @blackgirlscode @nasa-jpl 
- 
-NASA’s Applied Remote Sensing Training (ARSET)
-Program presents this certificate of completion to
-for completing the intermediate training:
-Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
-<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
-
-@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
-
-<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
-
-[@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
-### Books
-
-[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
-The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
-
-@blueorigin @nasa-jpl @nbcnews @newshour @usatoday
-@whitehouse @la-county-isd @lacountyDPH @cityoflosangeles @stateofcalifornia @foratlanta
-commander Reid! gm it's Rashard iman kelly @nasa-jpl #ecostress #iss #expedition74 ground data delivery/ mission control help desk ... would u like me to stay on space weather for the flight? I sent you guys @ksc pics from Clementine of the dark side of the moon .. this is what I wrote because the girls I was with in Atlanta I can get in trouble with their families if I leave unannounced because I'm married in Alameda and common law with two other girls in Atlanta and I dont k ow who got my benefits !!!!!! 😮😅😊 u don't like the editing imo. I think it was the best so far , @repkarenbass hi I was wondering if I can go with the coast guard to retrieve the orange booster @nasajpl @gavinnewsom @normani @latto @kashdoll @blackgirlscode @brandy @megantheestallion @ellamai @beyonce #JAYZ hi can u relay? @munilong #nickiminaj @defjam @dance411 @itskeishancebottoms @essencemag #latriceFitzpatrick @howarduniversity #cardiB @dojacat #dojacat
 
 
 
