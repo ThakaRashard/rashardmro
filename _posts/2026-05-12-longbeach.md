@@ -11,6 +11,14 @@ image: LongBeachEcostress.png
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.08/-13115746.48/3979809.90&layers=aqv_rgb_20260507_sentinel:1.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.08/-13115746.48/3979809.90&layers=aqv_rgb_20260507_sentinel:1.00:default)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e72d546f-4e04-4aef-a5b9-e157109a55be" />
+
+<img  alt="@la-county-isd @longbeachinnovationteam plz fwd to rex and ms bass its standing suspended solids" src="https://github.com/user-attachments/assets/01516587-f0f0-4fb0-b73e-a0c93e7ce7b7" />
+
+
 [ncei.noaa.gov/maps/bathymetry-classic/](https://www.ncei.noaa.gov/maps/bathymetry-classic/)
 <img  alt="image" src="https://github.com/user-attachments/assets/69ef8ed7-249e-494f-a6b4-f9f17ec7d101" />
 
