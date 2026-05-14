@@ -7,6 +7,10 @@ image: shocked-i-know-this.gif
 ---
 
 
+[rashardmro.tumblr.com/post/801242206701830144/los-angeles-thermal-anomolies](https://rashardmro.tumblr.com/post/801242206701830144/los-angeles-thermal-anomolies)
+<img alt="image" src="https://github.com/user-attachments/assets/aefbf8fd-f039-4177-8e80-a68b5e07126f" />
+
+
 @la-county-isd [Janis HAhn](https://history.house.gov/People/Detail/15617) , [HildaSolis](https://history.house.gov/People/Detail/22566), [HollyJMitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) . . . @emit-sds i am missing a tooth... a spunky redhead sang "_My_POMONAAAH_MYY__PAMONA_" on the [LATTC]() metro platform, she was missing 3 bottom teeth! and about 3 months ago somone i suspect is a satellite builder was missing two bottom teeth in the front @paramount-engineering @netflix backing down, just sharing @blackgirlscode ... anyway @NOAAgov is my domain as well according to @CityOfLosAngeles @nasa-jpl to get NasaFire data from to share with the county... [The Palisades - Imagery https://storms.ngs.noaa.gov/storms/2025_eri/index.html#18.46/34.0459858/-118.5188729](https://storms.ngs.noaa.gov/storms/2025_eri/index.html#18.46/34.0459858/-118.5188729) its like a 30gb bundle so i have to back burner the thing @Maxar-Corp @airbus @esa @nasa-openscapes @eu-cdse
 
 <img   alt="image" src="https://github.com/user-attachments/assets/88c7c984-4416-477f-ace1-8610b2b9085a" />

@@ -10,6 +10,82 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+@asfadmin the mayor wants updated data @nasa-jpl @la-county-isd 
+@nasa @howard-university-web-services 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/db1f9895-270f-461a-806f-68e6497c8098" />
+
+
+
+[ncei.noaa.gov/maps/bathymetry-classic/](https://www.ncei.noaa.gov/maps/bathymetry-classic/)
+<img  alt="image" src="https://github.com/user-attachments/assets/69ef8ed7-249e-494f-a6b4-f9f17ec7d101" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88448b10-0029-4004-9a7d-345974ab6b66" />
+
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.08/-13115746.48/3979809.90&layers=aqv_rgb_20260507_sentinel:1.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.08/-13115746.48/3979809.90&layers=aqv_rgb_20260507_sentinel:1.00:default)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e72d546f-4e04-4aef-a5b9-e157109a55be" />
+
+<img  alt="@la-county-isd @longbeachinnovationteam plz fwd to rex and ms bass its standing suspended solids" src="https://github.com/user-attachments/assets/01516587-f0f0-4fb0-b73e-a0c93e7ce7b7" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/5654567e-2153-4686-b5b0-a5f4c52f9652" />
+
+
+
+iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE) [https://kjlhradio.com/ Plays on Air for FM](https://kjlhradio.com/)
+[@nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
+[@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
+[https://www.ncei.noaa.gov/maps/bathymetry/?xmax=-49.403&xmin=-91.612&ymax=38.002&ymin=22.560 @nasa-jpl @la-county-isd @longbeachinnovationteam this data can let you know where boats travel](https://www.ncei.noaa.gov/maps/bathymetry/?xmax=-49.403&xmin=-91.612&ymax=38.002&ymin=22.560)  @CityOfLosangeles [Unofficial LA28 Olympic Venues](https://geohub.lacity.org/content/f89cbfe086f445a2baac9636f4a7ea1e/about)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1fc8fe60-0a19-4de2-9cc5-f8579eac23ba" />
+@nasa-jpl @nasa @whitehouse
+
+```shell
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        MX preference = 0, mail exchanger = nasa-gov.mail.protection.outlook.com
+
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.11.12
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.9.19
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.52
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.50
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f90e::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f900::1
+
+C:\Users\PAC>nslookup -type=mx jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+
+C:\Users\PAC>
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd24e46b-31fd-4b8d-bc24-25ce2817727f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39aaca62-8444-4da8-80c5-6f2a0be4be13" />
+
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) && [@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+
  [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
