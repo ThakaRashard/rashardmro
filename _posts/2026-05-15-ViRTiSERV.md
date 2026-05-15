@@ -24,6 +24,70 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+<img  alt="image @whitehouse @la-county-0isd @cityoflosangeles @noaagov @commercegov @dhs-gov @fbicyber Virtiserv LATRiCEBABYFACEFiTZPAtrIck @lapd @DEPTOFWAR @WEATHER-GOV" src="https://github.com/user-attachments/assets/a08d5c89-0cf0-431c-94fc-bd658950700b" />
+
+
+```shell
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Name:    gdscc.nasa.gov
+
+
+C:\Users\PAC>nslookup  -type=ns gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+gdscc.nasa.gov  nameserver = a1-32.akam.net
+gdscc.nasa.gov  nameserver = a14-67.akam.net
+gdscc.nasa.gov  nameserver = a8-66.akam.net
+gdscc.nasa.gov  nameserver = a5-66.akam.net
+gdscc.nasa.gov  nameserver = a9-64.akam.net
+gdscc.nasa.gov  nameserver = a12-64.akam.net
+
+a1-32.akam.net  internet address = 193.108.91.32
+a1-32.akam.net  AAAA IPv6 address = 2600:1401:2::20
+a14-67.akam.net internet address = 184.26.161.67
+a14-67.akam.net AAAA IPv6 address = 2600:1480:1800::43
+a8-66.akam.net  internet address = 2.16.40.66
+a8-66.akam.net  AAAA IPv6 address = 2600:1403:a::42
+a5-66.akam.net  internet address = 95.100.168.66
+a5-66.akam.net  AAAA IPv6 address = 2600:1480:b000::42
+a9-64.akam.net  internet address = 184.85.248.64
+a9-64.akam.net  AAAA IPv6 address = 2a02:26f0:117::40
+a12-64.akam.net internet address = 184.26.160.64
+a12-64.akam.net AAAA IPv6 address = 2600:1480:f000::40
+
+C:\Users\PAC>nslookup  -type=mx gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+gdscc.nasa.gov  MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+gdscc.nasa.gov  MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+
+C:\Users\PAC>nslookup  -type=mx bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+
+C:\Users\PAC>
+```
 <iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
