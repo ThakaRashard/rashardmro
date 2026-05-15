@@ -29,6 +29,65 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 # CRS-[34](https://www.sccpss.com/board/board-members/district-1)
  [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
 
+
+ ```
+SPACECRAFT
+NAME
+Psyche
+
+RANGE
+332.00 million km
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA
+NAME
+DSS 24
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+223 deg
+
+ELEVATION
+58 deg
+
+WIND SPEED
+8 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+18 kW
+
+DOWN SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+DATA RATE
+0.000 b/sec
+
+POWER RECEIVED
+-160 dBm
+(1.0 x 10-22 kW)
+```
+@whitehouse @nasa-pds look [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @cbs-news-data 
+
+<img   alt="@nasa-jpl @voyager-tech-inc " src="https://github.com/user-attachments/assets/3401947a-161a-471c-8826-0a29aac23a30" />
+
  @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in goldstone @cityoflosangles @longbeachinnovationteam @voyager-tech-inc 
  
  <img alt="image" src="https://github.com/user-attachments/assets/d8133b1b-4c4c-4d6c-8ac3-e3f6d1e68b4a" />
