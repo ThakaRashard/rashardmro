@@ -24,6 +24,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+[descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf @whitehouse @la-county-isd](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0c6af0e-4a6f-47d7-b7e0-e6265e222d97" />
+
 
 [www.gdscc.nasa.gov DSS24  ](www.gdscc.nasa.gov ) // [https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html](https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html) + [WHOLETRiP](https://deepimpact.astro.umd.edu/tech/dsn-trip/index.html) @blackgirlscode @cbs-news-data @newshour 
 
