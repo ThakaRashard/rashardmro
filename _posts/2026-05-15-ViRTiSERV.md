@@ -29,6 +29,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 ```shell
+
 Microsoft Windows [Version 10.0.26200.7171]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -86,7 +87,76 @@ bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
 mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
 mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
 
+C:\Users\PAC>nslookup  -type=mx whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2403559660
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\PAC>nslookup  -type=ns whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+whitehouse.gov  nameserver = ernest.ns.cloudflare.com
+whitehouse.gov  nameserver = wally.ns.cloudflare.com
+
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+
+C:\Users\PAC>nslookup  -type=ns commercer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+gov
+        primary name server = a.ns.gov
+        responsible mail addr = dns.cloudflare.com
+        serial  = 1778875508
+        refresh = 3600 (1 hour)
+        retry   = 900 (15 mins)
+        expire  = 604800 (7 days)
+        default TTL = 300 (5 mins)
+
+C:\Users\PAC>nslookup  -type=ns commerce.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+commerce.gov    nameserver = max.ns.cloudflare.com
+commerce.gov    nameserver = cecelia.ns.cloudflare.com
+
+max.ns.cloudflare.com   internet address = 173.245.59.132
+max.ns.cloudflare.com   internet address = 108.162.193.132
+max.ns.cloudflare.com   internet address = 172.64.33.132
+max.ns.cloudflare.com   AAAA IPv6 address = 2a06:98c1:50::ac40:2184
+max.ns.cloudflare.com   AAAA IPv6 address = 2803:f800:50::6ca2:c184
+max.ns.cloudflare.com   AAAA IPv6 address = 2606:4700:58::adf5:3b84
+cecelia.ns.cloudflare.com       internet address = 162.159.38.135
+cecelia.ns.cloudflare.com       internet address = 172.64.34.135
+cecelia.ns.cloudflare.com       internet address = 108.162.194.135
+cecelia.ns.cloudflare.com       AAAA IPv6 address = 2606:4700:50::a29f:2687
+cecelia.ns.cloudflare.com       AAAA IPv6 address = 2a06:98c1:50::ac40:2287
+cecelia.ns.cloudflare.com       AAAA IPv6 address = 2803:f800:50::6ca2:c287
+
 C:\Users\PAC>
+
 ```
 <iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
