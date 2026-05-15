@@ -25,6 +25,30 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+
+# CRS-[34](https://www.sccpss.com/board/board-members/district-1)
+ [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+
+@la-county-isd GoodMorning Mrs Mitchell... im working on the crew resupply weather @cityoflosangeles i got poisoned in my elbow last night, check on the people in the park non criminally and let them know i would like to sleep there again and if they have any leads help us out @nasa-jpl because our maps are done and we can reaccount Altadena Real Estate and get people housed @StateOfCalifornia @blackgirlscode @cbs-news-data i accept chole if shit ran its course but i need to find out who latrice fitzpatrick is in this hour and if she is healthy @howard-university-web-services @doug-newman-nasa  ///////// @nasa-pds i have to check on the mars flyby should i have gone to the lab or is it still to dark post covid hostrolls @blackgirlscode and repartnering ? 
+
+[https://youtu.be/ajyGDFcC05Y @newshour the california @spaceexplorationtechnologies starlink launch got pushed back @blackgirlscode](https://youtu.be/ajyGDFcC05Y) /// [https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html](https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5182a10b-661e-4807-ac68-b4cfd7269479" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+@KSP-RO 
+
+[GiF - FiRETEMP - CLiCKHERE @whitehouse](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/taw/FireTemperature/GOES19-TAW-FireTemperature-900x540.gif)
+
+[<video controls src="https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/taw/FireTemperature/GOES19-TAW-FireTemperature-900x540.mp4" />](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/taw/FireTemperature/GOES19-TAW-FireTemperature-900x540.mp4)
+
+_Index of /ma-cdn03/GOES/data/GOES19/ABI/SECTOR/taw/14/_ [@nasa-jpl https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/taw/14/ @Nasa-openscapes @doug-newman-nasa @Howard-university-web-services @cityOfLosangeles 
+
 ## _HiView_ @nasa-pds
 
 [`uahirise.org/hiview/`](uahirise.org/hiview/) [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
