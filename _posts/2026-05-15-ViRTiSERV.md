@@ -25,6 +25,13 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+[www.gdscc.nasa.gov DSS24  ](www.gdscc.nasa.gov ) // [https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html](https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html) + [WHOLETRiP](https://deepimpact.astro.umd.edu/tech/dsn-trip/index.html) @blackgirlscode @cbs-news-data @newshour 
+
+@nasa-pds @ucla i cannot reach goldstone from longbeach ill run a few traces 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e6f2792f-522e-4e12-89a8-3157374c6292" />
+
+
 [@deptofwar @fbicyber eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/45283e20-c7c2-4316-96e4-d4531d52c8d1" />
