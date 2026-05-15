@@ -88,7 +88,7 @@ POWER RECEIVED
 
 <img   alt="@nasa-jpl @voyager-tech-inc " src="https://github.com/user-attachments/assets/3401947a-161a-471c-8826-0a29aac23a30" />
 
- @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in goldstone @cityoflosangles @longbeachinnovationteam @voyager-tech-inc 
+ @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in [goldstone @cityoflosangeles @stateofcalifornia Signal accquired @blackgirlscode @howard-university-web-services](https://www.gdscc.nasa.gov/) @longbeachinnovationteam @voyager-tech-inc 
  
  <img alt="image" src="https://github.com/user-attachments/assets/d8133b1b-4c4c-4d6c-8ac3-e3f6d1e68b4a" />
 
