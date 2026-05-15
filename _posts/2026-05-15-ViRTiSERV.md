@@ -29,6 +29,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 # CRS-[34](https://www.sccpss.com/board/board-members/district-1)
  [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
 
+ @la-county-isd if that tall lighskin girl is latrice [https://www.facebook.com/thevirtiservway/](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnewsknow if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
+
 
  ```
 SPACECRAFT
