@@ -25,11 +25,12 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmfg7KVy7P0?si=KMT1LogEpatOyRZe" title="YouTube video player @blackgirlscode @la-county-isd @deptofwar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # CRS-[34](https://www.sccpss.com/board/board-members/district-1)
  [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
 
- @la-county-isd if that tall lighskin girl is latrice [facebook.com/thevirtiservway/ @deptofwar ](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnewsknow if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
+ [@la-county-isd](https://www.reddit.com/r/hiphopheads/comments/1tdwz4m/removed_by_moderator/) if that tall lighskin girl is latrice [facebook.com/thevirtiservway/ @deptofwar ](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnews know if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
 
 
  ```
