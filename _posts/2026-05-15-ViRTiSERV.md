@@ -17,7 +17,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
   
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
 
@@ -29,7 +29,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 # CRS-[34](https://www.sccpss.com/board/board-members/district-1)
  [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
 
- @la-county-isd if that tall lighskin girl is latrice [https://www.facebook.com/thevirtiservway/](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnewsknow if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
+ @la-county-isd if that tall lighskin girl is latrice [facebook.com/thevirtiservway/ @deptofwar ](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnewsknow if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
 
 
  ```
@@ -90,7 +90,7 @@ POWER RECEIVED
 
 <img   alt="@nasa-jpl @voyager-tech-inc " src="https://github.com/user-attachments/assets/3401947a-161a-471c-8826-0a29aac23a30" />
 
- @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in [goldstone @cityoflosangeles @stateofcalifornia Signal accquired @blackgirlscode @howard-university-web-services](https://www.gdscc.nasa.gov/) @longbeachinnovationteam @voyager-tech-inc 
+ @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in [goldstone @cityoflosangeles @stateofcalifornia Signal accquired @blackgirlscode @howard-university-web-services](https://www.gdscc.nasa.gov/) @longbeachinnovationteam @voyager-tech-inc @deptofwar
  
  <img alt="image" src="https://github.com/user-attachments/assets/d8133b1b-4c4c-4d6c-8ac3-e3f6d1e68b4a" />
 
