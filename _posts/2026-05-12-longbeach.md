@@ -13,6 +13,7 @@ image: LongBeachEcostress.png
 
 
 [deepspace.jpl.nasa.gov/dsn/gallery/goldstone.html @nasa-pds](https://web.archive.org/web/20070205011502/http://deepspace.jpl.nasa.gov/dsn/gallery/goldstone.html)
+<img width="601" height="99" alt="image" src="https://github.com/user-attachments/assets/51bb08e5-d963-4b78-845c-c67f05447753" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d6caa168-6828-4728-9592-2e123428ab36" />
 
