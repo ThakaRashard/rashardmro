@@ -7,6 +7,291 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+## Rashard Kelly ...
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+@blackgirlscode @la-county-isd @nasa-pds @Nasa-OPENSCAPES @doug-newman-nasa food is on the way @blueorigin [Expedition74](https://www.nasa.gov/blogs/spacestation/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watch Falcon 9 launch Dragon to the <a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@Space_Station</a> <a href="https://t.co/TaXjYl6jdX">https://t.co/TaXjYl6jdX</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/2054699630135259538?ref_src=twsrc%5Etfw">May 13, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img  alt="image @whitehouse @la-county-0isd @cityoflosangeles @noaagov @commercegov @dhs-gov @fbicyber Virtiserv LATRiCEBABYFACEFiTZPAtrIck @lapd @DEPTOFWAR @WEATHER-GOV" src="https://github.com/user-attachments/assets/a08d5c89-0cf0-431c-94fc-bd658950700b" />
+
+
+```shell
+
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Name:    gdscc.nasa.gov
+
+
+C:\Users\PAC>nslookup  -type=ns gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+gdscc.nasa.gov  nameserver = a1-32.akam.net
+gdscc.nasa.gov  nameserver = a14-67.akam.net
+gdscc.nasa.gov  nameserver = a8-66.akam.net
+gdscc.nasa.gov  nameserver = a5-66.akam.net
+gdscc.nasa.gov  nameserver = a9-64.akam.net
+gdscc.nasa.gov  nameserver = a12-64.akam.net
+
+a1-32.akam.net  internet address = 193.108.91.32
+a1-32.akam.net  AAAA IPv6 address = 2600:1401:2::20
+a14-67.akam.net internet address = 184.26.161.67
+a14-67.akam.net AAAA IPv6 address = 2600:1480:1800::43
+a8-66.akam.net  internet address = 2.16.40.66
+a8-66.akam.net  AAAA IPv6 address = 2600:1403:a::42
+a5-66.akam.net  internet address = 95.100.168.66
+a5-66.akam.net  AAAA IPv6 address = 2600:1480:b000::42
+a9-64.akam.net  internet address = 184.85.248.64
+a9-64.akam.net  AAAA IPv6 address = 2a02:26f0:117::40
+a12-64.akam.net internet address = 184.26.160.64
+a12-64.akam.net AAAA IPv6 address = 2600:1480:f000::40
+
+C:\Users\PAC>nslookup  -type=mx gdscc.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+gdscc.nasa.gov  MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+gdscc.nasa.gov  MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+
+C:\Users\PAC>nslookup  -type=mx bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+
+C:\Users\PAC>nslookup  -type=mx whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2403559660
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\PAC>nslookup  -type=ns whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+whitehouse.gov  nameserver = ernest.ns.cloudflare.com
+whitehouse.gov  nameserver = wally.ns.cloudflare.com
+
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+
+C:\Users\PAC>nslookup  -type=ns commercer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+gov
+        primary name server = a.ns.gov
+        responsible mail addr = dns.cloudflare.com
+        serial  = 1778875508
+        refresh = 3600 (1 hour)
+        retry   = 900 (15 mins)
+        expire  = 604800 (7 days)
+        default TTL = 300 (5 mins)
+
+C:\Users\PAC>nslookup  -type=ns commerce.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+commerce.gov    nameserver = max.ns.cloudflare.com
+commerce.gov    nameserver = cecelia.ns.cloudflare.com
+
+max.ns.cloudflare.com   internet address = 173.245.59.132
+max.ns.cloudflare.com   internet address = 108.162.193.132
+max.ns.cloudflare.com   internet address = 172.64.33.132
+max.ns.cloudflare.com   AAAA IPv6 address = 2a06:98c1:50::ac40:2184
+max.ns.cloudflare.com   AAAA IPv6 address = 2803:f800:50::6ca2:c184
+max.ns.cloudflare.com   AAAA IPv6 address = 2606:4700:58::adf5:3b84
+cecelia.ns.cloudflare.com       internet address = 162.159.38.135
+cecelia.ns.cloudflare.com       internet address = 172.64.34.135
+cecelia.ns.cloudflare.com       internet address = 108.162.194.135
+cecelia.ns.cloudflare.com       AAAA IPv6 address = 2606:4700:50::a29f:2687
+cecelia.ns.cloudflare.com       AAAA IPv6 address = 2a06:98c1:50::ac40:2287
+cecelia.ns.cloudflare.com       AAAA IPv6 address = 2803:f800:50::6ca2:c287
+
+C:\Users\PAC>
+
+```
+<iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cb5027a8-b194-43b5-9496-97d73e18d1d8" />
+
+
+pete someone hurting me over mentioning @deptofwar im supposed to its mars!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @la-county-isd!!!!!!!!!!!!!!!!! [https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+[sscspace.com/services/satellite-ground-stations/our-stations/santiago-station/](https://sscspace.com/services/satellite-ground-stations/our-stations/santiago-station/)
+[@whitehouse @howard-university-web-services @nasa-jpl + `JOSeMPiofMORiE https://descanso.jpl.nasa.gov/](https://descanso.jpl.nasa.gov/) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9fdb17bd-b1f1-43e6-9cf9-64ccea096e36" />
+
+
+[descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf @whitehouse @la-county-isd](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0c6af0e-4a6f-47d7-b7e0-e6265e222d97" />
+
+
+[www.gdscc.nasa.gov DSS24  ](www.gdscc.nasa.gov ) // [https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html](https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html) + [WHOLETRiP](https://deepimpact.astro.umd.edu/tech/dsn-trip/index.html) @blackgirlscode @cbs-news-data @newshour 
+
+@nasa-pds @ucla i cannot reach goldstone from longbeach ill run a few traces 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e6f2792f-522e-4e12-89a8-3157374c6292" />
+
+
+[@deptofwar @fbicyber eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/45283e20-c7c2-4316-96e4-d4531d52c8d1" />
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmfg7KVy7P0?si=KMT1LogEpatOyRZe" title="YouTube video player @blackgirlscode @la-county-isd @deptofwar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+# CRS-[34](https://www.sccpss.com/board/board-members/district-1)
+ [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
+
+ [@la-county-isd](https://www.reddit.com/r/hiphopheads/comments/1tdwz4m/removed_by_moderator/) if that tall lighskin girl is latrice [facebook.com/thevirtiservway/ @deptofwar ](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnews know if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
+
+
+ ```
+SPACECRAFT
+NAME
+Psyche
+
+RANGE
+332.00 million km
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA
+NAME
+DSS 24
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+223 deg
+
+ELEVATION
+58 deg
+
+WIND SPEED
+8 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+18 kW
+
+DOWN SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+DATA RATE
+0.000 b/sec
+
+POWER RECEIVED
+-160 dBm
+(1.0 x 10-22 kW)
+```
+@whitehouse @nasa-pds look [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @cbs-news-data 
+
+<img   alt="@nasa-jpl @voyager-tech-inc " src="https://github.com/user-attachments/assets/3401947a-161a-471c-8826-0a29aac23a30" />
+
+ @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in [goldstone @cityoflosangeles @stateofcalifornia Signal accquired @blackgirlscode @howard-university-web-services](https://www.gdscc.nasa.gov/) @longbeachinnovationteam @voyager-tech-inc @deptofwar
+ 
+ <img alt="image" src="https://github.com/user-attachments/assets/d8133b1b-4c4c-4d6c-8ac3-e3f6d1e68b4a" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+
+@la-county-isd GoodMorning Mrs Mitchell... im working on the crew resupply weather @cityoflosangeles i got poisoned in my elbow last night, check on the people in the park non criminally and let them know i would like to sleep there again and if they have any leads help us out @nasa-jpl because our maps are done and we can reaccount Altadena Real Estate and get people housed @StateOfCalifornia @blackgirlscode @cbs-news-data i accept chole if shit ran its course but i need to find out who latrice fitzpatrick is in this hour and if she is healthy @howard-university-web-services @doug-newman-nasa  ///////// @nasa-pds i have to check on the mars flyby should i have gone to the lab or is it still to dark post covid hostrolls @blackgirlscode and repartnering ? 
+
+[https://youtu.be/ajyGDFcC05Y @newshour the california @spaceexplorationtechnologies starlink launch got pushed back @blackgirlscode](https://youtu.be/ajyGDFcC05Y) /// [https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html](https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5182a10b-661e-4807-ac68-b4cfd7269479" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+
+## _HiView_ @nasa-pds
+
+[`uahirise.org/hiview/`](uahirise.org/hiview/) [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format
+[@blackgirlscode kim bryant for the girls @howard-university-web-services @apple @la-county-isd uahirise.org/hiview @nasa-pds can you push @whitehouse @commercegov @weather-gov](https://www.uahirise.org/hiview/)
+
+<img alt="mssiewe@Howard.edu" src="https://github.com/user-attachments/assets/d3a06f38-3c31-43ef-bb2d-7896fa550425" />
+
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
 ![coral i love you @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
 
 

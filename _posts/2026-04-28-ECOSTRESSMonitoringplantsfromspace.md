@@ -6,7 +6,7 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watch Falcon 9 launch Dragon to the <a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@Space_Station</a> <a href="https://t.co/TaXjYl6jdX">https://t.co/TaXjYl6jdX</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/2054699630135259538?ref_src=twsrc%5Etfw">May 13, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I dont know what to do with this yet @blackgirlscode [https://app.atlas.co/](https://app.atlas.co/) @stateofcalifornia @la-county-isd
 <img alt="image" src="https://github.com/user-attachments/assets/02ac838f-9498-43ca-8421-dd8df5c41538" />

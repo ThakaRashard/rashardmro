@@ -10,8 +10,35 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/d6caa168-6828-4728-9592-2e123428ab36" />
+
+
+@nasa-jpl io did my launch duty like chris said @nasa-pds but ppl still making me itch i dont know the solution  @la-county-isd i wanna understand the torture @Blackgirlscode 
+We were so glad to host you virtually for the launch of NASA's SpaceX CRS-34 Mission!
+
+
+We hope your passport stamp helps commemorate the experience (passports also available)! Skip the printer! Here's a passport stamp designed for digital collecting—sized just right!
+
+
+
+﻿What's Next?
+
+Dragon will arrive at the orbiting outpost at approximately 7 a.m. EDT Sunday, May 17, and will dock autonomously to the forward port of the station’s Harmony module. Watch NASA’s live rendezvous and docking coverage beginning at 5:30 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including social media.
+
+
+
+All the best,
+
+NASA Virtual Guest Program Team
+<img  alt="image" src="https://github.com/user-attachments/assets/a3b0f8d0-6dc5-4744-b758-ceabeb1aee6a" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/8b883aa8-c2d5-45aa-8bb9-37bafd8f867a" />
+
+
+<iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
 @asfadmin the mayor wants updated data @nasa-jpl @la-county-isd 
-@nasa @howard-university-web-services 
+@nasa @howard-university-web-services [https://archive.org/download/screen-recording-2025-03-28-2.58.38-pm/Screen%20recording%202025-03-28%202.58.38%20PM.mp4 @whitehouse ](https://archive.org/download/screen-recording-2025-03-28-2.58.38-pm/Screen%20recording%202025-03-28%202.58.38%20PM.mp4) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/db1f9895-270f-461a-806f-68e6497c8098" />
 

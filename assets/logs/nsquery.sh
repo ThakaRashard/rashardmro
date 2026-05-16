@@ -1,17 +1,25 @@
 #################⁸#####
-echo "CURRENT DNS MAP"
-echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo "CURRENT DNS MAP @la-county-isd @whitehouse investigate email tracetools"
+echo "IF DOMAIN SOURCR AND HOSTNAMR DRSTINATION DO NOT MATCH TO BRICK AND MORTAR FRAUD MAYBE PRESENT !!! investigate email tracetools"
+date
+echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
 ifconfig 
 uptime
 cal
+nslookup -type=ns spacex.com
+nslookup -type=mx spacex.com
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns uahirise.org
+nslookup -type=mx uahirise.org
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
+nslookup -type=mx fifthharmony.com
+nslookup -type=ns fifthharmony.com
 nslookup -type=mx bet.com
 nslookup -type=ns bet.com
 nslookup -type=mx tiktok.com
@@ -48,13 +56,19 @@ dig nbcsports.com ALL
 nslookup -type=ns foxnews.com
 nslookup -type=mx foxnews.com
 nslookup -type=any foxnews.com
-nslookup -type=ns spectrum.com
-nslookup -type=mx spectrum.com
-nslookup -type=any spectrum.com
-dig spectrum.com ALL
-nslookup -type=ns thehollywoodtheater.com
-nslookup -type=mx thehollywoodtheater.com
-host google.com
+## host fifa26     
+host -a fifa.com
+host -a espn.com
+host -a nba.com
+host -a smgov.net
+host -a santamonica.gov
+host -a governmentjobs.com
+host -a usajobs.gov
+host -a spokeo.com
+host -a sanbernardino.gov
+host -a sanbernardino.courts.ca.gov
+host -a montebelloca.gov
+host -a library.municode.com
 nslookup -type=ns abc.com
 nslookup -type=mx abc.com
 nslookup -type=any abc.com
@@ -161,24 +175,13 @@ nslookup -type=mx commonspirit.org
 nslookup -type=ns commonspirit.org
 nslookup -type=ns dignityhealth.org
 nslookup -type=mx dignityhealth.org
-ping -c2 dignityhealth.org
 nslookup -type=ns starbucks.com
-ping -c2 lacounty.gov
-ping -c2 fultoncountyga.gov
-ping -c2 lacity.org
-ping -c2 lacity.gov
-ping -c2 longbeach.gov
-ping -c2 whitehouse.gov
-ping -c2 nasa.gov
-ping -c2 lacourt.org
-ping -c2 lacourt.ca.gov
-ping -c1 state.gov 
-ping -c2 level3.net
 curl virtiserv.com
 curl nasa.gov
 curl whitehouse.gov
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
+echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 #whois lacourt.ca.gov
 #whois lacourt.org
 #whois whitehouse.gov
