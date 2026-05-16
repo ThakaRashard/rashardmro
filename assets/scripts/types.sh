@@ -1,21 +1,94 @@
-######################
-echo "CURRENT DNS MAP"
-echo " #NEWS https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+#################⁸#####
+echo "CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber"
+date
+echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
 ifconfig 
 uptime
 cal
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns uahirise.org
+nslookup -type=mx uahirise.org
+nslookup -type=ns esa.int
+nslookup -type=mx esa.int
+nslookup -type=ns global.jaxa.jp
+nslookup -type=mx global.jaxa.jp
+nslookup -type=ns gov.uk
+nslookup -type=mx gov.uk
+dig whitehouse.gov NS
+nslookup -type=mx whitehouse.gov
+nslookup -type=ns whitehouse.gov
+nslookup -type=ns usps.com
+nslookup -type=mx usps.com
+dig usps.com ANY
+nslookup -type=ns wp1-ext.usps.gov
+nslookup -type=mx wp1-ext.usps.gov
+dig wp1-ext.usps.gov ANY
+nslookup -type=mx uspto.com
+nslookup -type=ns uspto.com
+host -a gov.uk
+host -a africanspaceagency.org
+host -a asal.dz
+host -a  mayor.lacity.gov
+host -a gavrt.lewiscenter.org
+host -a satellitegroundstation.com
+nslookup -type=ns jpl.nasa.gov
+nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns space.gov.au
+nslookup -type=mx space.gov.au
+nslookup -type=mx congress.gov
+nslookup -type=ns congress.gov
+nslookup -type=mx dhs.gov
+nslookup -type=ns dhs.gov
+nslookup -type=mx si.edu
+nslookup -type=ns si.edu
+host -a si.edu
+nslookup -type=mx ice.gov
+nslookup -type=ns ice.gov
 nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
 nslookup -type=ns usgs.gov
 nslookup -type=mx usgs.gov
-nslookup -type=ns usps.com
-nslookup -type=ns usps.com
-nslookup -type=mx usps.com
-nslookup -type=ns wp1-ext.usps.gov
-nslookup -type=mx wp1-ext.usps.gov
+nslookup -type=mx bet.com
+nslookup -type=ns bet.com
+nslookup -type=mx tiktok.com
+nslookup -type=ns tiktok.com
+nslookup -type=mx distrowatch.com
+nslookup -type=ns distrowatch.com
+host -a wikipedia.org
+host -a saxavord.com
+nslookup -type=ns facebook.com
+nslookup -type=mx facebook.com
+nslookup -type=ns x.com
+nslookup -type=mx x.com
+nslookup -type=ns tumblr.com
+nslookup -type=mx tumblr.com
+nslookup -type=ns essence.com
+nslookup -type=mx essence.com
+nslookup -type=ns ebony.com
+nslookup -type=ns ebony.com
+
+host -a bsky.app
+
+## channels
+nslookup -type=ns cbs.com
+nslookup -type=mx cbs.com
+nslookup -type=any cbs.com
+dig cbssports.com ALL
+dig cbssports.com ANY
+nslookup -type=ns nbc.com
+nslookup -type=mx nbc.com
+nslookup -type=any nbc.com
+dig nbcsports.com ALL
+nslookup -type=ns foxnews.com
+nslookup -type=mx foxnews.com
+nslookup -type=any foxnews.com
+
+nslookup -type=ns abc.com
+nslookup -type=mx abc.com
+nslookup -type=any abc.com
 nslookup -type=mx lacourt.ca.gov
 nslookup -type=ns lacourt.ca.gov
 nslookup -type=ns lacourt.org
@@ -43,7 +116,7 @@ nslookup -type=mx noaa.gov
 nslookup -type=ns noaa.gov
 nslookup -type=ns aia-aerospace.org
 nslookup -type=mx aia-aerospace.org
-nslookup -type=mx rocketlabcorp.com
+nslookup -type=ns rocketlabcorp.com
 nslookup -type=mx rocketlabcorp.com
 nslookup -type=ns rtx.com
 nslookup -type=mx rtx.com
@@ -68,12 +141,17 @@ nslookup -type=mx fultoncountyga.gov
 nslookup -type=ns atlantaga.gov
 nslookup -type=mx atlantaga.gov
 nslookup -type=mx whitehouse.gov
-nslookup -type=mx whitehouse.gov
+nslookup -type=ns whitehouse.gov
 nslookup -type=mx metro.net
 nslookup -type=ns metro.net
 nslookup -type=ns amtrack.com
 nslookup -type=mx amtrack.com
+nslookup -type=ns bigbluebus.com
+nslookup -type=mx ladottransit.com
+nslookup -type=ns bigbluebus.com
+nslookup -type=mx ladottransit.com
 nslookup -type=mx lapdonline.org
+traceroute ladottransit.com
 nslookup -type=ns lapdonline.org
 traceroute lapdonline.org
 nslookup -type=ns lacounty.gov
@@ -149,8 +227,10 @@ traceroute level2.net
 curl virtiserv.com
 curl nasa.gov
 curl whitehouse.gov
+traceroute esa.int
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
+echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 #whois lacourt.ca.gov
 #whois lacourt.org
 #whois whitehouse.gov

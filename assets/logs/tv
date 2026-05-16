@@ -1,0 +1,55 @@
+nslookup -type=ns jpl.nasa.gov
+nslookup -type=mx jpl.nasa.gov
+nslookup -type=any jpl.nasa.gov
+nslookup -type=ns esa.int
+nslookup -type=mx esa.int
+nslookup -type=any esa.int
+nslookup -type=mx karenbass.com
+nslookup -type=ns karenbass.com
+nslookup -type=mx bet.com
+nslookup -type=ns bet.com
+nslookup -type=ns essence.com
+nslookup -type=mx essence.com
+nslookup -type=any essence.com
+
+## channels
+nslookup -type=ns cbs.com
+nslookup -type=mx cbs.com
+nslookup -type=any cbs.com
+
+nslookup -type=ns nbc.com
+nslookup -type=mx nbc.com
+nslookup -type=any nbc.com
+
+nslookup -type=ns foxnews.com
+nslookup -type=mx foxnews.com
+nslookup -type=any foxnews.com
+
+nslookup -type=ns abc.com    nslookup -type=mx abc.com
+nslookup -type=any abc.com
+
+nslookup -type=ns spectrum.com
+nslookup -type=mx spectrum.com
+nslookup -type=any spectrum.com
+curl http://thehollywoodtheater.com
+traceroute thehollywoodtheater.com
+host google.com
+traceroute google.com
+nslookup jpl.nasa.gov
+whois nasa.gov
+curl http://whitehouse.gov
+ping -c 2 whitehouse.gov
+traceroute whitehouse.gov
+dig whitehouse.gov NS
+dig -x whitehouse.gov
+dig -x lacity.gov
+dig -x jpl.nasa.gov
+dig -x metro.net
+traceroute metro.net
+dig metro.net +trace
+echo "can we talkto @nasa?"
+ping -c 2 nasa.gov
+ping -c 2 jpl.nasa.gov
+nslookup noaa.gov
+dig noaa.gov ANY
+ping -c 2 noaa.gov

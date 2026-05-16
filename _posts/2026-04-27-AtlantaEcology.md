@@ -31,6 +31,11 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 {% include nav.html %}
 
+
+[https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA) // [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/d8ba9c80-9946-44b2-b737-017ac169e48b" />
+
+
 <img  alt="BRiANKEMP_GEORGiATECH_virtiserv_LatriceHOLLYJMiTCHELLnasa-worldview-2026 APR 18-to-2026 APR 27" src="https://github.com/user-attachments/assets/f73c6026-4324-4703-89ca-d55c8e205cee" />
 
 

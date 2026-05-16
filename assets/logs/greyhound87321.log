@@ -1,0 +1,1335 @@
+CURRENT DNS MAP @la-county-isd @whitehouse
+Sat May  9 22:31:21 PDT 2026
+ #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:18:51 CST 2026 aarch64 Android
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.55.186  netmask 255.255.255.0  broadcast 192.168.55.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+ 22:31:21 up 14 days,  9:39,  load average: 17.59, 15.82, 15.79
+      May 2026      
+Su Mo Tu We Th Fr Sa
+                1  2
+ 3  4  5  6  7  8  9
+10 11 12 13 14 15 16
+17 18 19 20 21 22 23
+24 25 26 27 28 29 30
+31                  
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	nameserver = a14-67.akam.net.
+jpl.nasa.gov	nameserver = a11-67.akam.net.
+jpl.nasa.gov	nameserver = a7-65.akam.net.
+jpl.nasa.gov	nameserver = a2-67.akam.net.
+jpl.nasa.gov	nameserver = a1-91.akam.net.
+jpl.nasa.gov	nameserver = a8-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find jpl.nasa.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	nameserver = einstein2.lpl.arizona.edu.
+uahirise.org	nameserver = einstein1.lpl.arizona.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find uahirise.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	nameserver = ns2.esa.int.
+esa.int	nameserver = ns4.esa.int.
+esa.int	nameserver = ns1.esa.int.
+esa.int	nameserver = ns3.esa.int.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find esa.int: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find karenbass.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+karenbass.com	nameserver = conrad.ns.cloudflare.com.
+karenbass.com	nameserver = nicole.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find bet.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	bet.com
+Address: 0.0.0.0
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find tiktok.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tiktok.com	nameserver = a13-67.akam.net.
+tiktok.com	nameserver = a18-64.akam.net.
+tiktok.com	nameserver = a1-97.akam.net.
+tiktok.com	nameserver = a12-66.akam.net.
+tiktok.com	nameserver = a6-65.akam.net.
+tiktok.com	nameserver = a9-66.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+facebook.com	nameserver = c.ns.facebook.com.
+facebook.com	nameserver = b.ns.facebook.com.
+facebook.com	nameserver = a.ns.facebook.com.
+facebook.com	nameserver = d.ns.facebook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find facebook.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+essence.com	nameserver = dahlia.ns.cloudflare.com.
+essence.com	nameserver = lou.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find essence.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ebony.com	nameserver = macy.ns.cloudflare.com.
+ebony.com	nameserver = henrik.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ebony.com	nameserver = macy.ns.cloudflare.com.
+ebony.com	nameserver = henrik.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usgs.gov	nameserver = chin.ns.cloudflare.com.
+usgs.gov	nameserver = ram.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find usgs.gov: NXDOMAIN
+
+
+; <<>> DiG 9.20.18 <<>> whitehouse.gov NS
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12682
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whitehouse.gov.			IN	NS
+
+;; ANSWER SECTION:
+whitehouse.gov.		21600	IN	NS	ernest.ns.cloudflare.com.
+whitehouse.gov.		21600	IN	NS	wally.ns.cloudflare.com.
+
+;; Query time: 164 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sat May 09 22:31:26 PDT 2026
+;; MSG SIZE  rcvd: 90
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find whitehouse.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	nameserver = dns141.usps.com.
+usps.com	nameserver = dns082.usps.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find usps.com: NXDOMAIN
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for usps.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for usps.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for usps.com failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for usps.com failed: timed out.
+;; no servers could be reached
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1778391128
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find wp1-ext.usps.gov: NXDOMAIN
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for wp1-ext.usps.gov failed: timed out.
+;; no servers could be reached
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find uspto.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	nameserver = ns5.mpower.nl.
+uspto.com	nameserver = ns6.mpower.nl.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cbs.com	nameserver = dns3.p09.nsone.net.
+cbs.com	nameserver = dns2.p09.nsone.net.
+cbs.com	nameserver = dns1.p09.nsone.net.
+cbs.com	nameserver = ns0004.secondary.cloudflare.com.
+cbs.com	nameserver = dns4.p09.nsone.net.
+cbs.com	nameserver = ns0243.secondary.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find cbs.com: NXDOMAIN
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for cbs.com failed: timed out.
+;; no servers could be reached
+
+
+; <<>> DiG 9.20.18 <<>> cbssports.com ALL
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46142
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cbssports.com.			IN	A
+
+;; ANSWER SECTION:
+cbssports.com.		60	IN	A	151.101.193.188
+cbssports.com.		60	IN	A	151.101.65.188
+cbssports.com.		60	IN	A	151.101.1.188
+cbssports.com.		60	IN	A	151.101.129.188
+
+;; Query time: 136 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sat May 09 22:33:30 PDT 2026
+;; MSG SIZE  rcvd: 95
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23952
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ALL.				IN	A
+
+;; AUTHORITY SECTION:
+.			86393	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026050901 1800 900 604800 86400
+
+;; Query time: 124 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sat May 09 22:33:30 PDT 2026
+;; MSG SIZE  rcvd: 96
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for cbssports.com failed: timed out.
+;; no servers could be reached
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	nbc.com
+Address: 0.0.0.0
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find nbc.com: NXDOMAIN
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for nbc.com failed: timed out.
+;; no servers could be reached
+
+
+; <<>> DiG 9.20.18 <<>> nbcsports.com ALL
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4248
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;nbcsports.com.			IN	A
+
+;; ANSWER SECTION:
+nbcsports.com.		60	IN	A	23.47.50.122
+nbcsports.com.		60	IN	A	23.47.50.92
+
+;; Query time: 144 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sat May 09 22:34:51 PDT 2026
+;; MSG SIZE  rcvd: 63
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53626
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ALL.				IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026050901 1800 900 604800 86400
+
+;; Query time: 164 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sat May 09 22:34:51 PDT 2026
+;; MSG SIZE  rcvd: 96
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+foxnews.com	nameserver = ns02.foxdoua.com.
+foxnews.com	nameserver = ns03.foxdoua.com.
+foxnews.com	nameserver = ns01.dns.fox.
+foxnews.com	nameserver = ns01.foxdoua.com.
+foxnews.com	nameserver = ns03.dns.fox.
+foxnews.com	nameserver = ns04.dns.fox.
+foxnews.com	nameserver = ns02.dns.fox.
+foxnews.com	nameserver = ns04.foxdoua.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find foxnews.com: NXDOMAIN
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for foxnews.com failed: timed out.
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	abc.com
+Address: 0.0.0.0
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find abc.com: NXDOMAIN
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: timed out.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: timed out.
+;; Connection to 8.8.4.4#53(8.8.4.4) for abc.com failed: timed out.
+;; no servers could be reached
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lacourt.ca.gov: NXDOMAIN
+
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov	nameserver = kelly.ns.cloudflare.com.
+lacourt.ca.gov	nameserver = keaton.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.org	nameserver = ns18.domaincontrol.com.
+lacourt.org	nameserver = ns17.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lacourt.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find nasa.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nasa.gov	nameserver = a5-66.akam.net.
+nasa.gov	nameserver = a14-67.akam.net.
+nasa.gov	nameserver = a12-64.akam.net.
+nasa.gov	nameserver = a1-32.akam.net.
+nasa.gov	nameserver = a8-66.akam.net.
+nasa.gov	nameserver = a9-64.akam.net.
+
+Authoritative answers can be found from:
+
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+Non-authoritative answer:
+flylax.com	nameserver = vlaxnashns1.lawa.org.
+flylax.com	nameserver = vlasns1.lawa.org.
+flylax.com	nameserver = vwuscoreinfo03.lawa.org.
+flylax.com	nameserver = veuscoreinfo03.lawa.org.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find flylax.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find cia.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cia.gov	nameserver = a13-65.akam.net.
+cia.gov	nameserver = a12-65.akam.net.
+cia.gov	nameserver = a22-66.akam.net.
+cia.gov	nameserver = a1-22.akam.net.
+cia.gov	nameserver = a3-64.akam.net.
+cia.gov	nameserver = a16-67.akam.net.
+
+Authoritative answers can be found from:
+
+traceroute to google.com (172.253.145.138), 30 hops max, 60 byte packets
+ 1  captive-portal.peplink.com (192.168.55.1)  5.150 ms  3.374 ms  1.731 ms
+ 2  * * *
+ 3  10.6.102.254 (10.6.102.254)  108.468 ms 10.5.102.254 (10.5.102.254)  105.455 ms  102.941 ms
+ 4  * 10.176.253.234 (10.176.253.234)  95.814 ms *
+ 5  * * *
+ 6  10.177.86.109 (10.177.86.109)  84.646 ms  128.286 ms  127.478 ms
+ 7  * 10.177.86.114 (10.177.86.114)  103.905 ms *
+ 8  10.180.160.116 (10.180.160.116)  97.394 ms 10.177.58.114 (10.177.58.114)  95.491 ms  96.348 ms
+ 9  10.180.160.110 (10.180.160.110)  104.996 ms  112.911 ms  86.454 ms
+10  * * *
+11  72.14.218.86 (72.14.218.86)  143.928 ms  132.135 ms  110.588 ms
+12  * * *
+13  142.250.226.44 (142.250.226.44)  93.172 ms 209.85.244.168 (209.85.244.168)  36.906 ms 142.251.60.130 (142.251.60.130)  34.111 ms
+14  216.239.49.62 (216.239.49.62)  34.431 ms 192.178.107.22 (192.178.107.22)  32.817 ms 192.178.252.46 (192.178.252.46)  30.331 ms
+15  * 209.85.245.173 (209.85.245.173)  40.974 ms 108.170.234.27 (108.170.234.27)  38.581 ms
+16  142.250.238.62 (142.250.238.62)  59.561 ms 142.250.61.30 (142.250.61.30)  42.217 ms  60.325 ms
+17  142.250.238.25 (142.250.238.25)  86.000 ms 142.250.238.31 (142.250.238.31)  83.196 ms  80.815 ms
+18  192.178.74.242 (192.178.74.242)  82.316 ms 192.178.74.254 (192.178.74.254)  79.758 ms 192.178.74.250 (192.178.74.250)  73.925 ms
+19  142.251.199.1 (142.251.199.1)  97.627 ms 142.251.199.13 (142.251.199.13)  77.235 ms 142.251.199.7 (142.251.199.7)  75.784 ms
+20  192.178.107.199 (192.178.107.199)  74.045 ms 216.239.59.103 (216.239.59.103)  88.661 ms 142.250.215.201 (142.250.215.201)  86.115 ms
+21  142.251.60.31 (142.251.60.31)  84.172 ms 192.178.97.111 (192.178.97.111)  81.440 ms  80.650 ms
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  yulnkjt-in-f138.1e100.net (172.253.145.138)  77.139 ms * *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find google.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+google.com	nameserver = ns2.google.com.
+google.com	nameserver = ns4.google.com.
+google.com	nameserver = ns3.google.com.
+google.com	nameserver = ns1.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov	nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e1.googledomains.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find fbi.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find epa.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+epa.gov	nameserver = dcns1.epa.gov.
+epa.gov	nameserver = nccns1.epa.gov.
+epa.gov	nameserver = nccns2.epa.gov.
+epa.gov	nameserver = dcns2.epa.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacoe.edu	nameserver = nccunix.lacoe.edu.
+lacoe.edu	nameserver = pws.lacoe.edu.
+lacoe.edu	nameserver = netmgr.lacoe.edu.
+lacoe.edu	nameserver = dns4.lacoe.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lacoe.edu: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jw.org	nameserver = a26-64.akam.net.
+jw.org	nameserver = a7-66.akam.net.
+jw.org	nameserver = a28-65.akam.net.
+jw.org	nameserver = a22-67.akam.net.
+jw.org	nameserver = a11-66.akam.net.
+jw.org	nameserver = a1-141.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find jw.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find azbec.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+azbec.org	nameserver = ns52.domaincontrol.com.
+azbec.org	nameserver = ns51.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find noaa.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov	nameserver = ns-01.noaa.gov.
+noaa.gov	nameserver = ns-02.noaa.gov.
+noaa.gov	nameserver = ns-03.noaa.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+aia-aerospace.org	nameserver = miles.ns.cloudflare.com.
+aia-aerospace.org	nameserver = chelsea.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find aia-aerospace.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rocketlabcorp.com	nameserver = luciana.ns.cloudflare.com.
+rocketlabcorp.com	nameserver = moura.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find rocketlabcorp.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rtx.com	nameserver = algin.ns.cloudflare.com.
+rtx.com	nameserver = aria.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find rtx.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.org	nameserver = ns2.dnsmadeeasy.com.
+lacity.org	nameserver = ns3.dnsmadeeasy.com.
+lacity.org	nameserver = ns0.dnsmadeeasy.com.
+lacity.org	nameserver = ns1.dnsmadeeasy.com.
+lacity.org	nameserver = ns4.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lacity.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lacity.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.gov	nameserver = ns0.dnsmadeeasy.com.
+lacity.gov	nameserver = ns3.dnsmadeeasy.com.
+lacity.gov	nameserver = ns1.dnsmadeeasy.com.
+lacity.gov	nameserver = ns2.dnsmadeeasy.com.
+lacity.gov	nameserver = ns4.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	nameserver = dns02.ci.long-beach.ca.us.
+longbeach.gov	nameserver = b8.uberns.com.
+longbeach.gov	nameserver = dns01.ci.long-beach.ca.us.
+longbeach.gov	nameserver = a8.uberns.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find longbeach.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lapl.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lapl.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	nameserver = sogns1.state.ga.us.
+georgia.gov	nameserver = sogns2.state.ga.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find georgia.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find earthlink.net: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	nameserver = rihana.ns.cloudflare.com.
+earthlink.net	nameserver = carl.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find waterandpower.org: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	nameserver = dns3.earthlink.net.
+waterandpower.org	nameserver = dns1.earthlink.net.
+waterandpower.org	nameserver = dns2.earthlink.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find level3.net: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	nameserver = ns2.level3.net.
+level3.net	nameserver = ns1.level3.net.
+
+Authoritative answers can be found from:
+
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	nameserver = ns3.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns1.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns2.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find fultoncountyga.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	nameserver = ns3.cl.bellsouth.net.
+atlantaga.gov	nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov	nameserver = ns1.cl.bellsouth.net.
+atlantaga.gov	nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov	nameserver = cmtu.mt.ns.els-gms.att.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find atlantaga.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find whitehouse.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find metro.net: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	nameserver = ns4.dnsmadeeasy.com.
+metro.net	nameserver = ns2.dnsmadeeasy.com.
+metro.net	nameserver = ns0.dnsmadeeasy.com.
+metro.net	nameserver = ns3.dnsmadeeasy.com.
+metro.net	nameserver = ns1.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+amtrack.com	nameserver = ns48.domaincontrol.com.
+amtrack.com	nameserver = ns47.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find amtrack.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bigbluebus.com	nameserver = ns-1032.awsdns-01.org.
+bigbluebus.com	nameserver = ns-1857.awsdns-40.co.uk.
+bigbluebus.com	nameserver = ns-651.awsdns-17.net.
+bigbluebus.com	nameserver = ns-495.awsdns-61.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find ladottransit.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bigbluebus.com	nameserver = ns-1032.awsdns-01.org.
+bigbluebus.com	nameserver = ns-1857.awsdns-40.co.uk.
+bigbluebus.com	nameserver = ns-651.awsdns-17.net.
+bigbluebus.com	nameserver = ns-495.awsdns-61.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find ladottransit.com: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lapdonline.org: NXDOMAIN
+
+traceroute to ladottransit.com (172.66.150.116), 30 hops max, 60 byte packets
+ 1  captive-portal.peplink.com (192.168.55.1)  1.883 ms  1.739 ms  1.813 ms
+ 2  * * *
+ 3  10.6.102.254 (10.6.102.254)  47.679 ms  46.634 ms 10.5.102.254 (10.5.102.254)  45.338 ms
+ 4  10.176.253.232 (10.176.253.232)  43.289 ms  42.774 ms 10.176.253.234 (10.176.253.234)  44.831 ms
+ 5  * * *
+ 6  10.177.86.109 (10.177.86.109)  34.348 ms  53.680 ms  53.074 ms
+ 7  * * 10.177.86.114 (10.177.86.114)  99.268 ms
+ 8  10.180.160.116 (10.180.160.116)  40.026 ms  68.238 ms 10.177.58.114 (10.177.58.114)  67.249 ms
+ 9  10.180.160.110 (10.180.160.110)  65.576 ms 10.177.13.108 (10.177.13.108)  96.197 ms  86.543 ms
+10  * * 10.164.176.69 (10.164.176.69)  52.536 ms
+11  * 10.177.114.195 (10.177.114.195)  34.228 ms *
+12  141.101.72.96 (141.101.72.96)  30.677 ms *  29.054 ms
+13  141.101.72.81 (141.101.72.81)  35.808 ms  41.421 ms 141.101.72.98 (141.101.72.98)  42.557 ms
+14  172.66.150.116 (172.66.150.116)  39.409 ms  40.347 ms  29.412 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	nameserver = ns1-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns2-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns4-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns3-02.azuregov-dns.us.
+
+Authoritative answers can be found from:
+
+traceroute to lapdonline.org (23.1.33.5), 30 hops max, 60 byte packets
+ 1  captive-portal.peplink.com (192.168.55.1)  2.856 ms * *
+ 2  * * *
+ 3  10.5.102.254 (10.5.102.254)  74.907 ms 10.6.102.254 (10.6.102.254)  63.871 ms  72.529 ms
+ 4  10.176.253.232 (10.176.253.232)  74.270 ms 10.176.253.234 (10.176.253.234)  72.979 ms  71.559 ms
+ 5  * * *
+ 6  10.177.86.109 (10.177.86.109)  64.680 ms  59.434 ms  58.748 ms
+ 7  * 10.177.86.114 (10.177.86.114)  28.407 ms  38.414 ms
+ 8  10.177.58.114 (10.177.58.114)  47.238 ms 10.180.160.116 (10.180.160.116)  43.807 ms 10.177.58.114 (10.177.58.114)  41.985 ms
+ 9  10.177.13.113 (10.177.13.113)  83.803 ms 10.180.160.110 (10.180.160.110)  81.667 ms 10.177.13.113 (10.177.13.113)  80.260 ms
+10  10.177.5.238 (10.177.5.238)  77.879 ms 10.177.13.110 (10.177.13.110)  72.375 ms  77.141 ms
+11  10.177.5.238 (10.177.5.238)  85.020 ms  81.450 ms 10.177.5.60 (10.177.5.60)  84.463 ms
+12  10.177.5.60 (10.177.5.60)  98.674 ms * *
+13  * 10.160.7.21 (10.160.7.21)  128.796 ms  114.421 ms
+14  10.160.7.21 (10.160.7.21)  94.617 ms 10.160.114.242 (10.160.114.242)  98.955 ms 10.160.7.21 (10.160.7.21)  85.131 ms
+15  10.160.114.242 (10.160.114.242)  97.340 ms  97.480 ms  94.749 ms
+16  66.94.2.123 (66.94.2.123)  97.452 ms ae18.r01.border101.atl02.fab.netarch.akamai.com (23.207.235.129)  111.075 ms  107.567 ms
+17  * * ae18.r01.border101.atl02.fab.netarch.akamai.com (23.207.235.129)  106.918 ms
+18  * * *
+19  * * *
+20  * * *
+21  a23-1-33-5.deploy.static.akamaitechnologies.com (23.1.33.5)  142.837 ms  142.314 ms *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	nameserver = dci-ib-e01.isd.lacounty.gov.
+lacounty.gov	nameserver = dci-ib-e02.isd.lacounty.gov.
+lacounty.gov	nameserver = lrci-ib-e04.isd.lacounty.gov.
+lacounty.gov	nameserver = lrci-ib-e03.isd.lacounty.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find lacounty.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	nameserver = max.ns.cloudflare.com.
+commerce.gov	nameserver = cecelia.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+** server can't find commerce.gov: NXDOMAIN
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	nameserver = a22-67.akam.net.
+polb.com	nameserver = a5-67.akam.net.
+polb.com	nameserver = a28-65.akam.net.
+polb.com	nameserver = a14-64.akam.net.
+polb.com	nameserver = a1-172.akam.net.
+polb.com	nameserver = a9-67.akam.net.
+
+Authoritative answers can be found from:
+
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.4.4#53: timed out
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for laopera.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for laopera.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for state.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for state.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for state.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+
+ #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
