@@ -11,6 +11,15 @@ nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns uahirise.org
 nslookup -type=mx uahirise.org
+nslookup -type=ns gov.uk
+nslookup -type=mx gov.uk
+host -a gov.uk
+host -a africanspaceagency.org
+host -a asal.dz
+nslookup -type=ns jpl.nasa.gov
+nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns jpl.nasa.gov
+nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=mx karenbass.com
@@ -19,6 +28,8 @@ nslookup -type=mx bet.com
 nslookup -type=ns bet.com
 nslookup -type=mx tiktok.com
 nslookup -type=ns tiktok.com
+host -a wikipedia.org
+host -a saxavord.com
 nslookup -type=ns facebook.com
 nslookup -type=mx facebook.com
 nslookup -type=ns essence.com
