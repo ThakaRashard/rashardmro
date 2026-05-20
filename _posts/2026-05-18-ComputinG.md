@@ -22,9 +22,21 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
 </picture>
 
+
+
 # Computing:Name: Rashard I Kelly Username: rashardkelly
 Topics virtiserv, blackgirlscode, karenbass, Karen Bass, usgs
 <iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+# Tyra @NASA-GiSS @FBiCYBER
+[Terminal Logging // github.com/Scribery/tlog](https://github.com/Scribery/tlog)
+@blackgirlscode @nasa-jpl
+I am under the impression that [TerminalLogging](https://zero.rhdp.net/lab/zt-rhelbu.zt-session-recording-tlog.prod) is what modern criminals are using to grab system processes and all sorts of other things out of an @Android's backdoor and socially engineer a software disaster so the whole thing is big @whitehouse @deptofwar but there are a lot of tools and techniques that could get it in with a user who is cammamnd line aware @nasa ... @deptofwar @salesforce [github.com/elastic](https://github.com/elastic) [KiBANA](https://www.elastic.co/kibana) / [@Splunk](https://www.splunk.com/en_us/products/observability-cloud.html) applied to cellular could wreCK HAVOK @la-county-isd check out @tmobile [Jazz](https://github.com/tmobile/jazz)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2ac96424-c7a2-452a-9713-28a8ca2dffc0" />
+
+
 
 FLEXBOX DEMO CSS3 3/28Screen Recording 2025 03 28 2.58.38 PM
 

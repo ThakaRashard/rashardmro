@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-04-22 15:38:06 -0800
+date:   2026-05-20 05:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
@@ -18,6 +18,186 @@ permalink: /smartphone1
   
 </picture>
 
+<div class="border"> </div>
+
+<div class="vert-container">
+
+  <div class="vert-items"> <a href="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png"> <img src="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png" /></a>
+  </div>
+
+  <div class="vert-items"> <a href="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png"> <img src="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/pulstar.png" /></a>
+  </div>
+
+</div>
+
+<div class="vert-container">
+  <div class="vert-items"> <a href="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/deban.png?raw=true"> <img src="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/deban.png?raw=true" /></a>
+  </div>
+  <div class="vert-items"> <a href="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/lbpl.jpg?raw=true"> <img src="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/lbpl.jpg?raw=true" /></a>
+  </div>
+</div>
+<div class="border"> </div>
+
+[ @la-county-isd @stateofcalifornia prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+<img alt="tumblr_20314efa840849119aa130534117d035_f3195337_1280" src="https://github.com/user-attachments/assets/5228474c-bb6f-4dcf-882d-2ac2e5d25163" />
+
+[@whitehouse @CityOfLosAngeles @blackgirlscode prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+[@CityOfLosAngeles @nasa-jpl pubmed.ncbi.nlm.nih.gov/33576818/ @NIHGOV](https://pubmed.ncbi.nlm.nih.gov/33576818/)
+
+<img  alt="tumblr_ec60c5d536f6ff51dfae060c429d867a_f4c89e6c_1280" src="https://github.com/user-attachments/assets/c2fc86ff-1bff-4d52-a8d2-1fe34749e0cb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/74509e8b-f820-49ba-9f9d-08196ac6504c" />
+
+
+
+[https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/](https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/)
+
+### Hardware
+
+**MANUFACTURER**: `Cloud Mobile`  
+**BRAND**: `Cloud_Mobile`  
+**BOARD**: `W20_X65`  
+**HARDWARE**: `mt6765`  
+**DEVICE**: `Stratus_C8`  
+**SUPPORTED_32_BIT_ABIS**: `armeabi-v7a, armeabi`  
+**SUPPORTED_64_BIT_ABIS**: `arm64-v8a`  
+
+@nasa @activision <img  alt=" @nasa @activision tumblr_a721b5f901f41436c7a3d577177af3d8_d634f14b_1280" src="https://github.com/user-attachments/assets/f9dbbc0f-5a10-40dc-b43c-386e78c7acfb" />
+
+
+[Madden Screens on android](https://rashardmro.tumblr.com/post/816827131037401088) // [NatGeoSociety - _LA92_@CityOfLosAngeles @Blackgirlscode @dhs-gov @icegov](https://rashardmro.tumblr.com/post/816918203134541824/la-92-full-documentary-national-geographic?is_related_post=1)
+<img alt="tumblr_47c08880567a0dbb9b587bcfb30b443d_74c737c5_1280" src="https://github.com/user-attachments/assets/ef60ee5d-35f4-43d8-b856-b2aadec36c4f" />
+
+
+PSP 
+<img  alt="tumblr_09763d15c01ccc690b762038726ecdd3_abf9d015_1280" src="https://github.com/user-attachments/assets/a9b26184-7162-4e8d-9977-4ae7c0f869f3" />
+
+
+SNES 
+<img  alt="tumblr_30dabd9981efe3ea0ff33e8291ecea62_70d3e949_1280" src="https://github.com/user-attachments/assets/db8dff63-b0dd-497b-9982-1ecac905f957" />
+<img  alt="tumblr_58436a88d92fe9d628d5bbe1352f38a0_2d083e14_1280" src="https://github.com/user-attachments/assets/b69235a7-e50c-4a00-b28e-3cbb66961ac2" />
+<img   alt="tumblr_74f1b71e972dd6a477fd2214bd7567a6_a5136724_1280" src="https://github.com/user-attachments/assets/a62cd177-116d-41be-af43-4866bfffc43f" />
+
+
+
+[@nasa-pds @usgs @la-county-isd - > Gallery code on @codepen](https://codepen.io/thakarashard/pen/MWMGKga) Look at the fork tree
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cde1c32c-0c68-486d-afd1-4dbfece2552c" />
+
+<div class="tupperware">
+    
+<img  alt="tumblr_16752e39cdb6194a4f62060027db7b9c_0f969229_1280" src="https://github.com/user-attachments/assets/5192df30-4d07-49cd-a186-4bfafd7f009e" />
+
+<img alt="tumblr_a77499e4be0dcfcd54484bb0394183cb_6560fc27_1280" src="https://github.com/user-attachments/assets/05f3722f-4519-439a-b7fa-3bc049d902a6" />
+
+
+</div>
+
+# my c8 specs 
+@nasa-jpl @linkedin @CityOfLosAngeles @blackgirlscode
+
+
+## Termux App Info
+
+**APP_NAME**: `Termux`  
+**PACKAGE_NAME**: `com.termux`  
+**VERSION_NAME**: `0.119.0-beta.3`  
+**VERSION_CODE**: `1022`  
+**UID**: `10233`  
+**TARGET_SDK**: `28`  
+**IS_DEBUGGABLE_BUILD**: `true`  
+**SE_PROCESS_CONTEXT**: `u:r:untrusted_app_27:s0:c233,c256,c512,c768`  
+**SE_FILE_CONTEXT**: `u:object_r:app_data_file:s0:c233,c256,c512,c768`  
+**SE_INFO**: `default:targetSdkVersion=28:complete`  
+**TERMUX_APP_PACKAGE_MANAGER**: `APT`  
+**TERMUX_APP_PACKAGE_VARIANT**: `APT_ANDROID_7`  
+**APK_RELEASE**: `@Github`  
+**SIGNING_CERTIFICATE_SHA256_DIGEST**: `B6DA01480EEFD5FBF2CD3771B8D1021EC791304BDD6C4BF41D3FAABAD48EE5E1`  
+##
+
+
+
+
+## Termux:Styling App Info
+
+**APP_NAME**: `Termux:Styling`  
+**PACKAGE_NAME**: `com.termux.styling`  
+**VERSION_NAME**: `0.32.1`  
+**VERSION_CODE**: `1000`  
+**UID**: `10233`  
+**TARGET_SDK**: `28`  
+**IS_DEBUGGABLE_BUILD**: `true`  
+**SE_PROCESS_CONTEXT**: `u:r:untrusted_app_27:s0:c233,c256,c512,c768`  
+**SE_FILE_CONTEXT**: `u:object_r:app_data_file:s0:c233,c256,c512,c768`  
+**SE_INFO**: `default:targetSdkVersion=28:complete`  
+**APK_RELEASE**: `Github`  
+**SIGNING_CERTIFICATE_SHA256_DIGEST**: `B6DA01480EEFD5FBF2CD3771B8D1021EC791304BDD6C4BF41D3FAABAD48EE5E1`  
+##
+
+
+## Device Info
+
+### Software
+
+**OS_VERSION**: `4.19.191`  
+**SDK_INT**: `33`  
+**RELEASE**: `13`  
+**ID**: `TP1A.260309.1945`  
+**DISPLAY**: `Stratus_C8_V212`  
+**INCREMENTAL**: `p1rck6985v164P20`  
+**SECURITY_PATCH**: `2026-03-05`  
+**IS_DEBUGGABLE**: `0`  
+**IS_TREBLE_ENABLED**: `true`  
+**TYPE**: `user`  
+**TAGS**: `release-keys`  
+**MAX_PHANTOM_PROCESSES**: - (*Requires `DUMP` and `PACKAGE_USAGE_STATS` permission*)  
+**MONITOR_PHANTOM_PROCS**: `true`  
+**DEVICE_CONFIG_SYNC_DISABLED**: -  
+
+### Hardware
+
+**MANUFACTURER**: `Cloud Mobile`  
+**BRAND**: `Cloud_Mobile`  
+**MODEL**: `Stratus C8`  
+**PRODUCT**: `Stratus_C8`  
+**BOARD**: `W20_X65`  
+**HARDWARE**: `mt6765`  
+**DEVICE**: `Stratus_C8`  
+**SUPPORTED_ABIS**: `arm64-v8a, armeabi-v7a, armeabi`  
+**SUPPORTED_32_BIT_ABIS**: `armeabi-v7a, armeabi`  
+**SUPPORTED_64_BIT_ABIS**: `arm64-v8a`  
+##
+
+
+## Important Links
+
+### GitHub
+
+[Termux](https://github.com/termux/termux-app)  
+[Termux:API](https://github.com/termux/termux-api)  
+[Termux:Boot](https://github.com/termux/termux-boot)  
+[Termux:Float](https://github.com/termux/termux-float)  
+[Termux:Styling](https://github.com/termux/termux-styling)  
+[Termux:Tasker](https://github.com/termux/termux-tasker)  
+[Termux:Widget](https://github.com/termux/termux-widget)  
+[termux-packages](https://github.com/termux/termux-packages)  
+
+### Email
+
+[support@termux.dev](mailto:support@termux.dev)  
+
+### Reddit
+
+[r/termux](https://www.reddit.com/r/termux)  
+
+### Wiki
+
+[Termux Wiki](https://wiki.termux.com)  
+[Termux](https://github.com/termux/termux-app/wiki)  
+[termux-packages](https://github.com/termux/termux-packages/wiki)  
+##
 
 # DNS
 Latrice, hello madam, I was troubleshooting wifi. We got a letter from spaceforce about [anomolies](https://www.space.com/space-force-domain-awareness-abnormal-observables) @blackgirlscode @la-county-isd somone is using a pulse weapon to force word through me in the library. Im in chinatown. Anyway Latrice you dns providers domain is blocked in this @CityOfLosAngeles library system. I was trying to visit Eric @Meyerweb Meyer on coincidence to get a css reference from ... I mentioned him here [rashardmro/changelog](https://thakarashard.github.io/rashardmro/changelog). His website is on the same infrastructure you are on but yours are serving out of [LAX](https://www.lawa.org/lawa-environment/lawa-mobility) `Server: swg-nginx-proxy-https-3d73b5d81995.signginx.lax` his was denver... The Legalities of the messages i mailed to [LetsChat@vertiserv.com](mailto:virtiserv.com) are expansive, because [certain transactions are illegal beyond state borders](https://www.law.cornell.edu/wex/mann_act) ! So here we have it [@nasa-jpl and @LACountyDPH DignityHealthdare.org](https://www.dignityhealth.org/socal/locations/californiahospital/services/surgery?&utm_source=Horizon&utm_medium=GoogleSearch&utm_campaign=178903953022&utm_content=760767246382&cmp=FYAO_HMI_SRCH_CSH_CARG_CASC_LOSA_CHMC_GNS_NSP_&ef_id=CjwKCAjw46HPBhAMEiwASZpLRE_Dwq3RNq7hbOGelgc_uxoU5Sf2PY_KAilIzClQi0VgxspVltrUvhoC2rcQAvD_BwE:G:s&s_kwcid=AL!12184!3!760767246382!b!!g!!dignity%20health%20hernia%20repair!22730005150!178903953022&gad_source=1&gad_campaignid=22730005150&gbraid=0AAAAAC4mL6bd8v-YrrmSULcMcq5UrNZfM&gclid=CjwKCAjw46HPBhAMEiwASZpLRE_Dwq3RNq7hbOGelgc_uxoU5Sf2PY_KAilIzClQi0VgxspVltrUvhoC2rcQAvD_BwE)
