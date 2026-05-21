@@ -31,6 +31,112 @@ date:   2026-04-04 1:51:06
 
 {% endhighlight %}
 
+# [Index of /PDS/EXTRAS/ANAGLYPH/ESP/ORB](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/)
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/PSP_010836_1885_ESP_081663_1885_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/PSP_010836_1885_ESP_081663_1885_RED.browse.png)
+
+
+@cityoflosangeles
+
+
+
+[Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ) [Testing Example Code In Your Jekyll Posts](https://www.rubypigeon.com/posts/testing-example-code-in-your-jekyll-posts/)
+
+# About Kashdoll and Me Updated
+Jamie, Robin I am running across her more often and i have reason to belive she is manessah my Family Services rep and i got hen pecked and run over so they could change a lot of ppl life real quick after the [insurrection in washington](https://www.nationalguard.mil/News/Article/2466077/dod-details-national-guard-response-to-capitol-attack/). That sounds like a crazy theory to me, but i think she got picked up by playboy in highschool, [she in this video](https://www.youtube.com/watch?v=MuNx-_dqM90). She always quick visits and this tape [Trapped in The Dollhouse](https://audiomack.com/kashbratz/album/trapped-in-the-dollhouse-1) i got an update after she was twerking inviting me to be more friendly in the studio. Mind you all this political turmoil is amuck! And once the Riot happened its like atlanta fell apart, but in this message i get that she is brotheled in some way! In BratMail she let me know she was looking at me `On my new new shit, like my name is Rashaad` that was my update.  
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/422507901&color=%23b7ff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realniggarealshit" title="IMTHEHIGHPRIESTESS" target="_blank" style="color: #cccccc; text-decoration: none;">IMTHEHIGHPRIESTESS</a> · <a href="https://soundcloud.com/realniggarealshit/kashdoll-intro" title="KashDoll (Intro)" target="_blank" style="color: #cccccc; text-decoration: none;">KashDoll (Intro)</a></div>
+
+{% highlight ruby %} 
+[Verse]
+[Intro]
+So everyones been wondering why
+Kash Doll's been rapping on everyone else beats
+And why she's been riding other people waves
+And, um, why she's killing all these remixes?
+It's because I can't put my own original music out, okay?
+It's because I signed myself in a hoe ass contract
+I did that and now I'm trapped inside of a fucking dollhouse
+And I wanna get out of this shit
+No way to escape the dollhouse
+But you know what?
+Timing is everything and I think God has perfect timing
+So right now, I'm just gonna get on every fucking beat there is
+{% endhighlight %}
+
+![donald](https://media.newyorker.com/photos/5ff762f7515a1fd85f89c326/16:9/w_2559,h_1439,c_limit/Marantz-CapitolMob.jpg)
+[<img src="https://rollcall.com/app/uploads/2024/01/trump_BC_042_010621.jpg" alt="DonaldORweLL" />](https://rollcall.com/app/uploads/2024/01/trump_BC_042_010621.jpg)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/210205104923-104-january-6-capitol-riots.jpg?q=x_27,y_174,h_1652,w_2937,c_crop/w_1280" alt="flag" />](https://media.cnn.com/api/v1/images/stellar/prod/210205104923-104-january-6-capitol-riots.jpg?q=x_27,y_174,h_1652,w_2937,c_crop/w_1280)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/211105100656-02-jan-6-riot.jpg?q=w_3000,h_2001,x_0,y_0,c_fill" alt="" />](https://media.cnn.com/api/v1/images/stellar/prod/211105100656-02-jan-6-riot.jpg?q=w_3000,h_2001,x_0,y_0,c_fill)
+[<img src="https://media.cnn.com/api/v1/images/stellar/prod/220104155104-january-6-insurrection-anniversary-walk-up.jpg?q=w_1160,c_fill/f_webp" alt="" />](https://media.cnn.com/api/v1/images/stellar/prod/220104155104-january-6-insurrection-anniversary-walk-up.jpg?q=w_1160,c_fill/f_webp)
+
+
+[January 6 U.S. Capitol attack riot, Washington, D.C., U.S. [2021]](https://www.britannica.com/event/January-6-U-S-Capitol-attack) January 6 U.S. Capitol attack, storming of the United States Capitol on January 6, 2021, by a mob of supporters of Republican Pres. Donald J. Trump. The attack disrupted a joint session of Congress convened to certify the results of the presidential election of 2020, which Trump had lost to his Democratic opponent, Joe Biden. Because its object was to prevent a legitimate president-elect from assuming office, the attack was widely regarded as an insurrection or attempted coup d’état. The Federal Bureau of Investigation (FBI) and other law-enforcement agencies also considered it an act of domestic terrorism. For having given a speech before the attack in which he encouraged a large crowd of his supporters near the White House to march to the Capitol and violently resist Congress’s certification of Biden’s victory—which many in the crowd then did—Trump was impeached by the Democratic-led House of Representatives for “incitement of insurrection” (he was subsequently acquitted by the Senate). [cite - BritannicA](https://www.britannica.com/event/January-6-U-S-Capitol-attack)
+[Planning and Execution Timeline for the National Guard’s Involvement in the January 6, 2021 Violent Attack at the U.S. Capitol](https://www.defense.gov/News/Releases/Release/Article/2467051/planning-and-execution-timeline-for-the-national-guards-involvement-in-the-janu/)
+
+[<img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/1404E/production/_116389918_capitol_floorplan_map2_640-nc.png.webp" alt="in surrection" />](https://ichef.bbci.co.uk/news/800/cpsprodpb/1404E/production/_116389918_capitol_floorplan_map2_640-nc.png.webp)
+
+[<img src="https://image.cnbcfm.com/api/v1/image/106820239-1609969463086-gettyimages-1230455296-AFP_8YA8KY.jpeg?v=1610113433" alt="in surrection" />](https://image.cnbcfm.com/api/v1/image/106820239-1609969463086-gettyimages-1230455296-AFP_8YA8KY.jpeg?v=1610113433)
+[<img src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22223110/GettyImages_1230453292.jpg?quality=90&strip=all&crop=0%2C2.8443683409437%2C100%2C94.311263318113&w=2400" alt="" />](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22223110/GettyImages_1230453292.jpg?quality=90&strip=all&crop=0%2C2.8443683409437%2C100%2C94.311263318113&w=2400)
+[<img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/55C6/production/_116385912_senate_chamber_pic640.png.webp" alt="in surrection" />](https://ichef.bbci.co.uk/news/800/cpsprodpb/55C6/production/_116385912_senate_chamber_pic640.png.webp) [Phones of top Pentagon officials were wiped of Jan. 6 messages](https://www.washingtonpost.com/national-security/2022/08/02/pentagon-jan-6-phones-wiped/) The DOD is the latest part of the federal government to have deleted official phone communications relevant to investigations into the events of the Jan. 6 attack on the Capitol [Transcripts Show President Trump's Directives to Pentagon Leadership to "Keep January 6 Safe" Were Deliberately Ignored -house.gov](https://cha.house.gov/2024/9/transcripts-show-president-trump-s-directives-to-pentagon-leadership-to-keep-january-6-safe-were-deliberately-ignored) [Pentagon, D.C. officials point fingers at each other over Capitol riot response](https://www.nbcnews.com/news/crime-courts/pentagon-d-c-officials-point-fingers-each-other-over-capitol-n1253547) [Three Years Since the Jan. 6 Attack on the Capitol](https://www.justice.gov/usao-dc/36-months-jan-6-attack-capitol-0) [7 hours, 700 arrests, 1 year later: The Jan. 6 Capitol attack, by the numbers - ABC7](https://abc7.com/jan-6-insurrection-us-capitol-riot/11428976/) [Capitol riots: A visual guide to the storming of Congress](https://www.bbc.com/news/world-us-canada-55575260) [Fact check: Five enduring lies about the Capitol insurrection - CNN - Brian Dale and Marshall Cohen](https://www.cnn.com/2022/01/04/politics/fact-check-capitol-insurrection-january-6-lies/index.html) [The January 6th insurrection in photos - rollcall.com](https://rollcall.com/2024/01/05/the-january-6th-insurrection-in-photos/) [How Networked Incitement Fueled the January 6 Capitol Insurrection - scientific american](https://www.scientificamerican.com/article/jan-6-was-an-example-of-networked-incitement/) [U.S. CAPITOL RIOT - iOwA CapiTal diSpatch](https://iowacapitaldispatch.com/tag/u-s-capitol-riot/) [What Trump Said to Supporters on Jan. 6 Before Their Capitol Riot - WSJ](https://www.wsj.com/articles/what-trump-said-to-supporters-on-jan-6-before-their-capitol-riot-11610498173) Democrats, seeking to impeach the president, say his comments incited the crowd to storm the building while lawmakers were certifying Biden’s election
+
+![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+# About Kash Doll and Me
+NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
+
+<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+
+[<img src="https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/1:1/w_800,h_800,c_limit/Brat%20Mail%20Kash%20Doll.jpg" alt="kash doll : Brat MAil />](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/1:1/w_800,h_800,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
+
+{% highlight ruby %} 
+[Verse]
+Look, I be exploring the foreigns with more power than stars
+On my new new shit, like my name is Rashaad
+And my punchlines seasoned plenty minds like it's time
+So, if he ever tell you he ain't feelin' me, he lying'
+Shout out to me, all on BET
+I'm a very rich chick, on my Nene Leakes
+I'm a boss, every move gotta come through me
+Murder broads in my minks
+May they rest in peace
+And I'm still the top chick
+Any bitch think I drop dick get higher than Mariah
+And she like a five octave
+Stop it, please stop it
+Blowing money
+All in Neiman's in there Diddy bopping
+And you know I came to murder it
+My city watchin'
+I'm so humble, I'ma front like I don't do this often
+It's Kash Doll, bow down, and kiss the ring
+Soon as this paperwork done
+I'm touching everything
+A murder scene
+
+[Outro]
+Haha
+Yeah, that way
+The doll way
+{% endhighlight %}
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+![In my belly](https://science.nasa.gov/wp-content/uploads/2024/03/25792_PIA24548-1200.gif?w=1024&format=webp) im updatig thakarashard.github.io even if i was wrong about plegerism i have to be realistic normani could have seduced me toget e away from california too! So im investigating what got me here waiting outside this porno cess pool, HollywoodFoodCo not normal, and i wonder what exactly active mission means? BC if im confused and being poisoned runing from here to there, ithink Jamie would let me know formerly that i was not a part of nasajpl in anyway bc #Jose_M_Pi ru that shit! an heeee say no! i should have been more humble about working from home... my wife is a slut so... there was a three year old, that family vaporized i wanna come back. I really wanna know if the [Nasa SoundCloud](https://soundcloud.com/nasa) Account is Real
+- Rashard...
+
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png" alt="Evidence of water found on Mars" />](https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png)
+
+[<img src="https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif" alt="Evidence of water found on Mars" />](https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif)
+
+
+<img   alt=" @nasa-jpl @nasa-pds @att @la-county-isd @cityoflosangeles @dhs-gov  tumblr_8ff5d9d0f6e3f5d45d45548e69b99fc7_613631dd_1280" src="https://github.com/user-attachments/assets/7704dba6-db54-4d63-8b44-a1c7c38b77ab" />
+
 
 <img  alt="lis_conus-rsoim0-100-sApr 26, 2026 - 23z-eApr 27, 2026 - 18z" src="https://github.com/user-attachments/assets/02b22029-e56c-447a-b686-f37830d7ab1e" />
 

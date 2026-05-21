@@ -7,6 +7,8 @@
 
 ![Launch Criteria @nasa-jpl @la-county-isd @blackgirlscode](https://www.google.com/logos/doodles/2026/celebrating-the-route-66-centennial-6753651837111083-2xa.gif)
 
+@la-county-isd @libretro https://archive.org/download/psp-minis-chd/Route%2066%20%28USA%29.chd
+
 [https://worldview.earthdata.nasa.gov/?v=-83.8392332760638,28.95825425160379,-81.9322768612927,32.56240187552115&as=2026-04-26-T00%3A00%3A00Z&ae=2026-04-28-T00%3A00%3A00Z&al=true&ab=on&t=2026-04-28-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-83.8392332760638,28.95825425160379,-81.9322768612927,32.56240187552115&as=2026-04-26-T00%3A00%3A00Z&ae=2026-04-28-T00%3A00%3A00Z&al=true&ab=on&t=2026-04-28-T00%3A00%3A00Z) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/a12d8e41-406c-4dfb-939d-e874faef95dc" />

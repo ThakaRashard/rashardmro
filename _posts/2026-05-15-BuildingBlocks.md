@@ -91,7 +91,8 @@ mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
 mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
 
 C:\Users\PAC>nslookup  -type=mx whitehouse.gov
-Server:  LBPADC2.lbpa.local
+Server:  LBPADC2.lbpa.local @linkedin @nasa-jpl @landsat @esa @blackgirlscode @la-county-isd @cityoflolosangeles
+
 Address:  192.168.129.12
 
 whitehouse.gov

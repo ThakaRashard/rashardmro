@@ -382,13 +382,16 @@ Martian Gothic: Unification is a 2000 survival horror video game developed by Cr
 [Mars Reconnaissance Orbiter Online Data Volumes](https://pds-imaging.jpl.nasa.gov/volumes/mro/release74.html?fbclid=IwY2xjawMtw-VleHRuA2FlbQIxMABicmlkETBWTmhuRlRsbHpxeERUdndrAR4q23qRijdODYOfnJ4ds1ORx7RU7wPAMrjyq2SCou3G1KKTU2febTUdBYzwKg_aem_-ZIH5n63FtjS1i_7_cmOaw) 
 
 # NASA’s Europa Clipper Spacecraft Separates From Falcon Heavy Second Stage
-<video controls preload="none" 
-  src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
-  poster="https://blogs.nasa.gov/europaclipper/wp-content/uploads/sites/378/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg?resize=768,432">
+
+<video controls 
+preload="none" 
+src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://science.nasa.gov/wp-content/uploads/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg" >
 
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
   and watch it with your favorite video player!
+  
 </video>
 
 
@@ -430,6 +433,7 @@ Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 b
   or
   <a href="">MP4</a>
   video.
+  
 </video>
 
 # Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views
@@ -443,6 +447,7 @@ Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 b
   or
   <a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-2160p.mp4">MP4</a>
   video.
+  
 </video>
 
 February 22, 2021
@@ -595,6 +600,7 @@ This image was acquired on Nov. 30, 2024 (Sol 1344) at the local mean solar time
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
   and watch it with your favorite video player!
+  
 </video>
 
 ![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
@@ -603,7 +609,16 @@ This image was acquired on Nov. 30, 2024 (Sol 1344) at the local mean solar time
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf)
 
- 
+ <video controls 
+preload="none" 
+src="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm"
+  poster="https://science.nasa.gov/wp-content/uploads/2024/10/Screenshot-2024-10-14-13-05-50_result.jpg" >
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d1/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm/NASA%27s_Europa_Clipper_Mission-_Spacecraft_Separation.webm.720p.vp9.webm">download it</a>
+  and watch it with your favorite video player!
+  
+</video>
 
 
 
@@ -637,6 +652,7 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
   or
   <a href="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4">MP4</a>
   video.
+  
 </video>
 
 {% include marsinventory.md %}
