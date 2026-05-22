@@ -10,20 +10,29 @@ date
 ulimit -a
 traceroute localhost
 cal
+nslookup -type=mx spacex.com
+nslookup -type=ns spacex.com
+host  spacex.com
 nslookup -type=mx whitehouse.gov
 nslookup -type=ns whitehouse.gov
+host -a whitehouse.gov
+host -a war.gov
 nslookup -type=mx war.gov
 nslookup -type=ns war.gov
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns uahirise.org
 nslookup -type=mx uahirise.org
+nslookup -type=mx home.treasury.govnslookup -type=ns home.treasury.govnslookup -type=ns treasurer.ca.gov
+nslookup -type=mx treasurer.ca.gov
 nslookup -type=ns navy.mil
 nslookup -type=mx navy.mil
 nslookup -type=ns navy.com
 nslookup -type=mx navy.com
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
+nslookup -type=ns spacetelescope.or
+nslookup -type=mx spacetelescope.or
 nslookup -type=ns global.jaxa.jp
 nslookup -type=mx global.jaxa.jp
 nslookup -type=ns gov.uk
@@ -75,9 +84,12 @@ nslookup -type=ns usgs.gov
 nslookup -type=mx usgs.gov
 dig fifa.com MX
 nslookup -type=mx bet.com
-
+dig +trace bet.com MX
 nslookup -type=ns bet.com
 host bet.com
+host -a hot97.com
+nslookup -type=ns hot97.com
+nslookup -type=mx hot97.com
 host vsco.co
 nslookup -type=ns fb.com
 nslookup -type=mx fb.com

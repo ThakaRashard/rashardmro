@@ -4,7 +4,7 @@ mermaid: true
 published: true
 author: "RashardKelly @nasa-jpl"
 mathjax: true
-image: Aitken_supercomputer_big.jpg
+image: IMG_1999-scaled.jpg
 ---
 
 ## Rashard Kelly 
@@ -22,6 +22,97 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   
 </picture>
 
+
+@whitehouse @nasa @nasa-jpl @fbicyber 
+[<video controls width="100%" height="auto" src="https://ia601505.us.archive.org/28/items/longbeach_202605/WHiTEHOUSE_DNS_KiM_BRYANT_BLACKGiRLSCODE_ViRTiSERV_LATRiCE_RASHARDNASAJPL_KARENBASS_Recording_2026-05-22_112037.mp4" />](https://ia601505.us.archive.org/28/items/longbeach_202605/WHiTEHOUSE_DNS_KiM_BRYANT_BLACKGiRLSCODE_ViRTiSERV_LATRiCE_RASHARDNASAJPL_KARENBASS_Recording_2026-05-22_112037.mp4)
+<img  alt="image @la-county-isd @cityoflosangeles @cisagov @whitehouse @nasa @nasa-jpl @fbicyber @FEMA" src="https://github.com/user-attachments/assets/7dd4c36e-f343-49b6-ad52-bdbb484d8a9e" />
+
+
+```shell
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+> dignityhealth.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+dignityhealth.org       MX preference = 10, mail exchanger = mxa-00116001.gslb.pphosted.com
+dignityhealth.org       MX preference = 10, mail exchanger = mxb-00116001.gslb.pphosted.com
+
+mxa-00116001.gslb.pphosted.com  internet address = 148.163.158.210
+mxb-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+```
+
+```shell
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=ns
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+> eop.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+eop.gov nameserver = wally.ns.cloudflare.com
+eop.gov nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+> whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+whitehouse.gov  nameserver = wally.ns.cloudflare.com
+whitehouse.gov  nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+```
+
+[cegsolutions.com/projects/nasa-jet-propulsion-laboratory-data-center @nasa-jpl @nasa-pds @la-county-isd](https://cegsolutions.com/projects/nasa-jet-propulsion-laboratory-data-center/)
+<img   alt="image" src="https://github.com/user-attachments/assets/5d7ba104-97ab-4aa6-b31d-f72b887348b0" />
 
 
 # Computing:Name: Rashard I Kelly Username: rashardkelly

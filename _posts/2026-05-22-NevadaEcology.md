@@ -33,6 +33,87 @@ date:   2026-02-19 8:51:06
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+## Nevada State Treasurer's Office 
+@la-county-isd they are our neigbors if they are corrupt we are in grave danger @blackgirlscode so-and-so say she dont want the strip or the pole no mo, i wanna settle anyway @whitehouse 
+
+[Zach Conine](https://nast.org/leadership/hon-zach-conine/) - Treasurer [https://www.nevadatreasurer.gov/](https://www.nevadatreasurer.gov/)
+<img  alt="image" src="https://github.com/user-attachments/assets/79186167-55f3-4f5d-ba9e-1ee4acd277c3" />
+
+![https://www.nevadatreasurer.gov/uploadedImages/treasurernvgov/content/Home/Features/Front%20Page%20Headshot.jpg](https://www.nevadatreasurer.gov/uploadedImages/treasurernvgov/content/Home/Features/Front%20Page%20Headshot.jpg) 
+
+```shell
+
+> nevadatreasurer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nevadatreasurer.gov     nameserver = blue.foundationdns.com
+nevadatreasurer.gov     nameserver = blue.foundationdns.net
+nevadatreasurer.gov     nameserver = blue.foundationdns.org
+
+blue.foundationdns.com  internet address = 162.159.60.1
+blue.foundationdns.com  internet address = 108.162.198.1
+blue.foundationdns.com  internet address = 172.64.40.1
+blue.foundationdns.com  AAAA IPv6 address = 2a06:98c1:56::ac40:2801
+blue.foundationdns.com  AAAA IPv6 address = 2606:4700:57::6ca2:c601
+blue.foundationdns.com  AAAA IPv6 address = 2803:f800:52::a29f:3c01
+blue.foundationdns.net  internet address = 162.159.60.31
+blue.foundationdns.net  internet address = 108.162.198.31
+blue.foundationdns.net  internet address = 172.64.40.31
+blue.foundationdns.net  AAAA IPv6 address = 2606:4700:57::6ca2:c61f
+blue.foundationdns.net  AAAA IPv6 address = 2803:f800:52::a29f:3c1f
+blue.foundationdns.net  AAAA IPv6 address = 2a06:98c1:56::ac40:281f
+blue.foundationdns.org  internet address = 162.159.60.61
+blue.foundationdns.org  internet address = 172.64.40.61
+blue.foundationdns.org  internet address = 108.162.198.61
+blue.foundationdns.org  AAAA IPv6 address = 2803:f800:52::a29f:3c3d
+>
+> nevadatreasurer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nevadatreasurer.gov     MX preference = 10, mail exchanger = d247845b.ess.barracudanetworks.com
+nevadatreasurer.gov     MX preference = 5, mail exchanger = d247845a.ess.barracudanetworks.com
+
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.255
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.253
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.252
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.255
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.253
+d247845a.ess.barracudanetwork
+
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        MX preference = 10, mail exchanger = mx0.topicbox.com
+nast.org        MX preference = 10, mail exchanger = mx1.topicbox.com
+
+mx0.topicbox.com        internet address = 103.168.172.232
+mx1.topicbox.com        internet address = 103.168.172.233
+
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        nameserver = ns-90-c.gandi.net
+nast.org        nameserver = ns-28-b.gandi.net
+nast.org        nameserver = ns-29-a.gandi.net
+
+ns-90-c.gandi.net       internet address = 217.70.187.91
+ns-90-c.gandi.net       AAAA IPv6 address = 2604:3400:aaac::5b
+ns-28-b.gandi.net       internet address = 213.167.230.29
+ns-28-b.gandi.net       AAAA IPv6 address = 2001:4b98:aaab::1d
+ns-29-a.gandi.net       internet address = 173.246.100.30
+ns-29-a.gandi.net       AAAA IPv6 address = 2001:4b98:aaaa::1e
+>
+
+```
+
 
 [MAPLiNK - @blackgirlscode can u share with nevada ?](https://worldview.earthdata.nasa.gov/?v=-116.81304739105809,35.12672887213639,-113.02309004268949,36.992098504536564&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L3_DIST-ANN-HLS_Color_Index(disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-04-29-T20%3A31%3A11Z) 
 

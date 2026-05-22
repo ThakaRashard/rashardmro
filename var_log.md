@@ -5,6 +5,425 @@ permalink: /var/log
 ---
 
 
+@cityoflosangeles @longbeachinnovationteam @blackgirlscode @nasa-giss @nasa-develop @doug-newman-nasa
+```shell
+
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=ns
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+> eop.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+eop.gov nameserver = wally.ns.cloudflare.com
+eop.gov nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+> whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+whitehouse.gov  nameserver = wally.ns.cloudflare.com
+whitehouse.gov  nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+> tax.ny.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+ny.gov
+        primary name server = ns2.ny.gov
+        responsible mail addr = hostmaster.ny.gov
+        serial  = 790561149
+        refresh = 3600 (1 hour)
+        retry   = 5400 (1 hour 30 mins)
+        expire  = 604800 (7 days)
+  ny.govdefault TTL = 5400 (1 hour 30 mins)
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+ny.gov  nameserver = ns2.ny.gov
+ny.gov  nameserver = ns3.ny.gov
+
+ns2.ny.gov      internet address = 161.11.226.170
+> nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        nameserver = a14-67.akam.net
+nasa.gov        nameserver = a5-66.akam.net
+nasa.gov        nameserver = a8-66.akam.net
+nasa.gov        nameserver = a9-64.akam.net
+nasa.gov        nameserver = a1-32.akam.net
+nasa.gov        nameserver = a12-64.akam.net
+
+a8-66.akam.net  internet address = 2.16.40.66
+> fb.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+fb.com  nameserver = a.ns.facebook.com
+fb.com  nameserver = c.ns.facebook.com
+fb.com  nameserver = b.ns.facebook.com
+fb.com  nameserver = d.ns.facebook.com
+
+a.ns.facebook.com       internet address = 129.134.30.12
+a.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f0fc:c:face:b00c:0:35
+c.ns.facebook.com       internet address = 185.89.218.12
+c.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f1fc:c:face:b00c:0:35
+b.ns.facebook.com       internet address = 129.134.31.12
+b.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f0fd:c:face:b00c:0:35
+d.ns.facebook.com       internet address = 185.89.219.12
+d.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f1fd:c:face:b00c:0:35
+> longbeach.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+longbeach.gov   nameserver = b8.uberns.com
+longbeach.gov   nameserver = dns01.ci.long-beach.ca.us
+longbeach.gov   nameserver = a8.uberns.com
+longbeach.gov   nameserver = dns02.ci.long-beach.ca.us
+
+b8.uberns.com   internet address = 216.59.57.8
+b8.uberns.com   AAAA IPv6 address = 2602:ffe2:54::8
+dns01.ci.long-beach.ca.us       internet address = 204.108.16.111
+a8.uberns.com   internet address = 216.59.60.8
+dns02.ci.long-beach.ca.us       internet address = 204.108.16.112
+> sc.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+sc.gov  nameserver = ns11.constellix.com
+sc.gov  nameserver = ns21.constellix.com
+sc.gov  nameserver = ns31.constellix.com
+sc.gov  nameserver = ns41.constellix.net
+sc.gov  nameserver = ns51.constellix.net
+sc.gov  nameserver = ns61.constellix.net
+
+ns11.constellix.com     internet address = 96.45.80.1
+ns11.constellix.com     AAAA IPv6 address = 2600:180a:1001::1
+ns21.constellix.com     internet address = 46.31.236.1
+ns21.constellix.com     AAAA IPv6 address = 2600:180b:2001::1
+ns31.constellix.com     internet address = 43.247.170.1
+ns31.constellix.com     AAAA IPv6 address = 2600:180c:3001::1
+ns41.constellix.net     internet address = 96.45.81.1
+ns41.constellix.net     AAAA IPv6 address = 2600:180a:4001::1
+ns51.constellix.net     internet address = 46.31.237.1
+ns51.constellix.net     AAAA IPv6 address = 2600:180b:5001::1
+ns61.constellix.net     internet address = 43.247.171.1
+ns61.constellix.net     AAAA IPv6 address = 2600:180c:6001::1
+> nevadatreasurer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nevadatreasurer.gov     nameserver = blue.foundationdns.com
+nevadatreasurer.gov     nameserver = blue.foundationdns.net
+nevadatreasurer.gov     nameserver = blue.foundationdns.org
+
+blue.foundationdns.com  internet address = 162.159.60.1
+blue.foundationdns.com  internet address = 108.162.198.1
+blue.foundationdns.com  internet address = 172.64.40.1
+blue.foundationdns.com  AAAA IPv6 address = 2a06:98c1:56::ac40:2801
+blue.foundationdns.com  AAAA IPv6 address = 2606:4700:57::6ca2:c601
+blue.foundationdns.com  AAAA IPv6 address = 2803:f800:52::a29f:3c01
+blue.foundationdns.net  internet address = 162.159.60.31
+blue.foundationdns.net  internet address = 108.162.198.31
+blue.foundationdns.net  internet address = 172.64.40.31
+blue.foundationdns.net  AAAA IPv6 address = 2606:4700:57::6ca2:c61f
+blue.foundationdns.net  AAAA IPv6 address = 2803:f800:52::a29f:3c1f
+blue.foundationdns.net  AAAA IPv6 address = 2a06:98c1:56::ac40:281f
+blue.foundationdns.org  internet address = 162.159.60.61
+blue.foundationdns.org  internet address = 172.64.40.61
+blue.foundationdns.org  internet address = 108.162.198.61
+blue.foundationdns.org  AAAA IPv6 address = 2803:f800:52::a29f:3c3d
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        nameserver = ns-90-c.gandi.net
+nast.org        nameserver = ns-28-b.gandi.net
+nast.org        nameserver = ns-29-a.gandi.net
+
+ns-90-c.gandi.net       internet address = 217.70.187.91
+ns-90-c.gandi.net       AAAA IPv6 address = 2604:3400:aaac::5b
+ns-28-b.gandi.net       internet address = 213.167.230.29
+ns-28-b.gandi.net       AAAA IPv6 address = 2001:4b98:aaab::1d
+ns-29-a.gandi.net       internet address = 173.246.100.30
+ns-29-a.gandi.net       AAAA IPv6 address = 2001:4b98:aaaa::1e
+>
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+> eop.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+eop.gov MX preference = 10, mail exchanger = inbound.mail.dmz.pitc.gov
+> whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2403559660
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+> nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        MX preference = 0, mail exchanger = nasa-gov.mail.protection.outlook.com
+
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.11.12
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.9.19
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.50
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.52
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f90e::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f900::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::1
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+> dignityhealth.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+dignityhealth.org       MX preference = 10, mail exchanger = mxa-00116001.gslb.pphosted.com
+dignityhealth.org       MX preference = 10, mail exchanger = mxb-00116001.gslb.pphosted.com
+
+mxa-00116001.gslb.pphosted.com  internet address = 148.163.158.210
+mxb-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+> ny.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+ny.gov  MX preference = 10, mail exchanger = ny-gov.mail.protection.outlook.com
+
+ny-gov.mail.protection.outlook.com      internet address = 52.101.8.52
+ny-gov.mail.protection.outlook.com      internet address = 52.101.9.19
+ny-gov.mail.protection.outlook.com      internet address = 52.101.11.12
+ny-gov.mail.protection.outlook.com      internet address = 52.101.8.50
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f904::
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f90e::1
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f900::1
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f904::1
+> tax.ny.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+tax.ny.gov      MX preference = 5, mail exchanger = tax-ny-gov.mail.protection.outlook.com
+
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.8.50
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.9.19
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.11.12
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.8.52
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f904::
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f90e::1
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f900::1
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f904::1
+> nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        MX preference = 0, mail exchanger = nasa-gov.mail.protection.outlook.com
+
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.50
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.9.19
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.11.12
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.52
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f90e::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f900::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::
+> fb.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+fb.com  MX preference = 10, mail exchanger = mxa-00082601.gslb.pphosted.com
+fb.com  MX preference = 10, mail exchanger = mxb-00082601.gslb.pphosted.com
+
+mxa-00082601.gslb.pphosted.com  internet address = 67.231.153.30
+mxb-00082601.gslb.pphosted.com  internet address = 67.231.145.42
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+> horizons.jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+horizons.jpl.nasa.gov   canonical name = ssd.jpl.nasa.gov
+ssd.jpl.nasa.gov        MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+ssd.jpl.nasa.gov        MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+> longbeach.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+longbeach.gov   MX preference = 10, mail exchanger = mxb-00539a01.gslb.pphosted.com
+longbeach.gov   MX preference = 10, mail exchanger = mxa-00539a01.gslb.pphosted.com
+
+mxb-00539a01.gslb.pphosted.com  internet address = 148.163.134.252
+mxa-00539a01.gslb.pphosted.com  internet address = 148.163.134.252
+> bet..com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+*** LBPADC2.lbpa.local can't find bet..com: Unspecified error
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+> dignityhealth.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+dignityhealth.org       MX preference = 10, mail exchanger = mxb-00116001.gslb.pphosted.com
+dignityhealth.org       MX preference = 10, mail exchanger = mxa-00116001.gslb.pphosted.com
+
+mxb-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+mxa-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+> sc.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+sc.com  MX preference = 10, mail exchanger = mxa-001ac208.gslb.pphosted.com
+sc.com  MX preference = 10, mail exchanger = mxb-001ac208.gslb.pphosted.com
+
+mxa-001ac208.gslb.pphosted.com  internet address = 66.159.232.66
+mxb-001ac208.gslb.pphosted.com  internet address = 143.55.149.216
+> nevadatreasurer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nevadatreasurer.gov     MX preference = 10, mail exchanger = d247845b.ess.barracudanetworks.com
+nevadatreasurer.gov     MX preference = 5, mail exchanger = d247845a.ess.barracudanetworks.com
+
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.255
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.253
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.252
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.255
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.253
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.252
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        MX preference = 10, mail exchanger = mx0.topicbox.com
+nast.org        MX preference = 10, mail exchanger = mx1.topicbox.com
+
+mx0.topicbox.com        internet address = 103.168.172.232
+mx1.topicbox.com        internet address = 103.168.172.233
+>
+```
+
 
 @la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
 

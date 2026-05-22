@@ -12,6 +12,7 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@nasa-jpl @nasa-pds is this musician Jason Bryant? I dont wanna walk up on nobody funny bc they look aline [https://youtu.be/oRLAa58sWu4?si=MeNIW2xd_KTTckSk](https://youtu.be/oRLAa58sWu4?si=MeNIW2xd_KTTckSk) @blackgirlscode 
 
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg @nasa-jpl @nasa @la-county-isd @whitehouse](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
 @whitehouse 

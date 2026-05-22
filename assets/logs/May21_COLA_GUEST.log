@@ -1,0 +1,91 @@
+
+; <<>> DiG 9.20.22 <<>> lacounty.gov +trace NS
+;; global options: +cmd
+.			54501	IN	NS	l.root-servers.net.
+.			54501	IN	NS	j.root-servers.net.
+.			54501	IN	NS	f.root-servers.net.
+.			54501	IN	NS	h.root-servers.net.
+.			54501	IN	NS	d.root-servers.net.
+.			54501	IN	NS	b.root-servers.net.
+.			54501	IN	NS	k.root-servers.net.
+.			54501	IN	NS	i.root-servers.net.
+.			54501	IN	NS	m.root-servers.net.
+.			54501	IN	NS	e.root-servers.net.
+.			54501	IN	NS	g.root-servers.net.
+.			54501	IN	NS	c.root-servers.net.
+.			54501	IN	NS	a.root-servers.net.
+.			54501	IN	RRSIG	NS 8 0 518400 20260603170000 20260521160000 54393 . cLiFA9ydC6fH9qjA1vacIkvMOL9b+pBzWYQuu4GYraga+OMsRZH3hpnZ g/c/YshnEV/adOG8/Yoix5HUg6ugMoS+K7b1GZQFsc5lqgrGWk9VMSlV No561t+Oqw5P4gDPclShu+PejkEp9KFKrMYtPzb69Yaxl2yBtB+aU3oT rDd4Td9mWjZzoAOTouuPyu3OFSfbtpkooPwsy/k3frlcBQX5wVl0wUUd Pw6bb/QovzAN+hWHagUpz4hJVZ4vyn6Yd6vrpAhOpYESwJASDsrG64Ig yysz4HmmfVF/bj5odJrBC1TVc+iBO/xwOSQNGacYs52lBL9JoahzUFl1 X8eBMw==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 40 ms
+
+;; Received 41 bytes from 199.7.91.13#53(d.root-servers.net) in 44 ms
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+
+; <<>> DiG 9.20.22 <<>> lacounty.gov +trace MX
+;; global options: +cmd
+.			54328	IN	NS	e.root-servers.net.
+.			54328	IN	NS	g.root-servers.net.
+.			54328	IN	NS	c.root-servers.net.
+.			54328	IN	NS	a.root-servers.net.
+.			54328	IN	NS	l.root-servers.net.
+.			54328	IN	NS	j.root-servers.net.
+.			54328	IN	NS	f.root-servers.net.
+.			54328	IN	NS	h.root-servers.net.
+.			54328	IN	NS	d.root-servers.net.
+.			54328	IN	NS	b.root-servers.net.
+.			54328	IN	NS	k.root-servers.net.
+.			54328	IN	NS	i.root-servers.net.
+.			54328	IN	NS	m.root-servers.net.
+.			54328	IN	RRSIG	NS 8 0 518400 20260603170000 20260521160000 54393 . cLiFA9ydC6fH9qjA1vacIkvMOL9b+pBzWYQuu4GYraga+OMsRZH3hpnZ g/c/YshnEV/adOG8/Yoix5HUg6ugMoS+K7b1GZQFsc5lqgrGWk9VMSlV No561t+Oqw5P4gDPclShu+PejkEp9KFKrMYtPzb69Yaxl2yBtB+aU3oT rDd4Td9mWjZzoAOTouuPyu3OFSfbtpkooPwsy/k3frlcBQX5wVl0wUUd Pw6bb/QovzAN+hWHagUpz4hJVZ4vyn6Yd6vrpAhOpYESwJASDsrG64Ig yysz4HmmfVF/bj5odJrBC1TVc+iBO/xwOSQNGacYs52lBL9JoahzUFl1 X8eBMw==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 72 ms
+
+;; Received 41 bytes from 198.97.190.53#53(h.root-servers.net) in 40 ms
+
+
+; <<>> DiG 9.20.22 <<>> lacounty.gov +trace MX
+;; global options: +cmd
+.			54314	IN	NS	a.root-servers.net.
+.			54314	IN	NS	l.root-servers.net.
+.			54314	IN	NS	j.root-servers.net.
+.			54314	IN	NS	f.root-servers.net.
+.			54314	IN	NS	h.root-servers.net.
+.			54314	IN	NS	d.root-servers.net.
+.			54314	IN	NS	b.root-servers.net.
+.			54314	IN	NS	k.root-servers.net.
+.			54314	IN	NS	i.root-servers.net.
+.			54314	IN	NS	m.root-servers.net.
+.			54314	IN	NS	e.root-servers.net.
+.			54314	IN	NS	g.root-servers.net.
+.			54314	IN	NS	c.root-servers.net.
+.			54314	IN	RRSIG	NS 8 0 518400 20260603170000 20260521160000 54393 . cLiFA9ydC6fH9qjA1vacIkvMOL9b+pBzWYQuu4GYraga+OMsRZH3hpnZ g/c/YshnEV/adOG8/Yoix5HUg6ugMoS+K7b1GZQFsc5lqgrGWk9VMSlV No561t+Oqw5P4gDPclShu+PejkEp9KFKrMYtPzb69Yaxl2yBtB+aU3oT rDd4Td9mWjZzoAOTouuPyu3OFSfbtpkooPwsy/k3frlcBQX5wVl0wUUd Pw6bb/QovzAN+hWHagUpz4hJVZ4vyn6Yd6vrpAhOpYESwJASDsrG64Ig yysz4HmmfVF/bj5odJrBC1TVc+iBO/xwOSQNGacYs52lBL9JoahzUFl1 X8eBMw==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 48 ms
+
+;; Received 41 bytes from 199.7.91.13#53(d.root-servers.net) in 44 ms
+
+
+; <<>> DiG 9.20.22 <<>> lacounty.gov +trace NS
+;; global options: +cmd
+.			54303	IN	NS	l.root-servers.net.
+.			54303	IN	NS	j.root-servers.net.
+.			54303	IN	NS	f.root-servers.net.
+.			54303	IN	NS	h.root-servers.net.
+.			54303	IN	NS	d.root-servers.net.
+.			54303	IN	NS	b.root-servers.net.
+.			54303	IN	NS	k.root-servers.net.
+.			54303	IN	NS	i.root-servers.net.
+.			54303	IN	NS	m.root-servers.net.
+.			54303	IN	NS	e.root-servers.net.
+.			54303	IN	NS	g.root-servers.net.
+.			54303	IN	NS	c.root-servers.net.
+.			54303	IN	NS	a.root-servers.net.
+.			54303	IN	RRSIG	NS 8 0 518400 20260603170000 20260521160000 54393 . cLiFA9ydC6fH9qjA1vacIkvMOL9b+pBzWYQuu4GYraga+OMsRZH3hpnZ g/c/YshnEV/adOG8/Yoix5HUg6ugMoS+K7b1GZQFsc5lqgrGWk9VMSlV No561t+Oqw5P4gDPclShu+PejkEp9KFKrMYtPzb69Yaxl2yBtB+aU3oT rDd4Td9mWjZzoAOTouuPyu3OFSfbtpkooPwsy/k3frlcBQX5wVl0wUUd Pw6bb/QovzAN+hWHagUpz4hJVZ4vyn6Yd6vrpAhOpYESwJASDsrG64Ig yysz4HmmfVF/bj5odJrBC1TVc+iBO/xwOSQNGacYs52lBL9JoahzUFl1 X8eBMw==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 52 ms
+
+;; Received 41 bytes from 198.97.190.53#53(h.root-servers.net) in 56 ms
+
