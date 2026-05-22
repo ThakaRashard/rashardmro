@@ -10,7 +10,7 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-
+[@nasa-jpl @la-county-isd @cityoflosangeles https://www.longbeach.gov/lgb](https://www.longbeach.gov/lgb)
 <img  alt="2026-05-19-00_00_2026-05-19-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/5bf3699c-a868-45b3-a29c-2c4941fe56e7" />
 
 [@la-county-isd @longbeachinnovationteam the harbor yesterday browser.dataspace.copernicus.eu/](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.72891&lng=-118.1971&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18I2dFEbWggm6odSda1Eh2253LE0Pmt6E4kXY6M31zerj8cmXhyVxB0q%2BXAbIN3ZCpr2Zu3du0AeV83l07mOR62ZIvKVyT1nXhh7cEiZiTR7EnhLmKqQCuO&datasetId=S2_L2A_CDAS&fromTime=2026-05-19T00%3A00%3A00.000Z&toTime=2026-05-19T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
