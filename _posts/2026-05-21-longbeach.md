@@ -11,6 +11,16 @@ image: LongBeachEcostress.png
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+<img  alt="2026-05-19-00_00_2026-05-19-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/5bf3699c-a868-45b3-a29c-2c4941fe56e7" />
+
+[@la-county-isd @longbeachinnovationteam the harbor yesterday browser.dataspace.copernicus.eu/](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.72891&lng=-118.1971&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18I2dFEbWggm6odSda1Eh2253LE0Pmt6E4kXY6M31zerj8cmXhyVxB0q%2BXAbIN3ZCpr2Zu3du0AeV83l07mOR62ZIvKVyT1nXhh7cEiZiTR7EnhLmKqQCuO&datasetId=S2_L2A_CDAS&fromTime=2026-05-19T00%3A00%3A00.000Z&toTime=2026-05-19T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image @eu-cdse our county and @deptofwar could use some resources @whitehouse @la-county-isd https://browser.dataspace.copernicus.eu/" src="https://github.com/user-attachments/assets/8fd96c7a-168d-4696-a9e0-3164d6489b14" />
+
+iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE) [https://kjlhradio.com/ Plays on Air for FM](https://kjlhradio.com/)
+[@nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
+[@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
 
 [deepspace.jpl.nasa.gov/dsn/gallery/goldstone.html @nasa-pds](https://web.archive.org/web/20070205011502/http://deepspace.jpl.nasa.gov/dsn/gallery/goldstone.html)
 <img width="601" height="99" alt="image" src="https://github.com/user-attachments/assets/51bb08e5-d963-4b78-845c-c67f05447753" />
@@ -66,10 +76,7 @@ NASA Virtual Guest Program Team
 
 
 
-iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE) [https://kjlhradio.com/ Plays on Air for FM](https://kjlhradio.com/)
-[@nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
-[@nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rashard-ecostress-jpl-iss/ECOSTRESS-Data-Resources.git/HEAD)
+
 
 [https://www.ncei.noaa.gov/maps/bathymetry/?xmax=-49.403&xmin=-91.612&ymax=38.002&ymin=22.560 @nasa-jpl @la-county-isd @longbeachinnovationteam this data can let you know where boats travel](https://www.ncei.noaa.gov/maps/bathymetry/?xmax=-49.403&xmin=-91.612&ymax=38.002&ymin=22.560)  @CityOfLosangeles [Unofficial LA28 Olympic Venues](https://geohub.lacity.org/content/f89cbfe086f445a2baac9636f4a7ea1e/about)
 
