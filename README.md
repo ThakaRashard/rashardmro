@@ -3,6 +3,10 @@
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 
+[@nasa-jplhttps://www.jpl.nasa.gov/universe/archive/un9801.pdf](https://www.jpl.nasa.gov/universe/archive/un9801.pdf) @cityoflosangeles @la-county-isd i support these mission primarily as new ones come im still expected to support the new gear 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d8fb180e-b5d9-4f7e-9b6a-8b4ccd21ac7d" />
+
 ![https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg](https://web.archive.org/web/20070205200246im_/http://deepspace.jpl.nasa.gov/dsn/images/banner-dsn.jpg)
 
 ![Launch Criteria @nasa-jpl @la-county-isd @blackgirlscode](https://www.google.com/logos/doodles/2026/celebrating-the-route-66-centennial-6753651837111083-2xa.gif)
