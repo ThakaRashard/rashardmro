@@ -16,8 +16,10 @@ Landed Safely
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/efd84d70-79f3-4b89-9af8-cc925d0a8e48)
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/ca63a399-badc-4b60-83a5-c7cd6702ac8e)
 
-
-
+@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
+[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
+~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
+~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 
 - Jump to  [`news`](#news)
