@@ -18,6 +18,11 @@ permalink: /smartphone1
   
 </picture>
 
+@nasa-jpl im looking for ways to more creatively use cellular screen resolutions @podaac @la-county-isd for usability 
+[https://csszengarden.com/210/ @blackgirlscode hi](https://csszengarden.com/210/)
+<img  alt="image" src="https://github.com/user-attachments/assets/7d3f7346-ea02-47b8-b34b-68f8a70468e1" />
+
+
 <div class="border"> </div>
 
 <div class="vert-container">
