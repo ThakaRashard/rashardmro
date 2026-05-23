@@ -24,15 +24,23 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+@la-county-isd 
+
+<iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [https://www.jpl.nasa.gov/universe/archive/un9801.pdf](https://www.jpl.nasa.gov/universe/archive/un9801.pdf)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/1bac7504-1abd-4f0a-ad5f-b3d66d575396" />
 
+![https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012145pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012145pv.jpg)
 
+[Nasa-jpl giftshop @la-county-isd @CityOfLosAngeles @blackgirlscode](https://thejplstore.com/?customer_posted=true#newsletter-signup-sections--17028863099104__header)
+<img  alt="image" src="https://github.com/user-attachments/assets/c265e33f-9e3e-4364-9260-e04cff20d175" />
 
 
 ## About the United States Space Force
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
 
 
 [<video controls poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG" src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4)
@@ -241,7 +249,7 @@ to rashardsdata, Raquel.Monroe@howard.edu, phylicia.rashad@howard.edu, homiehelp
  HollyJMitchell@bos.lacounty.gov, keishaforgovernor@gmail.com, mayor@nola.gov, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, report@cisa.gov, normani@fifthharmonyofficial.com,
  Normaniofficial@outlook.com, operations@wearebgc.org, communications, dsnnow@jpl.nasa.gov,
  douglas.j.newman@nasa.gov, jisaacman@shift4.com, jimmyfallon@nbc.com, kathryn@bos.lacounty.gov,
- brewster.kahle@archive.org, katyperry, karen.bass47@gmail.com, sholaday, yourvoice@bbc.co.uk, me,
+ brewster.kahle@.org, katyperry, karen.bass47@gmail.com, sholaday, yourvoice@bbc.co.uk, me,
  airbusgroup.web@airbus.com, Secretary.Weber@sos.ca.gov, earthdata-support@nasa.gov,
 letschat@virtiserv.com, lbpl_reference@lbpl.org, contact.lapdonline@gmail.com,
 FirstDistrict@bos.lacounty.gov, district5@longbeach.gov, denise.watts, mayor@longbeach.gov,
@@ -477,7 +485,7 @@ cecelia.ns.cloudflare.com       AAAA IPv6 address = 2803:f800:50::6ca2:c287
 C:\Users\PAC>
 
 ```
-<iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
 
@@ -766,7 +774,7 @@ wally.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0ef
 
 <IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
 
-![@nasa-pds](https://web.archive.org/web/20250224170213/photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+![@nasa-pds](https://web..org/web/20250224170213/photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
 ![image](https://github.com/user-attachments/assets/e6461ddc-9380-414d-9b85-3971a8026fa4)
 
 <iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
