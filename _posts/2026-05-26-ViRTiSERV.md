@@ -25,6 +25,26 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+
+BTS of a rover checkup @blackgirlscode  @la-county-isd @stateofcalifornia
+[@nasa-jpl @nasa-pds @cityoflosangeles karenBass -> RASHARDS_ROVER_CHECK_more_later_from_datavolumes_blackgirlscodeVirtiserVRecording2026-05-26161646.mp4](https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/0000000000000RASHARDS_ROVER_CHECK_more_later_from_datavolumes_blackgirlscodeVirtiserVRecording2026-05-26161646.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/b86befd8-6d0a-4c68-b026-928047601232" />
+
+[static.uahirise.org/epo/hicards/](https://static.uahirise.org/epo/hicards/)
+[https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100](https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e36cb9c-f58d-4893-8fac-c63364becc2a" />
+
+[https://youtu.be/SNN4CW7c5Ho?si=TZLZv0sY_u-Pamfr @nasa space race @blackgirlscode history](https://youtu.be/SNN4CW7c5Ho?si=TZLZv0sY_u-Pamfr)
+@la-couty-isd @nasa-jpl something you should know about github is that here in @CityOfLosAngeles (county) etc something about the dns config makes it throw 200 errors when you add too many embeds, its not a normal limitation, its a bug @jekyll @nasa-pds @blackgirlscode it does not seem to behave that way with the `object` tag
+
+[https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100](https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100)
+
+
+@blackgirlscode 
+
+<object class="scroller" data="https://eyes.nasa.gov/curiosity/" type="text/html"></object>
+
 @la-county-isd 
 
 <iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

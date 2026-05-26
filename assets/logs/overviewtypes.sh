@@ -23,7 +23,9 @@ nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns uahirise.org
 nslookup -type=mx uahirise.org
-nslookup -type=mx home.treasury.govnslookup -type=ns home.treasury.govnslookup -type=ns treasurer.ca.gov
+nslookup -type=mx home.treasury.gov
+nslookup -type=ns home.treasury.gov
+nslookup -type=ns treasurer.ca.gov
 nslookup -type=mx treasurer.ca.gov
 nslookup -type=ns navy.mil
 nslookup -type=mx navy.mil
