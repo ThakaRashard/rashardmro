@@ -41,23 +41,27 @@
 
 
 
-        <div class="box">
-
-          {% for post in site.posts %}
-             
-            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-          
-             
-          {% endfor %}
-           
-          </div> 
-
+    
 
 
 
 
 
         {{ content }}
+
+
+
+
+       <div class="box">
+
+        {% for post in site.posts %}
+
+      <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+
+
+          {% endfor %}
+
+          </div> 
 <img src="https://europa.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkSEkzWTNock5ESmplbTFwWjNoNk9XWmlZV0YwYm1GM1pYRmhjZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpYTJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWtWVlVrOVFRVjlNVDBkUFgwaFBVa2xhVDA1VVFVeGZWMGhKVkVVdWNHNW5JanNnWm1sc1pXNWhiV1VxUFZWVVJpMDRKeWRGVlZKUFVFRmZURTlIVDE5SVQxSkpXazlPVkVGTVgxZElTVlJGTG5CdVp3WTdCbFE2RVdOdmJuUmxiblJmZEhsd1pVa2lEbWx0WVdkbEwzQnVad1k3QmxRNkVYTmxjblpwWTJWZmJtRnRaVG9LYkc5allXdz0iLCJleHAiOm51bGwsInB1ciI6ImJsb2Jfa2V5In19--4a931e4dbac271c1f1f693977fbd2c3e59009d7d/EUROPA_LOGO_HORIZONTAL_WHITE.png" width="500"/>
       
  # GoodieMob : SoulFood 1996
