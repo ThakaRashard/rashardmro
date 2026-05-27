@@ -12,6 +12,8 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+<img   alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+
 
 @doug-newman-nasa someone sent me this, i think its [latrice @blackgirlscode @howard-university-web-services](https://archive.org/download/postpostpostpostpost/04%20It%27s%20Oh%20So%20Quiet.m4a) [archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @disney idk if shes chloe baily](https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) @ksc-newsroom@mail.nasa.gov @nasa @la-county-isd 
 https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 
