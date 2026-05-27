@@ -18,6 +18,19 @@ permalink: /smartphone1
   
 </picture>
 
+ ![https://www.bluproducts.com/devices/view-5/images/t-e1.webp @nasa-jpl new phone i got cas in long beach @longbeachinnovationteam @nasa-pds @la-county-isd](https://www.bluproducts.com/devices/view-5/images/t-e1.webp)
+
+ [bluproducts.com/devices/view-5](https://www.bluproducts.com/devices/view-5/index.html)
+
+ **VIEW 5** packs a powerful punch with its MediaTek Helio A22 processor, 64GB of internal storage, and 3GB of RAM. Whether you're browsing the web, checking social media, or streaming your favorite shows, this phone delivers smooth performance.
+
+**64GB** Internal Memory
+
+**3GB** RAM
+
+![https://www.bluproducts.com/devices/view-5/images/t-e12.webp](https://www.bluproducts.com/devices/view-5/images/t-e12.webp)
+
+
 @nasa-jpl im looking for ways to more creatively use cellular screen resolutions @podaac @la-county-isd for usability 
 [https://csszengarden.com/210/ @blackgirlscode hi](https://csszengarden.com/210/)
 <img  alt="image" src="https://github.com/user-attachments/assets/7d3f7346-ea02-47b8-b34b-68f8a70468e1" />
