@@ -25,9 +25,22 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+ ![https://www.bluproducts.com/devices/view-5/images/t-e1.webp @nasa-jpl new phone i got cas in long beach @longbeachinnovationteam @nasa-pds @la-county-isd](https://www.bluproducts.com/devices/view-5/images/t-e1.webp)
+
+ [bluproducts.com/devices/view-5](https://www.bluproducts.com/devices/view-5/index.html)
+
+ **VIEW 5** packs a powerful punch with its MediaTek Helio A22 processor, 64GB of internal storage, and 3GB of RAM. Whether you're browsing the web, checking social media, or streaming your favorite shows, this phone delivers smooth performance.
+
+**64GB** Internal Memory
+
+**3GB** RAM
+
+![https://www.bluproducts.com/devices/view-5/images/t-e12.webp](https://www.bluproducts.com/devices/view-5/images/t-e12.webp)
+
 
 BTS of a rover checkup @blackgirlscode  @la-county-isd @stateofcalifornia
 [@nasa-jpl @nasa-pds @cityoflosangeles karenBass -> RASHARDS_ROVER_CHECK_more_later_from_datavolumes_blackgirlscodeVirtiserVRecording2026-05-26161646.mp4](https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/0000000000000RASHARDS_ROVER_CHECK_more_later_from_datavolumes_blackgirlscodeVirtiserVRecording2026-05-26161646.mp4)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b86befd8-6d0a-4c68-b026-928047601232" />
 
 [static.uahirise.org/epo/hicards/](https://static.uahirise.org/epo/hicards/)
