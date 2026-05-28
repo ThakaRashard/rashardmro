@@ -12,6 +12,23 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+
+# General B. Chance Saltzman [bio](https://www.spaceforce.mil/biographies/display/article/2329659/b-chance-saltzman/)
+im reporting to you bc you were stationed in Los Angeles and i am active mission mars @nasa-jpl, I was one of jehovahs witnesses. But during the [2026 AFA graduating class in Colorado Springs](https://www.youtube.com/watch?v=3LgMjFihHU8) when the grads took thier vow i raised my hand and took mine to defend the constitution @StateOfCalifornia this does not work with the Jehovahs Witness belife system and im trying to reduce war in my life @La-County-Isd @DeptOfWar . . . [@USnavy  jose pi](https://moriassociates.com/contact-us/)  and i have a sorted but not past, they hired me! And it was not practical to visit mori... thats all i can say, and now since i have been departnered i need to have a clear path for my growth to continue in a less pain full trajectory @CityOfLosAngeles @ForAtlanta 
+
+[General B. Chance Saltzman - media.defense.gov/2025/Jun/26/2003743861/1200/1200/0/250624-F-KN215-0019.JPG](https://media.defense.gov/2025/Jun/26/2003743861/1200/1200/0/250624-F-KN215-0019.JPG) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/a7ac9f68-5346-4474-8d5f-882477fcc906" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7e9db159-dbf6-44b1-9277-d1ef0dc50cd3" />
+
+
 <img   alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
 
 
