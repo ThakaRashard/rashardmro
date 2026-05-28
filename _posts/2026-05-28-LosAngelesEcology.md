@@ -31,6 +31,12 @@ date:   2026-04-04 1:51:06
 
 {% endhighlight %}
 
+SPECIAL - Rules, Elections, and Intergovernmental Relations Committee - 5/28/26
+[`WATCH`📺](https://www.youtube.com/live/9uswpIZQdBQ?si=HT2rIq37og9fXArG)
+https://www.youtube.com/live/9uswpIZQdBQ?si=HT2rIq37og9fXArG //// @earthdata-support@nasa.gov can you guys push this out @usarmy.irwin.ntc.mbx.ft-irwin-pao@army.mil https://www.youtube.com/@LACityClerk @la-county-isd hi @executiveoffice@bos.lacounty.gov @dsnnow@jpl.nasa.gov @letschat@virtiserv.com @normani@fifthharmonyofficial.com 
+<img   alt=" @cityoflosangeles @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/80b6c0ba-b717-451f-adf5-2d67cbe8827a" />
+
+
 # [Index of /PDS/EXTRAS/ANAGLYPH/ESP/ORB](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/)
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/PSP_010836_1885_ESP_081663_1885_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/PSP_010836_1885_ESP_081663_1885_RED.browse.png)
 
