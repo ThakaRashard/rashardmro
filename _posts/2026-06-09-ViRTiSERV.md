@@ -29,13 +29,98 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1e00b03-e886-4fb1-8e0a-abcee0f8fe20" />
+
+
+
+
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg](https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bd998a4-69ec-4504-8515-f19f866519e2" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A141301615&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djevildee" title="DJEVILDEE" target="_blank" style="color: #cccccc; text-decoration: none;">DJEVILDEE</a> · <a href="https://soundcloud.com/djevildee/the-drunk-mix-w-lord-sear-feat" title="THE DRUNK MIX W LORD SEAR FEAT DJ EVIL DEE, MR WALT &amp; CRAZY DJ BAZARRO 03/07/14 !!!" target="_blank" style="color: #cccccc; text-decoration: none;">THE DRUNK MIX W LORD SEAR FEAT DJ EVIL DEE, MR WALT &amp; CRAZY DJ BAZARRO 03/07/14 !!!</a></div>
+
+
 [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
 // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)//
-[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) // [How to compete for NASA contracts](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
-The Story of NASA's Spaceflight Tracking and Data Network
-
-[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) // [How to compete for NASA contracts](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333947382&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-the" title="Houston We Have a Podcast: The Future of Deep Space Communication" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: The Future of Deep Space Communication</a></div>
+
+
+
+# SentineL2
+<img  alt="image" src="https://github.com/user-attachments/assets/5ef28594-adf2-44c3-93f1-02416a513384" />
+
+
+[LONGBEACH MOiSTURE INDEX @la-county-isd @commercegov](https://github.com/ThakaRashard/rashardmro/commit/f0f4299c8445d725a48365c9c22539175969fe02)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5efa0d8e-86b9-4a01-83ad-cac88da8727d" />
+
+[Falsecolor](https://ia601505.us.archive.org/28/items/longbeach_202605/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_False_color.png) // [TrueColor @eu-cdse @nasa-jpl](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_True_color.png) @nasa-jpl @usgs @la-county-isd @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/c9cb9784-d0df-49a3-8da8-82918818039e" />
+
+
+![https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png](https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png)
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/818891744266551297" data-did="f060216bbd1362f6f0ce17b98af06e2ef5ec55d0"><a href="https://rashardmro.tumblr.com/post/818891744266551297">https://rashardmro.tumblr.com/post/818891744266551297</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ ## OPERA Vegetation Disturbance Status (Color Index)
+[JUNe 4th Map - `click`](https://worldview.earthdata.nasa.gov/?v=-118.49120477168918,33.61758248086002,-117.84416001620338,33.936049821450695&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden,opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9-0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&s=-118.1813,33.7717&t=2026-06-04-T01%3A16%3A54Z)
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/818891030499868672" data-did="db9829093a290cdb4085c59220f00b5f406ae3aa"><a href="https://rashardmro.tumblr.com/post/818891030499868672">https://rashardmro.tumblr.com/post/818891030499868672</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+ <img alt="image" src="https://github.com/user-attachments/assets/5eb623f3-a30c-4105-8eef-753018563757" />
+
+
+
+[<video controls width="100%" height="auto" src="https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4" />](https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7a0609dd-96dd-488b-ae8e-e61d3ccef195" />
+
+[<video controls width="100%" height="auto" src="https://ia903206.us.archive.org/8/items/Feb29dump/WHiTEHOUSE_DNS_KiM_BRYANT_BLACKGiRLSCODE_ViRTiSERV_LATRiCE_RASHARDNASAJPL_KARENBASS_Recording_2026-05-22_112037.mp4" />](https://ia903206.us.archive.org/8/items/Feb29dump/WHiTEHOUSE_DNS_KiM_BRYANT_BLACKGiRLSCODE_ViRTiSERV_LATRiCE_RASHARDNASAJPL_KARENBASS_Recording_2026-05-22_112037.mp4)
+
+@deptofwar you are reporting your primary nameserver is in asia!!!!!!!!!!!!!!!!!!!!!!! @nasa-jpl
+
+```shell
+
+Microsoft Windows [Version 10.0.26200.8457]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=ns war.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+war.gov nameserver = asia2.akam.net
+war.gov nameserver = eur6.akam.net
+war.gov nameserver = ns1-95.akam.net
+war.gov nameserver = use2.akam.net
+war.gov nameserver = use9.akam.net
+war.gov nameserver = asia3.akam.net
+war.gov nameserver = ns1-116.akam.net
+war.gov nameserver = usc5.akam.net
+
+asia2.akam.net  internet address = 95.101.36.64
+eur6.akam.net   internet address = 2.22.230.64
+ns1-95.akam.net internet address = 193.108.91.95
+ns1-95.akam.net AAAA IPv6 address = 2600:1401:2::5f
+use2.akam.net   internet address = 96.7.49.64
+use9.akam.net   internet address = 72.246.46.65
+asia3.akam.net  internet address = 23.211.61.64
+ns1-116.akam.net        internet address = 193.108.91.116
+ns1-116.akam.net        AAAA IPv6 address = 2600:1401:2::74
+usc5.akam.net   internet address = 96.7.50.65
+usc5.akam.net   AAAA IPv6 address = 2600:1480:d000::41
+
+C:\Users\PAC>
+```
+
+
+@nasa-pds @whitehouse @la-county-isd @longbeachinnovationteam
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333983352&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/small-steps-giant-leaps-6" title="Small Steps, Giant Leaps: Episode 173: Soft Skills for Tough Missions" target="_blank" style="color: #cccccc; text-decoration: none;">Small Steps, Giant Leaps: Episode 173: Soft Skills for Tough Missions @blackgirlscode @la-county-isd @cityoflosangles @esa </a></div>
 

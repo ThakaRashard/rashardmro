@@ -11,6 +11,13 @@ image: LongBeachEcostress.png
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+## SentineL2
+[Falsecolor](https://ia601505.us.archive.org/28/items/longbeach_202605/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_False_color.png) // [TrueColor @eu-cdse @nasa-jpl](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_True_color.png) @nasa-jpl @usgs @la-county-isd @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/c9cb9784-d0df-49a3-8da8-82918818039e" />
+
+
+![https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png](https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png)
+
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/818891744266551297" data-did="f060216bbd1362f6f0ce17b98af06e2ef5ec55d0"><a href="https://rashardmro.tumblr.com/post/818891744266551297">https://rashardmro.tumblr.com/post/818891744266551297</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
  ## OPERA Vegetation Disturbance Status (Color Index)
