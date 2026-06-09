@@ -3,7 +3,7 @@ layout: post
 mermaid: true
 published: true
 title: "ViRTiSERV"
-image: virtiServ.PNG
+image: virtiservO4wPromises01.jpg
 author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
@@ -29,6 +29,45 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+// [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)//
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) // [How to compete for NASA contracts](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333947382&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-the" title="Houston We Have a Podcast: The Future of Deep Space Communication" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: The Future of Deep Space Communication</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333983352&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/small-steps-giant-leaps-6" title="Small Steps, Giant Leaps: Episode 173: Soft Skills for Tough Missions" target="_blank" style="color: #cccccc; text-decoration: none;">Small Steps, Giant Leaps: Episode 173: Soft Skills for Tough Missions @blackgirlscode @la-county-isd @cityoflosangles @esa </a></div>
+
+
+
+
+
+[@blackgirlscode @deptofwar @ussf-orbit](https://youtu.be/iVrfaZos0OY?si=vdoiXUYHESlcGjVv)
+
+[The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
+
+### Related Tweets
+- [#its_Rashard iSigned up for the #ECOSTRESS_WORKSHOP #NASAJPL PasadenaFD](https://x.com/RicoThaka/status/1835051975114998091)
+- [#Akire Uhave #FaceToFaceHistory with @B2K @marqueshouston!he works for 911LAPD today](https://x.com/MooNLOVER404/status/1834654762064863649) I wrote @normani a mushy note an #the_nigga_forced_me_to submit a #FingerPrint! and called me #Transient! *there was twitter rhythm in the detainiment*
+[@uspto those #Perl sites are blocked  @LAPublicLibrary http://appft.uspto.gov and http://pdfaiw.uspto.gov @esa @nickyjenner1 @nasamars #Help #XML](https://x.com/MooNLOVER404/status/1834668119840981019)
+[Ms Karen Bass I got the Covid Patents from pdfaiw.uspto.gov](https://x.com/RicoThaka/status/1833658284961882433)
+[My History NASAJPL+JEHOVAHSWiTNESSES](https://x.com/MooNLOVER404/status/1740842550393712971)
+[VanishingFamily](https://x.com/MooNLOVER404/status/1740840534099525978)
+[NASAJPL on HOLLYWOOD WALK OF FAME](https://x.com/MooNLOVER404/status/1761520866612187488)
+[Rumatoid Authritis ,,, is it Chemwar?](https://x.com/RicoThaka/status/1729962943025148011) 
+[LA COUNTY MAPPiNG DATA](https://x.com/RicoThaka/status/1832207566585393420)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+`Rashard of my Kelly NASA JPL poison right hand disabled after chemical bombing of City Hall Los Angeles`
+<iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
  /> _The Living Bible_
