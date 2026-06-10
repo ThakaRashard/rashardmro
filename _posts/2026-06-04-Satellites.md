@@ -12,6 +12,10 @@ permalink: /Satellites
 
 ![https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png)
 
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg](https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg)
+
 [https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/logs/Mission%20and%20spacecraft%20description.pdf](https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/logs/Mission%20and%20spacecraft%20description.pdf)
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 [pds-engineering.jpl.nasa.gov/](https://pds-engineering.jpl.nasa.gov/) /// [
