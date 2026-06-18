@@ -7,6 +7,12 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
+# Tommy The Clown
+[instagram](https://www.instagram.com/tommytheclown/?hl=en) 
+[@nasa-pds - he know akire @blackgirlscode tommytheclownbattlezone.com](https://www.tommytheclownbattlezone.com/)
+[LAPhil TommyTheClown](https://www.laphil.com/musicdb/artists/7843/tommy-the-clown) @nasa-jpl call him and ask for his opinion of me [@TikTok](https://www.tiktok.com/@officialtommytheclown?lang=en)
+<img  alt="image " src="https://github.com/user-attachments/assets/65a36e7b-7222-45d1-95bf-a68e59138b25" />
+
 [@deptofwar thakarashard.github.io/rashardmro/longbeach](@deptofwar)
 
 <img  alt="image @la-county-isd @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/2ab58330-d9a5-4a22-825d-d515dfde8ab9" />
