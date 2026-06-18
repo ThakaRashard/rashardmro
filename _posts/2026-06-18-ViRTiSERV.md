@@ -8,12 +8,70 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
-## _Rashard Kelly_ 
- _[MRO](https://www.uahirise.org/hipod/) JUNO iSS_ [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla @nasa-pds hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+## Rashard Kelly ...
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+
+
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+@asfadmin [https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/2e2228eec8fa4fd29e10463c51be5c10](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/2e2228eec8fa4fd29e10463c51be5c10)
+@nasa-jpl @lacountyDPH @la-county-isd @whitehouse @deptofwar @boeing @blackgirlscode @cityoflosangeles [ doxing ? @nasa-openscapes @doug-newman-nasa_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/00_iii_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
+
+
+[<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
 
 
 
 [<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/aa90e98a-bc8f-4b8e-9b03-fb8deafe3b8e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ef16ab7b-5e8c-47cc-92a8-dd63138cc9e6" />
+
+## Mars Perseverance Sol 1890: Left Navigation Camera (Navcam)
+![mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01890/ids/edr/browse/ncam/NLF_1890_0834735433_895ECM_N0883136NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01890/ids/edr/browse/ncam/NLF_1890_0834735433_895ECM_N0883136NCAM00501_01_295J01_1200.jpg) 
+
+# Curiosity 
+@whitehouse 
+@fbicyber 
+
+![@nasa-jpl @nasa-pds mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04925/opgs/edr/ncam/NLB_834701224EDR_F1221974CCAM04924M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04925/opgs/edr/ncam/NLB_834701224EDR_F1221974CCAM04924M_.JPG)
+
+
+# [SpaceX](https://www.spacex.com/launches/crs34) Undocks [CRS-34 Dragon](https://www.space.com/space-exploration/international-space-station/spacex-dragon-cargo-capsule-crs-34-return-to-earth) from the [International Space Station](https://www.flickr.com/photos/nasa2explore/albums/72177720327960048/) 
+
+@TheSpaceDevs @BlueOrigin undocking complete, no determijned landing spot  @NASA-JPL im looking for the west coast office @USSF-ORBiT @USNAVY @Blackgirlscode @cityoflosangeles @la-county-isd @lacountyDPH [45th Weather Squadron](https://45thweathersquadron.nebula.spaceforce.mil/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1BjJ2PKlCk?si=ujatOpN5wHxX4oOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
+
+# Monday Hackday at ESIP Summer Meeting.
+## Theme: ‘Making Things Easier for Scientists’
+@nasa-jp [@la-county-isd](https://ballotpedia.org/Holly_Mitchell) [HollyJMitchell @LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) 
+@blackgirlscode [@ nasa-openscapes openscapes.org/events/2026-07-27-esip-hackday/](https://openscapes.org/events/2026-07-27-esip-hackday/) [NSF @theSpaceDevs https://youtu.be/P7CHakBmnAQ](https://youtu.be/P7CHakBmnAQ)
+Monday, July 27th, the day before the ESIP meeting starts, we’ll host a hackday. Plan to arrive in Austin to join us Monday afternoon. “Hackday” to our NASA Openscapes and earthaccess communities means we will be collaboratively problem-solving and strategizing, and translating ideas into action. This includes decisions, code, and documentation.
+<img  alt="image" src="https://github.com/user-attachments/assets/b1c6acfd-23e7-48c0-94be-f35cd65436a2" />
 
 
 
