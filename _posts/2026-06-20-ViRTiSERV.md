@@ -22,9 +22,19 @@ permalink: /virtiserv
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 
+[https://water.noaa.gov/about/rfc](https://water.noaa.gov/about/rfc)
+[https://droughtmonitor.unl.edu/](https://droughtmonitor.unl.edu/)
+[https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard](https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard)
+[https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/) @blackgirlscode @nasa-pds @cityoflosangeles b
+
+![https://epic.gsfc.nasa.gov/archive/natural/2026/06/18/jpg/epic_1b_20260618194639.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/06/18/jpg/epic_1b_20260618194639.jpg)
+
 
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+[<video controls  src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
