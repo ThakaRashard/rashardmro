@@ -29,7 +29,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-[rashardmro.tumblr.com/live-atlantas-14th-juneteenth-parade-marches](https://rashardmro.tumblr.com/post/819954045866377216/live-atlantas-14th-juneteenth-parade-marches) <~ #Junteenth [news@wanf.com](mailto:news@wanf.com) @nasa-jpl @blackgirlscode i was at [COA](https://www.coalongbeach.org/) watching as i ate breakfast for `i dont know` but i know there will be a new flyer to guide me @nasa-pds
+[rashardmro.tumblr.com/live-atlantas-14th-juneteenth-parade-marches](https://rashardmro.tumblr.com/post/819954045866377216/live-atlantas-14th-juneteenth-parade-marches) <~ #Junteenth [news@wanf.com](mailto:news@wanf.com) @nasa-jpl @blackgirlscode i was at [COA](https://www.coalongbeach.org/) watching as i ate breakfast for `i dont know` but i know there will be a new flyer to guide me @nasa-pds @nasa-jpl [https://github.com/ra5hard/ra5hard.github.io/blob/master/_posts/2026-01-31-OhiO-justnow.md](https://github.com/ra5hard/ra5hard.github.io/blob/master/_posts/2026-01-31-OhiO-justnow.md) thers some data from last winter 
 
 [<video controls  src="https://ia600409.us.archive.org/8/items/vid-20260411-163609-170/TELNET_DISABLED_BY_DEFAULT_IN_WINDOWS11_KAREN_BASS_virtiservNASAJPLRASHARDKELLYScreen%20RecordingLATRiCE2026-06-20%20132243.mp4" />](https://ia600409.us.archive.org/8/items/vid-20260411-163609-170/TELNET_DISABLED_BY_DEFAULT_IN_WINDOWS11_KAREN_BASS_virtiservNASAJPLRASHARDKELLYScreen%20RecordingLATRiCE2026-06-20%20132243.mp4)
 
