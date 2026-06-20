@@ -8,7 +8,15 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-# Completed
+# Space Weather Tools
+[Magnetism Calculation / Forecast Plot](https://www.ncei.noaa.gov/cloud-access/space-weather-portal/summary?plots=SOLAR-1:MAG:all&start_date=2026-06-04&period=days)
+[Space Weather Portal : ncei.noaa.gov](https://www.ncei.noaa.gov/)
+[spaceweather.gov/communities/space-weather-enthusiasts-dashboard](https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard)
+
+https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4
+
+# Completed 2025-11-17 
+## Sentinel 6b Launch @Noaagov @commercegov @whitehouse 
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2c06e3fc-91b7-44b6-928c-df0100dd16d0" />
