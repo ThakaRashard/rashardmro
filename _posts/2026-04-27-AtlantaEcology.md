@@ -31,6 +31,10 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 {% include nav.html %}
 
+##  Atlanta's 14th Juneteenth parade marches through the city
+@cityoflosangeles @la-county-isd @blackgrlscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WdoY6REH3Ag?si=SuljQeTK0f4uFI6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # DNS
 ## Atlanta Municipal Audit @nasa
@@ -165,6 +169,7 @@ Learn more
 ​​@Itskeishalancebottoms @dance411 iDid not give muna aids i only had sex with one girl and a blowjob @kashdoll or @brandy broke in my house @power106 @hot97 tell trice im sorry foy lying LANA @ktla
 
 [https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA) // [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/d8ba9c80-9946-44b2-b737-017ac169e48b" />
 
 
