@@ -31,6 +31,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [rashardmro.tumblr.com/live-atlantas-14th-juneteenth-parade-marches](https://rashardmro.tumblr.com/post/819954045866377216/live-atlantas-14th-juneteenth-parade-marches) <~ #Junteenth [news@wanf.com](mailto:news@wanf.com) @nasa-jpl @blackgirlscode i was at [COA](https://www.coalongbeach.org/) watching as i ate breakfast for `i dont know` but i know there will be a new flyer to guide me @nasa-pds
 
+[<video controls  src="https://ia600409.us.archive.org/8/items/vid-20260411-163609-170/TELNET_DISABLED_BY_DEFAULT_IN_WINDOWS11_KAREN_BASS_virtiservNASAJPLRASHARDKELLYScreen%20RecordingLATRiCE2026-06-20%20132243.mp4" />](https://ia600409.us.archive.org/8/items/vid-20260411-163609-170/TELNET_DISABLED_BY_DEFAULT_IN_WINDOWS11_KAREN_BASS_virtiservNASAJPLRASHARDKELLYScreen%20RecordingLATRiCE2026-06-20%20132243.mp4)
+
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2219590001&color=%23b12e2a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/pearls" title="PEARLS" target="_blank" style="color: #cccccc; text-decoration: none;">PEARLS</a></div>
 
 
