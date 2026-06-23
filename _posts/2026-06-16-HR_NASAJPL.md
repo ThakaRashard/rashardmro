@@ -11,6 +11,90 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+## Judge Mike Jacobs
+[https://www.youtube.com/@judgemikejacobs](https://www.youtube.com/@judgemikejacobs)
+Judge Mike Jacobs has served on the State Court of DeKalb County since June 2015.
+
+Mike serves on the board of directors of Leadership DeKalb, chairs Government Day for the program, and is a member of the Class of 2016, the best class ever. He also serves on the board of directors of the the Stonewall Bar Association of Georgia and as secretary and a board member of the International Association of LGBTQ+ Judges. - [Judge Mike Jacobs](https://judgejacobs.com/biography/)
+<img  alt="image" src="https://github.com/user-attachments/assets/515c90d1-aaf0-4150-b5bf-91edb5baa8be" />
+
+@foratlanta i think this is georgia [DeKalb State Court Division 5 Civil Pretrial Conferences](https://www.youtube.com/watch?v=5_0R9LP2qRI) /// [Dekalb County State Court Division 5 Jail Plea and Bench Warrant Recall youtube.com/live/BbY7senGYuw?si=W5VsiIfyS2zYywXU](https://www.youtube.com/live/BbY7senGYuw?si=W5VsiIfyS2zYywXU)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/810083a7-7150-409f-b74b-b0c437b1ccc9" />
+
+```shell
+Microsoft Windows [Version 10.0.26200.8655]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+>
+C:\Users\PAC>nslookup -q=mx judgejacobs.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+judgejacobs.com
+        primary name server = ns1.wordpress.com
+        responsible mail addr = hostmaster.wordpress.com
+        serial  = 2005071858
+        refresh = 14400 (4 hours)
+        retry   = 7200 (2 hours)
+        expire  = 604800 (7 days)
+        default TTL = 300 (5 mins)
+
+C:\Users\PAC>nslookup -q=ns judgejacobs.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+judgejacobs.com nameserver = ns3.wordpress.com
+judgejacobs.com nameserver = ns1.wordpress.com
+judgejacobs.com nameserver = ns2.wordpress.com
+
+ns3.wordpress.com       internet address = 192.0.74.9
+ns3.wordpress.com       AAAA IPv6 address = 2620:115:c00f::c000:4a09
+ns1.wordpress.com       internet address = 198.181.116.9
+ns1.wordpress.com       AAAA IPv6 address = 2a04:fa87:ffff::c6b5:7409
+ns2.wordpress.com       internet address = 198.181.117.9
+ns2.wordpress.com       AAAA IPv6 address = 2a04:fa87:ffff::c6b5:7509
+
+C:\Users\PAC>
+```
+
+```
+@sonyashafer4159
+​
+
+#1
+​Wow
+
+
+@thakasErikaselassie_kelly
+​​@kashdoll where you in los angeles at @DignityHealth @ThisisGavinNewsom @reidhoffman @boeing @nasajpl @whitehouse
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
+Learn more
+
+@thakasErikaselassie_kelly
+​​https://www.youtube.com/watch?v=gElLtoTMTI8
+
+
+@thakasErikaselassie_kelly
+​​@georgiadivisionoffamilychi9316 this is my blog4work @nasajpl someppl copied it for porn is that slowing us down ? ra5hard.github.io/ @SantaMonicaPD @Holly4LACounty @portoflosangeles @janicehahn7092
+
+
+@thakasErikaselassie_kelly
+​​https://www.youtube.com/live/zRryWXSgjp4?si=-EfusTSfzI_GqEEN @officeofgeorgiagovernorbri3542 @kashdoll where you in los angeles at @DignityHealth @ThisisGavinNewsom @reidhoffman
+
+
+@thakasErikaselassie_kelly
+​​@hot97 did someone working for you delete that message for lana? @nasajpl @nasaearthdata if thats latrice its my book keeper and has all my mars work cataloged to protect us from @20thCenturyStudios
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dd10aeeb-c9ac-4839-a09c-28fd39677146" />
+
 [https://virtiserv.github.io/](https://virtiserv.github.io/)
 <img  alt="image" src="https://github.com/user-attachments/assets/985087e0-525d-4867-8c55-f4a8a1c9c4fb" />
 
