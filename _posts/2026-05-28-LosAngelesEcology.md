@@ -32,6 +32,13 @@ date:   2026-06-13 0:51:06
 {% endhighlight %}
 
 
+Los Angeles Land Disturbances
+[https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4 @blackgirlscode @nasa-pds @cityoflosangeles @la-county-isd](https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4)
+[https://worldview.earthdata.nasa.gov/?v=-135.8593662222333,5.680687349006892,-108.51795997823551,67.11276384685583&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-06-16-T17%3A54%3A36Z](https://worldview.earthdata.nasa.gov/?v=-135.8593662222333,5.680687349006892,-108.51795997823551,67.11276384685583&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-06-16-T17%3A54%3A36Z)
+
+<img alt="image" src="https://github.com/user-attachments/assets/4a811d64-4eaf-4a64-b114-8d62916d3d2e" />
+
+
 @CityOfLosAngeles
 Is Hilda Solis Lady Pink ? @lacounty-isd @stateofcalifornia @whitehouse @nasa-jpl
 <img  alt="image" src="https://github.com/user-attachments/assets/e1e049b9-fae0-478d-b22a-07842f919a32" />
