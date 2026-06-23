@@ -8,7 +8,7 @@ image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 mathjax: true
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-06-13 0:51:06 
+date:   2026-06-23 0:51:06 
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
@@ -31,12 +31,32 @@ date:   2026-06-13 0:51:06
 
 {% endhighlight %}
 
+Los ANgeles surface water
+LARiVER is well defined [@doug-newman-nasa](https://www.earthdata.nasa.gov/learn/trainings/monitoring-predicting-floods-using-earth-observations-planning-preparedness) i want this to count for my homewwork @nasa-jpl @blackgirlscode @whitehouse @virtiserv @CityOfLosAngeles @StateOfCalifornia [agenda](https://www.earthdata.nasa.gov/s3fs-public/2026-04/ARSET-Floods2026-Agenda.pdf) 
+[`NASA ARSET` : Overview of Global Flood Product Derived from @NASA Optical observations Part 1/3](https://youtu.be/neDs0QZbytU?si=y32y-a3z_aJexzG3&t=5802)
+
+[https://worldview.earthdata.nasa.gov/?v=-118.30988756177842,33.67220798107562,-118.03838377414723,34.12094340785496&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1,OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&t=2026-04-04-T17%3A54%3A36Z](https://worldview.earthdata.nasa.gov/?v=-118.30988756177842,33.67220798107562,-118.03838377414723,34.12094340785496&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1,OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&t=2026-04-04-T17%3A54%3A36Z)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7b942e4e-cd02-464e-9be6-b3f68959537e" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img alt="image" src="https://github.com/user-attachments/assets/311d49aa-6764-4323-90d4-66fe81db86aa" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img  alt="image" src="https://github.com/user-attachments/assets/19790514-d1ac-4442-8917-3d5664ccfcaf" />
 
 Los Angeles Land Disturbances
 [https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4 @blackgirlscode @nasa-pds @cityoflosangeles @la-county-isd](https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4)
 [https://worldview.earthdata.nasa.gov/?v=-135.8593662222333,5.680687349006892,-108.51795997823551,67.11276384685583&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-06-16-T17%3A54%3A36Z](https://worldview.earthdata.nasa.gov/?v=-135.8593662222333,5.680687349006892,-108.51795997823551,67.11276384685583&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-06-16-T17%3A54%3A36Z)
 
 <img alt="image" src="https://github.com/user-attachments/assets/4a811d64-4eaf-4a64-b114-8d62916d3d2e" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img  alt="image" src="https://github.com/user-attachments/assets/084240dd-c807-4929-ae62-0c5c5bdc9aab" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img  alt="image" src="https://github.com/user-attachments/assets/ed6d7512-5362-48eb-b228-7635c9fd06bd" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+[https://worldview.earthdata.nasa.gov/?v=-141.72725638640702,6.337098633645063,-95.4933865625577,82.75141125917384&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-04-04-T17%3A54%3A36Z](https://worldview.earthdata.nasa.gov/?v=-141.72725638640702,6.337098633645063,-95.4933865625577,82.75141125917384&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=9),VIIRS_NOAA21_DayNightBand,HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&t=2026-04-04-T17%3A54%3A36Z) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2dce047c-5c78-47c1-9744-d15421c65e86" />
 
 
 @CityOfLosAngeles
