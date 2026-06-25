@@ -11,6 +11,11 @@ categories: LA eco ecostress space dsn nsn climate weather
 date:   2026-06-23 0:51:06 
 ---
 
+
+
+# Earthdata Overview
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-07/2025%20ED%20Webinar%20SWOT%20Hydro%20Tools%20-%20medRes5.png?VersionId=TUQd7Aw4vUENEIM4ObcicYl3XFUEws2N&itok=0iDH8yOn @nasa-jpl @la-county-isd @stateofcalifornia @whitehouse @blackgirlscode](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-07/2025%20ED%20Webinar%20SWOT%20Hydro%20Tools%20-%20medRes5.png?VersionId=TUQd7Aw4vUENEIM4ObcicYl3XFUEws2N&itok=0iDH8yOn)
+
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
 [@CityOfSantaMonica Apr14 meeting @la-cou ty-iss](https://www.youtube.com/live/2LUouGMRixY?si=jZks-j2rlNJ5Kz7E) sap on a clip to paste it in the text box.
 
