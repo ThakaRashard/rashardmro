@@ -16,6 +16,13 @@ date:   2026-06-23 0:51:06
 # Earthdata Overview
 ![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-07/2025%20ED%20Webinar%20SWOT%20Hydro%20Tools%20-%20medRes5.png?VersionId=TUQd7Aw4vUENEIM4ObcicYl3XFUEws2N&itok=0iDH8yOn @nasa-jpl @la-county-isd @stateofcalifornia @whitehouse @blackgirlscode](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-07/2025%20ED%20Webinar%20SWOT%20Hydro%20Tools%20-%20medRes5.png?VersionId=TUQd7Aw4vUENEIM4ObcicYl3XFUEws2N&itok=0iDH8yOn)
 
+[earthdata.nasa.gov/s3fs-public/2025-07/ED%20Webinar%20-%20PODAAC%20SWOT%20Hydro%20Tools%20-%20July%202025.pdf @podaac](https://earthdata.nasa.gov/s3fs-public/2025-07/ED%20Webinar%20-%20PODAAC%20SWOT%20Hydro%20Tools%20-%20July%202025.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/190f66f0-9efb-40ec-b661-f6dd4863680d" />
+[earthdata.nasa.gov/s3fs-public/2025-07/Harlan_WISP_July2025%20%281%29.pdf](https://earthdata.nasa.gov/s3fs-public/2025-07/Harlan_WISP_July2025%20%281%29.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c6fa5af-2e28-452b-9ead-8ab619496464" />
+
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
 [@CityOfSantaMonica Apr14 meeting @la-cou ty-iss](https://www.youtube.com/live/2LUouGMRixY?si=jZks-j2rlNJ5Kz7E) sap on a clip to paste it in the text box.
 
