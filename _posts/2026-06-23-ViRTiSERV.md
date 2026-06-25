@@ -25,9 +25,28 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/sld45Patch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/sld45Patch.png)
+
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png)
+
+[jpl.nasa.gov/news/press_kits/mro-arrival.pdf <~ @letschat@virtiserv.com ](jpl.nasa.gov/news/press_kits/mro-arrival.pdf)
+[https://arcnav.psi.edu/urn:nasa:pds:context:instrument_host:spacecraft.mro](https://arcnav.psi.edu/urn:nasa:pds:context:instrument_host:spacecraft.mro)
+
+![https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png](https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png)
+
+[https://historicspacecraft.com/Rockets_SpaceX.html](https://historicspacecraft.com/Rockets_SpaceX.html) @nasa-pds @nasa-jpl @blackgirlscode 
+
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg)
+
 
 ![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
+
 [https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
 
 [nssdc.gsfc.nasa.gov/planetary](nssdc.gsfc.nasa.gov/planetary)
