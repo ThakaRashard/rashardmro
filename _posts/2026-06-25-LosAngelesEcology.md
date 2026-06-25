@@ -16,13 +16,37 @@ date:   2026-06-23 0:51:06
 # Earthdata Overview
 ![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-07/2025%20ED%20Webinar%20SWOT%20Hydro%20Tools%20-%20medRes5.png?VersionId=TUQd7Aw4vUENEIM4ObcicYl3XFUEws2N&itok=0iDH8yOn @nasa-jpl @la-county-isd @stateofcalifornia @whitehouse @blackgirlscode](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-07/2025%20ED%20Webinar%20SWOT%20Hydro%20Tools%20-%20medRes5.png?VersionId=TUQd7Aw4vUENEIM4ObcicYl3XFUEws2N&itok=0iDH8yOn)
 
-[earthdata.nasa.gov/s3fs-public/2025-07/ED%20Webinar%20-%20PODAAC%20SWOT%20Hydro%20Tools%20-%20July%202025.pdf @podaac](https://earthdata.nasa.gov/s3fs-public/2025-07/ED%20Webinar%20-%20PODAAC%20SWOT%20Hydro%20Tools%20-%20July%202025.pdf)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333983352&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/small-steps-giant-leaps-6" title="Small Steps, Giant Leaps: Episode 173: Soft Skills for Tough Missions" target="_blank" style="color: #cccccc; text-decoration: none;">Small Steps, Giant Leaps: Episode 173: Soft Skills for Tough Missions</a></div>
+
+## Monitoring and Predicting Floods Using Earth Observations for Planning and Preparedness
+This three-part ARSET training covers flood monitoring via remote sensing, NASA flood products, and GEOGLOWS streamflow predictions.
+[Read / Watch / Listen](https://www.earthdata.nasa.gov/learn/trainings/monitoring-predicting-floods-using-earth-observations-planning-preparedness) 
+
+![https://nasaevents.webex.com/brand_fawd/13036457/site_nasaevents/brand/custom_logoImageFile.png?rnd=1591294507606 @webex](https://nasaevents.webex.com/brand_fawd/13036457/site_nasaevents/brand/custom_logoImageFile.png?rnd=1591294507606) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/30222baa-0e59-49e3-9631-5a002df51f75" />
+
+
+
+[https://nasaevents.webex.com/webappng/sites/nasaevents/meeting/info/9860b05e78f54af1afe6c250f798b4b8?MTID=m4ffcb5e03d174f72b18086069e3b2332&fromPanelistJoin=true](https://nasaevents.webex.com/webappng/sites/nasaevents/meeting/info/9860b05e78f54af1afe6c250f798b4b8?MTID=m4ffcb5e03d174f72b18086069e3b2332&fromPanelistJoin=true)
+[earthdata.nasa.gov/s3fs-public/2025-07/ED%20Webinar%20-%20PODAAC%20SWOT%20Hydro%20Tools%20-%20July%202025.pdf @podaac](https://earthdata.nasa.gov/s3fs-public/2025-07/ED%20Webinar%20-%20PODAAC%20SWOT%20Hydro%20Tools%20-%20July%202025.pdf) ///////// [@nasa-openscapes https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#sent/QgrcJHsBvDqqmNfkgKvrDsvgzxpVWTxTScQ](https://mail.google.com/mail/u/0/?service=mail&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin#sent/QgrcJHsBvDqqmNfkgKvrDsvgzxpVWTxTScQ)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2e7fcb00-93fb-4779-a347-f083de601e76" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/190f66f0-9efb-40ec-b661-f6dd4863680d" />
 
 [earthdata.nasa.gov/s3fs-public/2025-07/Harlan_WISP_July2025%20%281%29.pdf](https://earthdata.nasa.gov/s3fs-public/2025-07/Harlan_WISP_July2025%20%281%29.pdf)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9c6fa5af-2e28-452b-9ead-8ab619496464" />
+
+[earthdata.nasa.gov/s3fs-public/2025-07/Harlan_WISP_July2025%20%281%29.pdf](https://earthdata.nasa.gov/s3fs-public/2025-07/Harlan_WISP_July2025%20%281%29.pdf)
+
+[earthdata.nasa.gov/learn/webinars/from-space-solutions-access-visualization-analysis-services-swot-hydrology](https://www.earthdata.nasa.gov/learn/webinars/from-space-solutions-access-visualization-analysis-services-swot-hydrology)
+<img  alt="image" src="https://github.com/user-attachments/assets/7807e0c4-b785-4d35-b96a-7bd7e7be004a" />
+
+
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
 [@CityOfSantaMonica Apr14 meeting @la-cou ty-iss](https://www.youtube.com/live/2LUouGMRixY?si=jZks-j2rlNJ5Kz7E) sap on a clip to paste it in the text box.
