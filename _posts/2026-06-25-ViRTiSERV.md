@@ -28,8 +28,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 @nasa-jpl @howard-university-web-services @nasa-pds 
 Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
-[vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery) // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
-++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta @newshour @nbcnews 
+ // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta @newshour @nbcnews [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
 
 
 ```
