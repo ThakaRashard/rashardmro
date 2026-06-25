@@ -8,6 +8,10 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
+
+## Rashard Kelly ...
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -18,8 +22,62 @@ permalink: /virtiserv
   
 </picture>
 
-## Rashard Kelly ...
-MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
+[https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
+<img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
+
+[nssdc.gsfc.nasa.gov/planetary](nssdc.gsfc.nasa.gov/planetary)
+nssdc.gsfc.nasa.gov/planetary domain transfer [https://lookup.icann.org/whois/en?q=nssdc.gsfc.nasa.gov&t=a @nasa-pds](https://lookup.icann.org/whois/en?q=nssdc.gsfc.nasa.gov&t=a) / / / [https://lasp.colorado.edu/mariner9/137-2/nssdc/](https://lasp.colorado.edu/mariner9/137-2/nssdc/)
+[Solar System Exploration Data Services Office 690.1](https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/)
+
+`https://www.nasa.gov/nssdc/` = _The NASA Space Science Data Coordinated Archive website is temporarily offline for maintenance._ since [_Winter 2025_](https://www.fire.ca.gov/incidents/2025) @nasa-jpl @nasa-pds @nasagiss @nasa-pds @lmco @blackgirlscode [KimBryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant#:~:text=Kimberly%20Bryant%20is%20the%20Founder,a%20concentration%20on%20entrepreneurial%20concepts.) [[1](https://www.reddit.com/r/technology/comments/rnycxw/black_girls_code_founder_suspended_in/)] [[2](https://peopleofcolorintech.com/articles/black-girls-code-founder-kimberly-bryant-announces-amicable-resolution-with-the-organization/)] [[3](https://www.linkedin.com/in/kimberlybryant)] [[4](https://peopleofcolorintech.com/articles/black-girls-code-founder-kimberly-bryant-announces-amicable-resolution-with-the-organization/)] +++ [https://lasp.colorado.edu/mariner9/137-2/nssdc/](https://lasp.colorado.edu/mariner9/137-2/nssdc/) /// 
+<img  alt="image" src="https://github.com/user-attachments/assets/10a33e49-68d7-429b-82ff-d265193a9f9d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/403b2e62-7bf1-417d-b76e-af6659f46c15" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/53107313-7911-463f-95c6-eb9a19762a1c" />
+
+
+@blackgirlscode @la-county-isd @nasa-pds @Nasa-OPENSCAPES @doug-newman-nasa food is on the way @blueorigin [Expedition74](https://www.nasa.gov/blogs/spacestation/)
+
+# MArs on EYE.nasa.gov
+[https://eyes.nasa.gov/apps/solar-system/#/mars](https://eyes.nasa.gov/apps/solar-system/#/mars)
+<img   alt="image" src="https://github.com/user-attachments/assets/fe0782a8-5e6a-44ca-a7e6-4c60c2749878" />
+
+# Spirit Rover
+One of two rovers launched in 2003 to explore Mars and search for signs of ancient water, Spirit far outlasted her planned 90-day mission. [@nasa-jpl read more @deptofwar @cityoflosangeles](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+<img alt="image" src="https://github.com/user-attachments/assets/1c7d0c6b-0446-4c96-96a2-93b3ac6b24f6" />
+
+![https://science.nasa.gov/wp-content/uploads/2024/03/mer-bythenumbers-infographic-feb2019.jpg @nasa-pds](https://science.nasa.gov/wp-content/uploads/2024/03/mer-bythenumbers-infographic-feb2019.jpg)
+
+<img  alt="2f319371241fflb27mp1214r0m1 img" src="https://github.com/user-attachments/assets/bcb299b4-83f6-48f1-8321-ddc45775beee" />
+
+@nasa-pds the last time spirit talked was 2012 ? [https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:mer:spirit:/mer2ho_0xxx/data/sol0001/edr/2r126468012edn0000p1002l0m1.img](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:mer:spirit:/mer2ho_0xxx/data/sol0001/edr/2r126468012edn0000p1002l0m1.img) 
+<img  alt="image" src="https://github.com/user-attachments/assets/36117d84-7785-4716-a095-cdafb960f181" />
+
+<img  alt="2r126625320dnl0200p1002r0m1 img" src="https://github.com/user-attachments/assets/1d6e80b4-dc1f-4bec-a503-5f96443891e5" />
+<img  alt="2r126625320rsl0200p1002r0m1 img" src="https://github.com/user-attachments/assets/447695d5-fc4b-4f24-9740-05a739f53693" />
+<img  alt="2f319371918esfb27mp1162l0m1 img" src="https://github.com/user-attachments/assets/aaf0af09-0116-4a18-a1d5-884aab7baacd" />
+<img  alt="2f318929944rsdb27mp1214r0m1 img" src="https://github.com/user-attachments/assets/79dea292-f090-4735-bfa7-08a7b1117dfb" />
+
+<img  alt="2f319371918sflb27mp1162l0m1 img" src="https://github.com/user-attachments/assets/08529501-1725-496f-9b56-9910193b53c0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/56c9d406-14e3-4d1b-b5ae-35d36f4f8dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4bc606ac-d41f-41c0-8331-443296cadcb3" />
+
+opportunity 
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3447/solar_panels_on_rover_seen_from_above.jpeg?w=1238&h=968&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3447/solar_panels_on_rover_seen_from_above.jpeg)
+
+<img  alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/020708d6-5fb5-4916-99a1-77169635c0f5" />
+
+<img alt="1n128285132mrd0000p1500r0m1 img" src="https://github.com/user-attachments/assets/c3d25ec0-0a49-4865-9bc2-ab649d449e65" />
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A905357275&color=%23d8d8d8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-509969798" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-509969798/jay-electronica-act-ii-the-patents-of-nobility-full-album" title="Jay Electronica - Act II The Patents Of Nobility (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Act II The Patents Of Nobility (Full Album)</a></div>
 
 # Insight data collection
 [NASA InSight: The Science and Engineering of a Mars Lander - Watch](https://www.youtube.com/watch?v=LWvN4n3reIU) //// [adventuredragon.com/adventure-nerd/send-your-name-to-mars `2015`](adventuredragon.com/adventure-nerd/send-your-name-to-mars/)
