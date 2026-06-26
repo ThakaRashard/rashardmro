@@ -22,6 +22,11 @@ date:   2026-03-19 01:24:06
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+<img  alt="GIOVANNI-output3Qzxt13o" src="https://github.com/user-attachments/assets/5be68d8d-6e44-4dd1-8145-75901bf70aaf" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ebc6cd7-1b3c-40b8-92ca-db97664cfb6e" />
+
 [new.finalcall.com/ @foratlanta](https://new.finalcall.com/)
 
 [comment]: <> (Emergency Files )
