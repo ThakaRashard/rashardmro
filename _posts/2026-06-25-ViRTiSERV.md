@@ -34,6 +34,81 @@ _[Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MI
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) : 
 <img  alt="image" src="https://github.com/user-attachments/assets/64c02872-7eb8-44a3-bee4-24881f0cdaf9" />
 
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+<img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
+@nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
+
+* California Constitution - CONS
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+  
+# SEC. 1.1.  
+The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+
+_(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tl6DN51nwg?si=2gJKoCiGW-BAHuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+`_clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf#page=167_`
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9ae1ac86-71f5-4fe1-b140-54478d86b82e" />
+
+[clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
+# Create a URL to open a PDF file at a specific page
+[ @cityoflosangeles plz share @stateofcalifornia @nasa-jpl helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat](https://helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat.html)
+
+To target an HTML link to a specific page in a PDF file, add **`#page=[page number]`** to the end of the link URL.
+
+For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
+
+```html
+<A HREF="http://www.example.com/myfile.pdf#page=4">
+```
+
+<img  alt="Open a PDF file to a specific page" src="https://github.com/user-attachments/assets/377db953-a778-498b-bac6-c457e6b3b262" />
+
+
+@nasa-openscapes its brutal at billie jean in long beach, the itching!!!!!!!! @longbeachinnovationteam @la-county-isd @nasa-pds @blackgirlscode [@ForAtlanta ra5hard.github.io/checking_in](https://ra5hard.github.io/checking_in)
+<img  alt="image" src="https://github.com/user-attachments/assets/7183a46a-806e-4d7e-ab42-a2f5c14ec47c" />
+
+```
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 06-20-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V jun19-hotfix-1 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @nasa-pds @nasa-openscapes
+ @la-county-isd @emit-sds @blackgirlscode @virtiserv
+```
+![@nasa-jpl @nasa-pds @doug-newman-nasa @nasa-openscapes @USSF-ORBiT](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png)
+
 
 # Jelly Fish Over LA
 friends of @blackgirlscode `The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal` - [watch](https://youtu.be/kmU09zbyjWE?t=2)
