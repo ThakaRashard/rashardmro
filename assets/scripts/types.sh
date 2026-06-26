@@ -1,12 +1,22 @@
 #################⁸#####
 echo "CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber"
 date
-echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html && jpl.nasa.gov/news/ "
 echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
 ifconfig 
 uptime
 cal
+
+
+nslookup -type=ns pds-geosciences.wustl.edu
+nslookup -type=mx pds-geosciences.wustl.edu
+nslookup -type=ns glorillaofficial.com
+nslookup -type=mx glorillaofficial.com
+nslookup -type=ns glorillaofficial.com
+nslookup -type=mx glorillaofficial.com
+nslookup -type=ns officialnormani.com
+nslookup -type=mx officialnormani.com
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns uahirise.org
