@@ -38,7 +38,7 @@ _[Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MI
 # Jelly Fish Over LA
 friends of @blackgirlscode `The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal` - [watch](https://youtu.be/kmU09zbyjWE?t=2)
 
-[Elon Musk](https://www.tesla.com/elon-musk) co-founded and leads [Tesla, SpaceX](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html), Neuralink and The Boring Company. @nasa-jpl @nasa-pds
+[Elon Musk](https://www.tesla.com/elon-musk) co-founded and leads [Tesla, SpaceX](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html), Neuralink and The Boring Company. @nasa-jpl @nasa-pds 
 
 [<video controls  src="https://ia800106.us.archive.org/16/items/skywatching_202605/00STstarlink%2017-45%20part1_SPACEXJELLYFISH%201VID_20260624_203326_997.mp4" />](https://ia800106.us.archive.org/16/items/skywatching_202605/00STstarlink%2017-45%20part1_SPACEXJELLYFISH%201VID_20260624_203326_997.mp4)
 
@@ -61,6 +61,15 @@ Tracking with my cell as well
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d2bfbe75-1019-4123-ad3f-063ae0b04d6e" />
 
+[Falcon 9 Crew Dragon Launch Weather Criteria](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf)
+[Falcon 9 Dragon Launch Weather Criteria](https://web.archive.org/web/20210109114451/https://www.nasa.gov/pdf/649911main_051612_falcon9_weather_criteria.pdf)
+[Launch commit criteria - Wikipedia](https://en.wikipedia.org/wiki/Launch_commit_criteria#Falcon_9)
+
+
+---
+
+[@la-county-isd @Nasa-jpl this is for @spaceexplorationtechnologies @whitehouse https://browser.dataspace.copernicus.eu/?zoom=11&lat=34.52494&lng=-120.1973&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FRH9uBRFMiDBMZo%2BtZM9hUYDXW%2FY6LvEJDQmLpGlp6qH6%2FEIYCE0Varv7Gw02acgVsbYg6JyN0bn5aEZDkofC8iKl1BguIHSotgf5FcjxFNDh6f8PtqkZ5&datasetId=S2_L2A_CDAS&fromTime=2026-05-30T00%3A00%3A00.000Z&toTime=2026-05-30T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=10&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=34.52494&lng=-120.1973&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FRH9uBRFMiDBMZo%2BtZM9hUYDXW%2FY6LvEJDQmLpGlp6qH6%2FEIYCE0Varv7Gw02acgVsbYg6JyN0bn5aEZDkofC8iKl1BguIHSotgf5FcjxFNDh6f8PtqkZ5&datasetId=S2_L2A_CDAS&fromTime=2026-05-30T00%3A00%3A00.000Z&toTime=2026-05-30T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=10&dateMode=SINGLE)
+<img alt="2026-05-30-00_00_2026-05-30-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/d2d4fc3d-d41e-45e2-a454-afb91fbcb854" />
 
 @la-county-isd @cityoflosangeles @stateofcalifornia 
 Hearing on 2025 Urban Water Management Plans and Water Shortage
