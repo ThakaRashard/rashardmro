@@ -3,6 +3,11 @@ title: Update Arcadia Police
 published: true
 ---
 
+
+
+@doug-newman-nasa someone sent me this, i think its [latrice @blackgirlscode @howard-university-web-services](https://archive.org/download/postpostpostpostpost/04%20It%27s%20Oh%20So%20Quiet.m4a) [archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @disney idk if shes chloe baily](https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) @ksc-newsroom@mail.nasa.gov @nasa @la-county-isd 
+https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 
+@douglas.j.newman@nasa.gov @jisaacman@shift4.com
 [https://melodymaddox.com/](https://melodymaddox.com/)
 
 

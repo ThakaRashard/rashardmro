@@ -1,0 +1,2065 @@
+CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber
+Mon Jun  1 05:36:31 PDT 2026
+ #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:18:51 CST 2026 aarch64 Android
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.150.28.125  netmask 255.0.0.0  broadcast 10.255.255.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+ 05:36:31 up 11 days, 15:15,  load average: 19.62, 17.16, 16.09
+Mon Jun  1 05:36:31 PDT 2026
+real-time non-blocking time  (microseconds, -R) unlimited
+core file size              (blocks, -c) 0
+data seg size               (kbytes, -d) unlimited
+scheduling priority                 (-e) 40
+file size                   (blocks, -f) unlimited
+pending signals                     (-i) 9112
+max locked memory           (kbytes, -l) unlimited
+max memory size             (kbytes, -m) unlimited
+open files                          (-n) 32768
+pipe size                (512 bytes, -p) 8
+POSIX message queues         (bytes, -q) 819200
+real-time priority                  (-r) 0
+stack size                  (kbytes, -s) 8192
+cpu time                   (seconds, -t) unlimited
+max user processes                  (-u) 9112
+virtual memory              (kbytes, -v) unlimited
+file locks                          (-x) unlimited
+traceroute to localhost (127.0.0.1), 30 hops max, 60 byte packets
+ 1  localhost (127.0.0.1)  0.232 ms  0.102 ms  0.079 ms
+      June 2026     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30            
+                    
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+Trying "whitehouse.gov"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "war.gov"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to reelecthydee.com (185.230.63.186), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  24.542 ms  23.843 ms  22.486 ms
+ 2  172.16.99.1 (172.16.99.1)  2.963 ms  3.061 ms  2.719 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.649 ms  3.666 ms  2.716 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.540 ms  4.192 ms  4.899 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  3.713 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.130 ms  3.132 ms
+ 6  be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  4.359 ms be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  5.398 ms be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  4.114 ms
+ 7  lax-b22-link.ip.twelve99.net (213.248.95.214)  5.252 ms  3.811 ms  3.547 ms
+ 8  lax-bb1-link.ip.twelve99.net (62.115.140.226)  4.078 ms *  3.921 ms
+ 9  sjo-bb3-link.ip.twelve99.net (62.115.139.151)  16.750 ms  17.255 ms  16.517 ms
+10  sea-b1-link.ip.twelve99.net (62.115.136.127)  37.514 ms sea-b1-link.ip.twelve99.net (62.115.132.153)  34.607 ms sea-b1-link.ip.twelve99.net (62.115.136.127)  37.234 ms
+11  * * *
+12  * * *
+13  unalocated.63.wixsite.com (185.230.63.186)  36.491 ms  30.349 ms  34.147 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+
+; <<>> DiG 9.20.22 <<>> whitehouse.gov NS +trace
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for usps.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for usps.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for usps.com failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for usps.com failed: host unreachable.
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for wp1-ext.usps.gov failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for wp1-ext.usps.gov failed: host unreachable.
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+Trying "gov.uk"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "africanspaceagency.org"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "asal.dz"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "mayor.lacity.gov"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "gavrt.lewiscenter.org"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "satellitegroundstation.com"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+Trying "si.edu"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to ethics.lacity.gov (23.32.152.103), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  2.723 ms  6.346 ms  5.728 ms
+ 2  172.16.99.1 (172.16.99.1)  5.160 ms  4.342 ms  3.444 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.462 ms  4.314 ms  3.208 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.380 ms  4.451 ms  5.618 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.761 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  3.818 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  5.865 ms
+ 6  be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  4.894 ms be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  5.147 ms  4.061 ms
+ 7  38.104.84.195 (38.104.84.195)  4.264 ms 38.19.140.41 (38.19.140.41)  3.526 ms 38.104.84.195 (38.104.84.195)  3.999 ms
+ 8  * * *
+ 9  ae0.r22.lax01.ien.netarch.akamai.com (23.192.3.91)  4.019 ms ae1.r22.lax01.ien.netarch.akamai.com (23.192.3.99)  3.917 ms ae0.r22.lax01.ien.netarch.akamai.com (23.192.3.91)  5.993 ms
+10  ae34.r01.border101.lax03.fab.netarch.akamai.com (23.203.155.65)  5.691 ms ae34.r04.border101.lax03.fab.netarch.akamai.com (23.203.155.71)  8.752 ms ae-1.akamai.lsanca07.us.bb.gin.ntt.net (157.238.226.83)  6.964 ms
+11  * * *
+12  * * *
+13  * * *
+14  a23-32-152-103.deploy.static.akamaitechnologies.com (23.32.152.103)  5.636 ms  6.045 ms  6.132 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+traceroute to global.jaxa.jp (159.60.133.108), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  7.804 ms  8.112 ms  7.624 ms
+ 2  172.16.99.1 (172.16.99.1)  2.231 ms  2.831 ms  2.558 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  4.116 ms  2.943 ms  2.702 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.510 ms  3.625 ms  3.132 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.413 ms  3.494 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  3.789 ms
+ 6  be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  3.106 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  3.213 ms  3.284 ms
+ 7  arelion.lax05.atlas.cogentco.com (154.54.9.10)  3.940 ms  4.387 ms lax-b22-link.ip.twelve99.net (213.248.95.214)  3.754 ms
+ 8  * lax-bb1-link.ip.twelve99.net (62.115.140.226)  3.216 ms *
+ 9  palo-bb4-link.ip.twelve99.net (62.115.137.206)  17.563 ms sjo-bb3-link.ip.twelve99.net (62.115.139.151)  15.734 ms palo-bb4-link.ip.twelve99.net (62.115.137.206)  18.357 ms
+10  * * sjo-b23-link.ip.twelve99.net (62.115.139.117)  19.462 ms
+11  f5inc-ic-370612.ip.twelve99-cust.net (62.115.155.117)  18.101 ms  16.794 ms  15.513 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to la28.org (151.101.3.10), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  3.520 ms  2.839 ms  4.250 ms
+ 2  172.16.99.1 (172.16.99.1)  3.355 ms  2.672 ms  1.965 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.319 ms  3.593 ms  2.766 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.150 ms  4.311 ms  4.278 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  3.566 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  3.630 ms  4.187 ms
+ 6  be2345.rcr21.lax06.atlas.cogentco.com (154.54.90.202)  4.759 ms be2199.rcr21.b020604-0.lax01.atlas.cogentco.com (154.54.2.174)  4.487 ms be2345.rcr21.lax06.atlas.cogentco.com (154.54.90.202)  4.755 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+
+; <<>> DiG 9.20.22 <<>> fifa.com MX
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+
+; <<>> DiG 9.20.22 <<>> +trace bet.com MX
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "hot97.com"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+Trying "wikipedia.org"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+Trying "saxavord.com"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+Trying "bsky.app"
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for cbs.com failed: host unreachable.
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+
+; <<>> DiG 9.20.22 <<>> cbssports.com ALL
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for cbssports.com failed: host unreachable.
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for nbc.com failed: host unreachable.
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+
+; <<>> DiG 9.20.22 <<>> nbcsports.com ALL
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for foxnews.com failed: host unreachable.
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: host unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: host unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for abc.com failed: host unreachable.
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to google.com (142.251.35.78), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  3.423 ms  3.698 ms  4.432 ms
+ 2  172.16.99.1 (172.16.99.1)  3.528 ms  3.081 ms  2.183 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.180 ms  3.017 ms  4.573 ms
+ 4  ln-usc2-artctr.ln.net (130.152.181.193)  5.629 ms  4.980 ms  6.286 ms
+ 5  owb2n1.ln.net (130.152.184.102)  5.254 ms owb2n.ln.net (130.152.181.180)  5.892 ms owb1n.ln.net (130.152.181.179)  5.788 ms
+ 6  142.250.172.188 (142.250.172.188)  8.867 ms 72.14.198.38 (72.14.198.38)  6.163 ms  6.255 ms
+ 7  142.251.48.239 (142.251.48.239)  7.140 ms 108.170.248.45 (108.170.248.45)  7.924 ms 142.251.48.239 (142.251.48.239)  5.222 ms
+ 8  142.251.233.237 (142.251.233.237)  8.627 ms  7.498 ms  6.199 ms
+ 9  dclaxa-az-in-f14.1e100.net (142.251.35.78)  6.321 ms  7.328 ms  5.799 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; Warning: query response not set
+;; Got recursion not available from 8.8.8.8, trying next server
+;; communications error to 8.8.4.4#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to ladottransit.com (172.66.150.116), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  5.372 ms  4.474 ms  3.637 ms
+ 2  172.16.99.1 (172.16.99.1)  2.523 ms  3.827 ms  2.904 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  5.865 ms  4.488 ms  4.002 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.343 ms  3.399 ms  7.673 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  6.656 ms  5.540 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.431 ms
+ 6  be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  3.523 ms be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  4.847 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  4.374 ms
+ 7  38.104.83.170 (38.104.83.170)  8.374 ms  5.474 ms 38.104.84.254 (38.104.84.254)  4.417 ms
+ 8  141.101.72.125 (141.101.72.125)  7.052 ms 141.101.72.85 (141.101.72.85)  6.731 ms 141.101.72.115 (141.101.72.115)  5.906 ms
+ 9  172.66.150.116 (172.66.150.116)  5.059 ms  5.262 ms  5.840 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to lapdonline.org (23.1.33.17), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  4.515 ms  3.992 ms  3.502 ms
+ 2  172.16.99.1 (172.16.99.1)  3.033 ms  6.652 ms  6.119 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  5.407 ms  4.719 ms  4.233 ms
+ 4  204.89.15.1 (204.89.15.1)  5.788 ms  5.432 ms  3.605 ms
+ 5  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.281 ms  4.526 ms  4.029 ms
+ 6  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  3.500 ms  4.113 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.711 ms
+ 7  be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  22.671 ms be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  14.589 ms be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  22.003 ms
+ 8  be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  23.544 ms be5473.ccr22.elp02.atlas.cogentco.com (154.54.166.69)  22.932 ms  22.443 ms
+ 9  be3821.ccr31.dfw01.atlas.cogentco.com (154.54.165.25)  34.565 ms be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  34.006 ms be3821.ccr31.dfw01.atlas.cogentco.com (154.54.165.25)  34.314 ms
+10  port-channel8121.ccr91.jan02.atlas.cogentco.com (154.54.40.250)  41.696 ms port-channel8122.ccr92.jan02.atlas.cogentco.com (154.54.41.54)  41.419 ms  40.931 ms
+11  * * *
+12  port-channel3746.ccr92.dca04.atlas.cogentco.com (154.54.164.6)  67.595 ms  67.375 ms  68.091 ms
+13  be3482.ccr41.atl01.atlas.cogentco.com (154.54.169.178)  85.247 ms  87.453 ms be3483.ccr42.atl01.atlas.cogentco.com (154.54.172.170)  86.671 ms
+14  be2834.ccr81.atl04.atlas.cogentco.com (154.54.1.194)  85.982 ms  85.753 ms be8804.ccr81.atl04.atlas.cogentco.com (154.54.2.170)  86.193 ms
+15  be8504.ccr41.atl04.atlas.cogentco.com (154.54.92.33)  84.889 ms  84.998 ms  84.438 ms
+16  * 38.122.46.111 (38.122.46.111)  108.790 ms te0-17-0-18.209.ccr41.atl04.atlas.cogentco.com (38.122.46.129)  78.946 ms
+17  * * *
+18  ae19.r21.atl01.ien.netarch.akamai.com (23.192.0.105)  109.139 ms ae20.r21.atl01.ien.netarch.akamai.com (23.192.0.107)  111.909 ms  110.967 ms
+19  ae20.r03.border101.atl02.fab.netarch.akamai.com (23.203.144.21)  97.089 ms ae22.r04.border101.atl02.fab.netarch.akamai.com (23.203.144.23)  111.245 ms  115.570 ms
+20  * * *
+21  * * *
+22  * * *
+23  a23-1-33-17.deploy.static.akamaitechnologies.com (23.1.33.17)  84.906 ms  88.337 ms  89.583 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to musiccenter.org (104.20.39.139), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  2.961 ms  3.765 ms  2.794 ms
+ 2  172.16.99.1 (172.16.99.1)  2.638 ms  4.966 ms  3.940 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.216 ms  2.949 ms  4.243 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.417 ms  4.744 ms  5.541 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.855 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  5.512 ms  4.706 ms
+ 6  be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  4.051 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  8.836 ms  7.976 ms
+ 7  38.104.83.170 (38.104.83.170)  4.362 ms  4.318 ms  4.203 ms
+ 8  * * 141.101.72.81 (141.101.72.81)  8.762 ms
+ 9  104.20.39.139 (104.20.39.139)  4.500 ms  7.106 ms  6.490 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to laoperA.org (13.91.105.246), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  4.815 ms  3.667 ms  3.070 ms
+ 2  172.16.99.1 (172.16.99.1)  2.388 ms  2.326 ms  1.854 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.060 ms  3.273 ms  2.667 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.229 ms  4.811 ms  4.186 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.776 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.040 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.071 ms
+ 6  be2197.rcr21.b020604-0.lax01.atlas.cogentco.com (154.54.0.166)  3.725 ms  4.827 ms be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  4.305 ms
+ 7  38.104.85.74 (38.104.85.74)  5.166 ms  4.691 ms  5.108 ms
+ 8  ae29-0.ear03.lax30.ntwk.msn.net (104.44.55.26)  16.212 ms  15.489 ms ae30-0.ear04.lax30.ntwk.msn.net (51.10.1.226)  58.496 ms
+ 9  be25.ibr01.lax30.ntwk.msn.net (104.44.33.181)  12.745 ms  12.452 ms be23.ibr01.lax30.ntwk.msn.net (104.44.33.173)  12.641 ms
+10  be10.ibr04.by4.ntwk.msn.net (51.10.26.167)  16.213 ms be11.ibr03.by4.ntwk.msn.net (51.10.26.165)  13.004 ms  14.817 ms
+11  * ae160-0.icr01.by4.ntwk.msn.net (104.44.22.154)  13.176 ms be2.ibr04.by21.ntwk.msn.net (104.44.17.22)  14.604 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+PING dignityhealth.org (104.16.65.119) 56(84) bytes of data.
+64 bytes from 104.16.65.119: icmp_seq=1 ttl=55 time=5.59 ms
+64 bytes from 104.16.65.119: icmp_seq=2 ttl=55 time=27.9 ms
+
+--- dignityhealth.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1006ms
+rtt min/avg/max/mdev = 5.592/16.754/27.917/11.163 ms
+traceroute to dignityhealth.org (104.16.65.119), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  14.545 ms  13.640 ms  12.929 ms
+ 2  172.16.99.1 (172.16.99.1)  5.864 ms  5.206 ms  4.492 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  4.209 ms  3.771 ms  3.328 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  3.765 ms  3.393 ms  4.037 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  3.606 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  7.070 ms  6.628 ms
+ 6  be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  6.299 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  5.594 ms be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  5.477 ms
+ 7  38.104.84.254 (38.104.84.254)  4.444 ms  5.799 ms *
+ 8  141.101.72.98 (141.101.72.98)  6.680 ms 141.101.72.113 (141.101.72.113)  5.691 ms 141.101.72.32 (141.101.72.32)  5.831 ms
+ 9  104.16.65.119 (104.16.65.119)  7.100 ms  6.055 ms  4.742 ms
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.8.8#53: host unreachable
+;; communications error to 8.8.4.4#53: host unreachable
+;; no servers could be reached
+
+traceroute to lacounty.gov (45.60.171.78), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  3.700 ms  2.994 ms  3.839 ms
+ 2  172.16.99.1 (172.16.99.1)  3.218 ms  4.794 ms  5.094 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  4.066 ms  4.000 ms  3.734 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.042 ms  4.693 ms  6.278 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  5.597 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.748 ms  4.682 ms
+ 6  be2177.rcr21.lax06.atlas.cogentco.com (154.54.90.198)  5.141 ms be2345.rcr21.lax06.atlas.cogentco.com (154.54.90.202)  4.982 ms  4.136 ms
+ 7  38.32.228.187 (38.32.228.187)  6.215 ms  5.662 ms  4.881 ms
+ 8  131.125.155.79 (131.125.155.79)  7.785 ms  5.918 ms  7.556 ms
+ 9  10.255.82.64 (10.255.82.64)  42.801 ms  45.388 ms  42.539 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING lacounty.gov (45.60.171.78) 56(84) bytes of data.
+64 bytes from 45.60.171.78: icmp_seq=1 ttl=53 time=76.8 ms
+64 bytes from 45.60.171.78: icmp_seq=2 ttl=53 time=50.1 ms
+
+--- lacounty.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 50.130/63.468/76.806/13.338 ms
+traceroute to fultoncountyga.gov (20.119.136.1), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  9.881 ms  8.918 ms  8.168 ms
+ 2  172.16.99.1 (172.16.99.1)  2.351 ms  3.671 ms  2.883 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  5.321 ms  4.500 ms  3.722 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  3.647 ms  4.023 ms  5.361 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.699 ms  3.813 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.378 ms
+ 6  be2199.rcr21.b020604-0.lax01.atlas.cogentco.com (154.54.2.174)  4.561 ms be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  4.782 ms be2199.rcr21.b020604-0.lax01.atlas.cogentco.com (154.54.2.174)  4.178 ms
+ 7  38.104.76.207 (38.104.76.207)  5.144 ms 38.104.85.74 (38.104.85.74)  4.835 ms 38.104.76.207 (38.104.76.207)  4.687 ms
+ 8  ae30-0.ear04.lax30.ntwk.msn.net (51.10.1.226)  13.055 ms ae31-0.ear03.lax30.ntwk.msn.net (104.44.50.4)  5.060 ms ae29-0.ear03.lax30.ntwk.msn.net (104.44.55.26)  4.823 ms
+ 9  * be21.ibr02.lax30.ntwk.msn.net (104.44.33.171)  66.441 ms be24.ibr02.lax30.ntwk.msn.net (104.44.33.179)  60.391 ms
+10  * be3.owr02.lax30.ntwk.msn.net (51.10.49.55)  61.031 ms be10.owr01.phx10.ntwk.msn.net (51.10.19.169)  60.659 ms
+11  51.10.52.202 (51.10.52.202)  66.551 ms 51.10.52.200 (51.10.52.200)  67.337 ms 51.10.52.202 (51.10.52.202)  65.819 ms
+12  be1.owr01.phx70.ntwk.msn.net (51.10.6.140)  59.478 ms be5.owr02.sat11.ntwk.msn.net (51.10.32.28)  65.760 ms *
+13  ae27-0.icr02.kul01.ntwk.msn.net (104.44.54.19)  65.934 ms be11.ibr01.sn6.ntwk.msn.net (51.10.19.26)  65.598 ms ae27-0.icr02.kul01.ntwk.msn.net (104.44.54.19)  58.520 ms
+14  * be2.ibr02.sn6.ntwk.msn.net (104.44.18.14)  59.298 ms be4.owr02.atl31.ntwk.msn.net (51.10.36.208)  59.719 ms
+15  be7.ibr02.atl31.ntwk.msn.net (104.44.29.37)  59.180 ms be1.owr02.lvl02.ntwk.msn.net (104.44.50.16)  66.186 ms po1012.rwa03.lvl02.ntwk.msn.net (104.44.50.144)  58.439 ms
+16  * be2.ibr02.atl30.ntwk.msn.net (104.44.7.151)  213.624 ms *
+17  be4.owr02.atl30.ntwk.msn.net (104.44.31.87)  60.219 ms * *
+18  * be7.owr02.lvl01.ntwk.msn.net (51.10.19.16)  60.711 ms  67.059 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING fultoncountyga.gov (20.119.136.1) 56(84) bytes of data.
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=108 time=119 ms
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=108 time=119 ms (DUP!)
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=108 time=124 ms (DUP!)
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=108 time=125 ms (DUP!)
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=108 time=126 ms (DUP!)
+64 bytes from 20.119.136.1: icmp_seq=2 ttl=108 time=95.6 ms
+
+--- fultoncountyga.gov ping statistics ---
+2 packets transmitted, 2 received, +4 duplicates, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 95.628/118.442/126.201/10.523 ms
+traceroute to lacity.gov (23.53.11.171), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  3.241 ms  4.807 ms  4.096 ms
+ 2  172.16.99.1 (172.16.99.1)  3.449 ms  2.849 ms  2.170 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.695 ms  3.187 ms  2.445 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.396 ms  4.754 ms  4.060 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.293 ms  3.330 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  3.567 ms
+ 6  be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  14.719 ms  14.797 ms be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  14.070 ms
+ 7  be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  24.465 ms be5473.ccr22.elp02.atlas.cogentco.com (154.54.166.69)  22.663 ms be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  23.314 ms
+ 8  be3821.ccr31.dfw01.atlas.cogentco.com (154.54.165.25)  34.761 ms  34.262 ms be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  34.467 ms
+ 9  port-channel8121.ccr91.jan02.atlas.cogentco.com (154.54.40.250)  41.317 ms  41.629 ms port-channel8122.ccr92.jan02.atlas.cogentco.com (154.54.41.54)  41.050 ms
+10  be7425.ccr81.bna02.atlas.cogentco.com (154.54.173.118)  51.935 ms be9266.ccr82.bna02.atlas.cogentco.com (154.54.173.122)  53.354 ms be7425.ccr81.bna02.atlas.cogentco.com (154.54.173.118)  52.961 ms
+11  port-channel3746.ccr92.dca04.atlas.cogentco.com (154.54.164.6)  68.877 ms  68.673 ms  68.995 ms
+12  be8248.rcr21.b003320-1.dca04.atlas.cogentco.com (154.54.171.70)  70.368 ms be5392.rcr21.b003320-1.dca04.atlas.cogentco.com (154.54.40.50)  69.082 ms  69.793 ms
+13  gi0-0-0-2.nr11.b003335-0.dca01.atlas.cogentco.com (38.104.29.77)  63.950 ms  64.288 ms  63.798 ms
+14  ae33.r04.border01.iad04.fab.netarch.akamai.com (23.209.165.73)  64.105 ms  64.301 ms  67.137 ms
+15  lo1.r01.stem01.iad04.fab.netarch.akamai.com (23.44.169.20)  72.201 ms lo1.r03.stem01.iad04.fab.netarch.akamai.com (23.44.169.22)  71.001 ms lo1.r02.stem01.iad04.fab.netarch.akamai.com (23.44.169.21)  71.312 ms
+16  lo1.r01.spine04.iad04.fab.netarch.akamai.com (23.44.169.16)  71.605 ms lo1.r03.spine02.iad04.fab.netarch.akamai.com (23.44.169.10)  70.076 ms lo1.r01.spine01.iad04.fab.netarch.akamai.com (23.44.169.4)  70.506 ms
+17  lo1.r01.leaf02.iad04.fab.netarch.akamai.com (23.44.169.60)  70.561 ms lo1.r04.leaf02.iad04.fab.netarch.akamai.com (23.44.169.63)  69.333 ms lo1.r02.leaf02.iad04.fab.netarch.akamai.com (23.44.169.61)  69.892 ms
+18  vlan100.r08.tor02.iad04.fab.netarch.akamai.com (23.50.129.161)  72.313 ms  71.865 ms  71.421 ms
+19  a23-53-11-171.deploy.static.akamaitechnologies.com (23.53.11.171)  70.889 ms  70.171 ms  72.048 ms
+PING lacity.org (23.53.11.166) 56(84) bytes of data.
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=44 time=71.1 ms
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=44 time=72.3 ms (DUP!)
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=44 time=73.6 ms (DUP!)
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=44 time=74.6 ms (DUP!)
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=44 time=75.8 ms (DUP!)
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=2 ttl=44 time=104 ms
+
+--- lacity.org ping statistics ---
+2 packets transmitted, 2 received, +4 duplicates, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 71.158/78.616/104.126/11.507 ms
+PING lacity.gov (23.53.11.171) 56(84) bytes of data.
+64 bytes from a23-53-11-171.deploy.static.akamaitechnologies.com (23.53.11.171): icmp_seq=1 ttl=44 time=72.4 ms
+64 bytes from a23-53-11-171.deploy.static.akamaitechnologies.com (23.53.11.171): icmp_seq=2 ttl=44 time=106 ms
+
+--- lacity.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 72.420/89.299/106.179/16.882 ms
+traceroute to lacity.org (23.53.11.166), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  7.142 ms  6.504 ms  5.913 ms
+ 2  172.16.99.1 (172.16.99.1)  5.310 ms  10.670 ms  10.040 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  11.225 ms  10.523 ms  9.933 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  9.156 ms  8.471 ms  11.022 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  10.696 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  10.093 ms  9.616 ms
+ 6  be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  14.607 ms  14.536 ms be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  15.144 ms
+ 7  be5473.ccr22.elp02.atlas.cogentco.com (154.54.166.69)  25.330 ms  25.734 ms be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  23.309 ms
+ 8  be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  34.588 ms  34.117 ms  39.817 ms
+ 9  port-channel8121.ccr91.jan02.atlas.cogentco.com (154.54.40.250)  41.607 ms  41.281 ms  40.845 ms
+10  be7425.ccr81.bna02.atlas.cogentco.com (154.54.173.118)  52.684 ms  53.690 ms be9266.ccr82.bna02.atlas.cogentco.com (154.54.173.122)  52.241 ms
+11  port-channel3737.ccr91.dca04.atlas.cogentco.com (154.54.161.174)  69.349 ms port-channel3746.ccr92.dca04.atlas.cogentco.com (154.54.164.6)  69.607 ms port-channel3737.ccr91.dca04.atlas.cogentco.com (154.54.161.174)  69.097 ms
+12  be8248.rcr21.b003320-1.dca04.atlas.cogentco.com (154.54.171.70)  70.082 ms  70.302 ms be5392.rcr21.b003320-1.dca04.atlas.cogentco.com (154.54.40.50)  73.505 ms
+13  gi0-0-0-2.nr11.b003335-0.dca01.atlas.cogentco.com (38.104.29.77)  64.509 ms  63.933 ms  63.453 ms
+14  ae33.r04.border01.iad04.fab.netarch.akamai.com (23.209.165.73)  63.412 ms  63.176 ms  64.216 ms
+15  lo1.r03.stem01.iad04.fab.netarch.akamai.com (23.44.169.22)  68.742 ms lo1.r04.stem01.iad04.fab.netarch.akamai.com (23.44.169.23)  70.336 ms lo1.r03.stem01.iad04.fab.netarch.akamai.com (23.44.169.22)  69.598 ms
+16  lo1.r04.spine04.iad04.fab.netarch.akamai.com (23.44.169.19)  69.901 ms lo1.r04.spine03.iad04.fab.netarch.akamai.com (23.44.169.15)  69.787 ms  69.522 ms
+17  lo1.r02.leaf02.iad04.fab.netarch.akamai.com (23.44.169.61)  70.179 ms lo1.r03.leaf02.iad04.fab.netarch.akamai.com (23.44.169.62)  69.859 ms  69.230 ms
+18  vlan100.r08.tor02.iad04.fab.netarch.akamai.com (23.50.129.161)  69.891 ms  70.196 ms  69.766 ms
+19  a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166)  69.276 ms  71.302 ms  70.325 ms
+traceroute to longbeach.gov (204.108.16.117), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  2.216 ms  2.883 ms  4.330 ms
+ 2  172.16.99.1 (172.16.99.1)  3.361 ms  2.476 ms  2.638 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.137 ms  3.257 ms  2.176 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  6.004 ms  5.326 ms  4.419 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  3.356 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  5.650 ms  4.805 ms
+ 6  be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  5.187 ms be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  4.361 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  3.779 ms
+ 7  lax-b22-link.ip.twelve99.net (213.248.95.214)  4.019 ms  3.634 ms arelion.lax05.atlas.cogentco.com (154.54.9.10)  5.277 ms
+ 8  chartercomm-ic-325646.ip.twelve99-cust.net (62.115.156.225)  5.739 ms  6.422 ms  5.735 ms
+ 9  lag-18.lsancarc0yw-bcr00.netops.charter.com (66.109.5.122)  7.190 ms lag-802.tustca4200w-bcr00.netops.charter.com (107.14.19.26)  7.592 ms lag-18.lsancarc0yw-bcr00.netops.charter.com (66.109.5.122)  5.576 ms
+10  lag-3-10.rcr01tustcaft.netops.charter.com (66.109.6.203)  6.473 ms lag-5-10.rcr01tustcaft.netops.charter.com (66.109.10.11)  6.149 ms chartercomm-ic-325646.ip.twelve99-cust.net (62.115.156.225)  4.147 ms
+11  lag-802.tustca4200w-bcr00.netops.charter.com (107.14.19.26)  8.455 ms lag-801.tustca4200w-bcr00.netops.charter.com (66.109.5.246)  8.000 ms lag-9-10.mcr02tustcaft.netops.charter.com (72.129.5.117)  7.544 ms
+12  lag-2-10.rcr01lsancarc.netops.charter.com (66.109.3.231)  6.986 ms lag-103.mcr02cyprcabw.netops.charter.com (72.129.5.15)  8.192 ms lag-104.mcr02tustcaft.netops.charter.com (72.129.25.15)  8.209 ms
+13  lag-103.mcr02cyprcabw.netops.charter.com (72.129.5.15)  7.178 ms lag-9-10.mcr02tustcaft.netops.charter.com (72.129.5.117)  6.235 ms syn-076-058-025-115.biz.spectrum.com (76.58.25.115)  7.425 ms
+14  lag-104.mcr02tustcaft.netops.charter.com (72.129.25.15)  8.735 ms  7.524 ms syn-076-058-025-115.biz.spectrum.com (76.58.25.115)  7.549 ms
+15  syn-076-058-025-115.biz.spectrum.com (76.58.25.115)  7.481 ms syn-098-153-208-058.biz.spectrum.com (98.153.208.58)  9.933 ms *
+16  * syn-076-058-025-115.biz.spectrum.com (76.58.25.115)  6.865 ms syn-098-153-208-058.biz.spectrum.com (98.153.208.58)  7.656 ms
+17  * syn-098-153-208-058.biz.spectrum.com (98.153.208.58)  7.468 ms *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING longbeach.gov (204.108.16.117) 56(84) bytes of data.
+
+--- longbeach.gov ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1019ms
+
+traceroute to whitehouse.gov (192.0.66.51), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  3.044 ms  2.110 ms  2.128 ms
+ 2  172.16.99.1 (172.16.99.1)  2.418 ms  2.382 ms  2.882 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.963 ms  3.213 ms  2.383 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  3.508 ms  4.406 ms  3.271 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.505 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  3.499 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  3.652 ms
+ 6  be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  4.184 ms be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  3.806 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  4.008 ms
+ 7  lumen.lax04.atlas.cogentco.com (154.54.10.198)  5.048 ms  4.254 ms  4.841 ms
+ 8  ae2.3605.ear1.LosAngeles1.net.lumen.tech (4.69.210.37)  6.055 ms  5.291 ms  7.270 ms
+ 9  63.214.155.102 (63.214.155.102)  5.349 ms  4.438 ms  5.261 ms
+10  as2635.network (198.181.119.15)  4.633 ms  4.634 ms  4.313 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING whitehouse.gov (192.0.66.51) 56(84) bytes of data.
+64 bytes from 192.0.66.51: icmp_seq=1 ttl=56 time=36.2 ms
+64 bytes from 192.0.66.51: icmp_seq=2 ttl=56 time=5.16 ms
+
+--- whitehouse.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 5.163/20.709/36.256/15.547 ms
+traceroute to nasa.gov (192.0.66.108), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  4.758 ms  3.940 ms  3.108 ms
+ 2  172.16.99.1 (172.16.99.1)  2.397 ms  2.827 ms  2.182 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  2.627 ms  2.970 ms  2.277 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  4.373 ms  4.818 ms  6.459 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  5.762 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.673 ms be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  3.965 ms
+ 6  be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  4.324 ms  5.693 ms be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  5.180 ms
+ 7  lag-6.ear2.lax1.sp.lumen.tech (4.68.73.209)  4.673 ms lumen.lax04.atlas.cogentco.com (154.54.10.198)  6.964 ms  6.523 ms
+ 8  ae1.3505.ear1.LosAngeles1.net.lumen.tech (4.69.210.33)  6.018 ms  5.633 ms  6.230 ms
+ 9  63.214.155.102 (63.214.155.102)  26.901 ms  26.547 ms  19.076 ms
+10  as2635.network (198.181.119.15)  5.404 ms  4.827 ms  4.610 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING nasa.gov (192.0.66.108) 56(84) bytes of data.
+64 bytes from 192.0.66.108: icmp_seq=1 ttl=54 time=44.6 ms
+64 bytes from 192.0.66.108: icmp_seq=2 ttl=54 time=14.1 ms
+
+--- nasa.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 14.104/29.357/44.610/15.253 ms
+PING lacourt.org (104.42.188.146) 56(84) bytes of data.
+64 bytes from 104.42.188.146: icmp_seq=1 ttl=113 time=13.8 ms
+64 bytes from 104.42.188.146: icmp_seq=2 ttl=113 time=20.7 ms
+
+--- lacourt.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 13.815/17.270/20.726/3.457 ms
+traceroute to lacourt.org (104.42.188.146), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  4.080 ms  5.196 ms  5.590 ms
+ 2  172.16.99.1 (172.16.99.1)  4.236 ms  7.783 ms  4.991 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  5.581 ms  4.739 ms  4.185 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.083 ms  4.601 ms  5.744 ms
+ 5  be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  5.274 ms  4.461 ms  5.019 ms
+ 6  be2199.rcr21.b020604-0.lax01.atlas.cogentco.com (154.54.2.174)  4.405 ms  4.849 ms be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  4.222 ms
+ 7  38.104.76.207 (38.104.76.207)  9.812 ms  9.411 ms  10.693 ms
+ 8  ae30-0.ear04.lax30.ntwk.msn.net (51.10.1.226)  8.536 ms ae29-0.ear03.lax30.ntwk.msn.net (104.44.55.26)  6.880 ms ae30-0.ear04.lax30.ntwk.msn.net (51.10.1.226)  6.497 ms
+ 9  be21.ibr02.lax30.ntwk.msn.net (104.44.33.171)  12.732 ms  13.804 ms be23.ibr01.lax30.ntwk.msn.net (104.44.33.173)  13.190 ms
+10  be11.ibr03.by4.ntwk.msn.net (51.10.26.165)  12.726 ms  13.434 ms be10.ibr04.by4.ntwk.msn.net (51.10.26.167)  18.271 ms
+11  * ae144-0.icr03.by4.ntwk.msn.net (104.44.20.215)  11.886 ms be2.ibr03.by21.ntwk.msn.net (104.44.17.20)  39.096 ms
+12  * * ae126-0.icr04.by21.ntwk.msn.net (104.44.23.73)  12.761 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING lacourt.ca.gov (104.18.12.158) 56(84) bytes of data.
+64 bytes from 104.18.12.158: icmp_seq=1 ttl=55 time=6.22 ms
+64 bytes from 104.18.12.158: icmp_seq=2 ttl=55 time=39.8 ms
+
+--- lacourt.ca.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1008ms
+rtt min/avg/max/mdev = 6.220/23.024/39.829/16.805 ms
+traceroute to lacourt.ca.gov (104.18.12.158), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  4.570 ms  3.774 ms  6.455 ms
+ 2  172.16.99.1 (172.16.99.1)  5.467 ms  4.689 ms  6.134 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  5.208 ms  5.623 ms  4.733 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.594 ms  4.613 ms  6.985 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  6.143 ms  5.628 ms  4.715 ms
+ 6  be3359.ccr41.lax05.atlas.cogentco.com (154.54.3.70)  4.179 ms  5.710 ms be3243.ccr41.lax05.atlas.cogentco.com (154.54.27.118)  4.963 ms
+ 7  38.104.83.170 (38.104.83.170)  5.485 ms * *
+ 8  141.101.72.125 (141.101.72.125)  5.891 ms 141.101.72.123 (141.101.72.123)  6.352 ms 141.101.72.125 (141.101.72.125)  6.810 ms
+ 9  104.18.12.158 (104.18.12.158)  6.088 ms  6.368 ms  5.781 ms
+PING state.gov (107.22.78.153) 56(84) bytes of data.
+
+--- state.gov ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+traceroute to state.gov (107.22.78.153), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  7.660 ms  6.830 ms  5.838 ms
+ 2  172.16.99.1 (172.16.99.1)  4.932 ms  4.169 ms  3.628 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.730 ms  4.160 ms  3.387 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  6.538 ms  5.600 ms  4.581 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  5.251 ms  5.546 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.693 ms
+ 6  be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  24.533 ms  17.490 ms be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  16.527 ms
+ 7  be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  32.206 ms be5473.ccr22.elp02.atlas.cogentco.com (154.54.166.69)  31.563 ms  30.834 ms
+ 8  be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  34.176 ms  39.276 ms be3821.ccr31.dfw01.atlas.cogentco.com (154.54.165.25)  38.580 ms
+ 9  be2764.ccr41.dfw03.atlas.cogentco.com (154.54.47.214)  37.181 ms be2763.ccr41.dfw03.atlas.cogentco.com (154.54.28.74)  36.540 ms be2764.ccr41.dfw03.atlas.cogentco.com (154.54.47.214)  35.653 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING level3.net (4.68.80.110) 56(84) bytes of data.
+
+--- level3.net ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1006ms
+
+traceroute to level3.net (4.68.80.110), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  4.787 ms  4.034 ms  3.337 ms
+ 2  172.16.99.1 (172.16.99.1)  3.064 ms  3.666 ms  4.150 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.501 ms  4.201 ms  3.985 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  2.973 ms  6.324 ms  5.452 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.815 ms  7.112 ms  6.379 ms
+ 6  be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  5.698 ms  5.034 ms be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  6.800 ms
+ 7  lumen.lax04.atlas.cogentco.com (154.54.10.198)  6.454 ms  6.095 ms *
+ 8  ae1.3508.ear3.Denver1.net.lumen.tech (4.69.206.193)  37.540 ms  37.031 ms  37.877 ms
+ 9  4.68.94.50 (4.68.94.50)  36.794 ms  37.213 ms  37.775 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level1.net (13.223.25.84), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  5.082 ms  3.820 ms  4.884 ms
+ 2  172.16.99.1 (172.16.99.1)  3.825 ms  5.939 ms  4.944 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.961 ms  3.638 ms  4.408 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  6.004 ms  5.423 ms  5.948 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  4.554 ms  4.970 ms  4.735 ms
+ 6  be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  18.256 ms be2932.ccr32.phx01.atlas.cogentco.com (154.54.45.161)  15.964 ms be2931.ccr31.phx01.atlas.cogentco.com (154.54.44.85)  15.568 ms
+ 7  be5471.ccr21.elp02.atlas.cogentco.com (154.54.166.57)  26.414 ms  24.783 ms be5473.ccr22.elp02.atlas.cogentco.com (154.54.166.69)  23.584 ms
+ 8  be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  35.246 ms be3821.ccr31.dfw01.atlas.cogentco.com (154.54.165.25)  34.950 ms be3846.ccr32.dfw01.atlas.cogentco.com (154.54.165.29)  34.467 ms
+ 9  be2764.ccr41.dfw03.atlas.cogentco.com (154.54.47.214)  36.203 ms be2763.ccr41.dfw03.atlas.cogentco.com (154.54.28.74)  39.583 ms  38.385 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level2.net (13.248.169.48), 30 hops max, 60 byte packets
+ 1  172.16.85.1 (172.16.85.1)  6.443 ms  5.093 ms  4.793 ms
+ 2  172.16.99.1 (172.16.99.1)  3.598 ms  5.849 ms  4.747 ms
+ 3  204-89-8-x-cityofpasadena.net (204.89.8.1)  3.224 ms  6.097 ms  4.845 ms
+ 4  te0-5-0-0.rcr21.b014796-1.lax01.atlas.cogentco.com (38.122.202.81)  5.103 ms  6.096 ms  6.544 ms
+ 5  be3069.ccr41.lax01.atlas.cogentco.com (154.54.25.65)  5.280 ms  6.051 ms be3070.ccr42.lax01.atlas.cogentco.com (154.54.25.69)  4.838 ms
+ 6  be3360.ccr41.lax04.atlas.cogentco.com (154.54.25.150)  4.462 ms be3271.ccr41.lax04.atlas.cogentco.com (154.54.42.102)  5.577 ms  5.112 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+traceroute to esa.int (178.32.232.86), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * *;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+
+ #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html

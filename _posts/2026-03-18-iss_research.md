@@ -34,6 +34,29 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Shuttle-Mir_Approach_%2829053887780%29.jpg/1920px-Shuttle-Mir_Approach_%2829053887780%29.jpg"/>
 
 [@intuit @mailChimp theinfiniteatlanta.com/](https://theinfiniteatlanta.com/)
+
+
+
+[NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science] [READ](https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/)
+
+May 15, 2026 [spacex.com/launches/crs34](https://www.spacex.com/launches/crs34)
+CRS-34 Mission
+After 30 days docked to the International Space Station, SpaceX’s Dragon spacecraft supporting the 34th Commercial Resupply Services (CRS-34) mission is set to undock on Tuesday, June 16 at 12:05 p.m. ET and return to Earth ahead of splashing down off the coast of California on Wednesday, June 17. @spaceexplorationtechnologies @nasa-jpl @la-county-isd @nasa-giss @nasa-develop @nasa-openscapes [READ](https://www.spacex.com/launches/crs34)
+
+@nasa-jpl @nasa-pds undocking complete
+
+`https://www.youtube.com/embed/fu-t3Om6DIA?si=t_0DhOA0E5YAzzJI`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fu-t3Om6DIA?si=t_0DhOA0E5YAzzJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[nasa.gov/mission/nasa-spacex-crs-34/](https://www.nasa.gov/mission/nasa-spacex-crs-34/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5552ec52-7b78-4452-91e2-33846dea698b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/572e61e3-5f17-4c88-b4a3-dbb697f4a12d" />
+
+
+[<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
 @education @esa .int
 https://theinfiniteatlanta.com/ @jplnewsroom@jpl.nasa.gov  can someone give @normani@fifthharmonyofficial.com  help to go see it, her handlers can roam freely in TheATL, i need eyes there, i dont know no one else except latrice fitzpatrick that could review it right @benefits@howard.edu or erika, if she safe @Essence@wrightsmedia.com ........
 

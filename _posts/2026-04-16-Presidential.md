@@ -7,6 +7,62 @@ image: pentagon.jpg
 ---
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/70aca62d-02a3-411c-8da6-a13d23b224b7" />
+# About the United States Space Force
+## Trump Signs Law Establishing U.S. Space Force [`READ` - trump-signs-law-establishing-us-space-force](https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/)
+Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-garamone/) DOD News
+[@blackgirlscode @la-county-isd @cityoflosangeles @nasa @doug-newman-nasa @usnavy https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+[<video controls poster="https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/#pop3892171" src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4)
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+
+[<video controls poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG" src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4)
+[https://images.nasa.gov/](https://images.nasa.gov/)
+<img  alt="image" src="https://github.com/user-attachments/assets/77802916-fb89-4bc6-ae48-cc14efe8f021" />
+
+
+Writing Mathematics for MathJax        
+[@blackgirlscode @nasa-pds](https://github.com/mathjax/MathJax-demos-web)
+github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all browsers. Beautifully documented._ @la-county-isd 
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>x</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>−</mo>
+        <mi>b</mi>
+        <mo>±</mo>
+        <msqrt>
+          <msup><mi>b</mi><mn>2</mn></msup>
+          <mo>−</mo>
+          <mn>4</mn><mi>a</mi><mi>c</mi>
+        </msqrt>
+      </mrow>
+      <mrow> <mn>2</mn><mi>a</mi> </mrow>
+    </mfrac>
+  </mrow>
+  <mtext>.</mtext>
+</math>
+
+
+
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
+@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+
+
+# Splashdown 101:
+Joint Team to Recover Crew, Orion After Moon Missions
+[splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+@blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
+Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
 
 
 

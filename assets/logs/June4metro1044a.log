@@ -1,0 +1,2164 @@
+CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber
+Thu Jun  4 06:50:23 PDT 2026
+ #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:18:51 CST 2026 aarch64 Android
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.10.185  netmask 255.255.255.0  broadcast 192.168.10.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+ 06:50:23 up 14 days, 16:28,  load average: 17.83, 16.02, 15.14
+Thu Jun  4 06:50:23 PDT 2026
+real-time non-blocking time  (microseconds, -R) unlimited
+core file size              (blocks, -c) 0
+data seg size               (kbytes, -d) unlimited
+scheduling priority                 (-e) 40
+file size                   (blocks, -f) unlimited
+pending signals                     (-i) 9112
+max locked memory           (kbytes, -l) unlimited
+max memory size             (kbytes, -m) unlimited
+open files                          (-n) 32768
+pipe size                (512 bytes, -p) 8
+POSIX message queues         (bytes, -q) 819200
+real-time priority                  (-r) 0
+stack size                  (kbytes, -s) 8192
+cpu time                   (seconds, -t) unlimited
+max user processes                  (-u) 9112
+virtual memory              (kbytes, -v) unlimited
+file locks                          (-x) unlimited
+traceroute to localhost (127.0.0.1), 30 hops max, 60 byte packets
+ 1  localhost (127.0.0.1)  0.234 ms  0.096 ms  0.085 ms
+      June 2026     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30            
+                    
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com	nameserver = ns-cloud-b2.googledomains.com.
+spacex.com	nameserver = ns-cloud-b4.googledomains.com.
+spacex.com	nameserver = ns-cloud-b1.googledomains.com.
+spacex.com	nameserver = ns-cloud-b3.googledomains.com.
+
+Authoritative answers can be found from:
+ns-cloud-b1.googledomains.com	internet address = 216.239.32.107
+ns-cloud-b3.googledomains.com	internet address = 216.239.36.107
+ns-cloud-b2.googledomains.com	internet address = 216.239.34.107
+ns-cloud-b4.googledomains.com	internet address = 216.239.38.107
+ns-cloud-b1.googledomains.com	has AAAA address 2001:4860:4802:32::6b
+ns-cloud-b3.googledomains.com	has AAAA address 2001:4860:4802:36::6b
+ns-cloud-b2.googledomains.com	has AAAA address 2001:4860:4802:34::6b
+ns-cloud-b4.googledomains.com	has AAAA address 2001:4860:4802:38::6b
+
+spacex.com has address 104.18.27.217
+spacex.com has address 104.18.26.217
+spacex.com has IPv6 address 2606:4700::6812:1bd9
+spacex.com has IPv6 address 2606:4700::6812:1ad9
+spacex.com mail is handled by 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com mail is handled by 5 mxa-003ea501.gslb.gpphosted.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2405393841
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+ernest.ns.cloudflare.com	internet address = 173.245.59.164
+ernest.ns.cloudflare.com	internet address = 108.162.193.164
+ernest.ns.cloudflare.com	internet address = 172.64.33.164
+wally.ns.cloudflare.com	internet address = 172.64.32.239
+wally.ns.cloudflare.com	internet address = 173.245.58.239
+wally.ns.cloudflare.com	internet address = 108.162.192.239
+ernest.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3ba4
+ernest.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c1a4
+wally.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:20ef
+
+Trying "whitehouse.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23286
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whitehouse.gov.			IN	ANY
+
+;; ANSWER SECTION:
+whitehouse.gov.		86399	IN	RRSIG	NS 13 2 86400 20260605145026 20260603125026 34505 whitehouse.gov. cuJoDSmkwmbHJTrDzg9eIGugi4qW0idY7bmm9MjQaie51djvUv977Bun WppRlEbWu8zqmhZDW3/LoR1i5pvQiw==
+whitehouse.gov.		3599	IN	RRSIG	DS 13 2 3600 20260605145026 20260603125026 35496 gov. 2FuCGeMyQl2Op3qGjN1avA5vR67uHkcVkWrLR0OaYvq2e2tSX20X2tNG WWHjjISadzUQlKgSHdQ9l34XxqCQuQ==
+whitehouse.gov.		3599	IN	DS	2371 13 2 BE4C7B11AD123596BA672B13FFDA04CA73C9FE0652E66542AEFADAF2 06B381AE
+whitehouse.gov.		10799	IN	NS	wally.ns.cloudflare.com.
+whitehouse.gov.		10799	IN	NS	ernest.ns.cloudflare.com.
+
+Received 347 bytes from 8.8.8.8#53 in 36 ms
+Trying "war.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31226
+;; flags: qr rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;war.gov.			IN	ANY
+
+;; ANSWER SECTION:
+war.gov.		1800	IN	RRSIG	AAAA 13 2 1800 20260607064347 20260604054347 36627 war.gov. 7ip7prhGK3VFhrWkMZd42B92lh3s5eUtaLZc9OBze9oWdS0itJRn687r K4qa2zqhwLmEiNzaJYsj0K9llKvDjw==
+war.gov.		1800	IN	AAAA	2600:1406:bc00:26::1723:1a31
+war.gov.		1800	IN	AAAA	2600:1406:bc00:26::1723:1a3a
+war.gov.		1800	IN	RRSIG	A 13 2 1800 20260607064347 20260604054347 36627 war.gov. tJioVfrQnvMN90ndB0y5LqGNqHXh4t6++SOEkeSfauSnBkP8bLjcPF3g DHE3e4OTG5Tehd+MA+7R/T6SWMDziw==
+war.gov.		1800	IN	A	173.222.162.162
+war.gov.		1800	IN	A	173.222.162.186
+war.gov.		753	IN	NS	usc5.akam.net.
+war.gov.		753	IN	NS	ns1-95.akam.net.
+war.gov.		753	IN	NS	asia3.akam.net.
+war.gov.		753	IN	NS	ns1-116.akam.net.
+war.gov.		753	IN	NS	asia2.akam.net.
+war.gov.		753	IN	NS	use9.akam.net.
+war.gov.		753	IN	NS	eur6.akam.net.
+war.gov.		753	IN	NS	use2.akam.net.
+
+Received 486 bytes from 8.8.8.8#53 in 44 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find war.gov: No answer
+
+Authoritative answers can be found from:
+war.gov
+	origin = asia2.akam.net
+	mail addr = hostmaster.war.gov
+	serial = 2025090513
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+war.gov	nameserver = ns1-95.akam.net.
+war.gov	nameserver = usc5.akam.net.
+war.gov	nameserver = asia3.akam.net.
+war.gov	nameserver = ns1-116.akam.net.
+war.gov	nameserver = use9.akam.net.
+war.gov	nameserver = eur6.akam.net.
+war.gov	nameserver = asia2.akam.net.
+war.gov	nameserver = use2.akam.net.
+
+Authoritative answers can be found from:
+ns1-95.akam.net	internet address = 193.108.91.95
+ns1-116.akam.net	internet address = 193.108.91.116
+usc5.akam.net	internet address = 96.7.50.65
+use2.akam.net	internet address = 96.7.49.64
+use9.akam.net	internet address = 72.246.46.65
+eur6.akam.net	internet address = 2.22.230.64
+asia2.akam.net	internet address = 95.101.36.64
+asia3.akam.net	internet address = 23.211.61.64
+ns1-95.akam.net	has AAAA address 2600:1401:2::5f
+ns1-116.akam.net	has AAAA address 2600:1401:2::74
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	nameserver = a7-65.akam.net.
+jpl.nasa.gov	nameserver = a2-67.akam.net.
+jpl.nasa.gov	nameserver = a11-67.akam.net.
+jpl.nasa.gov	nameserver = a8-65.akam.net.
+jpl.nasa.gov	nameserver = a14-67.akam.net.
+jpl.nasa.gov	nameserver = a1-91.akam.net.
+
+Authoritative answers can be found from:
+a11-67.akam.net	internet address = 84.53.139.67
+a7-65.akam.net	internet address = 23.61.199.65
+a8-65.akam.net	internet address = 2.16.40.65
+a14-67.akam.net	internet address = 184.26.161.67
+a2-67.akam.net	internet address = 95.100.174.67
+a1-91.akam.net	internet address = 193.108.91.91
+a11-67.akam.net	has AAAA address 2600:1480:1::43
+a7-65.akam.net	has AAAA address 2600:1406:32::41
+a8-65.akam.net	has AAAA address 2600:1403:a::41
+a14-67.akam.net	has AAAA address 2600:1480:1800::43
+a2-67.akam.net	has AAAA address 2600:1480:7000::43
+a1-91.akam.net	has AAAA address 2600:1401:2::5b
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	nameserver = einstein2.lpl.arizona.edu.
+uahirise.org	nameserver = einstein1.lpl.arizona.edu.
+
+Authoritative answers can be found from:
+einstein2.lpl.arizona.edu	internet address = 128.196.250.49
+einstein1.lpl.arizona.edu	internet address = 128.196.250.16
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	mail exchanger = 10 pirlmail.lpl.arizona.edu.
+uahirise.org	mail exchanger = 10 usb-smtp-inbound-1.mimecast.com.
+uahirise.org	mail exchanger = 10 usb-smtp-inbound-2.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+home.treasury.gov	canonical name = home.treasury.gov.edgekey.net.
+home.treasury.gov.edgekey.net	canonical name = e289631.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780581028
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+home.treasury.gov	canonical name = home.treasury.gov.edgekey.net.
+home.treasury.gov.edgekey.net	canonical name = e289631.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780581028
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+treasurer.ca.gov	nameserver = olof.ns.cloudflare.com.
+treasurer.ca.gov	nameserver = rafe.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+olof.ns.cloudflare.com	internet address = 162.159.44.51
+olof.ns.cloudflare.com	internet address = 172.64.35.51
+olof.ns.cloudflare.com	internet address = 108.162.195.51
+rafe.ns.cloudflare.com	internet address = 173.245.58.216
+rafe.ns.cloudflare.com	internet address = 108.162.192.216
+rafe.ns.cloudflare.com	internet address = 172.64.32.216
+olof.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2333
+olof.ns.cloudflare.com	has AAAA address 2606:4700:58::a29f:2c33
+olof.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c333
+rafe.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:20d8
+rafe.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3ad8
+rafe.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0d8
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+treasurer.ca.gov	mail exchanger = 10 treasurer-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.mil	nameserver = dns1.disa.mil.
+navy.mil	nameserver = dns5.disa.mil.
+navy.mil	nameserver = dns2.disa.mil.
+navy.mil	nameserver = dns3.disa.mil.
+navy.mil	nameserver = dns4.disa.mil.
+
+Authoritative answers can be found from:
+DNS4.DISA.mil	internet address = 214.23.245.6
+DNS3.DISA.mil	internet address = 214.3.125.232
+DNS5.DISA.mil	internet address = 215.65.126.185
+DNS2.DISA.mil	internet address = 131.77.60.232
+DNS1.DISA.mil	internet address = 152.229.110.232
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.mil	mail exchanger = 30 mx13.nmci.navy.mil.
+navy.mil	mail exchanger = 10 pri-jeemsg.eemsg.mail.mil.
+navy.mil	mail exchanger = 30 mx14.nmci.navy.mil.
+navy.mil	mail exchanger = 30 mx15.nmci.navy.mil.
+navy.mil	mail exchanger = 20 sec-jeemsg.eemsg.mail.mil.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.com	nameserver = vera.ns.cloudflare.com.
+navy.com	nameserver = simon.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+simon.ns.cloudflare.com	internet address = 108.162.193.232
+simon.ns.cloudflare.com	internet address = 172.64.33.232
+simon.ns.cloudflare.com	internet address = 173.245.59.232
+vera.ns.cloudflare.com	internet address = 172.64.32.147
+vera.ns.cloudflare.com	internet address = 173.245.58.147
+vera.ns.cloudflare.com	internet address = 108.162.192.147
+simon.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c1e8
+simon.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:21e8
+simon.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3be8
+vera.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c093
+vera.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2093
+vera.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3a93
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.com	mail exchanger = 10 mx1.simplelogin.co.
+navy.com	mail exchanger = 20 mx2.simplelogin.co.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	nameserver = ns3.esa.int.
+esa.int	nameserver = ns2.esa.int.
+esa.int	nameserver = ns1.esa.int.
+esa.int	nameserver = ns4.esa.int.
+
+Authoritative answers can be found from:
+ns2.esa.int	internet address = 131.176.243.101
+ns1.esa.int	internet address = 131.176.243.100
+ns4.esa.int	internet address = 192.171.1.145
+ns3.esa.int	internet address = 131.176.166.81
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	mail exchanger = 10 esa-int.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacetelescope.org	nameserver = jack.ns.cloudflare.com.
+spacetelescope.org	nameserver = fay.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+fay.ns.cloudflare.com	internet address = 108.162.192.115
+fay.ns.cloudflare.com	internet address = 172.64.32.115
+fay.ns.cloudflare.com	internet address = 173.245.58.115
+jack.ns.cloudflare.com	internet address = 173.245.59.121
+jack.ns.cloudflare.com	internet address = 108.162.193.121
+jack.ns.cloudflare.com	internet address = 172.64.33.121
+fay.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2073
+fay.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3a73
+fay.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c073
+jack.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3b79
+jack.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c179
+jack.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2179
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find spacetelescope.org: No answer
+
+Authoritative answers can be found from:
+spacetelescope.org
+	origin = fay.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2404693820
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+traceroute to reelecthydee.com (198.51.100.91), 30 hops max, 60 byte packets
+ 1  cp.local.tld (192.168.10.1)  2.528 ms  2.218 ms  2.157 ms
+ 2  172.26.96.161 (172.26.96.161)  19.958 ms  18.952 ms  18.059 ms
+ 3  107.72.227.252 (107.72.227.252)  25.727 ms  28.597 ms  27.410 ms
+ 4  12.83.188.161 (12.83.188.161)  32.531 ms  37.296 ms  30.270 ms
+ 5  12.83.179.49 (12.83.179.49)  29.253 ms  33.586 ms  32.038 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+reelecthydee.com	nameserver = ns6.wixdns.net.
+reelecthydee.com	nameserver = ns7.wixdns.net.
+
+Authoritative answers can be found from:
+ns6.wixdns.net	internet address = 216.239.32.100
+ns7.wixdns.net	internet address = 216.239.34.100
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+reelecthydee.com	mail exchanger = 10 aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+global.jaxa.jp	canonical name = fanfun.exst.jaxa.jp.
+fanfun.exst.jaxa.jp	canonical name = ves-io-12ba2681-cc67-43ba-8133-7e72b6c88160.ac.vh.ves.io.
+
+Authoritative answers can be found from:
+ac.vh.ves.io
+	origin = ns-1673.awsdns-17.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+global.jaxa.jp	canonical name = fanfun.exst.jaxa.jp.
+fanfun.exst.jaxa.jp	canonical name = ves-io-12ba2681-cc67-43ba-8133-7e72b6c88160.ac.vh.ves.io.
+
+Authoritative answers can be found from:
+ac.vh.ves.io
+	origin = ns-1673.awsdns-17.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+gov.uk	nameserver = dns2.nic.uk.
+gov.uk	nameserver = nsd.nic.uk.
+gov.uk	nameserver = dns3.nic.uk.
+gov.uk	nameserver = dns1.nic.uk.
+gov.uk	nameserver = nsa.nic.uk.
+gov.uk	nameserver = nsb.nic.uk.
+gov.uk	nameserver = dns4.nic.uk.
+gov.uk	nameserver = nsc.nic.uk.
+
+Authoritative answers can be found from:
+dns3.nic.uk	internet address = 213.248.220.1
+nsc.nic.uk	internet address = 156.154.102.3
+dns1.nic.uk	internet address = 213.248.216.1
+nsb.nic.uk	internet address = 156.154.101.3
+nsa.nic.uk	internet address = 156.154.100.3
+dns4.nic.uk	internet address = 43.230.48.1
+nsd.nic.uk	internet address = 156.154.103.3
+dns2.nic.uk	internet address = 103.49.80.1
+dns3.nic.uk	has AAAA address 2a01:618:404::1
+nsc.nic.uk	has AAAA address 2610:a1:1009::3
+dns1.nic.uk	has AAAA address 2a01:618:400::1
+nsb.nic.uk	has AAAA address 2001:502:2eda::3
+nsa.nic.uk	has AAAA address 2001:502:ad09::3
+dns4.nic.uk	has AAAA address 2401:fd80:404::1
+nsd.nic.uk	has AAAA address 2610:a1:1010::3
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find gov.uk: No answer
+
+Authoritative answers can be found from:
+gov.uk
+	origin = dns1.nic.uk
+	mail addr = hostmaster.nominet.org.uk
+	serial = 1780579444
+	refresh = 900
+	retry = 300
+	expire = 2419200
+	minimum = 3600
+
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.4.4#53: timed out
+
+; <<>> DiG 9.20.22 <<>> whitehouse.gov NS +trace
+;; global options: +cmd
+;; no servers could be reached
+whithouse.gov has address 198.51.100.91
+whithouse.gov has address 198.51.100.91
+trumpcard.gov has address 198.51.100.91
+trumpcard.gov has address 198.51.100.91
+trumpcard.gov mail is handled by 61 route3.mx.cloudflare.net.
+trumpcard.gov mail is handled by 60 route1.mx.cloudflare.net.
+trumpcard.gov mail is handled by 23 route2.mx.cloudflare.net.
+trumpcard.gov has HTTP service bindings 1 . alpn="h2" ipv4hint=104.18.18.173,104.18.19.173 ipv6hint=2606:4700::6812:12ad,2606:4700::6812:13ad
+;; communications error to 8.8.8.8#53: timed out
+commerce.gov has address 172.65.90.27
+commerce.gov has address 172.65.90.26
+commerce.gov has address 172.65.90.25
+commerce.gov has address 172.65.90.24
+commerce.gov has IPv6 address 2606:4700:78::90:0:181
+commerce.gov has IPv6 address 2606:4700:78::90:0:183
+commerce.gov has IPv6 address 2606:4700:78::90:0:180
+commerce.gov has IPv6 address 2606:4700:78::90:0:182
+commerce.gov mail is handled by 0 commerce-gov.mail.protection.outlook.com.
+usgs.gov has address 137.227.229.78
+;; communications error to 8.8.8.8#53: timed out
+usgs.gov mail is handled by 0 usgs-gov.mail.protection.outlook.com.
+pbs.org has address 54.225.206.152
+pbs.org has address 54.225.198.196
+pbs.org mail is handled by 10 pbs-org.mail.protection.outlook.com.
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	nameserver = dns082.usps.com.
+usps.com	nameserver = dns141.usps.com.
+
+Authoritative answers can be found from:
+dns141.usps.com	internet address = 56.0.141.25
+dns082.usps.com	internet address = 56.0.82.25
+
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+Server:		8.8.4.4
+Address:	8.8.4.4#53
+
+Non-authoritative answer:
+usps.com	mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com.
+usps.com	mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> usps.com ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58424
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: e7482dd536e0406b5c97ef556a2182fe90bcbf84e2b2a8e0 (good)
+;; QUESTION SECTION:
+;usps.com.			IN	ANY
+
+;; ANSWER SECTION:
+usps.com.		3600	IN	MX	10 mxa-0038fd02.gslb.gpphosted.com.
+usps.com.		3600	IN	MX	10 mxb-0038fd02.gslb.gpphosted.com.
+usps.com.		3585	IN	NS	dns141.usps.com.
+usps.com.		3585	IN	NS	dns082.usps.com.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Thu Jun 04 06:51:57 PDT 2026
+;; MSG SIZE  rcvd: 180
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780581119
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780581119
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+
+; <<>> DiG 9.20.22 <<>> wp1-ext.usps.gov ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55488
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: b9ee60e1011f31b95ae5a3e76a2183034e65a3ca5e3ca17e (good)
+;; QUESTION SECTION:
+;wp1-ext.usps.gov.		IN	ANY
+
+;; ANSWER SECTION:
+wp1-ext.usps.gov.	296	IN	RRSIG	CNAME 7 3 300 20260610033805 20260531032531 36053 usps.gov. V/lH7HdiZBUYbyJT20wYIHPjP3bzKC1k7j+iVo+Rk3d0LXLqLyQs9BRQ iRTkCzV6+eowafhu9PLtLbDEMr2hxy87bDidn5vooZ114WSlx6oZlzlL jzTRdMe+snwP8kTnaZ9JQnomCx0gmLW76crqPyhCFNOxWSurv01UcFTY VaE=
+wp1-ext.usps.gov.	296	IN	CNAME	wildcard.usps.com.edgekey.net.
+
+;; Query time: 84 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Thu Jun 04 06:52:02 PDT 2026
+;; MSG SIZE  rcvd: 284
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	mail exchanger = 0 mail.uspto.com.
+
+Authoritative answers can be found from:
+
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; communications error to 8.8.8.8#53: timed out
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for uspto.com failed: network unreachable.
+;; no servers could be reached
+
+Trying "gov.uk"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for gov.uk failed: network unreachable.
+;; no servers could be reached
+Trying "gov.uk"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for gov.uk failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for gov.uk failed: network unreachable.
+;; no servers could be reached
+Trying "africanspaceagency.org"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for africanspaceagency.org failed: network unreachable.
+;; no servers could be reached
+Trying "africanspaceagency.org"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for africanspaceagency.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for africanspaceagency.org failed: network unreachable.
+;; no servers could be reached
+Trying "asal.dz"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for asal.dz failed: network unreachable.
+;; no servers could be reached
+Trying "asal.dz"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for asal.dz failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for asal.dz failed: network unreachable.
+;; no servers could be reached
+Trying "mayor.lacity.gov"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for mayor.lacity.gov failed: network unreachable.
+;; no servers could be reached
+Trying "mayor.lacity.gov"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for mayor.lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for mayor.lacity.gov failed: network unreachable.
+;; no servers could be reached
+Trying "gavrt.lewiscenter.org"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for gavrt.lewiscenter.org failed: network unreachable.
+;; no servers could be reached
+Trying "gavrt.lewiscenter.org"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for gavrt.lewiscenter.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for gavrt.lewiscenter.org failed: network unreachable.
+;; no servers could be reached
+Trying "satellitegroundstation.com"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for satellitegroundstation.com failed: network unreachable.
+;; no servers could be reached
+Trying "satellitegroundstation.com"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for satellitegroundstation.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for satellitegroundstation.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jpl.nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jpl.nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for space.gov.au failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for space.gov.au failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for space.gov.au failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for space.gov.au failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for space.gov.au failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for space.gov.au failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for space.gov.au failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for space.gov.au failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for congress.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for congress.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for congress.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for congress.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for congress.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for congress.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for congress.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for congress.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dhs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dhs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dhs.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for dhs.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dhs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dhs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dhs.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for dhs.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for si.edu failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for si.edu failed: network unreachable.
+;; no servers could be reached
+
+Trying "si.edu"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; no servers could be reached
+Trying "si.edu"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for si.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for si.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ice.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ice.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ice.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ice.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ice.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ice.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ice.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ice.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethics.lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethics.lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethics.lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ethics.lacity.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethics.lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethics.lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethics.lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ethics.lacity.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for karenbass.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for karenbass.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for raulclaros.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for raulclaros.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for la28.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for la28.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for la28.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for la28.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for usgs.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for usgs.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fifa.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fifa.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fifa.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fifa.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bet.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bet.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bet.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bet.com failed: network unreachable.
+;; no servers could be reached
+Trying "hot97.com"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; no servers could be reached
+Trying "hot97.com"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for hot97.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for hot97.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for hot97.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for hot97.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for vsco.co failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for vsco.co failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for vsco.co failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fb.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fb.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fb.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fb.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for linkedin.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for linkedin.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for linkedin.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for linkedin.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for linkedin.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for linkedin.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for linkedin.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for linkedin.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tiktok.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tiktok.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tiktok.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for tiktok.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tiktok.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tiktok.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tiktok.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for tiktok.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for distrowatch.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for distrowatch.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for distrowatch.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for distrowatch.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for distrowatch.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for distrowatch.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for distrowatch.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for distrowatch.com failed: network unreachable.
+;; no servers could be reached
+
+Trying "wikipedia.org"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wikipedia.org failed: network unreachable.
+;; no servers could be reached
+Trying "wikipedia.org"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wikipedia.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wikipedia.org failed: network unreachable.
+;; no servers could be reached
+Trying "saxavord.com"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for saxavord.com failed: network unreachable.
+;; no servers could be reached
+Trying "saxavord.com"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for saxavord.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for saxavord.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for facebook.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for facebook.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for facebook.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for facebook.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for facebook.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for facebook.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for facebook.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for facebook.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for x.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for x.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for x.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for x.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for x.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for x.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for x.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for x.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for twitter.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for twitter.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for twitter.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tumblr.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tumblr.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tumblr.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for tumblr.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tumblr.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tumblr.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for tumblr.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for tumblr.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for essence.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for essence.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for essence.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for essence.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for essence.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for essence.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for essence.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for essence.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ebony.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ebony.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ebony.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ebony.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ebony.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ebony.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ebony.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ebony.com failed: network unreachable.
+;; no servers could be reached
+
+Trying "bsky.app"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bsky.app failed: network unreachable.
+;; no servers could be reached
+Trying "bsky.app"
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bsky.app failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bsky.app failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cbs.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cbs.com failed: network unreachable.
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbs.com failed: network unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for cbs.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbssports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbssports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cbssports.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cbssports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ALL failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ALL failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ALL failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ALL failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for cbssports.com failed: network unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for cbssports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nbc.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nbc.com failed: network unreachable.
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for nbc.com failed: network unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for nbc.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbcsports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbcsports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nbcsports.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nbcsports.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ALL failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ALL failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ALL failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ALL failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for foxnews.com failed: network unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for foxnews.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fox.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fox.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fox.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for abc.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for abc.com failed: network unreachable.
+;; no servers could be reached
+
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; no servers could be reached
+;; Connection to 8.8.8.8#53(8.8.8.8) for abc.com failed: network unreachable.
+;; Connection to 8.8.4.4#53(8.8.4.4) for abc.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacourt.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacourt.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for nasa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for nasa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for flylax.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for flylax.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for flylax.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cia.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cia.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cia.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for google.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for google.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for google.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fbi.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fbi.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for epa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for epa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for epa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacoe.edu failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacoe.edu failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jw.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for jw.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for jw.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for azbec.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for azbec.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for azbec.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for noaa.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for noaa.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for aia-aerospace.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for aia-aerospace.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rocketlabcorp.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rocketlabcorp.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rtx.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for rtx.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for rtx.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacity.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacity.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for santamonica.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for santamonica.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for santamonica.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for santamonica.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for santamonica.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for santamonica.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for santamonica.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for santamonica.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for longbeach.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for longbeach.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for longbeach.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for longbeach.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for longbeach.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for longbeach.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for longbeach.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for longbeach.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapl.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapl.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapl.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lapl.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapl.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapl.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapl.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lapl.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for georgia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for georgia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for georgia.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for georgia.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for georgia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for georgia.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for georgia.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for georgia.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for earthlink.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for earthlink.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for earthlink.net failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for earthlink.net failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for earthlink.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for earthlink.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for earthlink.net failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for earthlink.net failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for waterandpower.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for waterandpower.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for waterandpower.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for waterandpower.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for waterandpower.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for waterandpower.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for waterandpower.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for waterandpower.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for level3.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for level3.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for level3.net failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for level3.net failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for level3.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for level3.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for level3.net failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for level3.net failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fultoncountyga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fultoncountyga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fultoncountyga.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fultoncountyga.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fultoncountyga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fultoncountyga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fultoncountyga.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fultoncountyga.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for atlantaga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for atlantaga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for atlantaga.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for atlantaga.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for atlantaga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for atlantaga.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for atlantaga.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for atlantaga.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for whitehouse.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for whitehouse.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for whitehouse.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for whitehouse.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for whitehouse.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for whitehouse.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for whitehouse.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for whitehouse.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for metro.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for metro.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for metro.net failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for metro.net failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for metro.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for metro.net failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for metro.net failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for metro.net failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for amtrack.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for amtrack.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for amtrack.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for amtrack.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for amtrack.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for amtrack.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for amtrack.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for amtrack.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bigbluebus.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bigbluebus.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bigbluebus.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bigbluebus.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ladottransit.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ladottransit.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ladottransit.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ladottransit.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bigbluebus.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bigbluebus.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for bigbluebus.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for bigbluebus.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ladottransit.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ladottransit.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ladottransit.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ladottransit.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapdonline.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapdonline.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapdonline.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lapdonline.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapdonline.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapdonline.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lapdonline.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lapdonline.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for lacounty.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for lacounty.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commerce.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commerce.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commerce.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for commerce.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commerce.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commerce.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commerce.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for commerce.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for polb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for polb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for polb.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for polb.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for polb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for polb.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for polb.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for polb.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for wellsfargo.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for wellsfargo.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for musiccenter.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for musiccenter.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for laopera.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for laopera.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for laopera.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for state.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for state.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for cedars-sinai.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for cedars-sinai.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ethiopianembassy.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ethiopianembassy.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for state.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for state.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for embassyeritrea.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for embassyeritrea.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for stfranciscenterla.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for stfranciscenterla.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for fire.ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for fire.ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for ca.gov failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for ca.gov failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for commonspirit.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for commonspirit.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for dignityhealth.org failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for dignityhealth.org failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for starbucks.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for starbucks.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+;; UDP setup with 8.8.8.8#53(8.8.8.8) for virtiserv.com failed: network unreachable.
+;; UDP setup with 8.8.4.4#53(8.8.4.4) for virtiserv.com failed: network unreachable.
+;; no servers could be reached
+
+ #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html

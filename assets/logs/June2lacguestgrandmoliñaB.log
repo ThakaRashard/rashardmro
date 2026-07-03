@@ -1,0 +1,3346 @@
+CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber
+Tue Jun  2 20:24:07 PDT 2026
+ #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:18:51 CST 2026 aarch64 Android
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.193.40.245  netmask 255.255.192.0  broadcast 10.193.63.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+ 20:24:07 up 13 days,  6:02,  load average: 16.49, 15.99, 15.50
+Tue Jun  2 20:24:07 PDT 2026
+real-time non-blocking time  (microseconds, -R) unlimited
+core file size              (blocks, -c) 0
+data seg size               (kbytes, -d) unlimited
+scheduling priority                 (-e) 40
+file size                   (blocks, -f) unlimited
+pending signals                     (-i) 9112
+max locked memory           (kbytes, -l) unlimited
+max memory size             (kbytes, -m) unlimited
+open files                          (-n) 32768
+pipe size                (512 bytes, -p) 8
+POSIX message queues         (bytes, -q) 819200
+real-time priority                  (-r) 0
+stack size                  (kbytes, -s) 8192
+cpu time                   (seconds, -t) unlimited
+max user processes                  (-u) 9112
+virtual memory              (kbytes, -v) unlimited
+file locks                          (-x) unlimited
+traceroute to localhost (127.0.0.1), 30 hops max, 60 byte packets
+ 1  localhost (127.0.0.1)  0.212 ms  0.078 ms  0.071 ms
+      June 2026     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30            
+                    
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com	nameserver = ns-cloud-b3.googledomains.com.
+spacex.com	nameserver = ns-cloud-b4.googledomains.com.
+spacex.com	nameserver = ns-cloud-b1.googledomains.com.
+spacex.com	nameserver = ns-cloud-b2.googledomains.com.
+
+Authoritative answers can be found from:
+
+spacex.com has address 104.18.27.217
+spacex.com has address 104.18.26.217
+spacex.com has IPv6 address 2606:4700::6812:1bd9
+spacex.com has IPv6 address 2606:4700::6812:1ad9
+spacex.com mail is handled by 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com mail is handled by 5 mxa-003ea501.gslb.gpphosted.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2405393841
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Trying "whitehouse.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40216
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whitehouse.gov.			IN	ANY
+
+;; ANSWER SECTION:
+whitehouse.gov.		86400	IN	NS	ernest.ns.cloudflare.com.
+whitehouse.gov.		86400	IN	NS	wally.ns.cloudflare.com.
+whitehouse.gov.		86400	IN	RRSIG	NS 13 2 86400 20260604042410 20260602022410 34505 whitehouse.gov. tWS0uLARA0Ypihh49li6/l7mK73sLGuIG1CSA5SsyncTXX0rVhUrPzkx 9/umRlzzZucnk4xfRGsvra/RQUintw==
+
+Received 200 bytes from 8.8.8.8#53 in 48 ms
+Trying "war.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62758
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;war.gov.			IN	ANY
+
+;; ANSWER SECTION:
+war.gov.		1800	IN	AAAA	2600:1404:1200:29::1726:6f0a
+war.gov.		1800	IN	AAAA	2600:1404:1200:29::1726:6f08
+war.gov.		1800	IN	RRSIG	AAAA 13 2 1800 20260605064347 20260602054347 36627 war.gov. S3Rc4CNZB7JFr+6libBoLNtLvu2Ecit7mtIj1jbX7e1mB8KoZfxaIDoE cHvOu4eYJF6eZ4lrq5gjuhABX1nY+A==
+war.gov.		1800	IN	A	184.25.255.53
+war.gov.		1800	IN	A	184.25.255.42
+war.gov.		1800	IN	RRSIG	A 13 2 1800 20260605064347 20260602054347 36627 war.gov. ZYMTOTHeghvhmthVC8+wRCOu6yKDpC/F8ob+Ioe4q5Td9jt1bt7UKwrG H3CFDPsxbk49iuayHxSGkcS3Fl03Hw==
+
+Received 319 bytes from 8.8.8.8#53 in 52 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find war.gov: No answer
+
+Authoritative answers can be found from:
+war.gov
+	origin = asia2.akam.net
+	mail addr = hostmaster.war.gov
+	serial = 2025090513
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+war.gov	nameserver = usc5.akam.net.
+war.gov	nameserver = asia3.akam.net.
+war.gov	nameserver = use9.akam.net.
+war.gov	nameserver = eur6.akam.net.
+war.gov	nameserver = asia2.akam.net.
+war.gov	nameserver = ns1-95.akam.net.
+war.gov	nameserver = use2.akam.net.
+war.gov	nameserver = ns1-116.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	nameserver = a8-65.akam.net.
+jpl.nasa.gov	nameserver = a2-67.akam.net.
+jpl.nasa.gov	nameserver = a7-65.akam.net.
+jpl.nasa.gov	nameserver = a1-91.akam.net.
+jpl.nasa.gov	nameserver = a11-67.akam.net.
+jpl.nasa.gov	nameserver = a14-67.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	nameserver = einstein2.lpl.arizona.edu.
+uahirise.org	nameserver = einstein1.lpl.arizona.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	mail exchanger = 10 usb-smtp-inbound-1.mimecast.com.
+uahirise.org	mail exchanger = 10 usb-smtp-inbound-2.mimecast.com.
+uahirise.org	mail exchanger = 10 pirlmail.lpl.arizona.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+home.treasury.gov	canonical name = home.treasury.gov.edgekey.net.
+home.treasury.gov.edgekey.net	canonical name = e289631.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780457051
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+home.treasury.gov	canonical name = home.treasury.gov.edgekey.net.
+home.treasury.gov.edgekey.net	canonical name = e289631.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780457051
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+treasurer.ca.gov	nameserver = rafe.ns.cloudflare.com.
+treasurer.ca.gov	nameserver = olof.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+treasurer.ca.gov	mail exchanger = 10 treasurer-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.mil	nameserver = dns5.disa.mil.
+navy.mil	nameserver = dns1.disa.mil.
+navy.mil	nameserver = dns2.disa.mil.
+navy.mil	nameserver = dns3.disa.mil.
+navy.mil	nameserver = dns4.disa.mil.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.mil	mail exchanger = 30 mx15.nmci.navy.mil.
+navy.mil	mail exchanger = 20 sec-jeemsg.eemsg.mail.mil.
+navy.mil	mail exchanger = 10 pri-jeemsg.eemsg.mail.mil.
+navy.mil	mail exchanger = 30 mx14.nmci.navy.mil.
+navy.mil	mail exchanger = 30 mx13.nmci.navy.mil.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.com	nameserver = simon.ns.cloudflare.com.
+navy.com	nameserver = vera.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.com	mail exchanger = 20 mx2.simplelogin.co.
+navy.com	mail exchanger = 10 mx1.simplelogin.co.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	nameserver = ns3.esa.int.
+esa.int	nameserver = ns2.esa.int.
+esa.int	nameserver = ns1.esa.int.
+esa.int	nameserver = ns4.esa.int.
+
+Authoritative answers can be found from:
+ns1.esa.int	internet address = 131.176.243.100
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	mail exchanger = 10 esa-int.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacetelescope.org	nameserver = fay.ns.cloudflare.com.
+spacetelescope.org	nameserver = jack.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find spacetelescope.org: No answer
+
+Authoritative answers can be found from:
+spacetelescope.org
+	origin = fay.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2404693820
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+traceroute to reelecthydee.com (185.230.63.107), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  4.634 ms  6.572 ms  5.031 ms
+ 2  10.251.193.141 (10.251.193.141)  4.181 ms  4.585 ms  3.604 ms
+ 3  170.85.101.26 (170.85.101.26)  42.816 ms  40.932 ms  39.560 ms
+ 4  170.85.100.2 (170.85.100.2)  38.777 ms 170.85.100.3 (170.85.100.3)  43.113 ms  41.797 ms
+ 5  dls-b24-link.ip.twelve99.net (213.248.99.42)  40.659 ms  39.570 ms dls-b24-link.ip.twelve99.net (62.115.44.182)  39.646 ms
+ 6  dls-bb1-link.ip.twelve99.net (62.115.136.82)  38.787 ms  40.872 ms  39.070 ms
+ 7  nash-bb1-link.ip.twelve99.net (62.115.137.44)  60.196 ms  60.609 ms *
+ 8  * atl-bb1-link.ip.twelve99.net (62.115.137.54)  61.369 ms  59.502 ms
+ 9  rest-bb1-link.ip.twelve99.net (62.115.138.70)  77.159 ms  74.865 ms  73.798 ms
+10  * ash-b2-link.ip.twelve99.net (62.115.123.123)  75.737 ms *
+11  * * *
+12  * * *
+13  unalocated.63.wixsite.com (185.230.63.107)  77.710 ms  76.606 ms  75.692 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+reelecthydee.com	nameserver = ns6.wixdns.net.
+reelecthydee.com	nameserver = ns7.wixdns.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+reelecthydee.com	mail exchanger = 10 aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+global.jaxa.jp	canonical name = fanfun.exst.jaxa.jp.
+fanfun.exst.jaxa.jp	canonical name = ves-io-12ba2681-cc67-43ba-8133-7e72b6c88160.ac.vh.ves.io.
+
+Authoritative answers can be found from:
+ac.vh.ves.io
+	origin = ns-1673.awsdns-17.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+global.jaxa.jp	canonical name = fanfun.exst.jaxa.jp.
+fanfun.exst.jaxa.jp	canonical name = ves-io-12ba2681-cc67-43ba-8133-7e72b6c88160.ac.vh.ves.io.
+
+Authoritative answers can be found from:
+ac.vh.ves.io
+	origin = ns-1673.awsdns-17.co.uk
+	mail addr = awsdns-hostmaster.amazon.com
+	serial = 1
+	refresh = 7200
+	retry = 900
+	expire = 1209600
+	minimum = 86400
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+gov.uk	nameserver = dns3.nic.uk.
+gov.uk	nameserver = dns4.nic.uk.
+gov.uk	nameserver = nsa.nic.uk.
+gov.uk	nameserver = nsb.nic.uk.
+gov.uk	nameserver = nsc.nic.uk.
+gov.uk	nameserver = nsd.nic.uk.
+gov.uk	nameserver = dns1.nic.uk.
+gov.uk	nameserver = dns2.nic.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find gov.uk: No answer
+
+Authoritative answers can be found from:
+gov.uk
+	origin = dns1.nic.uk
+	mail addr = hostmaster.nominet.org.uk
+	serial = 1780454239
+	refresh = 900
+	retry = 300
+	expire = 2419200
+	minimum = 3600
+
+
+; <<>> DiG 9.20.22 <<>> whitehouse.gov NS +trace
+;; global options: +cmd
+.			59113	IN	NS	b.root-servers.net.
+.			59113	IN	NS	d.root-servers.net.
+.			59113	IN	NS	e.root-servers.net.
+.			59113	IN	NS	f.root-servers.net.
+.			59113	IN	NS	k.root-servers.net.
+.			59113	IN	NS	a.root-servers.net.
+.			59113	IN	NS	h.root-servers.net.
+.			59113	IN	NS	j.root-servers.net.
+.			59113	IN	NS	l.root-servers.net.
+.			59113	IN	NS	c.root-servers.net.
+.			59113	IN	NS	g.root-servers.net.
+.			59113	IN	NS	m.root-servers.net.
+.			59113	IN	NS	i.root-servers.net.
+.			59113	IN	RRSIG	NS 8 0 518400 20260615170000 20260602160000 54393 . GBZtl6S4PEy66x/Smm/TxQDNMBrwcJxQMsyKItimIboi0khyRxmJ+bXd sYjTv8E0N0VVilKvEMB7/CqEGJLj83jYm8ZxMbVwxW36RZ2f5frjwN0v PsaBSujeHGUeRdme+lNGpJyppf1I/VY+9VndRCV1wXKUlqM9HGo8f4XV dYfKKeV9YGgoBbwJpI7OkL+WgTqlYHnZyNTsHuAdXO4oZVGRLufmTke4 blmxlf7uA1f4dxcwz9SYo1q8RgUr0aRwR02lI2/zTl0O3uB6cBsZcmrX IPM//bJSWnKD2AoG+QrDY+hvqw3GvFlOTypdGzxY3E2zsyUOpN8C4gwt jeazNg==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 48 ms
+
+;; Received 43 bytes from 192.203.230.10#53(e.root-servers.net) in 40 ms
+
+trumpcard.gov has address 104.18.18.173
+trumpcard.gov has address 104.18.19.173
+trumpcard.gov has IPv6 address 2606:4700::6812:12ad
+trumpcard.gov has IPv6 address 2606:4700::6812:13ad
+trumpcard.gov mail is handled by 60 route1.mx.cloudflare.net.
+trumpcard.gov mail is handled by 61 route3.mx.cloudflare.net.
+trumpcard.gov mail is handled by 23 route2.mx.cloudflare.net.
+trumpcard.gov has HTTP service bindings 1 . alpn="h2" ipv4hint=104.18.18.173,104.18.19.173 ipv6hint=2606:4700::6812:12ad,2606:4700::6812:13ad
+commerce.gov has address 172.65.90.27
+commerce.gov has address 172.65.90.26
+commerce.gov has address 172.65.90.25
+commerce.gov has address 172.65.90.24
+commerce.gov has IPv6 address 2606:4700:78::90:0:183
+commerce.gov has IPv6 address 2606:4700:78::90:0:180
+commerce.gov has IPv6 address 2606:4700:78::90:0:182
+commerce.gov has IPv6 address 2606:4700:78::90:0:181
+commerce.gov mail is handled by 0 commerce-gov.mail.protection.outlook.com.
+usgs.gov has address 137.227.229.78
+usgs.gov mail is handled by 0 usgs-gov.mail.protection.outlook.com.
+pbs.org has address 54.225.206.152
+pbs.org has address 54.225.198.196
+pbs.org mail is handled by 10 pbs-org.mail.protection.outlook.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	nameserver = dns141.usps.com.
+usps.com	nameserver = dns082.usps.com.
+
+Authoritative answers can be found from:
+dns141.usps.com	internet address = 56.0.141.25
+dns082.usps.com	internet address = 56.0.82.25
+dns141.usps.com	has AAAA address 2610:68:3130:25:6010::25
+dns082.usps.com	has AAAA address 2610:68:5130:11:1410::25
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com.
+usps.com	mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> usps.com ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62410
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;usps.com.			IN	ANY
+
+;; ANSWER SECTION:
+usps.com.		7	IN	A	56.0.134.100
+usps.com.		3600	IN	MX	10 mxb-0038fd02.gslb.gpphosted.com.
+usps.com.		3600	IN	MX	10 mxa-0038fd02.gslb.gpphosted.com.
+usps.com.		3600	IN	NS	dns082.usps.com.
+usps.com.		3600	IN	NS	dns141.usps.com.
+
+;; Query time: 48 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Tue Jun 02 20:25:00 PDT 2026
+;; MSG SIZE  rcvd: 168
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780457101
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780457101
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+
+; <<>> DiG 9.20.22 <<>> wp1-ext.usps.gov ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 438
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wp1-ext.usps.gov.		IN	ANY
+
+;; ANSWER SECTION:
+wp1-ext.usps.gov.	299	IN	CNAME	wildcard.usps.com.edgekey.net.
+wp1-ext.usps.gov.	299	IN	RRSIG	CNAME 7 3 300 20260610033805 20260531032531 36053 usps.gov. V/lH7HdiZBUYbyJT20wYIHPjP3bzKC1k7j+iVo+Rk3d0LXLqLyQs9BRQ iRTkCzV6+eowafhu9PLtLbDEMr2hxy87bDidn5vooZ114WSlx6oZlzlL jzTRdMe+snwP8kTnaZ9JQnomCx0gmLW76crqPyhCFNOxWSurv01UcFTY VaE=
+
+;; Query time: 48 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Tue Jun 02 20:25:00 PDT 2026
+;; MSG SIZE  rcvd: 256
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	mail exchanger = 0 mail.uspto.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	nameserver = ns6.mpower.nl.
+uspto.com	nameserver = ns5.mpower.nl.
+
+Authoritative answers can be found from:
+
+Trying "gov.uk"
+Trying "gov.uk"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18032
+;; flags: qr rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;gov.uk.				IN	ANY
+
+;; ANSWER SECTION:
+gov.uk.			44	IN	A	151.101.128.144
+gov.uk.			44	IN	A	151.101.192.144
+gov.uk.			44	IN	A	151.101.0.144
+gov.uk.			44	IN	A	151.101.64.144
+gov.uk.			44	IN	RRSIG	A 8 2 3600 20260701171710 20260527164230 52549 gov.uk. R0Jr2UR8oP43mCQX5KQG3wMxyp6eTWlwF3axX3fdrUJcTGr/Wgv07out T8DsARH5NRcrhQmc7rz1RTpxWXaRnVJq9t8Tkt+qtNXLHmijK0wohhA0 AybLZxmWi1J4xGgC6iNxjoMf2TDWWo8NYuRNib3kXd7PR7ZbEALv7PLc QGJ2mbGl+Hw/c1JEGdKxcr5ADfz+ERZqfx0Ee5qUqYyT11P+ajKE5GkH MbyL/LjZX/mNrCxxHiMLi60yEHA/e9hReyAf+70UQQ9UjLYJda40TmBa E6EMQbe4409x6mVaW/wWKeiUxkuAzpoS2CKTEjQkpRpsvj/N6UxgCF+3 ZpaWrA==
+gov.uk.			24830	IN	NS	dns3.nic.uk.
+gov.uk.			24830	IN	NS	dns4.nic.uk.
+gov.uk.			24830	IN	NS	nsa.nic.uk.
+gov.uk.			24830	IN	NS	nsb.nic.uk.
+gov.uk.			24830	IN	NS	nsc.nic.uk.
+gov.uk.			24830	IN	NS	nsd.nic.uk.
+gov.uk.			24830	IN	NS	dns1.nic.uk.
+gov.uk.			24830	IN	NS	dns2.nic.uk.
+gov.uk.			24830	IN	RRSIG	NS 8 2 172800 20260701171710 20260527164230 52549 gov.uk. LpFqA5K1EjO71s/GFFZtBTXwZfmrXCsTR4JykTesACp0M6DBBmZ1H5/3 8em2mFLHsEAOu5YGWF/ttH73xSCBUxivU44wgkOX38pwiT1eCi3VvEoC +Yq9uB23i4ZuIiX8odql4hIWR7NhQYUgdnHGF8zs/rq+cSaTsRVYdIDh vr5VTujlg/z9v/DKTTYol6BnzjY3V/iq8JZjsB1A6p/WCyF4aHjK2AKg eMdcT8sHbhTvEje/zihTDpcHPCIsgyNCRmzqaWwmq3kS/a6whhFo7G7W 3XWy0gBdJpUsememCpaDQ0bv3fR8yy2GUbAXakOy+5/uHZsmZBK92ai/ +w+TPA==
+
+Received 828 bytes from 8.8.8.8#53 in 44 ms
+Trying "africanspaceagency.org"
+Host africanspaceagency.org not found: 2(SERVFAIL)
+Received 40 bytes from 8.8.4.4#53 in 312 ms
+Trying "asal.dz"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51582
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 0, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;asal.dz.			IN	ANY
+
+;; ANSWER SECTION:
+asal.dz.		800	IN	A	197.112.125.122
+asal.dz.		300	IN	MX	10 mail.asal.dz.
+asal.dz.		300	IN	NS	dns-3.djaweb.dz.
+asal.dz.		300	IN	NS	dns-4.djaweb.dz.
+asal.dz.		300	IN	NS	dns-1.djaweb.dz.
+asal.dz.		300	IN	NS	dns-2.djaweb.dz.
+asal.dz.		300	IN	TXT	"v=spf1 mx a ip4:196.20.73.35/32 a:mail.asal.dz -all"
+asal.dz.		300	IN	SOA	dns-1.djaweb.dz. hosting.djaweb.dz. 254308 43200 3600 604800 86400
+
+;; ADDITIONAL SECTION:
+mail.asal.dz.		300	IN	A	196.20.73.35
+
+Received 273 bytes from 8.8.8.8#53 in 684 ms
+Trying "mayor.lacity.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19921
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;mayor.lacity.gov.		IN	ANY
+
+;; ANSWER SECTION:
+mayor.lacity.gov.	86400	IN	SOA	ns10.digicertdns.com. dns.digicertdns.com. 2009048659 43200 3600 1209600 180
+
+Received 94 bytes from 8.8.8.8#53 in 48 ms
+Trying "gavrt.lewiscenter.org"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33565
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 3, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gavrt.lewiscenter.org.		IN	ANY
+
+;; ANSWER SECTION:
+gavrt.lewiscenter.org.	3600	IN	CNAME	catapult.lewiscenter.org.
+catapult.lewiscenter.org. 3600	IN	A	34.208.0.245
+
+;; AUTHORITY SECTION:
+lewiscenter.org.	3600	IN	NS	kuhn.lewiscenter.org.
+lewiscenter.org.	3600	IN	NS	ns1.sbcss.k12.ca.us.
+lewiscenter.org.	3600	IN	NS	ns1.lewiscenter.org.
+
+;; ADDITIONAL SECTION:
+ns1.lewiscenter.org.	3600	IN	A	163.150.129.99
+kuhn.lewiscenter.org.	3600	IN	A	163.150.129.99
+
+Received 180 bytes from 8.8.8.8#53 in 208 ms
+Trying "satellitegroundstation.com"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36516
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;satellitegroundstation.com.	IN	ANY
+
+;; ANSWER SECTION:
+satellitegroundstation.com. 60	IN	A	52.60.217.250
+satellitegroundstation.com. 86400 IN	NS	ns-1836.awsdns-37.co.uk.
+satellitegroundstation.com. 86400 IN	NS	ns-289.awsdns-36.com.
+satellitegroundstation.com. 86400 IN	NS	ns-569.awsdns-07.net.
+satellitegroundstation.com. 86400 IN	NS	ns-1531.awsdns-63.org.
+satellitegroundstation.com. 900	IN	SOA	ns-1836.awsdns-37.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+satellitegroundstation.com. 60	IN	TXT	"google-site-verification=oYiXgI9dstyQ2dtcBmX_2MXj6kUKRviuyt4IcFsodS0"
+
+Received 339 bytes from 8.8.8.8#53 in 160 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	nameserver = a11-67.akam.net.
+jpl.nasa.gov	nameserver = a14-67.akam.net.
+jpl.nasa.gov	nameserver = a8-65.akam.net.
+jpl.nasa.gov	nameserver = a2-67.akam.net.
+jpl.nasa.gov	nameserver = a7-65.akam.net.
+jpl.nasa.gov	nameserver = a1-91.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+space.gov.au	nameserver = ns2.intellicentre.net.au.
+space.gov.au	nameserver = ns1.intellicentre.net.au.
+space.gov.au	nameserver = ns3.intellicentre.net.au.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+space.gov.au	mail exchanger = 10 sig2indcav.secureintellicentre.net.au.
+space.gov.au	mail exchanger = 10 sig4indcav.secureintellicentre.net.au.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+congress.gov	mail exchanger = 5 mx23.loc.gov.
+congress.gov	mail exchanger = 5 mx41.loc.gov.
+congress.gov	mail exchanger = 5 mx42.loc.gov.
+congress.gov	mail exchanger = 5 mx22.loc.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+congress.gov	nameserver = kevin.ns.cloudflare.com.
+congress.gov	nameserver = alice.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dhs.gov	mail exchanger = 10 mxb-00376703.gslb.gpphosted.com.
+dhs.gov	mail exchanger = 10 mxa-00376703.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dhs.gov	nameserver = keira.ns.cloudflare.com.
+dhs.gov	nameserver = jihoon.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+si.edu	mail exchanger = 0 si-edu.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+si.edu	nameserver = a26-66.akam.net.
+si.edu	nameserver = a1-88.akam.net.
+si.edu	nameserver = a28-65.akam.net.
+si.edu	nameserver = a11-67.akam.net.
+si.edu	nameserver = a24-67.akam.net.
+si.edu	nameserver = a9-64.akam.net.
+
+Authoritative answers can be found from:
+
+Trying "si.edu"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48808
+;; flags: qr rd ra; QUERY: 1, ANSWER: 9, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;si.edu.				IN	ANY
+
+;; ANSWER SECTION:
+si.edu.			3599	IN	MX	0 si-edu.mail.protection.outlook.com.
+si.edu.			3599	IN	RRSIG	MX 13 2 3600 20260607072738 20260523070556 59756 si.edu. tYxWMDStYxLVaD7Fur+VdvQbOU1UW/KwkZ3dJxkNg/WDt4V153dYrJKL G2vt1TXk4rWxvMsOsJpI0KobNIYZCg==
+si.edu.			3599	IN	NS	a28-65.akam.net.
+si.edu.			3599	IN	NS	a11-67.akam.net.
+si.edu.			3599	IN	NS	a24-67.akam.net.
+si.edu.			3599	IN	NS	a9-64.akam.net.
+si.edu.			3599	IN	NS	a26-66.akam.net.
+si.edu.			3599	IN	NS	a1-88.akam.net.
+si.edu.			3599	IN	RRSIG	NS 13 2 3600 20260607074140 20260523070511 59756 si.edu. aOCrV8S0ZH7uU6Hc/KHgzCmDa5gZylpXtoqPjXuIfdLpq2n9f4FN+gCI Zs4yPw7Bid6Rcn96B8DxK2uia9d9ew==
+
+Received 410 bytes from 8.8.8.8#53 in 44 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find ice.gov: No answer
+
+Authoritative answers can be found from:
+ice.gov
+	origin = max.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2404986771
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ice.gov	nameserver = raina.ns.cloudflare.com.
+ice.gov	nameserver = max.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+traceroute to ethics.lacity.gov (23.32.152.29), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  5.895 ms  4.558 ms  3.693 ms
+ 2  10.251.193.141 (10.251.193.141)  3.729 ms  4.291 ms  4.303 ms
+ 3  170.85.102.187 (170.85.102.187)  38.752 ms  38.970 ms  40.121 ms
+ 4  170.85.102.2 (170.85.102.2)  40.938 ms  40.227 ms  39.936 ms
+ 5  * * *
+ 6  * * *
+ 7  ae7.mcr1.dfw2.us.zip.zayo.com (64.125.24.143)  38.740 ms * *
+ 8  * * *
+ 9  zayo-akamai.ter1.dfw2.us.zip.zayo.com (208.184.12.103)  38.978 ms  39.664 ms *
+10  ae3.r22.dfw01.mag.netarch.akamai.com (23.209.172.96)  41.195 ms zayo-akamai.ter1.dfw2.us.zip.zayo.com (208.184.12.103)  40.407 ms ae3.r21.dfw01.mag.netarch.akamai.com (23.209.172.88)  40.293 ms
+11  ae3.r21.dfw02.mag.netarch.akamai.com (23.209.172.104)  39.873 ms ae4.r21.dfw01.icn.netarch.akamai.com (23.209.172.69)  39.397 ms ae2.r21.dfw02.icn.netarch.akamai.com (23.209.173.85)  40.377 ms
+12  ae6.r21.lax01.icn.netarch.akamai.com (23.32.62.90)  70.713 ms ae0.r21.dfw02.icn.netarch.akamai.com (23.209.173.65)  38.803 ms ae5.r23.lax01.icn.netarch.akamai.com (23.32.62.167)  74.938 ms
+13  ae2.r21.lax01.mag.netarch.akamai.com (23.192.3.80)  74.895 ms ae20.r22.lax01.icn.netarch.akamai.com (23.32.62.109)  74.508 ms ae5.r23.lax01.icn.netarch.akamai.com (23.32.62.167)  73.596 ms
+14  ae1.r21.lax01.ien.netarch.akamai.com (23.192.3.97)  71.608 ms ae0.r22.lax01.mag.netarch.akamai.com (23.192.3.66)  71.029 ms ae2.r21.lax01.mag.netarch.akamai.com (23.192.3.80)  70.216 ms
+15  ae0.r21.lax01.ien.netarch.akamai.com (23.192.3.89)  69.195 ms ae1.r22.lax01.ien.netarch.akamai.com (23.192.3.99)  71.795 ms  69.969 ms
+16  akamai-ic-378766.ip.twelve99-cust.net (213.248.103.119)  70.027 ms 4.34.88.238 (4.34.88.238)  71.581 ms ae34.r04.border101.lax03.fab.netarch.akamai.com (23.203.155.71)  69.190 ms
+17  * * *
+18  * * *
+19  a23-32-152-29.deploy.static.akamaitechnologies.com (23.32.152.29)  70.871 ms  71.780 ms  71.440 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethics.lacity.gov	canonical name = main.lacity.gov.edgekey.net.
+main.lacity.gov.edgekey.net	canonical name = e123582.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780457137
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethics.lacity.gov	canonical name = main.lacity.gov.edgekey.net.
+main.lacity.gov.edgekey.net	canonical name = e123582.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780457137
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com	mail exchanger = 1 aspmx.l.google.com.
+karenbass.com	mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com	mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com	mail exchanger = 5 alt1.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+karenbass.com	nameserver = conrad.ns.cloudflare.com.
+karenbass.com	nameserver = nicole.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find raulclaros.com: No answer
+
+Authoritative answers can be found from:
+raulclaros.com
+	origin = ns75.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2026030700
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+raulclaros.com	nameserver = ns76.domaincontrol.com.
+raulclaros.com	nameserver = ns75.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+raulclaros.com has address 50.6.3.36
+traceroute to global.jaxa.jp (159.60.133.108), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  6.805 ms  5.681 ms  4.527 ms
+ 2  10.251.193.141 (10.251.193.141)  3.525 ms  6.020 ms  5.176 ms
+ 3  170.85.102.187 (170.85.102.187)  38.170 ms  39.870 ms  37.148 ms
+ 4  170.85.102.3 (170.85.102.3)  38.779 ms 170.85.102.2 (170.85.102.2)  38.233 ms 170.85.102.3 (170.85.102.3)  38.433 ms
+ 5  eqix-da1.f5-03.com (206.223.119.58)  37.944 ms  44.715 ms  44.281 ms
+ 6  100.99.16.191 (100.99.16.191)  45.178 ms  53.731 ms 100.99.16.185 (100.99.16.185)  53.129 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to la28.org (151.101.131.10), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  8.553 ms  7.492 ms  5.732 ms
+ 2  10.251.193.141 (10.251.193.141)  10.839 ms  9.169 ms  6.573 ms
+ 3  170.85.102.187 (170.85.102.187)  41.720 ms  40.549 ms  39.495 ms
+ 4  170.85.102.2 (170.85.102.2)  39.520 ms 170.85.102.3 (170.85.102.3)  42.589 ms 170.85.102.2 (170.85.102.2)  41.377 ms
+ 5  * 0.et-2-1-5.er1.dfw1.us.zip.zayo.com (209.249.150.114)  40.439 ms  39.579 ms
+ 6  ae3.er1.phx4.us.zip.zayo.com (64.125.30.108)  40.123 ms * ae17.cr1.dfw1.us.zip.zayo.com (64.125.25.124)  40.865 ms
+ 7  * ae7.mcr1.dfw2.us.zip.zayo.com (64.125.24.143)  39.614 ms *
+ 8  * * ae9.mcr2.dfw2.us.zip.zayo.com (64.125.22.49)  43.773 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+la28.org has address 151.101.3.10
+la28.org has address 151.101.67.10
+la28.org has address 151.101.131.10
+la28.org has address 151.101.195.10
+la28.org mail is handled by 10 us-smtp-inbound-1.mimecast.com.
+la28.org mail is handled by 10 us-smtp-inbound-2.mimecast.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+la28.org	mail exchanger = 10 us-smtp-inbound-1.mimecast.com.
+la28.org	mail exchanger = 10 us-smtp-inbound-2.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+la28.org	nameserver = ns75.domaincontrol.com.
+la28.org	nameserver = ns76.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usgs.gov	nameserver = chin.ns.cloudflare.com.
+usgs.gov	nameserver = ram.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usgs.gov	mail exchanger = 0 usgs-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> fifa.com MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29769
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;fifa.com.			IN	MX
+
+;; AUTHORITY SECTION:
+fifa.com.		377	IN	SOA	a1-4.akam.net. admin.fifa.org. 2025011295 3600 600 604800 600
+
+;; Query time: 40 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Jun 02 20:27:46 PDT 2026
+;; MSG SIZE  rcvd: 100
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bet.com	mail exchanger = 10 mxa-00262c01.gslb.pphosted.com.
+bet.com	mail exchanger = 10 mxb-00262c01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> +trace bet.com MX
+;; global options: +cmd
+.			58945	IN	NS	b.root-servers.net.
+.			58945	IN	NS	d.root-servers.net.
+.			58945	IN	NS	e.root-servers.net.
+.			58945	IN	NS	f.root-servers.net.
+.			58945	IN	NS	k.root-servers.net.
+.			58945	IN	NS	a.root-servers.net.
+.			58945	IN	NS	h.root-servers.net.
+.			58945	IN	NS	j.root-servers.net.
+.			58945	IN	NS	l.root-servers.net.
+.			58945	IN	NS	c.root-servers.net.
+.			58945	IN	NS	g.root-servers.net.
+.			58945	IN	NS	m.root-servers.net.
+.			58945	IN	NS	i.root-servers.net.
+.			58945	IN	RRSIG	NS 8 0 518400 20260615170000 20260602160000 54393 . GBZtl6S4PEy66x/Smm/TxQDNMBrwcJxQMsyKItimIboi0khyRxmJ+bXd sYjTv8E0N0VVilKvEMB7/CqEGJLj83jYm8ZxMbVwxW36RZ2f5frjwN0v PsaBSujeHGUeRdme+lNGpJyppf1I/VY+9VndRCV1wXKUlqM9HGo8f4XV dYfKKeV9YGgoBbwJpI7OkL+WgTqlYHnZyNTsHuAdXO4oZVGRLufmTke4 blmxlf7uA1f4dxcwz9SYo1q8RgUr0aRwR02lI2/zTl0O3uB6cBsZcmrX IPM//bJSWnKD2AoG+QrDY+hvqw3GvFlOTypdGzxY3E2zsyUOpN8C4gwt jeazNg==
+;; Received 525 bytes from 8.8.8.8#53(8.8.8.8) in 44 ms
+
+;; Received 36 bytes from 192.36.148.17#53(i.root-servers.net) in 68 ms
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bet.com	nameserver = ns0004.secondary.cloudflare.com.
+bet.com	nameserver = ns0243.secondary.cloudflare.com.
+bet.com	nameserver = dns1.p09.nsone.net.
+bet.com	nameserver = dns2.p09.nsone.net.
+bet.com	nameserver = dns3.p09.nsone.net.
+bet.com	nameserver = dns4.p09.nsone.net.
+
+Authoritative answers can be found from:
+
+bet.com has address 98.83.184.133
+bet.com has address 54.157.108.158
+bet.com has address 100.28.104.175
+bet.com has IPv6 address 2600:1f18:297:ba18:6ddc:5d8f:6053:f003
+bet.com has IPv6 address 2600:1f18:297:ba0e:7900:f622:48a8:f266
+bet.com has IPv6 address 2600:1f18:297:ba24:b508:76de:f4a:df34
+bet.com mail is handled by 10 mxb-00262c01.gslb.pphosted.com.
+bet.com mail is handled by 10 mxa-00262c01.gslb.pphosted.com.
+Trying "hot97.com"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 227
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;hot97.com.			IN	ANY
+
+;; ANSWER SECTION:
+hot97.com.		3600	IN	HINFO	"RFC8482" ""
+
+Received 48 bytes from 8.8.8.8#53 in 88 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+hot97.com	nameserver = vivienne.ns.cloudflare.com.
+hot97.com	nameserver = denver.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+hot97.com	mail exchanger = 0 hot97-com.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+vsco.co has address 172.64.146.133
+vsco.co has address 104.18.41.123
+vsco.co has IPv6 address 2a06:98c1:3103::6812:297b
+vsco.co has IPv6 address 2a06:98c1:3103::ac40:9285
+vsco.co mail is handled by 10 aspmx3.googlemail.com.
+vsco.co mail is handled by 5 alt1.aspmx.l.google.com.
+vsco.co mail is handled by 5 alt2.aspmx.l.google.com.
+vsco.co mail is handled by 1 aspmx.l.google.com.
+vsco.co mail is handled by 10 aspmx2.googlemail.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fb.com	nameserver = a.ns.facebook.com.
+fb.com	nameserver = c.ns.facebook.com.
+fb.com	nameserver = b.ns.facebook.com.
+fb.com	nameserver = d.ns.facebook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fb.com	mail exchanger = 10 mxa-00082601.gslb.pphosted.com.
+fb.com	mail exchanger = 10 mxb-00082601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+linkedin.com	nameserver = ns4-42.azure-dns.info.
+linkedin.com	nameserver = dns1.p09.nsone.net.
+linkedin.com	nameserver = dns2.p09.nsone.net.
+linkedin.com	nameserver = dns3.p09.nsone.net.
+linkedin.com	nameserver = dns4.p09.nsone.net.
+linkedin.com	nameserver = ns1-42.azure-dns.com.
+linkedin.com	nameserver = ns2-42.azure-dns.net.
+linkedin.com	nameserver = ns3-42.azure-dns.org.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+linkedin.com	mail exchanger = 10 mail-d.linkedin.com.
+linkedin.com	mail exchanger = 20 mail.linkedin.com.
+linkedin.com	mail exchanger = 10 mail-a.linkedin.com.
+linkedin.com	mail exchanger = 10 mail-c.linkedin.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tiktok.com	mail exchanger = 20 mx2.tiktok.com.
+tiktok.com	mail exchanger = 30 mx3.tiktok.com.
+tiktok.com	mail exchanger = 10 mx1.tiktok.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tiktok.com	nameserver = a18-64.akam.net.
+tiktok.com	nameserver = a13-67.akam.net.
+tiktok.com	nameserver = a1-97.akam.net.
+tiktok.com	nameserver = a12-66.akam.net.
+tiktok.com	nameserver = a6-65.akam.net.
+tiktok.com	nameserver = a9-66.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+distrowatch.com	mail exchanger = 50 mx3.zoho.com.
+distrowatch.com	mail exchanger = 10 mx.zoho.com.
+distrowatch.com	mail exchanger = 20 mx2.zoho.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+distrowatch.com	nameserver = ns-197-c.gandi.net.
+distrowatch.com	nameserver = ns-57-a.gandi.net.
+distrowatch.com	nameserver = ns-231-b.gandi.net.
+
+Authoritative answers can be found from:
+
+Trying "wikipedia.org"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 431
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;wikipedia.org.			IN	ANY
+
+;; ANSWER SECTION:
+wikipedia.org.		6	IN	A	208.80.153.224
+wikipedia.org.		85	IN	AAAA	2620:0:860:ed1a::1
+
+Received 75 bytes from 8.8.8.8#53 in 44 ms
+Trying "saxavord.com"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11136
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;saxavord.com.			IN	ANY
+
+;; ANSWER SECTION:
+saxavord.com.		86400	IN	MX	30 saxavord-com.mail.protection.outlook.com.
+saxavord.com.		86400	IN	NS	ns2.phase8.net.
+saxavord.com.		86400	IN	NS	ns1.phase8.net.
+saxavord.com.		86400	IN	NS	ns0.phase8.net.
+saxavord.com.		86400	IN	SOA	ns0.phase8.net. support.phase8.net. 2024092001 28800 3600 604800 86400
+saxavord.com.		86400	IN	TXT	"v=spf1 include:spf.protection.outlook.com include:_spf.elasticemail.com -all"
+saxavord.com.		86400	IN	A	178.62.87.176
+
+Received 296 bytes from 8.8.8.8#53 in 484 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+facebook.com	nameserver = d.ns.facebook.com.
+facebook.com	nameserver = b.ns.facebook.com.
+facebook.com	nameserver = c.ns.facebook.com.
+facebook.com	nameserver = a.ns.facebook.com.
+
+Authoritative answers can be found from:
+d.ns.facebook.com	has AAAA address 2a03:2880:f1fd:c:face:b00c:0:35
+d.ns.facebook.com	internet address = 185.89.219.12
+b.ns.facebook.com	has AAAA address 2a03:2880:f0fd:c:face:b00c:0:35
+b.ns.facebook.com	internet address = 129.134.31.12
+c.ns.facebook.com	has AAAA address 2a03:2880:f1fc:c:face:b00c:0:35
+c.ns.facebook.com	internet address = 185.89.218.12
+a.ns.facebook.com	has AAAA address 2a03:2880:f0fc:c:face:b00c:0:35
+a.ns.facebook.com	internet address = 129.134.30.12
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+facebook.com	mail exchanger = 10 smtpin.vvv.facebook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+x.com	nameserver = b.r10.twtrdns.net.
+x.com	nameserver = b.u10.twtrdns.net.
+x.com	nameserver = c.r10.twtrdns.net.
+x.com	nameserver = c.u10.twtrdns.net.
+x.com	nameserver = d.r10.twtrdns.net.
+x.com	nameserver = d.u10.twtrdns.net.
+x.com	nameserver = a.r10.twtrdns.net.
+x.com	nameserver = a.u10.twtrdns.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+x.com	mail exchanger = 5 alt1.aspmx.l.google.com.
+x.com	mail exchanger = 5 alt2.aspmx.l.google.com.
+x.com	mail exchanger = 1 aspmx.l.google.com.
+x.com	mail exchanger = 10 alt3.aspmx.l.google.com.
+x.com	mail exchanger = 10 alt4.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+twitter.com has address 172.66.0.227
+twitter.com mail is handled by 5 alt1.aspmx.l.google.com.
+twitter.com mail is handled by 5 alt2.aspmx.l.google.com.
+twitter.com mail is handled by 1 aspmx.l.google.com.
+twitter.com mail is handled by 10 alt3.aspmx.l.google.com.
+twitter.com mail is handled by 10 alt4.aspmx.l.google.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tumblr.com	nameserver = ns2.tumblr.com.
+tumblr.com	nameserver = ns4.tumblr.com.
+tumblr.com	nameserver = ns1.tumblr.com.
+tumblr.com	nameserver = ns3.tumblr.com.
+
+Authoritative answers can be found from:
+ns4.tumblr.com	has AAAA address 2620:115:c00f::c000:4b0b
+ns2.tumblr.com	internet address = 198.181.117.11
+ns1.tumblr.com	has AAAA address 2a04:fa87:ffff::c6b5:740b
+ns3.tumblr.com	has AAAA address 2620:115:c00f::c000:4a0b
+ns1.tumblr.com	internet address = 198.181.116.11
+ns4.tumblr.com	internet address = 192.0.75.11
+ns2.tumblr.com	has AAAA address 2a04:fa87:ffff::c6b5:750b
+ns3.tumblr.com	internet address = 192.0.74.11
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+tumblr.com	mail exchanger = 10 aspmx2.googlemail.com.
+tumblr.com	mail exchanger = 1 aspmx.l.google.com.
+tumblr.com	mail exchanger = 5 alt1.aspmx.l.google.com.
+tumblr.com	mail exchanger = 5 alt2.aspmx.l.google.com.
+tumblr.com	mail exchanger = 10 aspmx3.googlemail.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+essence.com	nameserver = dahlia.ns.cloudflare.com.
+essence.com	nameserver = lou.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+essence.com	mail exchanger = 10 us-smtp-inbound-2.mimecast.com.
+essence.com	mail exchanger = 10 us-smtp-inbound-1.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ebony.com	nameserver = macy.ns.cloudflare.com.
+ebony.com	nameserver = henrik.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ebony.com	mail exchanger = 0 ebony-com.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Trying "bsky.app"
+Trying "bsky.app"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2189
+;; flags: qr rd ra; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bsky.app.			IN	ANY
+
+;; ANSWER SECTION:
+bsky.app.		60	IN	A	18.189.225.18
+bsky.app.		60	IN	A	18.119.224.47
+bsky.app.		60	IN	A	3.136.28.34
+bsky.app.		86400	IN	NS	ns-372.awsdns-46.com.
+bsky.app.		86400	IN	NS	ns-757.awsdns-30.net.
+bsky.app.		86400	IN	NS	ns-1425.awsdns-50.org.
+bsky.app.		86400	IN	NS	ns-2001.awsdns-58.co.uk.
+bsky.app.		60	IN	SOA	ns-2001.awsdns-58.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+bsky.app.		300	IN	MX	1 aspmx.l.google.com.
+bsky.app.		60	IN	TXT	"google-site-verification=ppFonct21Z0sM_XgszQxPAJlnwgjeDzx8Qi3xnN3FAI"
+bsky.app.		60	IN	TXT	"v=spf1 mx include:mail.zendesk.com ?all"
+bsky.app.		60	IN	TXT	"google-site-verification=Y85ssVszowlKMCTQtWZoqCWH4x_2sV7NCCa7BlGJpiw"
+bsky.app.		60	IN	TXT	"google-site-verification=YglIh7PA59zIzMTb-hrvNHZK8WpGjJLXWbMKof6OhR8"
+
+Received 601 bytes from 8.8.8.8#53 in 40 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cbs.com	nameserver = dns3.p09.nsone.net.
+cbs.com	nameserver = dns4.p09.nsone.net.
+cbs.com	nameserver = ns0004.secondary.cloudflare.com.
+cbs.com	nameserver = dns1.p09.nsone.net.
+cbs.com	nameserver = ns0243.secondary.cloudflare.com.
+cbs.com	nameserver = dns2.p09.nsone.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cbs.com	mail exchanger = 0 mxa-00262c01.gslb.pphosted.com.
+cbs.com	mail exchanger = 0 mxb-00262c01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cbs.com	mail exchanger = 0 mxa-00262c01.gslb.pphosted.com.
+cbs.com	mail exchanger = 0 mxb-00262c01.gslb.pphosted.com.
+cbs.com	nameserver = dns2.p09.nsone.net.
+cbs.com	nameserver = dns3.p09.nsone.net.
+cbs.com	nameserver = dns4.p09.nsone.net.
+cbs.com	nameserver = ns0004.secondary.cloudflare.com.
+cbs.com	nameserver = dns1.p09.nsone.net.
+cbs.com	nameserver = ns0243.secondary.cloudflare.com.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> cbssports.com ALL
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6450
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;cbssports.com.			IN	A
+
+;; ANSWER SECTION:
+cbssports.com.		300	IN	A	151.101.1.188
+cbssports.com.		300	IN	A	151.101.129.188
+cbssports.com.		300	IN	A	151.101.65.188
+cbssports.com.		300	IN	A	151.101.193.188
+
+;; Query time: 44 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Jun 02 20:27:52 PDT 2026
+;; MSG SIZE  rcvd: 106
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 10307
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;ALL.				IN	A
+
+;; AUTHORITY SECTION:
+.			1189	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026060201 1800 900 604800 86400
+
+;; Query time: 80 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Jun 02 20:27:53 PDT 2026
+;; MSG SIZE  rcvd: 107
+
+
+; <<>> DiG 9.20.22 <<>> cbssports.com ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50620
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;cbssports.com.			IN	ANY
+
+;; ANSWER SECTION:
+cbssports.com.		300	IN	A	151.101.65.188
+cbssports.com.		300	IN	A	151.101.193.188
+cbssports.com.		300	IN	A	151.101.1.188
+cbssports.com.		300	IN	A	151.101.129.188
+
+;; Query time: 40 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Tue Jun 02 20:27:53 PDT 2026
+;; MSG SIZE  rcvd: 106
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nbc.com	nameserver = a7-66.akam.net.
+nbc.com	nameserver = a1-196.akam.net.
+nbc.com	nameserver = a16-65.akam.net.
+nbc.com	nameserver = a13-66.akam.net.
+nbc.com	nameserver = a2-64.akam.net.
+nbc.com	nameserver = a22-64.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nbc.com	mail exchanger = 10 mxb-00176a04.gslb.pphosted.com.
+nbc.com	mail exchanger = 20 mx0a-00176a04.pphosted.com.
+nbc.com	mail exchanger = 10 mxa-00176a04.gslb.pphosted.com.
+nbc.com	mail exchanger = 20 mx0b-00176a04.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nbc.com	mail exchanger = 10 mxb-00176a04.gslb.pphosted.com.
+nbc.com	mail exchanger = 20 mx0a-00176a04.pphosted.com.
+nbc.com	mail exchanger = 10 mxa-00176a04.gslb.pphosted.com.
+nbc.com	mail exchanger = 20 mx0b-00176a04.pphosted.com.
+nbc.com	nameserver = a1-196.akam.net.
+nbc.com	nameserver = a16-65.akam.net.
+nbc.com	nameserver = a13-66.akam.net.
+nbc.com	nameserver = a2-64.akam.net.
+nbc.com	nameserver = a22-64.akam.net.
+nbc.com	nameserver = a7-66.akam.net.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> nbcsports.com ALL
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61926
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;nbcsports.com.			IN	A
+
+;; ANSWER SECTION:
+nbcsports.com.		20	IN	A	23.205.110.41
+nbcsports.com.		20	IN	A	23.205.110.5
+
+;; Query time: 176 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Jun 02 20:27:53 PDT 2026
+;; MSG SIZE  rcvd: 74
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 35273
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;ALL.				IN	A
+
+;; AUTHORITY SECTION:
+.			1188	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026060201 1800 900 604800 86400
+
+;; Query time: 40 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Jun 02 20:27:53 PDT 2026
+;; MSG SIZE  rcvd: 107
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+foxnews.com	nameserver = ns02.dns.fox.
+foxnews.com	nameserver = ns03.dns.fox.
+foxnews.com	nameserver = ns04.dns.fox.
+foxnews.com	nameserver = ns01.foxdoua.com.
+foxnews.com	nameserver = ns02.foxdoua.com.
+foxnews.com	nameserver = ns03.foxdoua.com.
+foxnews.com	nameserver = ns04.foxdoua.com.
+foxnews.com	nameserver = ns01.dns.fox.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+foxnews.com	mail exchanger = 10 mxb-00195501.gslb.pphosted.com.
+foxnews.com	mail exchanger = 10 mxa-00195501.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	foxnews.com
+Address: 184.29.91.142
+foxnews.com	rdata_46 = A 13 2 3600 20260604033413 20260603013413 12196 foxnews.com. hReExiaGccjqweUNVPMfQC2KPiOiT4fKZ9J5hZbliCyMxF1+o1Za7PHl 7FwKUNNEOevM41mtNJKUDTeNcEcmZA==
+foxnews.com	mail exchanger = 10 mxa-00195501.gslb.pphosted.com.
+foxnews.com	mail exchanger = 10 mxb-00195501.gslb.pphosted.com.
+foxnews.com	rdata_46 = MX 13 2 7200 20260604042755 20260603022755 52254 foxnews.com. Fni9vkB7w6VJK3PvXkF0eLx3qC5hukSSDIN8/75NTNFFZtLrVxM4ZvI3 CxqOShunjtl2ZHm7AnJmMkYB116HtQ==
+foxnews.com	nameserver = ns01.foxdoua.com.
+foxnews.com	nameserver = ns02.foxdoua.com.
+foxnews.com	nameserver = ns03.foxdoua.com.
+foxnews.com	nameserver = ns04.foxdoua.com.
+foxnews.com	nameserver = ns01.dns.fox.
+foxnews.com	nameserver = ns02.dns.fox.
+foxnews.com	nameserver = ns03.dns.fox.
+foxnews.com	nameserver = ns04.dns.fox.
+foxnews.com	rdata_46 = NS 13 2 86400 20260604042755 20260603022755 52254 foxnews.com. NHozNaS93YzPzYUNsVx5nBfNflxQGPao+smI8hg8xtgmvq61RlEEWK/X YA2JkOyocDpp03qIII1qeTxtlZEYPQ==
+
+Authoritative answers can be found from:
+
+fox.com has address 99.83.186.106
+fox.com has address 75.2.43.150
+fox.com mail is handled by 10 mxa-00195501.gslb.pphosted.com.
+fox.com mail is handled by 10 mxb-00195501.gslb.pphosted.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+abc.com	nameserver = ns-1869.awsdns-41.co.uk.
+abc.com	nameserver = ns-318.awsdns-39.com.
+abc.com	nameserver = ns-736.awsdns-28.net.
+abc.com	nameserver = ns-1368.awsdns-43.org.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+abc.com	mail exchanger = 5 abc-com.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	abc.com
+Address: 52.84.199.73
+Name:	abc.com
+Address: 52.84.199.106
+Name:	abc.com
+Address: 52.84.199.27
+Name:	abc.com
+Address: 52.84.199.56
+abc.com	mail exchanger = 5 abc-com.mail.protection.outlook.com.
+abc.com	nameserver = ns-1368.awsdns-43.org.
+abc.com	nameserver = ns-1869.awsdns-41.co.uk.
+abc.com	nameserver = ns-318.awsdns-39.com.
+abc.com	nameserver = ns-736.awsdns-28.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov	mail exchanger = 1 lacourt-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.ca.gov	nameserver = keaton.ns.cloudflare.com.
+lacourt.ca.gov	nameserver = kelly.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.org	nameserver = ns17.domaincontrol.com.
+lacourt.org	nameserver = ns18.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacourt.org	mail exchanger = 0 lacourt-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nasa.gov	mail exchanger = 0 nasa-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+nasa.gov	nameserver = a9-64.akam.net.
+nasa.gov	nameserver = a1-32.akam.net.
+nasa.gov	nameserver = a14-67.akam.net.
+nasa.gov	nameserver = a5-66.akam.net.
+nasa.gov	nameserver = a12-64.akam.net.
+nasa.gov	nameserver = a8-66.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+flylax.com	nameserver = vlasns1.lawa.org.
+flylax.com	nameserver = veuscoreinfo03.lawa.org.
+flylax.com	nameserver = vwuscoreinfo03.lawa.org.
+flylax.com	nameserver = vlaxnashns1.lawa.org.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+flylax.com	mail exchanger = 10 inbound-smtp.us-east-1.amazonaws.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cia.gov	mail exchanger = 10 mail4.cia.gov.
+cia.gov	mail exchanger = 10 mail3.cia.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cia.gov	nameserver = a12-65.akam.net.
+cia.gov	nameserver = a13-65.akam.net.
+cia.gov	nameserver = a16-67.akam.net.
+cia.gov	nameserver = a22-66.akam.net.
+cia.gov	nameserver = a1-22.akam.net.
+cia.gov	nameserver = a3-64.akam.net.
+
+Authoritative answers can be found from:
+
+traceroute to google.com (142.251.221.110), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  5.757 ms  4.822 ms  4.354 ms
+ 2  10.251.193.141 (10.251.193.141)  4.116 ms  4.394 ms  3.905 ms
+ 3  170.85.98.248 (170.85.98.248)  38.658 ms  37.889 ms  38.583 ms
+ 4  170.85.98.2 (170.85.98.2)  39.538 ms  38.661 ms 170.85.98.3 (170.85.98.3)  39.211 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  72.14.234.182 (72.14.234.182)  43.822 ms 142.251.76.34 (142.251.76.34)  44.988 ms 142.251.76.36 (142.251.76.36)  39.505 ms
+ 9  142.251.194.194 (142.251.194.194)  38.869 ms 142.251.66.192 (142.251.66.192)  40.047 ms 142.251.237.112 (142.251.237.112)  43.096 ms
+10  192.178.123.27 (192.178.123.27)  41.206 ms 142.251.249.93 (142.251.249.93)  40.744 ms 108.170.228.73 (108.170.228.73)  39.019 ms
+11  209.85.251.123 (209.85.251.123)  72.594 ms * *
+12  172.253.178.191 (172.253.178.191)  233.804 ms 108.170.228.157 (108.170.228.157)  238.207 ms 209.85.240.133 (209.85.240.133)  240.412 ms
+13  209.85.243.15 (209.85.243.15)  255.465 ms 172.253.178.187 (172.253.178.187)  251.121 ms  250.038 ms
+14  209.85.255.246 (209.85.255.246)  280.328 ms 108.170.234.128 (108.170.234.128)  279.622 ms  279.807 ms
+15  142.250.208.231 (142.250.208.231)  282.639 ms 142.251.50.59 (142.251.50.59)  286.536 ms 142.250.208.153 (142.250.208.153)  286.281 ms
+16  142.251.55.71 (142.251.55.71)  297.722 ms  291.823 ms  288.190 ms
+17  lcmaaa-az-in-f14.1e100.net (142.251.221.110)  283.112 ms  281.057 ms  279.136 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+google.com	mail exchanger = 10 smtp.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+google.com	nameserver = ns3.google.com.
+google.com	nameserver = ns4.google.com.
+google.com	nameserver = ns2.google.com.
+google.com	nameserver = ns1.google.com.
+
+Authoritative answers can be found from:
+ns3.google.com	internet address = 216.239.36.10
+ns3.google.com	has AAAA address 2001:4860:4802:36::a
+ns4.google.com	internet address = 216.239.38.10
+ns4.google.com	has AAAA address 2001:4860:4802:38::a
+ns1.google.com	internet address = 216.239.32.10
+ns1.google.com	has AAAA address 2001:4860:4802:32::a
+ns2.google.com	internet address = 216.239.34.10
+ns2.google.com	has AAAA address 2001:4860:4802:34::a
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov	nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e1.googledomains.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fbi.gov	mail exchanger = 10 mx-east.fbi.gov.
+fbi.gov	mail exchanger = 20 mx-west.fbi.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+epa.gov	mail exchanger = 0 usepa.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+epa.gov	nameserver = dcns1.epa.gov.
+epa.gov	nameserver = nccns2.epa.gov.
+epa.gov	nameserver = dcns2.epa.gov.
+epa.gov	nameserver = nccns1.epa.gov.
+
+Authoritative answers can be found from:
+dcns1.epa.gov	internet address = 161.80.212.5
+nccns1.epa.gov	internet address = 134.67.12.5
+dcns1.epa.gov	has AAAA address 2620:117:5071:d4::f005
+nccns1.epa.gov	has AAAA address 2620:117:506f:c::f005
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacoe.edu	nameserver = nccunix.lacoe.edu.
+lacoe.edu	nameserver = dns4.lacoe.edu.
+lacoe.edu	nameserver = netmgr.lacoe.edu.
+lacoe.edu	nameserver = pws.lacoe.edu.
+
+Authoritative answers can be found from:
+netmgr.lacoe.edu	internet address = 156.3.1.3
+pws.lacoe.edu	internet address = 156.3.1.1
+nccunix.lacoe.edu	internet address = 156.3.1.8
+dns4.lacoe.edu	internet address = 209.147.28.1
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacoe.edu	mail exchanger = 0 lacoe-edu.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jw.org	nameserver = a22-67.akam.net.
+jw.org	nameserver = a7-66.akam.net.
+jw.org	nameserver = a11-66.akam.net.
+jw.org	nameserver = a28-65.akam.net.
+jw.org	nameserver = a1-141.akam.net.
+jw.org	nameserver = a26-64.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jw.org	mail exchanger = 10 jw-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+azbec.org	mail exchanger = 0 azbec-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+azbec.org	nameserver = ns52.domaincontrol.com.
+azbec.org	nameserver = ns51.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov	mail exchanger = 40 ALT4.ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 20 ALT2.ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 10 ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 40 ALT3.ASPMX.L.GOOGLE.COM.
+noaa.gov	mail exchanger = 20 ALT1.ASPMX.L.GOOGLE.COM.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+noaa.gov	nameserver = ns-03.noaa.gov.
+noaa.gov	nameserver = ns-01.noaa.gov.
+noaa.gov	nameserver = ns-02.noaa.gov.
+
+Authoritative answers can be found from:
+ns-01.noaa.gov	internet address = 137.75.116.93
+ns-02.noaa.gov	internet address = 137.75.112.7
+ns-01.noaa.gov	has AAAA address 2610:20:9200:0:137:75:116:93
+ns-02.noaa.gov	has AAAA address 2610:20:9300:0:137:75:112:7
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+aia-aerospace.org	nameserver = miles.ns.cloudflare.com.
+aia-aerospace.org	nameserver = chelsea.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+aia-aerospace.org	mail exchanger = 0 mx1-us1.ppe-hosted.com.
+aia-aerospace.org	mail exchanger = 0 mx2-us1.ppe-hosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rocketlabcorp.com	nameserver = luciana.ns.cloudflare.com.
+rocketlabcorp.com	nameserver = moura.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rocketlabcorp.com	mail exchanger = 0 rocketlabcorp-com.mail.protection.office365.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rtx.com	nameserver = algin.ns.cloudflare.com.
+rtx.com	nameserver = aria.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+rtx.com	mail exchanger = 10 mxa-00105402.gslb.gpphosted.com.
+rtx.com	mail exchanger = 10 mxb-00105402.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.org	nameserver = ns4.dnsmadeeasy.com.
+lacity.org	nameserver = ns2.dnsmadeeasy.com.
+lacity.org	nameserver = ns1.dnsmadeeasy.com.
+lacity.org	nameserver = ns0.dnsmadeeasy.com.
+lacity.org	nameserver = ns3.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.org	mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.org	mail exchanger = 1 aspmx.l.google.com.
+lacity.org	mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.org	mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.org	mail exchanger = 5 alt1.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.gov	mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov	mail exchanger = 1 aspmx.l.google.com.
+lacity.gov	mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov	mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov	mail exchanger = 5 alt1.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacity.gov	nameserver = ns4.dnsmadeeasy.com.
+lacity.gov	nameserver = ns2.dnsmadeeasy.com.
+lacity.gov	nameserver = ns1.dnsmadeeasy.com.
+lacity.gov	nameserver = ns0.dnsmadeeasy.com.
+lacity.gov	nameserver = ns3.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+santamonica.gov	nameserver = ns-587.awsdns-09.net.
+santamonica.gov	nameserver = ns-1421.awsdns-49.org.
+santamonica.gov	nameserver = ns-156.awsdns-19.com.
+santamonica.gov	nameserver = ns-1577.awsdns-05.co.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+santamonica.gov	mail exchanger = 10 mxb-00399d01.gslb.pphosted.com.
+santamonica.gov	mail exchanger = 10 mxa-00399d01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	nameserver = dns01.ci.long-beach.ca.us.
+longbeach.gov	nameserver = dns02.ci.long-beach.ca.us.
+longbeach.gov	nameserver = a8.uberns.com.
+longbeach.gov	nameserver = b8.uberns.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+longbeach.gov	mail exchanger = 10 mxb-00539a01.gslb.pphosted.com.
+longbeach.gov	mail exchanger = 10 mxa-00539a01.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	nameserver = sogns2.state.ga.us.
+georgia.gov	nameserver = sogns1.state.ga.us.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+georgia.gov	mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov	mail exchanger = 10 mxa-003fd101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	mail exchanger = 5 mx04.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx01.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx02.earthlink-vadesecure.net.
+earthlink.net	mail exchanger = 5 mx03.earthlink-vadesecure.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+earthlink.net	nameserver = carl.ns.cloudflare.com.
+earthlink.net	nameserver = rihana.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	mail exchanger = 100 mx2c38.carrierzone.com.
+waterandpower.org	mail exchanger = 110 mx3c38.carrierzone.com.
+waterandpower.org	mail exchanger = 120 mx4c38.carrierzone.com.
+waterandpower.org	mail exchanger = 10 mx1c38.carrierzone.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+waterandpower.org	nameserver = dns2.earthlink.net.
+waterandpower.org	nameserver = dns3.earthlink.net.
+waterandpower.org	nameserver = dns1.earthlink.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	mail exchanger = 10 mx0b-007e5801.pphosted.com.
+level3.net	mail exchanger = 10 mx0a-007e5801.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+level3.net	nameserver = dnsmgr2.level3.net.
+level3.net	nameserver = ns1.level3.net.
+level3.net	nameserver = ns2.level3.net.
+
+Authoritative answers can be found from:
+ns1.level3.net	internet address = 209.244.0.1
+ns2.level3.net	internet address = 209.244.0.2
+dnsmgr2.level3.net	internet address = 4.33.106.105
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	nameserver = ns2.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns3.cl.bellsouth.net.
+fultoncountyga.gov	nameserver = ns1.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov	mail exchanger = 10 mxa-0032a901.gslb.pphosted.com.
+fultoncountyga.gov	mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov	nameserver = cmtu.mt.ns.els-gms.att.net.
+atlantaga.gov	nameserver = ns1.cl.bellsouth.net.
+atlantaga.gov	nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov	nameserver = ns3.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov	mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+atlantaga.gov	mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2405393841
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	mail exchanger = 10 metro-net.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+metro.net	nameserver = ns4.dnsmadeeasy.com.
+metro.net	nameserver = ns3.dnsmadeeasy.com.
+metro.net	nameserver = ns1.dnsmadeeasy.com.
+metro.net	nameserver = ns2.dnsmadeeasy.com.
+metro.net	nameserver = ns0.dnsmadeeasy.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+amtrack.com	nameserver = ns47.domaincontrol.com.
+amtrack.com	nameserver = ns48.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find amtrack.com: No answer
+
+Authoritative answers can be found from:
+amtrack.com
+	origin = ns47.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2025120906
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bigbluebus.com	nameserver = ns-1032.awsdns-01.org.
+bigbluebus.com	nameserver = ns-1857.awsdns-40.co.uk.
+bigbluebus.com	nameserver = ns-495.awsdns-61.com.
+bigbluebus.com	nameserver = ns-651.awsdns-17.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ladottransit.com	mail exchanger = 0 mx2.mailchannels.net.
+ladottransit.com	mail exchanger = 0 mx1.mailchannels.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+bigbluebus.com	nameserver = ns-1857.awsdns-40.co.uk.
+bigbluebus.com	nameserver = ns-495.awsdns-61.com.
+bigbluebus.com	nameserver = ns-651.awsdns-17.net.
+bigbluebus.com	nameserver = ns-1032.awsdns-01.org.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ladottransit.com	mail exchanger = 0 mx2.mailchannels.net.
+ladottransit.com	mail exchanger = 0 mx1.mailchannels.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	mail exchanger = 10 lapdonline-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+traceroute to ladottransit.com (172.66.150.116), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  5.093 ms  4.008 ms  7.227 ms
+ 2  10.251.193.141 (10.251.193.141)  6.027 ms  5.701 ms  9.616 ms
+ 3  170.85.102.187 (170.85.102.187)  39.519 ms  40.054 ms  38.503 ms
+ 4  170.85.102.2 (170.85.102.2)  40.229 ms 170.85.102.3 (170.85.102.3)  39.212 ms  39.115 ms
+ 5  13335.da1.equinix.com (206.223.118.145)  62.897 ms * *
+ 6  141.101.74.61 (141.101.74.61)  42.114 ms 141.101.74.100 (141.101.74.100)  53.766 ms 141.101.74.51 (141.101.74.51)  41.778 ms
+ 7  172.66.150.116 (172.66.150.116)  41.083 ms  40.130 ms  39.326 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lapdonline.org	nameserver = ns3-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns4-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns1-02.azuregov-dns.us.
+lapdonline.org	nameserver = ns2-02.azuregov-dns.us.
+
+Authoritative answers can be found from:
+
+traceroute to lapdonline.org (23.1.33.17), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  5.267 ms  4.581 ms  4.862 ms
+ 2  10.251.193.141 (10.251.193.141)  4.194 ms  3.571 ms  6.295 ms
+ 3  170.85.98.248 (170.85.98.248)  41.210 ms  39.457 ms  38.588 ms
+ 4  170.85.98.2 (170.85.98.2)  38.864 ms  38.551 ms 170.85.98.3 (170.85.98.3)  37.776 ms
+ 5  0.ae52.er4.dfw2.us.zip.zayo.com (208.185.206.56)  40.026 ms * *
+ 6  * ae17.cr1.dfw1.us.zip.zayo.com (64.125.25.124)  39.065 ms *
+ 7  ae8.cr1.dfw1.us.zip.zayo.com (64.125.27.13)  38.573 ms ae9.mcr2.dfw2.us.zip.zayo.com (64.125.22.49)  38.208 ms *
+ 8  * * ae9.mcr2.dfw2.us.zip.zayo.com (64.125.22.49)  39.420 ms
+ 9  * * *
+10  ae3.r21.dfw01.mag.netarch.akamai.com (23.209.172.88)  39.787 ms ae3.r22.dfw01.mag.netarch.akamai.com (23.209.172.96)  39.295 ms ae3.r21.dfw02.mag.netarch.akamai.com (23.209.172.104)  45.898 ms
+11  ae3.r21.dfw02.mag.netarch.akamai.com (23.209.172.104)  45.490 ms  44.978 ms ae0.r21.dfw02.icn.netarch.akamai.com (23.209.173.65)  44.430 ms
+12  ae14.r21.atl01.icn.netarch.akamai.com (23.193.113.22)  58.386 ms ae1.r21.dfw02.icn.netarch.akamai.com (23.209.173.75)  43.231 ms ae14.r21.atl01.icn.netarch.akamai.com (23.193.113.22)  65.511 ms
+13  ae0.r22.atl01.mag.netarch.akamai.com (23.192.0.66)  64.925 ms ae4.r22.atl01.icn.netarch.akamai.com (23.32.62.136)  64.347 ms ae1.r21.atl02.mag.netarch.akamai.com (23.192.0.76)  64.171 ms
+14  ae13.r21.atl01.ien.netarch.akamai.com (23.192.0.97)  60.721 ms ae0.r21.atl02.mag.netarch.akamai.com (23.192.0.68)  60.159 ms ae0.r22.atl02.mag.netarch.akamai.com (23.192.0.70)  66.044 ms
+15  ae15.r22.atl01.ien.netarch.akamai.com (23.192.0.91)  63.389 ms ae19.r02.border101.atl02.fab.netarch.akamai.com (23.207.235.193)  74.693 ms ae22.r04.border101.atl02.fab.netarch.akamai.com (23.203.144.23)  62.657 ms
+16  ae22.r04.border101.atl02.fab.netarch.akamai.com (23.203.144.23)  60.194 ms *  89.659 ms
+17  * * *
+18  * * *
+19  a23-1-33-17.deploy.static.akamaitechnologies.com (23.1.33.17)  64.040 ms  59.298 ms *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	nameserver = lrci-ib-e03.isd.lacounty.gov.
+lacounty.gov	nameserver = dci-ib-e02.isd.lacounty.gov.
+lacounty.gov	nameserver = dci-ib-e01.isd.lacounty.gov.
+lacounty.gov	nameserver = lrci-ib-e04.isd.lacounty.gov.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+lacounty.gov	mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+lacounty.gov	mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	nameserver = max.ns.cloudflare.com.
+commerce.gov	nameserver = cecelia.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commerce.gov	mail exchanger = 0 commerce-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	nameserver = a22-67.akam.net.
+polb.com	nameserver = a1-172.akam.net.
+polb.com	nameserver = a9-67.akam.net.
+polb.com	nameserver = a5-67.akam.net.
+polb.com	nameserver = a14-64.akam.net.
+polb.com	nameserver = a28-65.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+polb.com	mail exchanger = 5 us-smtp-inbound-1.mimecast.com.
+polb.com	mail exchanger = 5 us-smtp-inbound-2.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wellsfargo.com	mail exchanger = 10 mxa-00004003.gslb.pphosted.com.
+wellsfargo.com	mail exchanger = 10 mxb-00004003.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wellsfargo.com	nameserver = edns1.ultradns.org.
+wellsfargo.com	nameserver = a1-189.akam.net.
+wellsfargo.com	nameserver = a24-66.akam.net.
+wellsfargo.com	nameserver = a2-64.akam.net.
+wellsfargo.com	nameserver = edns1.ultradns.biz.
+wellsfargo.com	nameserver = edns1.ultradns.com.
+wellsfargo.com	nameserver = edns1.ultradns.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+musiccenter.org	nameserver = ns97.worldnic.com.
+musiccenter.org	nameserver = ns98.worldnic.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+musiccenter.org	mail exchanger = 10 musiccenter-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+traceroute to musiccenter.org (104.20.39.139), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  6.280 ms  7.375 ms  6.104 ms
+ 2  10.251.193.141 (10.251.193.141)  4.830 ms  5.602 ms  15.247 ms
+ 3  170.85.99.29 (170.85.99.29)  39.517 ms  37.966 ms  38.633 ms
+ 4  170.85.98.3 (170.85.98.3)  41.351 ms  40.301 ms 170.85.98.2 (170.85.98.2)  39.299 ms
+ 5  * * *
+ 6  141.101.74.51 (141.101.74.51)  49.368 ms 141.101.74.209 (141.101.74.209)  40.686 ms 141.101.74.67 (141.101.74.67)  40.902 ms
+ 7  104.20.39.139 (104.20.39.139)  39.806 ms  40.163 ms  39.108 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+laopera.org	nameserver = ns63.domaincontrol.com.
+laopera.org	nameserver = ns64.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+laopera.org	mail exchanger = 0 laopera-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+traceroute to laoperA.org (13.91.105.246), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  9.627 ms  8.957 ms  8.052 ms
+ 2  10.251.193.141 (10.251.193.141)  7.162 ms  6.702 ms  6.357 ms
+ 3  170.85.102.187 (170.85.102.187)  39.162 ms  38.726 ms  38.408 ms
+ 4  170.85.102.2 (170.85.102.2)  37.942 ms 170.85.102.3 (170.85.102.3)  39.860 ms  46.122 ms
+ 5  0.ae52.er4.dfw2.us.zip.zayo.com (208.185.206.56)  49.730 ms  49.171 ms  48.737 ms
+ 6  * ae79-0.ier04.lon04.ntwk.msn.net (104.44.199.53)  41.697 ms *
+ 7  * * *
+ 8  * * ae17.er1.dfw1.us.zip.zayo.com (64.125.25.125)  39.502 ms
+ 9  * * *
+10  * * be3.owr01.phx10.ntwk.msn.net (51.10.27.113)  80.688 ms
+11  * be20.owr02.dfw33.ntwk.msn.net (104.44.34.178)  77.904 ms  78.223 ms
+12  ae1010-0.icr04.by21.ntwk.msn.net (13.106.239.83)  78.849 ms be3.ibr01.lax30.ntwk.msn.net (51.10.49.46)  81.882 ms *
+13  * * *
+14  be6.ibr04.by21.ntwk.msn.net (51.10.20.227)  79.570 ms * *
+15  ae126-0.icr04.by21.ntwk.msn.net (104.44.23.73)  78.508 ms ae146-0.icr04.by21.ntwk.msn.net (104.44.23.75)  77.529 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	nameserver = keaton.ns.cloudflare.com.
+fire.ca.gov	nameserver = kelly.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	nameserver = chase.ns.cloudflare.com.
+ca.gov	nameserver = asa.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	mail exchanger = 50 state-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+fire.ca.gov	mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	nameserver = cameron.ns.cloudflare.com.
+stfranciscenterla.org	nameserver = rachel.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	mail exchanger = 10 mx10.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 20 mx20.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 30 mx30.antispam.mailspamprotection.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	mail exchanger = 10 usdos.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	nameserver = a8-67.akam.net.
+state.gov	nameserver = a9-64.akam.net.
+state.gov	nameserver = a26-65.akam.net.
+state.gov	nameserver = a1-63.akam.net.
+state.gov	nameserver = a14-64.akam.net.
+state.gov	nameserver = a3-66.akam.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cedars-sinai.org	nameserver = ns2.csmc.edu.
+cedars-sinai.org	nameserver = ns1.csmc.edu.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+cedars-sinai.org	mail exchanger = 10 mxb-00260502.gslb.pphosted.com.
+cedars-sinai.org	mail exchanger = 10 mxa-00260502.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	nameserver = ns-983.awsdns-58.net.
+embassyeritrea.org	nameserver = ns-1184.awsdns-20.org.
+embassyeritrea.org	nameserver = ns-1638.awsdns-12.co.uk.
+embassyeritrea.org	nameserver = ns-26.awsdns-03.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	mail exchanger = 10 mx1c25.carrierzone.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethiopianembassy.org	nameserver = ns54.domaincontrol.com.
+ethiopianembassy.org	nameserver = ns53.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ethiopianembassy.org	mail exchanger = 0 ethiopianembassy-org.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+state.gov	mail exchanger = 10 usdos.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+embassyeritrea.org	nameserver = ns-1184.awsdns-20.org.
+embassyeritrea.org	nameserver = ns-1638.awsdns-12.co.uk.
+embassyeritrea.org	nameserver = ns-26.awsdns-03.com.
+embassyeritrea.org	nameserver = ns-983.awsdns-58.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+stfranciscenterla.org	mail exchanger = 10 mx10.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 20 mx20.antispam.mailspamprotection.com.
+stfranciscenterla.org	mail exchanger = 30 mx30.antispam.mailspamprotection.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+fire.ca.gov	mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+fire.ca.gov	mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	nameserver = asa.ns.cloudflare.com.
+ca.gov	nameserver = chase.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+ca.gov	mail exchanger = 50 state-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	mail exchanger = 100 mx1.starbucks.iphmx.com.
+starbucks.com	mail exchanger = 200 mx2.starbucks.iphmx.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns2.cscdns.uk.
+starbucks.com	nameserver = udns1.cscdns.net.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commonspirit.org	mail exchanger = 20 mx0a-00116001.pphosted.com.
+commonspirit.org	mail exchanger = 20 mx0b-00116001.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+commonspirit.org	nameserver = nick.ns.cloudflare.com.
+commonspirit.org	nameserver = vida.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org	nameserver = beth.ns.cloudflare.com.
+dignityhealth.org	nameserver = albert.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org	mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+dignityhealth.org	mail exchanger = 10 mxa-00116001.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+PING dignityhealth.org (104.16.66.119) 56(84) bytes of data.
+64 bytes from 104.16.66.119: icmp_seq=1 ttl=58 time=40.4 ms
+64 bytes from 104.16.66.119: icmp_seq=2 ttl=58 time=44.7 ms
+
+--- dignityhealth.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 40.465/42.597/44.729/2.132 ms
+traceroute to dignityhealth.org (104.16.66.119), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  23.262 ms  21.049 ms  18.912 ms
+ 2  10.251.193.141 (10.251.193.141)  17.109 ms  18.315 ms  15.356 ms
+ 3  170.85.98.247 (170.85.98.247)  48.058 ms  46.450 ms  44.786 ms
+ 4  170.85.98.3 (170.85.98.3)  42.615 ms  40.617 ms  38.975 ms
+ 5  * * 13335.da1.equinix.com (206.223.118.145)  44.755 ms
+ 6  141.101.74.205 (141.101.74.205)  44.082 ms 141.101.74.67 (141.101.74.67)  48.126 ms 141.101.74.197 (141.101.74.197)  67.746 ms
+ 7  104.16.66.119 (104.16.66.119)  45.578 ms  44.359 ms  43.032 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starbucks.com	nameserver = udns1.cscdns.net.
+starbucks.com	nameserver = udns2.cscdns.uk.
+
+Authoritative answers can be found from:
+
+traceroute to lacounty.gov (45.60.171.78), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  10.808 ms  8.917 ms  7.257 ms
+ 2  10.251.193.141 (10.251.193.141)  5.733 ms  6.668 ms  5.547 ms
+ 3  170.85.101.30 (170.85.101.30)  38.500 ms  38.016 ms  40.232 ms
+ 4  170.85.100.3 (170.85.100.3)  37.882 ms 170.85.100.2 (170.85.100.2)  39.003 ms  38.058 ms
+ 5  dls-b24-link.ip.twelve99.net (213.248.99.42)  39.944 ms  38.512 ms  39.460 ms
+ 6  dls-bb1-link.ip.twelve99.net (62.115.136.82)  41.454 ms dls-b23-link.ip.twelve99.net (62.115.139.130)  39.742 ms  38.792 ms
+ 7  lax-bb1-link.ip.twelve99.net (62.115.140.236)  74.411 ms  72.931 ms lax-bb2-link.ip.twelve99.net (62.115.140.246)  71.667 ms
+ 8  lax-b5-link.ip.twelve99.net (62.115.142.167)  73.093 ms lax-b5-link.ip.twelve99.net (62.115.142.179)  77.950 ms  75.372 ms
+ 9  imperva-ic-392804.ip.twelve99-cust.net (62.115.186.215)  71.540 ms  71.080 ms  71.235 ms
+10  131.125.155.77 (131.125.155.77)  72.030 ms  69.977 ms  72.153 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING lacounty.gov (45.60.171.78) 56(84) bytes of data.
+64 bytes from 45.60.171.78: icmp_seq=1 ttl=51 time=141 ms
+64 bytes from 45.60.171.78: icmp_seq=2 ttl=51 time=121 ms
+
+--- lacounty.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 121.909/131.629/141.350/9.727 ms
+traceroute to fultoncountyga.gov (20.119.136.1), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  12.902 ms  11.278 ms  9.588 ms
+ 2  10.251.193.141 (10.251.193.141)  7.985 ms  13.182 ms  11.616 ms
+ 3  170.85.101.2 (170.85.101.2)  41.950 ms  40.435 ms  38.965 ms
+ 4  170.85.100.3 (170.85.100.3)  37.798 ms  39.593 ms 170.85.100.2 (170.85.100.2)  39.379 ms
+ 5  0.et-2-1-5.er1.dfw1.us.zip.zayo.com (209.249.150.114)  39.652 ms 0.ae52.er4.dfw2.us.zip.zayo.com (208.185.206.56)  40.784 ms  39.109 ms
+ 6  * * *
+ 7  * * *
+ 8  ae17.er1.dfw1.us.zip.zayo.com (64.125.25.125)  40.527 ms * be20.owr02.dfw34.ntwk.msn.net (104.44.34.182)  70.336 ms
+ 9  * * ae79-0.ier04.lon04.ntwk.msn.net (104.44.199.53)  68.911 ms
+10  * be3.owr02.atl30.ntwk.msn.net (51.10.0.71)  71.552 ms *
+11  * * *
+12  po1013.rwa03.lvl01.ntwk.msn.net (104.44.50.124)  69.909 ms * *
+13  * * *
+14  * * *
+15  * be1013.rwa02.lvl01.ntwk.msn.net (104.44.50.36)  72.682 ms *
+16  be1012.rwa01.lvl02.ntwk.msn.net (104.44.50.132)  79.873 ms * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING fultoncountyga.gov (20.119.136.1) 56(84) bytes of data.
+64 bytes from 20.119.136.1: icmp_seq=1 ttl=111 time=70.2 ms
+64 bytes from 20.119.136.1: icmp_seq=2 ttl=111 time=84.3 ms
+
+--- fultoncountyga.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 70.247/77.290/84.333/7.043 ms
+traceroute to lacity.gov (23.205.106.76), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  6.211 ms  9.729 ms  8.389 ms
+ 2  10.251.193.141 (10.251.193.141)  6.896 ms  10.584 ms  8.567 ms
+ 3  170.85.102.187 (170.85.102.187)  42.124 ms  40.923 ms  44.684 ms
+ 4  170.85.102.2 (170.85.102.2)  43.415 ms  42.597 ms  40.311 ms
+ 5  ae24.cr8-dal3.ip4.gtt.net (66.171.235.145)  43.615 ms ae6.cr8-dal3.ip4.gtt.net (66.171.235.157)  42.014 ms  40.902 ms
+ 6  ip4.gtt.net (98.124.184.2)  42.256 ms  44.439 ms  41.756 ms
+ 7  ae4.r22.dfw02.mag.netarch.akamai.com (23.209.172.110)  40.694 ms ae4.r22.dfw01.mag.netarch.akamai.com (23.209.172.98)  39.798 ms  42.526 ms
+ 8  ae21.r21.dfw01.icn.netarch.akamai.com (23.209.172.65)  42.231 ms ae1.r23.dfw01.icn.netarch.akamai.com (23.209.172.83)  42.123 ms ae0.r22.dfw02.icn.netarch.akamai.com (23.209.173.67)  41.260 ms
+ 9  ae5.r23.iad02.icn.netarch.akamai.com (23.32.62.103)  71.030 ms  71.664 ms  71.001 ms
+10  ae7.r21.iad02.mag.netarch.akamai.com (23.209.165.126)  70.372 ms ae0.r21.iad04.mag.netarch.akamai.com (23.209.165.138)  69.622 ms ae12.r21.iad04.mag.netarch.akamai.com (23.209.170.138)  70.473 ms
+11  ae2.r23.iad02.ien.netarch.akamai.com (23.209.165.167)  69.557 ms ae0.r25.iad04.ien.netarch.akamai.com (23.209.170.125)  74.275 ms ae3.r26.iad04.ien.netarch.akamai.com (23.209.170.131)  73.594 ms
+12  ae37.r02.border101.iad03.fab.netarch.akamai.com (23.203.152.195)  66.801 ms  71.771 ms ae42.r04.border101.iad03.fab.netarch.akamai.com (23.203.153.25)  71.139 ms
+13  lo1.r03.stem01.iad03.fab.netarch.akamai.com (23.40.64.130)  70.070 ms lo1.r02.stem01.iad03.fab.netarch.akamai.com (23.40.64.129)  69.306 ms lo1.r03.stem01.iad03.fab.netarch.akamai.com (23.40.64.130)  70.403 ms
+14  lo1.r03.spine03.iad03.fab.netarch.akamai.com (23.40.64.114)  69.410 ms lo1.r07.spine02.iad03.fab.netarch.akamai.com (23.40.64.110)  73.832 ms lo1.r03.spine04.iad03.fab.netarch.akamai.com (23.40.64.122)  72.956 ms
+15  lo1.r03.leaf01.iad03.fab.netarch.akamai.com (23.40.64.38)  71.231 ms lo1.r04.leaf01.iad03.fab.netarch.akamai.com (23.40.64.39)  73.286 ms lo1.r02.leaf01.iad03.fab.netarch.akamai.com (23.40.64.37)  72.210 ms
+16  lo1.r09.tor01.iad03.fab.netarch.akamai.com (23.222.6.64)  70.724 ms  69.619 ms  70.155 ms
+17  a23-205-106-76.deploy.static.akamaitechnologies.com (23.205.106.76)  69.389 ms  68.757 ms  69.969 ms
+PING lacity.org (23.212.251.7) 56(84) bytes of data.
+64 bytes from a23-212-251-7.deploy.static.akamaitechnologies.com (23.212.251.7): icmp_seq=1 ttl=53 time=70.8 ms
+64 bytes from a23-212-251-7.deploy.static.akamaitechnologies.com (23.212.251.7): icmp_seq=2 ttl=53 time=72.8 ms
+
+--- lacity.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 70.889/71.882/72.876/1.029 ms
+PING lacity.gov (23.205.106.76) 56(84) bytes of data.
+64 bytes from a23-205-106-76.deploy.static.akamaitechnologies.com (23.205.106.76): icmp_seq=1 ttl=53 time=71.4 ms
+64 bytes from a23-205-106-76.deploy.static.akamaitechnologies.com (23.205.106.76): icmp_seq=2 ttl=53 time=82.7 ms
+
+--- lacity.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 71.487/77.133/82.780/5.653 ms
+traceroute to lacity.org (23.212.251.7), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  9.075 ms  8.097 ms  6.802 ms
+ 2  10.251.193.141 (10.251.193.141)  8.656 ms  7.698 ms  6.089 ms
+ 3  170.85.102.187 (170.85.102.187)  41.067 ms  39.841 ms  38.793 ms
+ 4  170.85.102.3 (170.85.102.3)  39.710 ms 170.85.102.2 (170.85.102.2)  38.738 ms 170.85.102.3 (170.85.102.3)  38.988 ms
+ 5  ae6.cr8-dal3.ip4.gtt.net (66.171.235.157)  42.070 ms  40.941 ms  39.941 ms
+ 6  ip4.gtt.net (98.124.184.2)  38.585 ms  41.397 ms  40.652 ms
+ 7  ae4.r21.dfw02.mag.netarch.akamai.com (23.209.172.108)  40.855 ms ae4.r22.dfw02.mag.netarch.akamai.com (23.209.172.110)  40.066 ms ae4.r22.dfw01.mag.netarch.akamai.com (23.209.172.98)  39.201 ms
+ 8  ae1.r22.dfw02.icn.netarch.akamai.com (23.209.173.77)  39.395 ms ae0.r23.dfw01.icn.netarch.akamai.com (23.209.172.81)  39.672 ms ae22.r21.dfw01.icn.netarch.akamai.com (23.209.172.67)  38.628 ms
+ 9  ae5.r23.iad02.icn.netarch.akamai.com (23.32.62.103)  71.547 ms  74.138 ms ae8.r23.iad04.icn.netarch.akamai.com (23.32.62.43)  77.302 ms
+10  ae1.r22.iad02.mag.netarch.akamai.com (23.209.165.92)  75.141 ms ae0.r22.iad02.mag.netarch.akamai.com (23.209.165.136)  72.104 ms ae1.r21.iad02.mag.netarch.akamai.com (23.209.165.90)  78.105 ms
+11  ae1.r23.iad02.ien.netarch.akamai.com (23.209.165.163)  75.685 ms ae0.r24.iad02.ien.netarch.akamai.com (23.209.165.161)  73.735 ms ae1.r24.iad02.ien.netarch.akamai.com (23.209.165.165)  75.308 ms
+12  ae42.r04.border101.iad03.fab.netarch.akamai.com (23.203.153.25)  71.112 ms  71.044 ms ae41.r03.border101.iad03.fab.netarch.akamai.com (23.203.153.23)  71.880 ms
+13  lo1.r01.stem01.iad03.fab.netarch.akamai.com (23.40.64.128)  69.900 ms lo1.r03.stem01.iad03.fab.netarch.akamai.com (23.40.64.130)  70.970 ms  74.605 ms
+14  lo1.r08.spine01.iad03.fab.netarch.akamai.com (23.40.64.103)  73.489 ms lo1.r02.spine02.iad03.fab.netarch.akamai.com (23.40.64.105)  72.441 ms lo1.r03.spine03.iad03.fab.netarch.akamai.com (23.40.64.114)  70.964 ms
+15  lo1.r01.leaf02.iad03.fab.netarch.akamai.com (23.40.64.40)  70.156 ms lo1.r02.leaf02.iad03.fab.netarch.akamai.com (23.40.64.41)  76.038 ms lo1.r03.leaf02.iad03.fab.netarch.akamai.com (23.40.64.42)  75.175 ms
+16  lo1.r09.tor102.iad03.fab.netarch.akamai.com (23.222.6.85)  74.144 ms  73.135 ms  72.197 ms
+17  a23-212-251-7.deploy.static.akamaitechnologies.com (23.212.251.7)  71.369 ms  70.472 ms  69.400 ms
+traceroute to longbeach.gov (204.108.16.117), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  4.648 ms  3.783 ms  4.393 ms
+ 2  10.251.193.141 (10.251.193.141)  3.710 ms  3.436 ms  3.592 ms
+ 3  170.85.98.247 (170.85.98.247)  39.029 ms  38.126 ms  37.856 ms
+ 4  170.85.98.3 (170.85.98.3)  39.852 ms 170.85.98.2 (170.85.98.2)  38.624 ms 170.85.98.3 (170.85.98.3)  37.779 ms
+ 5  eqix-da1.timewarnerny.com (206.223.118.189)  41.286 ms  42.863 ms  38.701 ms
+ 6  lag-303.dllstx976iw-bcr00.netops.charter.com (66.109.3.30)  73.037 ms lag-302.dllstx976iw-bcr00.netops.charter.com (209.18.43.76)  71.216 ms lag-100.dllstx976iw-bcr00.netops.charter.com (66.109.5.120)  73.311 ms
+ 7  lag-401.tustca4200w-bcr00.netops.charter.com (66.109.5.228)  72.836 ms  72.224 ms lag-12.tustca4200w-bcr00.netops.charter.com (66.109.6.0)  73.636 ms
+ 8  lag-5-10.rcr01tustcaft.netops.charter.com (66.109.10.11)  71.084 ms lag-2-10.rcr01tustcaft.netops.charter.com (66.109.3.233)  73.068 ms lag-3-10.rcr01tustcaft.netops.charter.com (66.109.6.203)  71.980 ms
+ 9  lag-9-10.mcr02tustcaft.netops.charter.com (72.129.5.117)  74.579 ms  71.699 ms  81.180 ms
+10  lag-103.mcr02cyprcabw.netops.charter.com (72.129.5.15)  77.571 ms  74.568 ms  72.592 ms
+11  syn-076-058-025-115.biz.spectrum.com (76.58.25.115)  77.978 ms  74.463 ms  82.357 ms
+12  syn-098-153-208-058.biz.spectrum.com (98.153.208.58)  77.062 ms  81.053 ms  77.516 ms
+13  192.168.111.2 (192.168.111.2)  77.946 ms  75.954 ms  76.014 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING longbeach.gov (204.108.16.117) 56(84) bytes of data.
+
+--- longbeach.gov ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1004ms
+
+traceroute to whitehouse.gov (192.0.66.51), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  7.684 ms  11.950 ms  11.257 ms
+ 2  10.251.193.141 (10.251.193.141)  10.623 ms  9.990 ms  9.379 ms
+ 3  170.85.102.187 (170.85.102.187)  39.688 ms  41.308 ms  40.616 ms
+ 4  170.85.102.2 (170.85.102.2)  41.301 ms 170.85.102.3 (170.85.102.3)  38.921 ms  38.848 ms
+ 5  eqix-da1.automattic.com (206.223.118.177)  44.917 ms  43.945 ms  49.071 ms
+ 6  as2635.network (198.181.119.135)  48.144 ms  43.522 ms  42.948 ms
+ 7  100.76.0.1 (100.76.0.1)  42.553 ms 100.76.0.3 (100.76.0.3)  42.258 ms  41.903 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING whitehouse.gov (192.0.66.51) 56(84) bytes of data.
+64 bytes from 192.0.66.51: icmp_seq=1 ttl=57 time=253 ms
+64 bytes from 192.0.66.51: icmp_seq=2 ttl=57 time=68.9 ms
+
+--- whitehouse.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2855ms
+rtt min/avg/max/mdev = 68.980/161.078/253.177/92.099 ms
+traceroute to nasa.gov (192.0.66.108), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  15.918 ms  14.874 ms  13.912 ms
+ 2  10.251.193.141 (10.251.193.141)  12.638 ms  11.865 ms  11.132 ms
+ 3  170.85.98.247 (170.85.98.247)  50.063 ms  48.696 ms  47.525 ms
+ 4  170.85.98.2 (170.85.98.2)  45.803 ms  44.179 ms  43.553 ms
+ 5  eqix-da1.automattic.com (206.223.118.177)  68.546 ms  66.481 ms  65.443 ms
+ 6  as2635.network (198.181.119.141)  52.973 ms  46.274 ms  46.116 ms
+ 7  100.76.28.5 (100.76.28.5)  45.375 ms 100.76.28.7 (100.76.28.7)  44.614 ms 100.76.28.5 (100.76.28.5)  44.441 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING nasa.gov (192.0.66.108) 56(84) bytes of data.
+64 bytes from 192.0.66.108: icmp_seq=1 ttl=57 time=54.7 ms
+64 bytes from 192.0.66.108: icmp_seq=2 ttl=57 time=51.4 ms
+
+--- nasa.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1009ms
+rtt min/avg/max/mdev = 51.431/53.106/54.782/1.691 ms
+PING lacourt.org (104.42.188.146) 56(84) bytes of data.
+64 bytes from 104.42.188.146: icmp_seq=1 ttl=115 time=176 ms
+64 bytes from 104.42.188.146: icmp_seq=2 ttl=115 time=404 ms
+
+--- lacourt.org ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 176.521/290.435/404.349/113.914 ms
+traceroute to lacourt.org (104.42.188.146), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  6.051 ms  4.497 ms  9.299 ms
+ 2  10.251.193.141 (10.251.193.141)  7.911 ms  6.861 ms  8.215 ms
+ 3  170.85.98.248 (170.85.98.248)  41.415 ms  39.745 ms  38.990 ms
+ 4  170.85.98.3 (170.85.98.3)  41.594 ms  41.198 ms 170.85.98.2 (170.85.98.2)  39.369 ms
+ 5  0.et-2-1-5.er1.dfw1.us.zip.zayo.com (209.249.150.114)  39.868 ms  41.427 ms  39.866 ms
+ 6  * * ae79-0.ier04.lon04.ntwk.msn.net (104.44.199.53)  52.397 ms
+ 7  ae8.cr1.dfw1.us.zip.zayo.com (64.125.27.13)  41.735 ms  41.065 ms *
+ 8  * * *
+ 9  * * ae79-0.ier04.lon04.ntwk.msn.net (104.44.199.53)  44.120 ms
+10  be1.owr02.cys08.ntwk.msn.net (51.10.10.247)  82.725 ms * *
+11  * be10.ibr01.lax30.ntwk.msn.net (51.10.19.168)  80.693 ms *
+12  be6.owr02.cys13.ntwk.msn.net (51.10.19.215)  80.642 ms * *
+13  be11.ibr03.by4.ntwk.msn.net (51.10.26.165)  82.211 ms * *
+14  * * be6.ibr04.by21.ntwk.msn.net (51.10.20.227)  84.157 ms
+15  ae146-0.icr04.by21.ntwk.msn.net (104.44.23.75)  86.294 ms ae1012-0.icr02.by21.ntwk.msn.net (13.106.210.174)  83.197 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING lacourt.ca.gov (104.18.12.158) 56(84) bytes of data.
+64 bytes from 104.18.12.158: icmp_seq=1 ttl=58 time=181 ms
+64 bytes from 104.18.12.158: icmp_seq=2 ttl=58 time=52.2 ms
+
+--- lacourt.ca.gov ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1008ms
+rtt min/avg/max/mdev = 52.241/117.103/181.966/64.863 ms
+traceroute to lacourt.ca.gov (104.18.12.158), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  16.651 ms  15.741 ms  15.049 ms
+ 2  10.251.193.141 (10.251.193.141)  14.093 ms  13.729 ms  13.035 ms
+ 3  170.85.99.26 (170.85.99.26)  44.894 ms  43.528 ms  42.595 ms
+ 4  170.85.98.2 (170.85.98.2)  41.718 ms 170.85.98.3 (170.85.98.3)  41.000 ms 170.85.98.2 (170.85.98.2)  39.994 ms
+ 5  13335-da6-ix2.equinix.com (206.223.119.4)  43.930 ms * *
+ 6  141.101.74.69 (141.101.74.69)  41.511 ms 141.101.74.203 (141.101.74.203)  42.242 ms 141.101.74.63 (141.101.74.63)  44.685 ms
+ 7  104.18.12.158 (104.18.12.158)  40.945 ms  40.588 ms  40.171 ms
+PING state.gov (107.22.78.153) 56(84) bytes of data.
+
+--- state.gov ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+traceroute to state.gov (107.22.78.153), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  5.397 ms  12.430 ms  11.532 ms
+ 2  10.251.193.141 (10.251.193.141)  10.581 ms  9.495 ms  8.467 ms
+ 3  170.85.99.2 (170.85.99.2)  43.778 ms  42.474 ms  41.400 ms
+ 4  170.85.98.3 (170.85.98.3)  40.156 ms  39.031 ms  39.980 ms
+ 5  0.ae52.er4.dfw2.us.zip.zayo.com (208.185.206.56)  39.131 ms  39.765 ms 0.et-2-1-5.er1.dfw1.us.zip.zayo.com (209.249.150.114)  40.950 ms
+ 6  * * ae17.cr1.dfw1.us.zip.zayo.com (64.125.25.124)  56.081 ms
+ 7  * ae8.cr1.dfw1.us.zip.zayo.com (64.125.27.13)  55.442 ms *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+PING level3.net (4.68.80.110) 56(84) bytes of data.
+
+--- level3.net ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1007ms
+
+traceroute to level3.net (4.68.80.110), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  10.419 ms  9.592 ms  9.130 ms
+ 2  10.251.193.141 (10.251.193.141)  8.590 ms  7.855 ms  7.196 ms
+ 3  170.85.100.250 (170.85.100.250)  40.994 ms  40.234 ms  41.304 ms
+ 4  170.85.100.3 (170.85.100.3)  40.257 ms 170.85.100.2 (170.85.100.2)  39.696 ms  40.658 ms
+ 5  * * *
+ 6  * * *
+ 7  4.68.94.50 (4.68.94.50)  55.485 ms  54.459 ms  53.662 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level1.net (54.243.117.197), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  8.592 ms  7.501 ms  6.539 ms
+ 2  10.251.193.141 (10.251.193.141)  8.949 ms  7.326 ms  6.064 ms
+ 3  170.85.99.26 (170.85.99.26)  40.170 ms  40.783 ms  39.436 ms
+ 4  170.85.98.3 (170.85.98.3)  39.762 ms  41.174 ms  39.482 ms
+ 5  0.ae52.er4.dfw2.us.zip.zayo.com (208.185.206.56)  40.297 ms  40.557 ms 0.et-2-1-5.er1.dfw1.us.zip.zayo.com (209.249.150.114)  45.937 ms
+ 6  * ae17.cr1.dfw1.us.zip.zayo.com (64.125.25.124)  39.991 ms *
+ 7  ae7.mcr1.dfw2.us.zip.zayo.com (64.125.24.143)  43.409 ms  43.026 ms ae8.cr1.dfw1.us.zip.zayo.com (64.125.27.13)  42.509 ms
+ 8  ae7.mcr1.dfw2.us.zip.zayo.com (64.125.24.143)  42.006 ms  44.604 ms *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level2.net (76.223.54.146), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  9.051 ms  8.057 ms  7.052 ms
+ 2  10.251.193.141 (10.251.193.141)  5.509 ms  4.269 ms  5.092 ms
+ 3  170.85.101.26 (170.85.101.26)  40.043 ms  39.040 ms  37.978 ms
+ 4  170.85.100.3 (170.85.100.3)  40.110 ms 170.85.100.2 (170.85.100.2)  39.188 ms 170.85.100.3 (170.85.100.3)  38.195 ms
+ 5  0.et-2-1-5.er1.dfw1.us.zip.zayo.com (209.249.150.114)  39.967 ms  41.333 ms 0.ae52.er4.dfw2.us.zip.zayo.com (208.185.206.56)  40.354 ms
+ 6  ae17.cr1.dfw1.us.zip.zayo.com (64.125.25.124)  39.656 ms * *
+ 7  ae7.mcr1.dfw2.us.zip.zayo.com (64.125.24.143)  39.564 ms  39.086 ms *
+ 8  ae7.mcr1.dfw2.us.zip.zayo.com (64.125.24.143)  40.996 ms * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html><html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+traceroute to esa.int (178.32.232.86), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  20.808 ms  20.114 ms  19.301 ms
+ 2  10.251.193.141 (10.251.193.141)  17.950 ms  16.852 ms  15.244 ms
+ 3  170.85.101.30 (170.85.101.30)  47.705 ms  46.373 ms  44.913 ms
+ 4  170.85.100.2 (170.85.100.2)  43.665 ms  42.819 ms 170.85.100.3 (170.85.100.3)  41.371 ms
+ 5  eqx.dal.ovh.net (206.223.118.119)  42.114 ms  40.933 ms  43.750 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  was-nva1-sbb1-nc5.va.us (192.99.146.125)  68.901 ms  67.934 ms  67.505 ms
+10  par-dpa1-sbb2-8k.fr.eu (54.36.50.140)  150.677 ms  150.803 ms  149.896 ms
+11  par-gsw-sbb1-nc5.fr.eu (57.128.121.13)  148.735 ms  148.120 ms  146.484 ms
+12  be103.lil1-rbx1-sbb2-nc5.fr.eu (94.23.122.214)  155.794 ms  154.844 ms be103.lil1-rbx8-sbb2-nc5.fr.eu (54.36.50.229)  153.946 ms
+13  37.59.16.24 (37.59.16.24)  153.201 ms 37.59.16.16 (37.59.16.16)  153.703 ms  152.788 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+virtiserv.com	nameserver = ns30.domaincontrol.com.
+virtiserv.com	nameserver = ns29.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find virtiserv.com: No answer
+
+Authoritative answers can be found from:
+virtiserv.com
+	origin = ns29.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2024102401
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+ #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+traceroute to en.beidou.gov.cn (123.127.200.28), 30 hops max, 60 byte packets
+ 1  10.193.0.2 (10.193.0.2)  7.821 ms  6.732 ms  5.757 ms
+ 2  10.251.193.141 (10.251.193.141)  4.934 ms  8.086 ms  7.083 ms
+ 3  170.85.101.26 (170.85.101.26)  39.086 ms  37.893 ms  38.937 ms
+ 4  170.85.100.3 (170.85.100.3)  42.233 ms 170.85.100.2 (170.85.100.2)  41.448 ms 170.85.100.3 (170.85.100.3)  40.244 ms
+ 5  * * *
+ 6  ae13.cs2.dfw2.us.zip.zayo.com (64.125.30.110)  75.868 ms  73.527 ms  72.472 ms
+ 7  ae5.cr2.dfw7.us.zip.zayo.com (64.125.22.53)  75.753 ms ae0.cr2.dfw7.us.zip.zayo.com (64.125.20.63)  74.241 ms ae5.cr2.dfw7.us.zip.zayo.com (64.125.22.53)  72.867 ms
+ 8  ae2.cr1.lax10.us.zip.zayo.com (64.125.25.78)  75.420 ms  79.460 ms  78.201 ms
+ 9  * * ae3.mcr1.lax112.us.zip.zayo.com (64.125.31.99)  77.164 ms
+10  ae10.er1.lax20.us.zip.zayo.com (64.125.19.143)  75.839 ms  75.347 ms ae5.er1.lax20.us.zip.zayo.com (64.125.28.99)  74.594 ms
+11  zayo-cu.er1.lax20.us.zip.zayo.com (208.184.12.147)  359.563 ms  360.522 ms  359.610 ms
+12  * * *
+13  * 219.158.10.85 (219.158.10.85)  351.154 ms 219.158.3.141 (219.158.3.141)  331.203 ms
+14  * * *
+15  * 202.96.12.154 (202.96.12.154)  332.650 ms *
+16  125.33.187.78 (125.33.187.78)  351.710 ms *  354.083 ms
+17  61.148.115.82 (61.148.115.82)  244.530 ms  243.909 ms  243.482 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

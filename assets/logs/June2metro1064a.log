@@ -1,0 +1,424 @@
+CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber
+Tue Jun  2 08:00:19 PDT 2026
+ #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+Linux localhost 4.19.191 #1 SMP PREEMPT Mon Mar 9 22:18:51 CST 2026 aarch64 Android
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 1000  (UNSPEC)
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.10.185  netmask 255.255.255.0  broadcast 192.168.10.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+ 08:00:19 up 12 days, 17:38,  load average: 14.14, 14.66, 15.11
+Tue Jun  2 08:00:19 PDT 2026
+real-time non-blocking time  (microseconds, -R) unlimited
+core file size              (blocks, -c) 0
+data seg size               (kbytes, -d) unlimited
+scheduling priority                 (-e) 40
+file size                   (blocks, -f) unlimited
+pending signals                     (-i) 9112
+max locked memory           (kbytes, -l) unlimited
+max memory size             (kbytes, -m) unlimited
+open files                          (-n) 32768
+pipe size                (512 bytes, -p) 8
+POSIX message queues         (bytes, -q) 819200
+real-time priority                  (-r) 0
+stack size                  (kbytes, -s) 8192
+cpu time                   (seconds, -t) unlimited
+max user processes                  (-u) 9112
+virtual memory              (kbytes, -v) unlimited
+file locks                          (-x) unlimited
+traceroute to localhost (127.0.0.1), 30 hops max, 60 byte packets
+ 1  localhost (127.0.0.1)  0.269 ms  0.099 ms  0.101 ms
+      June 2026     
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30            
+                    
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com	nameserver = ns-cloud-b2.googledomains.com.
+spacex.com	nameserver = ns-cloud-b4.googledomains.com.
+spacex.com	nameserver = ns-cloud-b3.googledomains.com.
+spacex.com	nameserver = ns-cloud-b1.googledomains.com.
+
+Authoritative answers can be found from:
+ns-cloud-b3.googledomains.com	internet address = 216.239.36.107
+ns-cloud-b1.googledomains.com	internet address = 216.239.32.107
+ns-cloud-b4.googledomains.com	internet address = 216.239.38.107
+ns-cloud-b2.googledomains.com	internet address = 216.239.34.107
+ns-cloud-b3.googledomains.com	has AAAA address 2001:4860:4802:36::6b
+ns-cloud-b1.googledomains.com	has AAAA address 2001:4860:4802:32::6b
+ns-cloud-b4.googledomains.com	has AAAA address 2001:4860:4802:38::6b
+ns-cloud-b2.googledomains.com	has AAAA address 2001:4860:4802:34::6b
+
+spacex.com has address 104.18.26.217
+spacex.com has address 104.18.27.217
+spacex.com has IPv6 address 2606:4700::6812:1bd9
+spacex.com has IPv6 address 2606:4700::6812:1ad9
+spacex.com mail is handled by 5 mxa-003ea501.gslb.gpphosted.com.
+spacex.com mail is handled by 5 mxb-003ea501.gslb.gpphosted.com.
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+	origin = ernest.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2405393841
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+whitehouse.gov	nameserver = wally.ns.cloudflare.com.
+whitehouse.gov	nameserver = ernest.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+ernest.ns.cloudflare.com	internet address = 172.64.33.164
+ernest.ns.cloudflare.com	internet address = 173.245.59.164
+ernest.ns.cloudflare.com	internet address = 108.162.193.164
+wally.ns.cloudflare.com	internet address = 172.64.32.239
+wally.ns.cloudflare.com	internet address = 173.245.58.239
+wally.ns.cloudflare.com	internet address = 108.162.192.239
+ernest.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3ba4
+wally.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0ef
+
+Trying "whitehouse.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42627
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whitehouse.gov.			IN	ANY
+
+;; ANSWER SECTION:
+whitehouse.gov.		86400	IN	RRSIG	NS 13 2 86400 20260603160022 20260601140022 34505 whitehouse.gov. XNvipSFPHy6hc0HDJpm7WQoV8LPKQZZhFr/7P96xVSH9yG+MVvPamjhX ZcDqtKQY4sntJqFonVwD9a/razdW9Q==
+whitehouse.gov.		3599	IN	RRSIG	DS 13 2 3600 20260603160021 20260601140021 35496 gov. aYbr2Qn2118zx2ZAgYQi4pAV+4uhXu5Svgecf+WAxJgldgSRbxR1jCcM CvVwPofo9xMLfOOanqM1Wa520DGfPw==
+whitehouse.gov.		3599	IN	DS	2371 13 2 BE4C7B11AD123596BA672B13FFDA04CA73C9FE0652E66542AEFADAF2 06B381AE
+whitehouse.gov.		10799	IN	NS	wally.ns.cloudflare.com.
+whitehouse.gov.		10799	IN	NS	ernest.ns.cloudflare.com.
+
+Received 347 bytes from 8.8.8.8#53 in 160 ms
+Trying "war.gov"
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45457
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;war.gov.			IN	ANY
+
+;; ANSWER SECTION:
+war.gov.		3600	IN	RRSIG	HINFO 13 2 3600 20260603160022 20260601140022 35496 gov. nBIH8QLr1azed9e289F64SCTbQvqLIemIPGskCQQMl2au9+7JeJIWKAv iM94fwyNEWtwz9SdYboshX85CTUcEw==
+war.gov.		3600	IN	HINFO	"RFC8482" ""
+
+Received 145 bytes from 8.8.8.8#53 in 68 ms
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find war.gov: No answer
+
+Authoritative answers can be found from:
+war.gov
+	origin = asia2.akam.net
+	mail addr = hostmaster.war.gov
+	serial = 2025090513
+	refresh = 3600
+	retry = 600
+	expire = 604800
+	minimum = 300
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+war.gov	nameserver = asia2.akam.net.
+war.gov	nameserver = use9.akam.net.
+war.gov	nameserver = eur6.akam.net.
+war.gov	nameserver = ns1-116.akam.net.
+war.gov	nameserver = asia3.akam.net.
+war.gov	nameserver = use2.akam.net.
+war.gov	nameserver = ns1-95.akam.net.
+war.gov	nameserver = usc5.akam.net.
+
+Authoritative answers can be found from:
+eur6.akam.net	internet address = 2.22.230.64
+asia3.akam.net	internet address = 23.211.61.64
+asia2.akam.net	internet address = 95.101.36.64
+ns1-116.akam.net	internet address = 193.108.91.116
+use9.akam.net	internet address = 72.246.46.65
+use2.akam.net	internet address = 96.7.49.64
+ns1-95.akam.net	internet address = 193.108.91.95
+usc5.akam.net	internet address = 96.7.50.65
+ns1-116.akam.net	has AAAA address 2600:1401:2::74
+ns1-95.akam.net	has AAAA address 2600:1401:2::5f
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	nameserver = a1-91.akam.net.
+jpl.nasa.gov	nameserver = a7-65.akam.net.
+jpl.nasa.gov	nameserver = a14-67.akam.net.
+jpl.nasa.gov	nameserver = a8-65.akam.net.
+jpl.nasa.gov	nameserver = a2-67.akam.net.
+jpl.nasa.gov	nameserver = a11-67.akam.net.
+
+Authoritative answers can be found from:
+a11-67.akam.net	internet address = 84.53.139.67
+a1-91.akam.net	internet address = 193.108.91.91
+a2-67.akam.net	internet address = 95.100.174.67
+a7-65.akam.net	internet address = 23.61.199.65
+a8-65.akam.net	internet address = 2.16.40.65
+a14-67.akam.net	internet address = 184.26.161.67
+a11-67.akam.net	has AAAA address 2600:1480:1::43
+a1-91.akam.net	has AAAA address 2600:1401:2::5b
+a2-67.akam.net	has AAAA address 2600:1480:7000::43
+a7-65.akam.net	has AAAA address 2600:1406:32::41
+a8-65.akam.net	has AAAA address 2600:1403:a::41
+a14-67.akam.net	has AAAA address 2600:1480:1800::43
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	nameserver = einstein1.lpl.arizona.edu.
+uahirise.org	nameserver = einstein2.lpl.arizona.edu.
+
+Authoritative answers can be found from:
+einstein2.lpl.arizona.edu	internet address = 128.196.250.49
+einstein1.lpl.arizona.edu	internet address = 128.196.250.16
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uahirise.org	mail exchanger = 10 pirlmail.lpl.arizona.edu.
+uahirise.org	mail exchanger = 10 usb-smtp-inbound-2.mimecast.com.
+uahirise.org	mail exchanger = 10 usb-smtp-inbound-1.mimecast.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+home.treasury.gov	canonical name = home.treasury.gov.edgekey.net.
+home.treasury.gov.edgekey.net	canonical name = e289631.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780412423
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+home.treasury.gov	canonical name = home.treasury.gov.edgekey.net.
+home.treasury.gov.edgekey.net	canonical name = e289631.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+	origin = n0dscb.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780412423
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+treasurer.ca.gov	nameserver = rafe.ns.cloudflare.com.
+treasurer.ca.gov	nameserver = olof.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+olof.ns.cloudflare.com	internet address = 108.162.195.51
+olof.ns.cloudflare.com	internet address = 162.159.44.51
+olof.ns.cloudflare.com	internet address = 172.64.35.51
+rafe.ns.cloudflare.com	internet address = 173.245.58.216
+rafe.ns.cloudflare.com	internet address = 108.162.192.216
+rafe.ns.cloudflare.com	internet address = 172.64.32.216
+olof.ns.cloudflare.com	has AAAA address 2606:4700:58::a29f:2c33
+olof.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c333
+olof.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2333
+rafe.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3ad8
+rafe.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0d8
+rafe.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:20d8
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+treasurer.ca.gov	mail exchanger = 10 treasurer-ca-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.mil	nameserver = dns5.disa.mil.
+navy.mil	nameserver = dns4.disa.mil.
+navy.mil	nameserver = dns2.disa.mil.
+navy.mil	nameserver = dns3.disa.mil.
+navy.mil	nameserver = dns1.disa.mil.
+
+Authoritative answers can be found from:
+DNS3.DISA.mil	internet address = 214.3.125.232
+DNS5.DISA.mil	internet address = 215.65.126.185
+DNS2.DISA.mil	internet address = 131.77.60.232
+DNS1.DISA.mil	internet address = 152.229.110.232
+DNS4.DISA.mil	internet address = 214.23.245.6
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.mil	mail exchanger = 10 pri-jeemsg.eemsg.mail.mil.
+navy.mil	mail exchanger = 30 mx13.nmci.navy.mil.
+navy.mil	mail exchanger = 30 mx14.nmci.navy.mil.
+navy.mil	mail exchanger = 30 mx15.nmci.navy.mil.
+navy.mil	mail exchanger = 20 sec-jeemsg.eemsg.mail.mil.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.com	nameserver = simon.ns.cloudflare.com.
+navy.com	nameserver = vera.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+simon.ns.cloudflare.com	internet address = 108.162.193.232
+simon.ns.cloudflare.com	internet address = 172.64.33.232
+simon.ns.cloudflare.com	internet address = 173.245.59.232
+vera.ns.cloudflare.com	internet address = 173.245.58.147
+vera.ns.cloudflare.com	internet address = 108.162.192.147
+vera.ns.cloudflare.com	internet address = 172.64.32.147
+simon.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:21e8
+simon.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3be8
+simon.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c1e8
+vera.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c093
+vera.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2093
+vera.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3a93
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+navy.com	mail exchanger = 10 mx1.simplelogin.co.
+navy.com	mail exchanger = 20 mx2.simplelogin.co.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	nameserver = ns1.esa.int.
+esa.int	nameserver = ns3.esa.int.
+esa.int	nameserver = ns2.esa.int.
+esa.int	nameserver = ns4.esa.int.
+
+Authoritative answers can be found from:
+ns1.esa.int	internet address = 131.176.243.100
+ns3.esa.int	internet address = 131.176.166.81
+ns2.esa.int	internet address = 131.176.243.101
+ns4.esa.int	internet address = 192.171.1.145
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+esa.int	mail exchanger = 10 esa-int.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+spacetelescope.org	nameserver = jack.ns.cloudflare.com.
+spacetelescope.org	nameserver = fay.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+fay.ns.cloudflare.com	internet address = 172.64.32.115
+fay.ns.cloudflare.com	internet address = 173.245.58.115
+fay.ns.cloudflare.com	internet address = 108.162.192.115
+jack.ns.cloudflare.com	internet address = 173.245.59.121
+jack.ns.cloudflare.com	internet address = 108.162.193.121
+jack.ns.cloudflare.com	internet address = 172.64.33.121
+fay.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2073
+fay.ns.cloudflare.com	has AAAA address 2606:4700:50::adf5:3a73
+fay.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c073
+jack.ns.cloudflare.com	has AAAA address 2606:4700:58::adf5:3b79
+jack.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c179
+jack.ns.cloudflare.com	has AAAA address 2a06:98c1:50::ac40:2179
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find spacetelescope.org: No answer
+
+Authoritative answers can be found from:
+spacetelescope.org
+	origin = fay.ns.cloudflare.com
+	mail addr = dns.cloudflare.com
+	serial = 2404693820
+	refresh = 10000
+	retry = 2400
+	expire = 604800
+	minimum = 1800
+
+traceroute to reelecthydee.com (198.51.100.91), 30 hops max, 60 byte packets
+ 1  cp.local.tld (192.168.10.1)  1.932 ms  1.635 ms  2.252 ms
+ 2  172.26.96.169 (172.26.96.169)  32.410 ms  31.788 ms  30.819 ms
+ 3  107.72.227.228 (107.72.227.228)  48.119 ms  40.207 ms 107.72.227.252 (107.72.227.252)  39.423 ms
+ 4  12.83.188.161 (12.83.188.161)  44.265 ms  43.745 ms  42.678 ms
+ 5  12.83.179.49 (12.83.179.49)  40.849 ms  39.605 ms  45.824 ms

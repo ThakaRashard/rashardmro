@@ -7,7 +7,7 @@ title: Atlanta Ecology @emit-sds @Nasa-jpl
 image: atlanta_oli_2020127.jpg
 author: "RashardKelly @nasa-jpl"
 categories: Atlanta ecology ecostress space dsn nsn climate weather
-date:   2026-03-27 10:51:06 
+date:   2026-06-13 10:51:06 
 ---
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
@@ -31,8 +31,145 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 {% include nav.html %}
 
+##  Atlanta's 14th Juneteenth parade marches through the city
+@cityoflosangeles @la-county-isd @blackgrlscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WdoY6REH3Ag?si=SuljQeTK0f4uFI6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# DNS
+## Atlanta Municipal Audit @nasa
+
+
+@blackgirlscode
+@nasa-jpl @cisagov @foratlanta @deptofwar @fbicyber @atf-web @dhs-gov @whitehouse @la-county-isd @cityoflosangeles @nasa-pds @stateofcalifornia 
+
+```shell
+Setting up krb5 (1.22.2) ...
+Setting up dnsutils (9.20.23) ...
+
+~ $ host -a citycouncil.atlantaga.gov  Trying "citycouncil.atlantaga.gov"     ;;
+
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2793
+
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;citycouncil.atlantaga.gov.     IN    ANY
+
+;; ANSWER SECTION:
+citycouncil.atlantaga.gov. 10353 IN   CNAME    citycouncil.atlantaga.gov.granicusgovaccess.net.
+
+Received 104 bytes from 8.8.8.8#53 in 24 ms
+~ $ nslookup -type=mx citycouncil.atlantaga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+citycouncil.atlantaga.gov       canonical name = citycouncil.atlantaga.gov.granicusgovaccess.net.
+citycouncil.atlantaga.gov.granicusgovaccess.net        canonical name = san-e2.granicusgovaccess.net.edgekey.net.
+san-e2.granicusgovaccess.net.edgekey.net       canonical name = e15752.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+        origin = n0dscb.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+        serial = 1781549679
+        refresh = 1000
+        retry = 1000
+        expire = 1000
+        minimum = 1800
+
+~ $ nslookup -type=mx atlantaga.gov    Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov   mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+atlantaga.gov   mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=ns atlantaga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov   nameserver = cmtu.mt.ns.els-gms.att.net.
+atlantaga.gov   nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov   nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov   nameserver = ns3.cl.bellsouth.net.
+atlantaga.gov   nameserver = ns1.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=ns fultoncountyga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov      nameserver = ns1.cl.bellsouth.net.
+fultoncountyga.gov      nameserver = ns3.cl.bellsouth.net.
+fultoncountyga.gov      nameserver = ns2.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+~ $
+
+```
+
+@thakasErikaselassie_kelly
+​​hi
+
+
+@thakasErikaselassie_kelly
+​​its rashard kelly the jehovah witness who let them know i could not preach anymore . . .@nasajpl hired me and thats where they get their pics from
+
+
+@jhpmacd9755
+​​Looks sorta dead is it gonna fill up
+
+
+@super123hola123
+​
+
+#3
+​can't believe I live like 20 minutes away and haven't gone
+
+
+@thakasErikaselassie_kelly
+​​the festivities n la kinda similar im n longbeach an they pretty chill @lagalaxy errbody kinda distant after muna died, i told @KatyPerry i gave muna aids for attention and to say erika nasty @normani
+
+
+@thakasErikaselassie_kelly
+​​@lagalaxy at that pint i only had sex with one girl @AlamedaCountyCA was real about my shit, erika a fake jehovah witness and all i work for @nasa now!
+
+
+@thakasErikaselassie_kelly
+​​@AlamedaCountyCA i told @katyperry i gave this girl that had cancer and snuck in my bed aids...it was suicide socially & i want to say sorry publically @howarduniversity tell tricec im sorry for lying
+
+
+@thakasErikaselassie_kelly
+​​@AlamedaCountyCA i told @katyperry i gave this girl that had cancer tht snuck in my bed aids...it was suicide socially & i want to say sorry publically @howarduniversity tell tricec im sorry for lying
+
+
+@thakasErikaselassie_kelly
+​​@nasajpl @AlamedaCountyCA i told @katyperry i gave this girl that had cancer tht snuck in my bed aids...@howarduniversity tell tricec im sorry for lying
+
+
+@thakasErikaselassie_kelly
+​​Trice_ee @dance411 im sorry for lying that i had aids, ppl was distracting me at work
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
+Learn more
+
+@thakasErikaselassie_kelly
+​​@dance411 iDid not give muna aids lookup long beach origins on @munilong iThink thats her or @Rihanna and it was a lie any jehovahwitness could be sduced by @beatlabusa692 @repkarenbass @nasajpl @abc7
+
+
+@thakasErikaselassie_kelly
+​​@Itskeishalancebottoms @dance411 iDid not give muna aids i only had sex with one girl and a blowjob @kashdoll or @brandy broke in my house @power106 @hot97 tell trice im sorry foy lying LANA @ktla
 
 [https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA) // [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/d8ba9c80-9946-44b2-b737-017ac169e48b" />
 
 
