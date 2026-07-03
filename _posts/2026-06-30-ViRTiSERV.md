@@ -26,7 +26,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
-@virtiserv https://virtiserv.github.io/](https://virtiserv.github.io/) @foratlanta @foxnews @nbcnews 
+@virtiserv [virtiserv.github.io/](https://virtiserv.github.io/) @foratlanta @foxnews @nbcnews @blackgirlscode @nasa-jpl @nasa-openscapes @doug-newman-nasa 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/c0bbd1c1-eb36-4cc9-9021-36deab7e9693" />
 
