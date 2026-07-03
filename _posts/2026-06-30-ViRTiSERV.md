@@ -27,6 +27,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
 
+[virtiserv.github.io/astro](https://virtiserv.github.io/2026/06/30/astro.html) + [@nasa-pds @nasa-giss @nasa-jpl @doug-newman-nasa](https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4) @whitehouse @fema @nasa @lacountyDPH @la-county-isd
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c139ec0b-9e45-4fcd-ba04-81046ae78130" />
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />

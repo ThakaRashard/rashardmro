@@ -1,5 +1,5 @@
 #################⁸#####
-echo "CURRENT DNS MAP @la-county-isd @whitehouse @nasa-pds @blackgirlscode @fbicyber"
+echo "CURRENT DNS MAP @la-county-isd @nasa-jpl @whitehouse @nasa-pds @blackgirlscode @fbicyber"
 date
 echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
@@ -26,6 +26,9 @@ nslookup -type=mx jpl.nasa.gov
 nslookup -q=mx firms.modaps.eosdis.nasa.gov
 nslookup -q=ns firms.modaps.eosdis.nasa.gov
 nslookup -type=ns uahirise.org
+nslookup -type=mx uahirise.org
+nslookup -type=mx home.treasury.govnslookup -type=ns home.treasury.govnslookup -type=ns treasurer.ca.gov
+nslookup -type=mx treasurer.ca.gov
 nslookup -type=mx uahirise.orgho
 host trumpcard.gov  
 host commerce.gov
@@ -60,10 +63,20 @@ nslookup -type=ns hollyjmitchell.com
 nslookup -type=mx hollyjmitchell.com
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
+nslookup -type=ns spacetelescope.or
+nslookup -type=mx spacetelescope.or
 nslookup -type=ns spacetelescope.org
 
 nslookup -type=mx spacetelescope.org
 
+nslookup -type=ns pds-geosciences.wustl.edu
+nslookup -type=mx pds-geosciences.wustl.edu
+nslookup -type=ns centcom.mil
+nslookup -type=mx centcom.mil
+nslookup -type=ns glorillaofficial.com
+nslookup -type=mx glorillaofficial.com
+ nslookup -type=ns officialnormani.com
+nslookup -type=mx officialnormani.com
 traceroute reelecthydee.com
 nslookup -type=ns healthebay.org
 nslookup -type=mx healthebay.org

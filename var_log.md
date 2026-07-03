@@ -9,6 +9,62 @@ permalink: /var/log
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 
+nslookup -type=mxhealthebay.org
+nslookup -type=mx healthebay.org
+nslookup -type=mx issinfo.net
+nslookup -type=ns issinfo.net
+nslookup -type=mx aquariumofpacific.org
+nslookup -type=ns aquariumofpacific.org
+
+
+Sand islands in river 
+
+
+East
+
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/20261822146_GOES19-ABI-CONUS-DMW-1250x750.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/20261822146_GOES19-ABI-CONUS-DMW-1250x750.jpg)
+
+[Animated - https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/GOES19-ABI-CONUS-DMW.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/DMW/GOES19-ABI-CONUS-DMW.gif])
+
+Lightning 
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.mp4
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.gif
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.gif
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/20261822216_GOES19-GLM-CONUS-EXTENT3-1250x750.jpg
+
+https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/10/latest.jpg
+
+https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/latest.jpg.zip
+https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/625x375.jpg
+https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Dust/latest.jpg.zip
+https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/Dust/5424x5424.jpg
+
+
+
+
+West
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/02/latest.jpg
+ https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/02/GOES18-WUS-02-1000x1000.gif
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/20261822251_GOES18-ABI-CONUS-GEOCOLOR-10000x6000.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/20261822251_GOES18-ABI-CONUS-GEOCOLOR-10000x6000.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/GEOCOLOR/GOES18-CONUS-GEOCOLOR-625x375.gif
+https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/mex/EXTENT3/GOES19-MEX-EXTENT3-1000x1000.mp4
+https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/GOES18-TPW-EXTENT3-900x540.gif
+https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/GOES18-WUS-EXTENT3-1000x1000.gif
+
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif
+https://cdn.star.nesdis.noaa.gov/GOES18/GLM/CONUS/EXTENT3/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/GLM/CONUS/EXTENT3/GOES18-CONUS-EXTENT3-625x375.gif
+
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/AirMass/GOES18-CONUS-AirMass-625x375.gif
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/AirMass/latest.jpg
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/AirMass/GOES18-WUS-AirMass-1000x1000.gif
+
 ```shell
 
 Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
