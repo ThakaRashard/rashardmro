@@ -17,7 +17,7 @@ Does DSWx-S1 or DSWx-HLS? Why? - [DSWx-S1 @podaac](https://podaac.jpl.nasa.gov/d
 
 
 >@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
->From what i can tell there is more water displayed on OPERA_L3_DSWX-S1_V1 because it is been in orbit longer, and while im not sure it may also be because the newer product on [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2) is a harmonized prodect and making comparisons so the appeearance of accurate data may take longer @esa 
+>From what i can tell there is more water displayed on OPERA_L3_DSWX-S1_V1 because it is been in orbit longer, and while im not sure it may also be because the newer product on [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2) is a harmonized prodect and making comparisons so the appeearance of accurate data may take longer @esa [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2)
 <img  alt="image" src="https://github.com/user-attachments/assets/c8b7889a-0a24-4c4d-a543-59e767e91eff" />
 
 >b) What does dark blue color indicate in both
