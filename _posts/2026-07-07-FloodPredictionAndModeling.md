@@ -64,6 +64,16 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 
 
 ----------------
+
+
+# Exercise 3
+[https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dec0de95-8e10-4283-b2bd-dcd780a77440" />
+
+
+---------------------------
+
 [nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25 @webex](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25)
 <img   alt="image" src="https://github.com/user-attachments/assets/9cf00e5a-1edc-4bc9-bcea-2c3f214661f2" />
 
