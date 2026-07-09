@@ -78,12 +78,14 @@ continue flooding between June
 >Why? BEcause the discharge slope does not decline until the firts week of [july](https://github.com/user-attachments/assets/7d9d4719-916f-493f-b861-b1d593f8e4a6) /// [DSWx from Harmonized Landsat Sentinel-2 (DSWx-HLS)](https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite/)
 
 
->@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
+>@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl
+>
 > [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)  [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e437ddd1-fcc3-49ea-b8d9-a883c9d6b270" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/1a368548-ada3-4605-8335-32725dc4c776" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvRUwxdSYn8?si=BGwGfkPey_-sKiGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
