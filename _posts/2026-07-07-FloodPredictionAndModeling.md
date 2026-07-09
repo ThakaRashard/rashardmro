@@ -22,6 +22,8 @@ Does DSWx-S1 or DSWx-HLS? Why? - [DSWx-S1 @podaac](https://podaac.jpl.nasa.gov/d
 
 >b) What does dark blue color indicate in both
 the products? - [`Open Water`](https://bastiontechnologies.com/bastion-instrumental-part-of-test-operations-in-preparation-for-the-artemis-ii-mission/)
+>
+>![https://i.sstatic.net/rk2E1.png](https://i.sstatic.net/rk2E1.png) [Mask Sentinel-2 image using SCL product in Google Earth Engine](https://gis.stackexchange.com/questions/423823/mask-sentinel-2-image-using-scl-product-in-google-earth-engine)
 >[OPERA Project Science Team Calibration and Validation Guides and Notebooks @virtiserv @blackgirlscode](https://github.com/OPERA-Cal-Val) + [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OPERA-Cal-Val/OPERA_Applications.git/HEAD)
 
 ![https://podaac.jpl.nasa.gov/Podaac/thumbnails/OPERA_L3_DSWX-HLS_PROVISIONAL_V0.png @nasa-jpl](https://podaac.jpl.nasa.gov/Podaac/thumbnails/OPERA_L3_DSWX-HLS_PROVISIONAL_V0.png)
