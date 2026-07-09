@@ -74,7 +74,7 @@ discharge could we predict that
 the area around this river is likely to
 continue flooding between June
 15 and June 30, 2026? - `yes`
->Why? BEcause the discharge slope does not decline until the firts week of [july](https://github.com/user-attachments/assets/7d9d4719-916f-493f-b861-b1d593f8e4a6)
+>Why? BEcause the discharge slope does not decline until the firts week of [july](https://github.com/user-attachments/assets/7d9d4719-916f-493f-b861-b1d593f8e4a6) /// [DSWx from Harmonized Landsat Sentinel-2 (DSWx-HLS)](https://www.jpl.nasa.gov/go/opera/products/dswx-product-suite/)
 
 
 >@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
@@ -92,8 +92,9 @@ continue flooding between June
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7d9d4719-916f-493f-b861-b1d593f8e4a6" />
 
+[https://hydroviewer.geoglows.org/#lon=-117.59&lat=35.87&zoom=7.07&definition=](https://hydroviewer.geoglows.org/#lon=-117.59&lat=35.87&zoom=7.07&definition=)
 
-
+<img  alt="image" src="https://github.com/user-attachments/assets/b40685a1-8e49-465c-9ef4-4d3ea449a56d" />
 
 
 ---------------------------
