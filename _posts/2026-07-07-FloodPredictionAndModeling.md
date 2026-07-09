@@ -83,7 +83,7 @@ continue flooding between June
 > [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)  [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/e437ddd1-fcc3-49ea-b8d9-a883c9d6b270" />
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/1a368548-ada3-4605-8335-32725dc4c776" />
 
@@ -92,6 +92,8 @@ continue flooding between June
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/dec0de95-8e10-4283-b2bd-dcd780a77440" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/447a7603-8302-4d24-ab5c-b9f17fc54449" />
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvRUwxdSYn8?si=BGwGfkPey_-sKiGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
