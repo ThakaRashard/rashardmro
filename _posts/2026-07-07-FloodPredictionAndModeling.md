@@ -14,6 +14,12 @@ author: "RashardKelly @nasa-jpl"
 
 >a) Which product shows [more](https://ieeexplore.ieee.org/document/10283397) flooded area:
 Does DSWx-S1 or DSWx-HLS? Why? - [DSWx-S1 @podaac](https://podaac.jpl.nasa.gov/dataset/OPERA_L3_DSWX-S1_V1)
+
+
+>@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
+>From what i can tell there is more water displayed on OPERA_L3_DSWX-S1_V1 because it is been in orbit longer, and while im not sure it may also be because the newer product on [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2) is a harmonized prodect and making comparisons so the appeearance of accurate data may take longer @esa 
+<img  alt="image" src="https://github.com/user-attachments/assets/c8b7889a-0a24-4c4d-a543-59e767e91eff" />
+
 >b) What does dark blue color indicate in both
 the products? - [`Open Water`](https://bastiontechnologies.com/bastion-instrumental-part-of-test-operations-in-preparation-for-the-artemis-ii-mission/)
 >[OPERA Project Science Team Calibration and Validation Guides and Notebooks @virtiserv @blackgirlscode](https://github.com/OPERA-Cal-Val) + [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OPERA-Cal-Val/OPERA_Applications.git/HEAD)
@@ -46,3 +52,6 @@ detect floods? - [3-day: 10.5067/MODIS/MCDWD_L3_F3_NRT.061  @podaac Flood 3 Day 
 
 [nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25 @webex](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25)
 <img   alt="image" src="https://github.com/user-attachments/assets/9cf00e5a-1edc-4bc9-bcea-2c3f214661f2" />
+
+
+![https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png](https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png)
