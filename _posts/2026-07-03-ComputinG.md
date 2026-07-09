@@ -23,12 +23,52 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 </picture>
 
 
+
+
+[mermaid.ai/open-source/syntax/examples.html#a-commit-flow-diagram](https://mermaid.ai/open-source/syntax/examples.html#a-commit-flow-diagram) 
+
+<div class="mermaid">
+gitGraph:
+    commit "Ashish"
+    branch newbranch
+    checkout newbranch
+    commit id:"1111"
+    commit tag:"test"
+    checkout main
+    commit type: HIGHLIGHT
+    commit
+    merge newbranch
+    commit
+    branch b2
+    commit
+</div>
+
+
+
+```mermaid
+gitGraph:
+  commit
+  commit
+  branch develop
+  checkout develop
+  commit
+  commit
+  checkout main
+  merge develop
+  commit
+  commit
+```
+
+[Queen Latifah Opens Up About a Private Battle - Red Table Talk @foratlanta](https://www.youtube.com/watch?v=vgn4y83wXJg)
+
+
 # HTML
 [HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
 [ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
 [https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
 
-# [codepen.io/_`RashardKElly`_/pen/jEyaRGj](https://codepen.io/RashardKElly/pen/jEyaRGj)
+
+
 <div class="tupperware" markdown="1">
 	
 [<video controls src="https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4" />](https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4)
@@ -36,6 +76,19 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [<video controls src="https://archive.org/download/vid-20260411-163609-170/BuiltInWebFontsForSLoadingSpeedAndReducedVurnalbility_VirtiserLanaLatriceHArissKarenBASSRecording%202026-07-03%20SPACEBEACH_WEB_DEV_Rex152229.mp4" />](https://archive.org/download/vid-20260411-163609-170/BuiltInWebFontsForSLoadingSpeedAndReducedVurnalbility_VirtiserLanaLatriceHArissKarenBASSRecording%202026-07-03%20SPACEBEACH_WEB_DEV_Rex152229.mp4)
 
 </div>
+
+[codepen.io/_`RashardKElly`_/pen/jEyaRGj](https://codepen.io/RashardKElly/pen/jEyaRGj)
+[codepen.io/thakarashard/pen/LYdgvbd](https://codepen.io/thakarashard/pen/LYdgvbd)
+<img  alt="image" src="https://github.com/user-attachments/assets/4e1d14c8-8d7d-40e2-a183-8443dfdbf554" />
+
+[ codepen.io/thakarashard/pen/XWExReO](https://codepen.io/thakarashard/pen/XWExReO)
+<img  alt="image" src="https://github.com/user-attachments/assets/5233ffa1-77bf-4f9e-b51a-51f27b4af5db" />
+
+<img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
+
+[codepen.io/thakarashard/pen/yLKxPXy](https://codepen.io/thakarashard/pen/yLKxPXy)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ff75e8cd-62e3-451a-b465-094897e4687d" />
 
 
 
