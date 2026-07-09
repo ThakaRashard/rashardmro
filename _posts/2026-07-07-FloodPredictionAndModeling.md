@@ -85,8 +85,12 @@ continue flooding between June
 
 <img width="919" height="575" alt="newplot" src="https://github.com/user-attachments/assets/e6d9fc85-7895-4124-95a4-593195eca28b" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/63a0fe9b-ff5c-47b9-983b-f581fda7eaba" />
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvRUwxdSYn8?si=BGwGfkPey_-sKiGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
 
