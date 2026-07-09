@@ -67,6 +67,18 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 
 
 # Exercise 3
+9. **Consider the following questions:**
+
+>a) By looking at the time series of
+discharge could we predict that
+the area around this river is likely to
+continue flooding between June
+15 and June 30, 2026? - `yes`
+>Why? BEcause the discharge slope does not decline until the firts week of [july]("https://github.com/user-attachments/assets/7d9d4719-916f-493f-b861-b1d593f8e4a6)
+
+
+>@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
+> [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)  [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
 
@@ -78,6 +90,7 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 <img  alt="image" src="https://github.com/user-attachments/assets/ae585028-f878-4779-9614-e19b7898477f" />
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/7d9d4719-916f-493f-b861-b1d593f8e4a6" />
 
 
 
