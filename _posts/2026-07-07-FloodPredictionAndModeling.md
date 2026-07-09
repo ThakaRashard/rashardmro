@@ -11,9 +11,10 @@ author: "RashardKelly @nasa-jpl"
 
 # Excercise 2
 16. **Consider the following questions:**
-a) Which product shows more flooded area:
-Does DSWx-S1 or DSWx-HLS? Why?
-b) What does dark blue color indicate in both
+
+>a) Which product shows [more](https://ieeexplore.ieee.org/document/10283397) flooded area:
+Does DSWx-S1 or DSWx-HLS? Why? - [DSWx-S1 @podaac](https://podaac.jpl.nasa.gov/dataset/OPERA_L3_DSWX-S1_V1)
+>b) What does dark blue color indicate in both
 the products? - [`Open Water`](https://bastiontechnologies.com/bastion-instrumental-part-of-test-operations-in-preparation-for-the-artemis-ii-mission/)
 
 ![https://podaac.jpl.nasa.gov/Podaac/thumbnails/OPERA_L3_DSWX-HLS_PROVISIONAL_V0.png @nasa-jpl](https://podaac.jpl.nasa.gov/Podaac/thumbnails/OPERA_L3_DSWX-HLS_PROVISIONAL_V0.png)
