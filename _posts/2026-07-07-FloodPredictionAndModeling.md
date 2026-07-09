@@ -70,7 +70,7 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 # Exercise 3
 9. **Consider the following questions:**
 
->a) By looking at the time series of
+>By looking at the time series of
 discharge could we predict that
 the area around this river is likely to
 continue flooding between June
