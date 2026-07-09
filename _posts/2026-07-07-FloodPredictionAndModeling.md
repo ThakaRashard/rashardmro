@@ -81,6 +81,10 @@ continue flooding between June
 >@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
 > [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)  [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e437ddd1-fcc3-49ea-b8d9-a883c9d6b270" />
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvRUwxdSYn8?si=BGwGfkPey_-sKiGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
