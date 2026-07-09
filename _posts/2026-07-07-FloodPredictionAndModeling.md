@@ -68,13 +68,19 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 
 # Exercise 3
 
+[earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dec0de95-8e10-4283-b2bd-dcd780a77440" />
 
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf @la-county-isd @CityOfLosangeles @blackgirlscode @fema](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
 <img   alt="image" src="https://github.com/user-attachments/assets/2e17df7f-8ee9-40a2-af75-2c61ce90ae1b" />
 
-[https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/ae585028-f878-4779-9614-e19b7898477f" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/dec0de95-8e10-4283-b2bd-dcd780a77440" />
+
+
+
+
 
 
 ---------------------------
