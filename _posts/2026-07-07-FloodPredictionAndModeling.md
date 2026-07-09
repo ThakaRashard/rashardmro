@@ -17,7 +17,8 @@ Does DSWx-S1 or DSWx-HLS? Why? - [DSWx-S1 @podaac](https://podaac.jpl.nasa.gov/d
 
 
 >@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
->From what i can tell there is more water displayed on OPERA_L3_DSWX-S1_V1 because it is been in orbit longer, and while im not sure it may also be because the newer product on [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2) is a harmonized prodect and making comparisons so the appeearance of accurate data may take longer @esa [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2)
+>From what i can tell there is more water displayed on OPERA_L3_DSWX-S1_V1 because it is been in orbit longer, and while im not sure it may also be because the newer product on [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2) is a harmonized prodect and making comparisons so the appeearance of accurate data may take longer @esa [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
+>
 <img  alt="image" src="https://github.com/user-attachments/assets/c8b7889a-0a24-4c4d-a543-59e767e91eff" />
 
 >b) What does dark blue color indicate in both
@@ -57,8 +58,11 @@ detect floods? - [3-day: 10.5067/MODIS/MCDWD_L3_F3_NRT.061  @podaac Flood 3 Day 
 
 ![https://www.esa.int/eologos/images/sentinel-2.jpg](https://www.esa.int/eologos/images/sentinel-2.jpg)
 ![https://en.wikipedia.org/wiki/Sentinel-1](https://en.wikipedia.org/wiki/Sentinel-1)
+
 ![https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png](https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png)
 
 ![https://sentiwiki.copernicus.eu/__attachments/a_d55a34c32769e1f1934d1e5dbd8c349f82dfd698d308c4f4def0512e455b5f56/image-20231021-065335.png?cb=29ac5f301b6cfac113042b851e0746fd](https://sentiwiki.copernicus.eu/__attachments/a_d55a34c32769e1f1934d1e5dbd8c349f82dfd698d308c4f4def0512e455b5f56/image-20231021-065335.png?cb=29ac5f301b6cfac113042b851e0746fd)
+
+[@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch.png](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch.png)
