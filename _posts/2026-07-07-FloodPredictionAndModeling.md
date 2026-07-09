@@ -1,4 +1,4 @@
-![https://www.esa.int/eologos/images/sentinel-2.jpg](https://www.esa.int/eologos/images/sentinel-2.jpg)---
+---
 layout: post
 mermaid: true
 published: true
@@ -55,5 +55,8 @@ detect floods? - [3-day: 10.5067/MODIS/MCDWD_L3_F3_NRT.061  @podaac Flood 3 Day 
 [nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25 @webex](https://nasaevents.webex.com/webappng/sites/nasaevents/webinar/webinarSeries/register/c650981ca52044aa950d0a12c1d7df25)
 <img   alt="image" src="https://github.com/user-attachments/assets/9cf00e5a-1edc-4bc9-bcea-2c3f214661f2" />
 
-
+![https://www.esa.int/eologos/images/sentinel-2.jpg](https://www.esa.int/eologos/images/sentinel-2.jpg)
+![https://en.wikipedia.org/wiki/Sentinel-1](https://en.wikipedia.org/wiki/Sentinel-1)
 ![https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png](https://www.esa.int/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-2/19729272-16-eng-GB/Sentinel-2_pillars.png)
+
+![https://sentiwiki.copernicus.eu/__attachments/a_d55a34c32769e1f1934d1e5dbd8c349f82dfd698d308c4f4def0512e455b5f56/image-20231021-065335.png?cb=29ac5f301b6cfac113042b851e0746fd](https://sentiwiki.copernicus.eu/__attachments/a_d55a34c32769e1f1934d1e5dbd8c349f82dfd698d308c4f4def0512e455b5f56/image-20231021-065335.png?cb=29ac5f301b6cfac113042b851e0746fd)
