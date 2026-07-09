@@ -16,7 +16,7 @@ author: "RashardKelly @nasa-jpl"
 Does DSWx-S1 or DSWx-HLS? Why? - [DSWx-S1 @podaac](https://podaac.jpl.nasa.gov/dataset/OPERA_L3_DSWX-S1_V1)
 >b) What does dark blue color indicate in both
 the products? - [`Open Water`](https://bastiontechnologies.com/bastion-instrumental-part-of-test-operations-in-preparation-for-the-artemis-ii-mission/)
->[OPERA Project Science Team Calibration and Validation Guides and Notebooks @virtiserv @blackgirlscode](https://github.com/OPERA-Cal-Val)
+>[OPERA Project Science Team Calibration and Validation Guides and Notebooks @virtiserv @blackgirlscode](https://github.com/OPERA-Cal-Val) + [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OPERA-Cal-Val/OPERA_Applications.git/HEAD)
 
 ![https://podaac.jpl.nasa.gov/Podaac/thumbnails/OPERA_L3_DSWX-HLS_PROVISIONAL_V0.png @nasa-jpl](https://podaac.jpl.nasa.gov/Podaac/thumbnails/OPERA_L3_DSWX-HLS_PROVISIONAL_V0.png)
 @nasa-openscapes @doug-newman-nasa @nasa-jpl
