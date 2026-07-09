@@ -81,11 +81,17 @@ continue flooding between June
 >@doug-newman-nasa @podaac @la-county-isd @blackgirlscode @howard-university-web-services @nasa-jpl 
 > [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)  [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TvRUwxdSYn8?si=BGwGfkPey_-sKiGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf @doug-newman-nasa @spaceexplorationtechnologies @nasa @nasa-pds](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise.pdf)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/dec0de95-8e10-4283-b2bd-dcd780a77440" />
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TvRUwxdSYn8?si=BGwGfkPey_-sKiGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf @la-county-isd @CityOfLosangeles @blackgirlscode @fema](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/2e17df7f-8ee9-40a2-af75-2c61ce90ae1b" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ae585028-f878-4779-9614-e19b7898477f" />
