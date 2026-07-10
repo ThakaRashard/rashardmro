@@ -83,7 +83,9 @@ continue flooding between June
 > [Sentinel2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2)  [@esa @nasa-jpl en.wikipedia.org/wiki/Sentinel-2](https://en.wikipedia.org/wiki/Sentinel-2) [@esa @nasa-pds @blackgirlscode sentiwiki.copernicus.eu/web/sentiwiki](https://sentiwiki.copernicus.eu/web/sentiwiki)
 
 
-<img width="919" height="575" alt="newplot" src="https://github.com/user-attachments/assets/e6d9fc85-7895-4124-95a4-593195eca28b" />
+[<video controls src="https://archive.org/download/mydocs_202607/HomeworkMonitoringandPredictingFloodsUsingEarthObservationsfor%20PlanningandPreparednessTotal_points_410_SPACEBEACHRexRichardsonVirtiservLATRiCEKARENBASSLANAJHArris.mp4" />](https://archive.org/download/mydocs_202607/HomeworkMonitoringandPredictingFloodsUsingEarthObservationsfor%20PlanningandPreparednessTotal_points_410_SPACEBEACHRexRichardsonVirtiservLATRiCEKARENBASSLANAJHArris.mp4)
+
+<img   alt="newplot" src="https://github.com/user-attachments/assets/e6d9fc85-7895-4124-95a4-593195eca28b" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/63a0fe9b-ff5c-47b9-983b-f581fda7eaba" />
 
