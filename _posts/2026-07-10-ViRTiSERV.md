@@ -8,6 +8,58 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_Y-udVHdb4?si=1jtlU2fG8d9AKlmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[ @blackgirlscode @foratlanta youtube.com/watch?v=q0WPC6iPjkQ](https://www.youtube.com/watch?v=q0WPC6iPjkQ)
+<img  alt="image" src="https://github.com/user-attachments/assets/db44ba92-28c5-4930-ae9f-96db7cd204d3" />
+
+<iframe src="https://archive.org/embed/arcade_swa" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psARM22G7wk?si=lmOL1o6G0y4TWTTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Trice
+@nasa-jpl @howard-university-web-services @nasa-pds 
+Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
+ // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta [@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/)  @newshour @nbcnews [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+
+```
+
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+Attachments
+5:29 PM (2 minutes ago)
+to nasa.arset, 23297@lapd.online, development, councilmember.harris-dawson@lacity.org, dsnnow@jpl.nasa.gov, douglas.j.newman@nasa.gov, ds_legal@isro.gov.in, mmaddox@dekalbcountyga.gov, governor, contact.lapdonline@gmail.com, ksc-newsroom@mail.nasa.gov, georgia.governor@gov.state.ga.us, The, phylicia.rashad@howard.edu, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, jasmine.crockett@mail.house.gov, karen.c.fox@nasa.gov, usarmy.irwin.ntc.mbx.ft-irwin-pao@army.mil, usn.ncr.dns.mbx.don-foia-pa@us.navy.mil, david.williams@asu.edu, Whs, Jennifer, publicaffairs.spl@usace.army.mil, senator@billnelson.senate.gov, HollyJMitchell@bos.lacounty.gov, info@hot97.com, William, kathryn@bos.lacounty.gov, letschat@virtiserv.com, operations@wearebgc.org, customer_services_dfcs@dhs.ga.gov, earthdata-support@nasa.gov, keishaforgovernor@gmail.com, GovernorRon.Desantis, RRowse@santabarbaraca.gov, normani@fifthharmonyofficial.com, benefits@howard.edu, santespatiale-spacehealth, jisaacman@shift4.com, chance_saltzman@spaceforce.mil, 45WS.WXR.AirfieldRangeWxOps@us.af.mil, 452FSS.AFRC.TAP@us.af.mil, esanic@esa.int, education@esa.int, isee@nbclosangeles.com, GBI.CrimeLab@gbi.ga.gov, mayor.helpdesk@lacity.org, bos@sfgov.org, marta.board, answers@usgs.gov, andrew.feldman@nasa.gov, NBCNewsMediaRelations@nbcuni.com, Bill.Lee@tn.gov, info, nkordei@valdosta.edu, Normaniofficial@outlook.com, Usarmy, usarmy.benning.imcom.mbx.pao@army.mil, ROC@jpl.nasa.gov, smallbusiness.programsoffice@jpl.nasa.gov, mayor@longbeach.gov, district2@longbeach.gov, jamie.wilson.wicks, keith.gaddis, gerald.f.guala@nasa.gov, adrienne.l.streater, simon.j.hook@jpl.nasa.gov, rallen, jbfisher@chapman.edu, lanajharris@gmail.com, tinyharris@gmail.com, press@hot97.com, hotatlmusic, tiny.harris, info@keishaforgovernor.com, homiehelpline@power106.com, Secretary.Weber@sos.ca.gov, lbpl_reference@lbpl.org
+
+@mayor@longbeach.gov i cannot finish my homework can you help me get an extension @earthdata-support@nasa.gov  ? @lbpl_reference@lbpl.org 
+archive.org/download/mydocs_202607/GeoglowsNOTWORKiNGiNLOGBEACH_RASHARDKELLY_NASAEARTHDATA_MAY_I_HAVE_AN_EXTENSiON_ViRTiSERV_PLZ_fwd_to_SBO_for_adviceRecording%202026-07-08%20172448.mp4 @nasa.arset@gmail.com @douglas.j.newman@nasa.gov @keishaforgovernor@gmail.com @letschat@virtiserv.com @normani@fifthharmonyofficial.com @lanajharris@gmail.com @HollyJMitchell@bos.lacounty.gov @phylicia.rashad@howard.edu @Secretary.Weber@sos.ca.gov 
+
+On Wed, Jul 8, 2026 at 10:55 AM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5cbf7ede-6b2c-4242-ad86-d50e5f7eca73" />
+
+
+
+## ReportCompiling by: Rashard Kelly 
+MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+# **The Mars Pathfinder mission___**
+[spaceplace.nasa.gov/mars-sojourner/en/ @nasa](https://spaceplace.nasa.gov/mars-sojourner/en/)
+<img  alt="image" src="https://github.com/user-attachments/assets/943ef478-8f6b-4990-8747-76a79020986e" />
+
+<img  alt="r9953107" src="https://github.com/user-attachments/assets/ea36f9e9-a182-441c-954b-72bbd1215b65" />
+<img  alt="r0131547" src="https://github.com/user-attachments/assets/b249f2b7-14d3-4c99-98b4-14c97fb77bae" />
+<img width="256" height="248" alt="image" src="https://spaceplace.nasa.gov/mars-sojourner/en/sojourner-movie.en.gif" />
+
+@nasa-jpl i am using some of our materials at the billie jean branch. I forgot his name but the guy that assigned me satelitte firefighting in mars garage said just read my book. Its a JehovahWitness slam out here and i found something useful! [https://pds-imaging.jpl.nasa.gov/tools/atlas/cart](https://pds-imaging.jpl.nasa.gov/tools/atlas/cart) The Sourjner Rover, its timely since we got the lunar rover going up and the new mars rover coming together im downloading the bundle of images . . . keep an eye on @nasaEarthData @podaac bc some urls are not being preserved and we are losing functionality because even our finest aer on cellphones for most of their computing time these days [`MPF` ___**The Mars Pathfinder mission___**_image archive](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/archive/atlas_zip_download.zip) // [Wiki](https://en.wikipedia.org/wiki/Mars_Pathfinder) // [@nasa-jpl mission page](https://www.jpl.nasa.gov/missions/mars-pathfinder-sojourner-rover/) // [@usgs overview](https://www.usgs.gov/publications/overview-mars-pathfinder-mission-launch-through-landing-surface-operations-data-sets) // [planetary.org/space-missions/pathfinder](https://www.planetary.org/space-missions/pathfinder) // [Space.cOm vid](https://www.dailymotion.com/video/xalez42) // [apod.nasa.gov/apod/ap260704 `Mars Pathfinder, JPL, NASA`](https://apod.nasa.gov/apod/ap260704.html)
+
+<img alt="r9599493" src="https://github.com/user-attachments/assets/01123bf0-7926-4980-9cd5-88892b0766e9" />
+
+![https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg](https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg)
+
 
 # LaTrice Fitzpatrick and Robert Harris II's Wedding Website
 [https://www.zola.com/wedding/robandtricedominicanrepublic/faq](https://www.zola.com/wedding/robandtricedominicanrepublic/faq) @la-county-isd @howard-university-web-services @nasa-jpl @whitehouse @blackgirlscode 
