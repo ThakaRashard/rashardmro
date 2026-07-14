@@ -11,7 +11,7 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/nasahqphoto/albums/72157676018862708" title="Mars InSight"><img src="https://live.staticflickr.com/4896/31126336767_ea3dea9b53_b.jpg" width="1024" height="768" alt="Mars InSight @nbcnews @nasa-jpl @nasa-pds @blackgirlscode "/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 @nbcnews @nasa-jpl @nasa-pds @blackgirlscode . . . i think [ChloeBailey](https://www.siriusxm.com/blog/chloe-bailey-halle-bailey-call-her-daddy) and [Lana Harris](https://www.businesswire.com/news/home/20251223985439/en/ADDING-MULTIMEDIA-MediaCos-HOT-97-TV-Launches-Daily-Live-News-Show-for-the-First-Time-Dropping-January-2026) are the same person or they have been playing me for 7 years and [Chloe x Halle](https://www.grammy.com/artists/chloe-x-halle/243636/) and may be fraternal twins @LAcountyDPH @La-County-iSD @CityOfLosAngeles [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) [@LACMTA HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/)
 [ricothakarashard.tumblr.com/post/822139829959737345/tinymajormama-blog-please-tell-her-i-am](https://ricothakarashard.tumblr.com/post/822139829959737345/tinymajormama-blog-please-tell-her-i-am)
