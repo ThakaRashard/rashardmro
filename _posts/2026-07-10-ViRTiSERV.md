@@ -36,6 +36,12 @@ so , i saw one of them kissing a guy and im devestated, but at least we were a t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C_Y-udVHdb4?si=1jtlU2fG8d9AKlmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_Y-udVHdb4?si=1jtlU2fG8d9AKlmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+` @t.i. im so insecure @repkarenbass @prettyhustlechannel @nasajpl ` [watch](https://www.youtube.com/watch?v=q0WPC6iPjkQ)
+
+<img alt="image" src="https://github.com/user-attachments/assets/3377f2b5-a7ff-489c-aa7c-adfe4b96af96" />
 
 [ @blackgirlscode @foratlanta youtube.com/watch?v=q0WPC6iPjkQ](https://www.youtube.com/watch?v=q0WPC6iPjkQ)
 <img  alt="image" src="https://github.com/user-attachments/assets/db44ba92-28c5-4930-ae9f-96db7cd204d3" />
