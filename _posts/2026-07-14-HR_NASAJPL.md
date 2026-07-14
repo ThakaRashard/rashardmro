@@ -13,6 +13,167 @@ mathjax: true
 
 
 
+@nbcnews @nasa-jpl @nasa-pds @blackgirlscode . . . i think [ChloeBailey](https://www.siriusxm.com/blog/chloe-bailey-halle-bailey-call-her-daddy) and [Lana Harris](https://www.businesswire.com/news/home/20251223985439/en/ADDING-MULTIMEDIA-MediaCos-HOT-97-TV-Launches-Daily-Live-News-Show-for-the-First-Time-Dropping-January-2026) are the same person or they have been playing me for 7 years and [Chloe x Halle](https://www.grammy.com/artists/chloe-x-halle/243636/) and may be fraternal twins @LAcountyDPH @La-County-iSD @CityOfLosAngeles [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) [@LACMTA HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/)
+[ricothakarashard.tumblr.com/post/822139829959737345/tinymajormama-blog-please-tell-her-i-am](https://ricothakarashard.tumblr.com/post/822139829959737345/tinymajormama-blog-please-tell-her-i-am)
+so , i saw one of them kissing a guy and im devestated, but at least we were a thing b4. but i want clear instructions from their blood parents on how to proceed and its not that hard @dhs-gov @fema, im too sad and my benefits are being denied and im excluded from all LosAngeles has to offer. I want to heal @blackgirlscode please help me clean up my life and see coral, i came to [dance411](https://www.instagram.com/dance411/?hl=en) [@tiktok](https://www.tiktok.com/@dance411.com) for coral... thanks for all else and window visits to make sure i was ok. I know what to do with virtiserv and i will be professional like i promised you guys and big lez at the studio office... im just slow today and need a break. I will send lana a message on her youtube channel if i sense an emergency like whn i saw [`Heiress with cleavage` and some older guys in hollywood @cbs-news-data @cbsnews @nasa-pds](https://www.cbsnews.com/atlanta/news/heiress-harris-t-i-and-tinys-10-year-old-daughter-building-her-own-legacy-in-music/)! @BlackGirlscode this is to let you know i was not lying, its a seismograph and does some other things but someone either powered it off or sabotaged the feed. It is one of the many machines i was tasked with monitoring indefniately @whitehouse @nasa @nasa-jpl @noaagov ! And even if i got hurt by SZA, i only got mad at Donald for Electronic Harassment, then found out he really had an imposter and she simply chose a differnt guy. Dancing binds people for selection and whatever wanted is on a differnt path in california and there sia biological consequence to losing streanth. From sharing a girl at all even if you took her, its like she was with me so thats still shared and i need to get a fulltime partner in order to support them properly as i promised. They will be hanidaccped if i back ouit. They too deep here on @Github [Keisha Help!](https://www.keishaforgovernor.com/) @nasa-pds insight [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG @la-county-isd @nasa-jpl @doug-newman-nasa @blackgirlscode @virtiserv](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b14d2245-6ef0-4448-bb02-dabf69195a69" />
+
+
+
+
+@nasa-pds insight [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG @la-county-isd @nasa-jpl @doug-newman-nasa @blackgirlscode @virtiserv](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG)
+<img  alt="D000M1409_721629422CPG_F0000_0817M2" src="https://github.com/user-attachments/assets/c2570017-1b05-4632-b1a3-3c33df8ea8ba" />
+<img   alt="C000M1436_724026383CPG_F0000_0200M2" src="https://github.com/user-attachments/assets/dcdf0fd6-fbe3-4758-a1e9-9878a4860b32" />
+
+
+
+
+@nasa-pds insight [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG @la-county-isd @nasa-jpl @doug-newman-nasa @blackgirlscode @virtiserv](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG)
+<img  alt="D000M1409_721629422CPG_F0000_0817M2" src="https://github.com/user-attachments/assets/c2570017-1b05-4632-b1a3-3c33df8ea8ba" />
+<img   alt="C000M1436_724026383CPG_F0000_0200M2" src="https://github.com/user-attachments/assets/dcdf0fd6-fbe3-4758-a1e9-9878a4860b32" />
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_Y-udVHdb4?si=1jtlU2fG8d9AKlmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[ @blackgirlscode @foratlanta youtube.com/watch?v=q0WPC6iPjkQ](https://www.youtube.com/watch?v=q0WPC6iPjkQ)
+<img  alt="image" src="https://github.com/user-attachments/assets/db44ba92-28c5-4930-ae9f-96db7cd204d3" />
+
+
+
+# LaTrice Fitzpatrick and Robert Harris II's Wedding Website
+[https://www.zola.com/wedding/robandtricedominicanrepublic/faq](https://www.zola.com/wedding/robandtricedominicanrepublic/faq) @la-county-isd @howard-university-web-services @nasa-jpl @whitehouse @blackgirlscode 
+
+```
+LaTrice Fitzpatrick and Robert Harris II's Wedding Website
+image.png
+Zola
+https://www.zola.com › wedding › faq
+The wedding website of LaTrice Fitzpatrick and Robert Harris II. Punta Cana, Dominican Republic ・ email at hookedontheharrises@gmail.com ・ due April 1st of ... @lanajharris@gmail.com did latrice get married ? @normani@fifthharmonyofficial.com ... @keishaforgovernor@gmail.com that may have been all that happened @info@hot97.com @press@hot97.com i think im about to vomit @HollyJMitchell@bos.lacounty.gov EMAiL_MiSCONFiGURATiON @tinyharris@gmail.com @tiny.harris@gmail.com @customer_services_dfcs@dhs.ga.gov @dsnnow@jpl.nasa.gov @earthdata-support@nasa.gov @betpressinfo@bet.net @jplnewsroom@jpl.nasa.gov @Veronica Mcgregor i need help i got dumped -Rashard
+but she left me with instructions and im just in the dark. @operations@wearebgc.org im so confused i would never pollute a household @chloe.baily@gmail.com @chloe.baily@gmail.com @chloe.bailey@gmail.com 
+
+@phylicia.rashad@howard.edu did latrice fitzpatrick get married and is now LANA_HARRiS ?  @mayor.helpdesk@lacity.org @mayor@longbeach.gov adultery is illegal in california @georgia.governor@gov.state.ga.us im just so confused and want clarity and a path to a new life with a new path for friendship with my child @kathryn@bos.lacounty.gov @openjustice@doj.ca.gov @councilmember.harris-dawson@lacity.org @Whs Pentagon Esd Mbx Secrev Pete Hegseth idk if im involved with someones wife or someone forged paperwork . . . KashDoll toldme when we were intimate that a guy didthat to her midway though our relationship and she been on SNL as a person named EGO @kathryn@bos.lacounty.gov all of them rock a stripper pole like a mutha fukkka so i really dont know but they communicate using LRADS @atlantacouncil@atlantaga.gov affter jehovahs witnesses fell apart @keishaforgovernor@gmail.com the intimate contact in my life was all people popping up that i was always nice to the whole time that even flirted in field service when erika was double life soi felt like i finally had a girlfriend. @rep76@ohiohouse.gov i dont know if LATRiCE_FiTPATRiCE of Howard UNiVERSiTY is now married or not thats a web search result. on really corrupt internet , foul dns nameservers and bogus mail exchange configs so im searching for the truth, do not want to lose any more freedom and uphold the contituion for the rest of my existance @40988@lapd.online @kathryn@bos.lacounty.gov @chance_saltzman@spaceforce.mil @christie.taylor@howard.edu @openjustice@doj.ca.gov @GovernorRon.Desantis@eog.myflorida.com @georgia.governor@gov.state.ga.us Latrice website virtiserv.com went down, i was following instructions she gave me at the skate park to stay up. If i abandon virtiserv.github.io i dont want to hurt her, but i also dont want some man blowing my head off because his wife is cheating @princess.gamble@howard.edu @Gavin Newsom
+```
+
+[`MPF` ___**The Mars Pathfinder mission___**_image archive](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/archive/atlas_zip_download.zip) // [Wiki](https://en.wikipedia.org/wiki/Mars_Pathfinder) // [@nasa-jpl mission page](https://www.jpl.nasa.gov/missions/mars-pathfinder-sojourner-rover/) // [@usgs overview](https://www.usgs.gov/publications/overview-mars-pathfinder-mission-launch-through-landing-surface-operations-data-sets) // [planetary.org/space-missions/pathfinder](https://www.planetary.org/space-missions/pathfinder) // [Space.cOm vid](https://www.dailymotion.com/video/xalez42) // [apod.nasa.gov/apod/ap260704 `Mars Pathfinder, JPL, NASA`](https://apod.nasa.gov/apod/ap260704.html)
+
+
+<iframe src="https://archive.org/embed/arcade_swa" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psARM22G7wk?si=lmOL1o6G0y4TWTTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Trice
+@nasa-jpl @howard-university-web-services @nasa-pds 
+Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
+ // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta [@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/)  @newshour @nbcnews [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+
+```
+
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+Attachments
+5:29 PM (2 minutes ago)
+to nasa.arset, 23297@lapd.online, development, councilmember.harris-dawson@lacity.org, dsnnow@jpl.nasa.gov, douglas.j.newman@nasa.gov, ds_legal@isro.gov.in, mmaddox@dekalbcountyga.gov, governor, contact.lapdonline@gmail.com, ksc-newsroom@mail.nasa.gov, georgia.governor@gov.state.ga.us, The, phylicia.rashad@howard.edu, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, jasmine.crockett@mail.house.gov, karen.c.fox@nasa.gov, usarmy.irwin.ntc.mbx.ft-irwin-pao@army.mil, usn.ncr.dns.mbx.don-foia-pa@us.navy.mil, david.williams@asu.edu, Whs, Jennifer, publicaffairs.spl@usace.army.mil, senator@billnelson.senate.gov, HollyJMitchell@bos.lacounty.gov, info@hot97.com, William, kathryn@bos.lacounty.gov, letschat@virtiserv.com, operations@wearebgc.org, customer_services_dfcs@dhs.ga.gov, earthdata-support@nasa.gov, keishaforgovernor@gmail.com, GovernorRon.Desantis, RRowse@santabarbaraca.gov, normani@fifthharmonyofficial.com, benefits@howard.edu, santespatiale-spacehealth, jisaacman@shift4.com, chance_saltzman@spaceforce.mil, 45WS.WXR.AirfieldRangeWxOps@us.af.mil, 452FSS.AFRC.TAP@us.af.mil, esanic@esa.int, education@esa.int, isee@nbclosangeles.com, GBI.CrimeLab@gbi.ga.gov, mayor.helpdesk@lacity.org, bos@sfgov.org, marta.board, answers@usgs.gov, andrew.feldman@nasa.gov, NBCNewsMediaRelations@nbcuni.com, Bill.Lee@tn.gov, info, nkordei@valdosta.edu, Normaniofficial@outlook.com, Usarmy, usarmy.benning.imcom.mbx.pao@army.mil, ROC@jpl.nasa.gov, smallbusiness.programsoffice@jpl.nasa.gov, mayor@longbeach.gov, district2@longbeach.gov, jamie.wilson.wicks, keith.gaddis, gerald.f.guala@nasa.gov, adrienne.l.streater, simon.j.hook@jpl.nasa.gov, rallen, jbfisher@chapman.edu, lanajharris@gmail.com, tinyharris@gmail.com, press@hot97.com, hotatlmusic, tiny.harris, info@keishaforgovernor.com, homiehelpline@power106.com, Secretary.Weber@sos.ca.gov, lbpl_reference@lbpl.org
+
+@mayor@longbeach.gov i cannot finish my homework can you help me get an extension @earthdata-support@nasa.gov  ? @lbpl_reference@lbpl.org 
+archive.org/download/mydocs_202607/GeoglowsNOTWORKiNGiNLOGBEACH_RASHARDKELLY_NASAEARTHDATA_MAY_I_HAVE_AN_EXTENSiON_ViRTiSERV_PLZ_fwd_to_SBO_for_adviceRecording%202026-07-08%20172448.mp4 @nasa.arset@gmail.com @douglas.j.newman@nasa.gov @keishaforgovernor@gmail.com @letschat@virtiserv.com @normani@fifthharmonyofficial.com @lanajharris@gmail.com @HollyJMitchell@bos.lacounty.gov @phylicia.rashad@howard.edu @Secretary.Weber@sos.ca.gov 
+
+On Wed, Jul 8, 2026 at 10:55 AM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5cbf7ede-6b2c-4242-ad86-d50e5f7eca73" />
+
+
+
+## ReportCompiling by: Rashard Kelly 
+MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+# **The Mars Pathfinder mission___**
+[spaceplace.nasa.gov/mars-sojourner/en/ @nasa](https://spaceplace.nasa.gov/mars-sojourner/en/)
+<img  alt="image" src="https://github.com/user-attachments/assets/943ef478-8f6b-4990-8747-76a79020986e" />
+
+<img  alt="r9953107" src="https://github.com/user-attachments/assets/ea36f9e9-a182-441c-954b-72bbd1215b65" />
+<img  alt="r0131547" src="https://github.com/user-attachments/assets/b249f2b7-14d3-4c99-98b4-14c97fb77bae" />
+<img width="256" height="248" alt="image" src="https://spaceplace.nasa.gov/mars-sojourner/en/sojourner-movie.en.gif" />
+
+@nasa-jpl i am using some of our materials at the billie jean branch. I forgot his name but the guy that assigned me satelitte firefighting in mars garage said just read my book. Its a JehovahWitness slam out here and i found something useful! [https://pds-imaging.jpl.nasa.gov/tools/atlas/cart](https://pds-imaging.jpl.nasa.gov/tools/atlas/cart) The Sourjner Rover, its timely since we got the lunar rover going up and the new mars rover coming together im downloading the bundle of images . . . keep an eye on @nasaEarthData @podaac bc some urls are not being preserved and we are losing functionality because even our finest aer on cellphones for most of their computing time these days [`MPF` ___**The Mars Pathfinder mission___**_image archive](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/archive/atlas_zip_download.zip) // [Wiki](https://en.wikipedia.org/wiki/Mars_Pathfinder) // [@nasa-jpl mission page](https://www.jpl.nasa.gov/missions/mars-pathfinder-sojourner-rover/) // [@usgs overview](https://www.usgs.gov/publications/overview-mars-pathfinder-mission-launch-through-landing-surface-operations-data-sets) // [planetary.org/space-missions/pathfinder](https://www.planetary.org/space-missions/pathfinder) // [Space.cOm vid](https://www.dailymotion.com/video/xalez42) // [apod.nasa.gov/apod/ap260704 `Mars Pathfinder, JPL, NASA`](https://apod.nasa.gov/apod/ap260704.html)
+
+<img alt="r9599493" src="https://github.com/user-attachments/assets/01123bf0-7926-4980-9cd5-88892b0766e9" />
+
+![https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg](https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9e74ca52-9ca0-4d06-9396-e6c0e3dd5260" />
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mars_Pathfinder_Lander_preparations.jpg/1280px-Mars_Pathfinder_Lander_preparations.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mars_Pathfinder_Lander_preparations.jpg/1280px-Mars_Pathfinder_Lander_preparations.jpg) 
+
+Contact your system administrator for more info.
+<img  alt=" @nasa-jpl i am going insane i need my id cleared for my own computer i was trying to talk to QTS about @spacex on proofpoint its like the shit can be fixed today and we are still under ipo scrutiny!!!!!!!!!!!!!!!!! @nbcnews @la-county-isd the library blocked windows command line access and i use it to troubleshoot dns while out in the firled @fbicyber @cisagov @Doug-newman-nasa when i tried to grab a prompt i got Contact your system administrator for more info. I cannot run batch jobs or anything anymore its such an inconvienience!!!!!!!!!! @longbeachinnovationteam Rex Richardson @la-county-isd Holly Mitchell i hope i dont get poinsoned @blackgirlscode " src="https://github.com/user-attachments/assets/7100d6f8-b876-409f-b0c0-256aa3290395" />
+
+Huygens Landing on Titan
+@esa @whitehouse @nasa-jpl [watch](https://youtu.be/sZC4u0clEc0?si=MJLJ3g9rTE4WANS3) // [Download](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/video/Huygens%20Landing%20on%20Titan.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/b1e7c439-14ac-4086-ac6a-2327d3016103" />
+
+# Basic Fullscreen Video Background
+## @CodePen forked from [MattGross](https://mattgross.io/) : [codepen.io/RashardKElly/pen/JoEpLXm](https://codepen.io/RashardKElly/pen/JoEpLXm)
+<img  alt="image" src="https://github.com/user-attachments/assets/d0abaa05-e5a8-461c-bbee-9da4a63346c9" />
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/infographicsuploadsinfographicsfull11236.width-1320.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/infographicsuploadsinfographicsfull11236.width-1320.jpg)
+
+# Image of SATURN
+
+**File name:** [_N00211754_](https://solarsystem.nasa.gov/images/casJPGBrowseS79/N00211718.jpg).jpg
+
+**Taken**: Jun 14, 2013 5:02 PM
+
+**Received**: [Jun. 15, 2013 10:23 AM - _More Info_](https://solarsystem.nasa.gov/raw_images/319204/?layout=hds)
+
+**AnimationSourceFiles** [github.com/ThakaRashard/rashardmro/commit/bee07f46a74e38026891b6d48dc2a67a93edb09a](https://github.com/ThakaRashard/rashardmro/commit/bee07f46a74e38026891b6d48dc2a67a93edb09a)
+The camera was pointing toward SATURN, and the image was taken using the RED and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the [NASA Planetary Data System](https://pds.nasa.gov/home/about/).
+
+<img  alt="@nasa-jpl @nasa-pds send that to griffith @la-county-isd its saturn @cityoflosangeles @blackgirlscode @foratlanta" src="https://github.com/user-attachments/assets/a14d53d0-d27d-49e9-ade7-d8f831ff4551" />
+
+
+![raw.githubusercontent.com/ThakaRashard/rashardmro/bee07f46a74e38026891b6d48dc2a67a93edb09a/assets/pl0ts/RashardsCassiniCloseoutWork_LanaHArris_Hot97_TinyHARRiSKARENBASSKeishaBottoms_Saturn_NASAJPL_NASAPDS_US_DEPToFWAR_PETE_H_GAvin_Nezgif.com-gif-maker.gif @nasa-jpl @stateofcalifornia](https://raw.githubusercontent.com/ThakaRashard/rashardmro/bee07f46a74e38026891b6d48dc2a67a93edb09a/assets/pl0ts/RashardsCassiniCloseoutWork_LanaHArris_Hot97_TinyHARRiSKARENBASSKeishaBottoms_Saturn_NASAJPL_NASAPDS_US_DEPToFWAR_PETE_H_GAvin_Nezgif.com-gif-maker.gif) 
+
+![@nasa-pds pds.nasa.gov/images/PDS_OrgChart.jpg](https://pds.nasa.gov/images/PDS_OrgChart.jpg)
+
+<img alt=" eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiVXNlciIsInVpZCI6InJhc2hhcmRrZWxseSIsImV4cCI6MTc4NzkxMjk3NSwiaWF0IjoxNzgyNzI4OTc1LCJpc3MiOiJodHRwczovL3Vycy5lYXJ0aGRhdGEubmFzYS5nb3YiLCJpZGVudGl0eV9wcm92aWRlciI6ImVkbF9vcHMiLCJhY3IiOiJlZGwiLCJhc3N1cmFuY2VfbGV2ZWwiOjN9.TrnvDGbX_mFRmjXmFk9SGj8-9cL11NoXOJ9f3XNQDBcpxGwYVaruhvIKYbofSx8RQ--BEXhY5XkKiddO_u-j-sxQcQzP4TQaKHY0AGDxozlHFolVsQfzSHqFQ0R2oSyP1Ry384ePSsJQjvCAwjFcgaELibJj0rdUYWmGCuyT7-sy2wsSRkP1Id6fecWkisDlM71eBsHYEv0sRVOsirqc6vh80MK2Hx8QB5y-3pM-TdMfVVnHuaT_KQvbQaTe9dJZSMDPt9w9nNl8WIbuLpB28sfKe444zBbX6mYrT_ywFGzIeiCXwWph6abgGyzD4y1GLt0hZuL54TbcyyI0nDuV6Q " src="https://github.com/user-attachments/assets/5ca8f31b-567a-465f-9aa2-43d01d3f3904" />
+
+
+
+# About Organizstions
+@github @blackgirlscode Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once
+[docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations)
+[github.com/rashardnasalosangelesJPL](https://github.com/rashardnasalosangelesJPL)
+
+
+[rashardnasalosangelesjpl.github.io/ @nasa-jpl @nasa-pds @nasa-openscapes ](https://rashardnasalosangelesjpl.github.io/)
+<img   alt="image" src="https://github.com/user-attachments/assets/85abba38-9abd-4b82-86a2-9febe64ec80c" />
+
+### Git graph [experimental - <a href="https://mermaid.live/edit#pako:eNqNkMFugzAMhl8F-VyVAR1tOW_aA-zKxSSGRCMJCk6lCvHuNZPKZdM0n-zf3_8r8QIqaIIGMqnB8kfEybQ--y4VnLP8-9RF9Mpkmm40hmlnDKmvkPiH_kfS7nFo_VN0FAf6XwocQGgxa_nGsm1bYEOOWmik1dRjGrmF1q-Cpkkj07u2HCI0PY4zHQATh8-7V9BwTPSE3iwOEd1OjQE1iWkBvk_bzQY7s0Sq4Hs7bHqKo8iGeZqbPN_WR7mpSd1RHpvPVhuMbG7XOq_L-oJlRfW5wteq0qorrpe-PBW9Pr8UJcK6rg-BLYPQ">live editor</a>]
+
+
+@mermaid-js i dont get y with one syntax it displays on the frontend and not the back and the other syntax on the backend and not the frontend 
+
+<img alt="image @la-county-isd @cityoflosangeles @foratlanta @stateofcalifornia @blackgirlscode @nasa-jpl @nasa-pds " src="https://github.com/user-attachments/assets/626ee440-9d82-46e7-84d1-99bfe1fb96af" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/02bf1bac-347d-4497-807e-70ee77718665" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C_Y-udVHdb4?si=1jtlU2fG8d9AKlmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[ @blackgirlscode @foratlanta youtube.com/watch?v=q0WPC6iPjkQ](https://www.youtube.com/watch?v=q0WPC6iPjkQ)
+<img  alt="image" src="https://github.com/user-attachments/assets/db44ba92-28c5-4930-ae9f-96db7cd204d3" />
+
+
+
+# LaTrice Fitzpatrick and Robert Harris II's Wedding Website
+[https://www.zola.com/wedding/robandtricedominicanrepublic/faq](https://www.zola.com/wedding/robandtricedominicanrepublic/faq) @la-county-isd @howard-university-web-services @nasa-jpl @whitehouse @blackgirlscode 
+
 [virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a8bbce55-4e6a-4240-bb72-beace71d3848" />
