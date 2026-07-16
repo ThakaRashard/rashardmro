@@ -6,6 +6,13 @@ image: mermaid.webp
 mathjax: true
 ---
 
+
+
+# MApping Fire and Chlorophyll
+
+[<video controls poster="https://github.com/user-attachments/assets/4f627ee3-ccbf-4609-a21d-3ed5a51617ba" src="https://ia601505.us.archive.org/28/items/longbeach_202605/SPACEBEACH_fireVirtiservRASHARD_NASAJPL_4_LATRiCE_FiTZPATRiCKRecording%202026-07-16%20135048%20-%20Copy.mp4" >](https://ia601505.us.archive.org/28/items/longbeach_202605/SPACEBEACH_fireVirtiservRASHARD_NASAJPL_4_LATRiCE_FiTZPATRiCKRecording%202026-07-16%20135048%20-%20Copy.mp4)
+
+
 [worldview.earthdata.nasa.gov/?v=-123.77323523527713,41.39026488676639,-121.9101314679763,44.46956139105525&as=2026-07-10-T00%3A00%3A00Z&ae=2026-07-15-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MERIS_ENVISAT_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A(hidden),OCI_PACE_Chlorophyll_a(hidden),S3B_OLCI_Chlorophyll_a(hidden),S3A_OLCI_Chlorophyll_a(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM3-I3-M11,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2026-07-15-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-123.77323523527713,41.39026488676639,-121.9101314679763,44.46956139105525&as=2026-07-10-T00%3A00%3A00Z&ae=2026-07-15-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MERIS_ENVISAT_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A(hidden),OCI_PACE_Chlorophyll_a(hidden),S3B_OLCI_Chlorophyll_a(hidden),S3A_OLCI_Chlorophyll_a(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM3-I3-M11,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2026-07-15-T00%3A00%3A00Z)
 <img width="625" height="336" alt="nasa-worldview-2026 JUL 10-to-2026 JUL 15" src="https://github.com/user-attachments/assets/5438c5f8-f0a1-4134-aba7-e1a68a159777" />
 
