@@ -22,6 +22,7 @@ mermaid: true
 [ @cityoflosangeles KARENBASS - HOLLYMitchell @la-county-isd prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
 
 <img alt="image" src="https://github.com/user-attachments/assets/8d3b0c78-7e11-407c-bc6f-49a1b2fc27da" />
+
 [https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
 
 @usgs hi i dont know if i just felt an emf charge or its an earthquake @cbs-news-data @nbcnews @newshour [im here @nasa-jpl](https://www.bing.com/search?pglt=419&q=billi+jean+library&cvid=f1c52d1837d44e3e920c45881f77c3e4&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEDSAQgzMjYzajBqN6gCALACAA&FORM=ANNTA1&PC=U531&pq=billi+jean+library&mturn=1) this map is not populating @nasa-openscapes [earthquake.usgs.gov/earthquakes/map/?extent=32.83344,-123.55225&extent=40.72228,-106.06201&format=shakemap&listOnlyShown=true&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=ocean](https://earthquake.usgs.gov/earthquakes/map/?extent=32.83344,-123.55225&extent=40.72228,-106.06201&format=shakemap&listOnlyShown=true&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=ocean)
