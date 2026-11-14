@@ -1,0 +1,179 @@
+<style>
+
+  .gullies {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  
+  flex-wrap: wrap;
+  width: 100%;
+  height: 1em;
+
+}
+.gullies div:nth-child(1) {
+  background: #3029f2;
+    animation: .2s ease-out 0s 1 slideInFromLeft;
+ 
+
+}
+.gullies div:nth-child(2) {
+  background: #446ff2;
+  animation: .2s ease-in 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(3) {
+  background: #3098f2;
+  animation: .8s ease-in 0s 1 slideInFromLeft;
+  
+}
+.gullies div:nth-child(4) {
+  background: #0dd9c4;
+  animation: .9s ease-in 0s 1 slideInFromRight;
+  
+}
+.gullies div:nth-child(5) {
+  background: #3df28b;
+    
+  animation: .8s ease-in 0s 1 slideInFromLeft;  
+
+}
+
+.gullies div {
+  flex: 1 1 auto;
+  padding: 15px 15px;
+  animation-direction: alternate;
+  display:block;
+padding-bottom:280px;
+
+}
+
+.gullieslo {
+  /*display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 5%;
+
+}
+.gullieslo div:nth-child(1) { background: #3029F2;}
+.gullieslo div:nth-child(2) { background: #446FF2;}
+.gullieslo div:nth-child(3) { background: #3098F2;}
+.gullieslo div:nth-child(4) { background: #0DD9C4;}
+.gullieslo div:nth-child(5) { background: #3DF28B;}
+
+.gullieslo div {
+
+  flex: 0 1 200px;
+  flex: 1 1 200px;
+  padding: 0px;
+
+}
+
+
+
+
+
+    /* This is the primary nave container color  */
+    .navbar {
+      overflow: hidden;
+      background-color: #333;
+      font-variant: small-caps;
+    }
+  
+    .navbar a {
+      float: left;
+      font-size: 13px;
+      color: white;
+      text-align: center;
+      padding: 10px 12px;
+      text-decoration: none;
+    }
+  
+    .dropdown {
+      float: left;
+      overflow: hidden;
+  
+    }
+  
+    /* This is the tex that is in the main display navbar no hover but only a dropdown heading   */
+    .dropdown .dropbtn {
+      font-size: 13px;
+      border: none;
+      outline: none;
+      color: #44F281;
+      padding: 10px 12px;
+      background-color: inherit;
+      font-family: inherit;
+      margin: 0;
+  
+    }
+  
+    /* this is when the mous is over the Heading*/
+    .navbar a:hover,
+    .dropdown:hover .dropbtn {
+      background-color: #446FF2;
+    }
+  
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #3E38F2;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      z-index: 1;
+    }
+  
+    .dropdown-content a {
+      float: none;
+      color: white;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+  
+    .dropdown-content a:hover {
+      background-color: #44F281;
+    }
+  
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+
+
+</style>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TCG8QCKSYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TCG8QCKSYD');
+</script>
+
+
+<HGROUP itemscope itemprop="workExample" itemtype="https://schema.org/WebPage" itemid="{{ site.url }}{{ site.baseurl }}">
+  <img src="https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/default/public/2023-04/Tri_Color_Ribbon_6000x75_v2.png.webp" />
+
+    <h1>./RashardsData=></h1>
+
+{% include swatch.html %}
+{% include nav.html %}
+
+{{ jekyll.version }}
+  
+
+
+
+
+    <!--
+    <img src="https://mars.nasa.gov/system/internal_resources/details/original/1684_PIA25965-Enhanced-web.jpg" > 
+  -->
+  </HGROUP>

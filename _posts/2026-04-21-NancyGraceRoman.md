@@ -5,10 +5,9 @@ published: true
 title: "Nancy Grace Roman Space Telescope"
 image: Roman_Mirror_Overlay_Still.jpg
 author: "RashardKelly @nasa-jpl"
+date:   2026-09-12 01:51:06 -0800
 permalink: /nancygrace
 ---
-
-
 
 
 ## NASA News Conference: 
@@ -49,6 +48,63 @@ ExoPlanet Resourses
 Webb Mission reqs [JWST-RQMT-000634](https://spacese.spacegrant.org/uploads/Requirements%20Config/JWST%20Mission%20Requirements%20Document.pdf)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6c724ccb-578b-46b0-a11e-00a70890b271" />
+
+## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
+[WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) ++ [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
+<img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
+
+@NASA-PDS ok i messed up again, im mad at your sister... but not im better #VirtiservRashard @NASAJPL @NASAEARTHDATA but still *italics* @LANAJHARRiS i got discouraged because i missed the nancy grace roman launch @repkarenbass https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg <~ @RobinBarnes @chloebaileywashere
+@howarduniversity
+thats some sort of landslid in a coffee table book i found at central and we are supposed to treack those things, and you all hurt me making miss the dark matter telescope launch you .,.. none of you know how a technical person that is physically inthe world acts or feels and you hurt me alot!!! thats all  @michelleobama @lapubliclibrary
+@hot97 @Lanajharris
+
+
+<img   alt="image (1)-11  @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles  " src="https://github.com/user-attachments/assets/5cfb195b-41a9-4ae9-ab0f-4e01da8e0a23" />
+
+<img  alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles (1)-12" src="https://github.com/user-attachments/assets/a0a1f5c3-d958-47d7-8d69-ef132e69950f" />
+
+<img alt="image@nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+
+<img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+
+
+[WATCH - Tracking NASA's Nancy Grace Roman Space Telescope with LIVE view from Space Station](https://www.youtube.com/watch?v=U2Ly0Q-BXqA) //// [youtube.com/@moterworld](https://www.youtube.com/@moterworld)
+<img alt="image image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+[github.com/usdot](https://github.com/usdot) @usdot @nasa-jpl [@Nasa-Giss to KEnnedy Trip](https://svs.gsfc.nasa.gov/15064/) 
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg) 
+
+## Cosmic Dawn: The Untold Story of the James Webb Space Telescope
+[<video controls loading="lazy"  src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4)
+
+[https://spacetelescopelive.org/](https://spacetelescopelive.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/1aebfe1e-ec07-462e-a312-b186184b68e5" />
+
+#  ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
+NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA 
+[Nancy Grace Roman Space Telescope - JPL Science https://science.jpl.nasa.gov/projects/wfirst/ @cityoflosangeles](https://science.jpl.nasa.gov/projects/wfirst/) ///////// [NASA Ames’ Contributions to Roman’s Mission](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/) // [200 times larger than Hubble’s infrared view - stsci.edu/roman](https://www.stsci.edu/roman) ++ ["Dark Energy" Lithograph](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/Roman-darkenergy-2024.pdf) // Brocures [https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/](https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/) +++++ [`PRESSKiT` @CityOfLosAngeles @nbcnews](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/aug%20Roman%20Press%20Kit-508compliant.pdf)
+
+[@ESA The ‘Mother of Hubble’: Nancy Grace Roman](https://esahubble.org/about/history/the-mother-of-hubble/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sT4cEjnJbBk?si=S_wb2vSEylsPnmaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A strange, invisible force has been pushing galaxies apart faster and faster for billions of years. Astronomers have named it dark energy.<br><br>But how do we study something we can&#39;t see? Check out this video to learn more!<br><br>For a deeper dive, click here: <a href="https://t.co/dukYneetrO">https://t.co/dukYneetrO</a> <a href="https://t.co/VdAFE2fxlf">pic.twitter.com/VdAFE2fxlf</a></p>&mdash; Nancy Grace Roman Space Telescope (@NASARoman) <a href="https://x.com/NASARoman/status/2090107890799374614?ref_src=twsrc%5Etfw">August 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+[@esa @thespacedevs @nasa-jpl @newshour LANA J HARRiS isas.jaxa.jp/en/missions/spacecraft/developing/roman.html](https://www.isas.jaxa.jp/en/missions/spacecraft/developing/roman.html) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/18b0ef5a-3061-4c70-ba47-350222866a1a" />
+<img alt="image" src="https://github.com/user-attachments/assets/cd50449b-6360-4c7d-83d5-c4e5b209bdcd" />
+<img alt="image" src="https://github.com/user-attachments/assets/6dcf4bc1-8d0c-411b-b99f-e2e2e0d39c77" />
+
+## Who Was Nancy Grace Roman?
+
+Known as the "mother of the Hubble Space Telescope," Nancy Grace Roman was born May 16, 1925 in Nashville, Tennessee, and died December 25, 2018. From a young age, Roman showed an interest in astronomy, and when she was 11 years old she organized a club with her classmates in Reno, Nevada. In this club they learned about constellations and celestial objects from a book. By high school, Roman realized that she had a passion for astronomy and wanted to pursue it. Her academic prowess was highlighted when she participated in an accelerated program and graduated in three years from Baltimore's Western High School. [Read more - https://roman.ipac.caltech.edu/page/nancy-grace-roman](https://roman.ipac.caltech.edu/page/nancy-grace-roman) // [RetailConspiracy @Reddit How @NASA turned a spy satellite into the Nancy Grace Roman Space Telescope](https://www.reddit.com/r/space/comments/1vrqu9y/how_nasa_turned_a_spy_satellite_into_the_nancy/?rdt=39138)
+![https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196](https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196)
+
+
+
+![https://www.isas.jaxa.jp/common/images/logo-jaxa.svg](https://www.isas.jaxa.jp/common/images/logo-jaxa.svg)
 
 
 Exoplanet Modeling and Analysis Center

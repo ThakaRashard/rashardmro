@@ -111,6 +111,16 @@ oral or written verbal expression.
 ## dis·po·si·tion
 ### /ˌdispəˈziSH(ə)n/ [Libel and Slander - The Basic Law In California](https://www.stimmel-law.com/en/articles/libel-and-slander-basic-law-california) [The Complete Guide to California Defamation Law](https://www.minclaw.com/california-defamation-law-state-guide/) @emit-sds @nasa-jpl @cityoflosangeles @blackgirlscode 
 
+<img alt="tumblr_1b096c693a6e4ab9d54d4f7b329ecfdb_519b4a8d_12802-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/4e703873-067b-47d7-a182-a7596b67645f" />
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+
+
+[<video  loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/799065523587612672" data-did="47c176982f78754810cfef8c5b289125a13223ff"><a href="https://rashardmro.tumblr.com/post/799065523587612672/nasajunocam">https://rashardmro.tumblr.com/post/799065523587612672/nasajunocam</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 
@@ -121,7 +131,7 @@ She plays [OverWatch](https://overwatch.blizzard.com/en-us/) and does not talk m
 ![631Moreland](https://photos.zillowstatic.com/fp/e4047d7d1fcfcca0f0a8b0be2c694f27-cc_ft_768.webp) I was renting it from [Renters Warehouse](https://www.renterswarehouse.com/)
 , Then my life started falling apart, they were having sex with me, I thought I was dreaming, then thier porno friends and dance ppl from hollywood started being mean to me... 
 <a href="https://pbs.twimg.com/profile_images/1711903655501438976/EHEDOh4s_400x400.jpg"><img src="https://pbs.twimg.com/profile_images/1711903655501438976/EHEDOh4s_400x400.jpg" style="width:180px;height:180px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
-[MoreLater](https://thakarashard.github.io/ricothaka/twitters.html) This was after i left [The San Gabriel Valley](https://en.wikivoyage.org/wiki/San_Gabriel_Valley)!
+[MoreLater](https://thakarashard.github.io/ricothaka/twitters.html) This was after i left [The San Gabriel Valley](https://en.wikivoyage.org/wiki/San_Gabriel_Valley)! @nasa-jpl
 
 I was working for [NasaJPL](https://www.jpl.nasa.gov/social) and caring for a small child. I know people from [Santa Anita Park](https://parks.lacounty.gov/arcadia-community-regional-park/) remember me palying with her everyday after work. Her mom started a sexual relationship at some point in the tiemline that I did not know about! We were driving a red mustang. I remember some guys in a Blue Grand MArquis rolled up on us in Van Nuys. Erika said i should quit working for a while and Grow. This was after a woman i thought was my mother died! Erika was never nice to me. She is family and I would never hurt her. She ran away when I hit her back. She was abusive bc after [Jehovahs Witnesses fell apart she felt stuck. ](https://x.com/Essence/status/1248047995804884992). I have no problem with her relationship status, but it left me crippled fiscally and immobile, i was 3 weeks late on my car payment and her boyfriend stole my honda fit. I had to let the mustang go for a Title loan bc the car was getting poisoned and i could not afford to commute in it. At least i would have the warranty with the new car. I had no carpayment b4. I get fired as soon as i get comfortable. Since i have a past with NAsa its hard to get work bc im not into porn. But I was advised that I was [Mars Mission Staff](https://github.com/nasa)! The people at the library are stingy with Computer time but the military is doing a silent workforce healing because we can be tracked via [GitHub](https://www.github.careers/careers-home) 
 

@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 title:  "Heliophysics"
-date:   2026-04-03 12:51:06 -0800
+date:   2026-08-26 12:51:06 -0800
 published: true
 image: latest_1024_0193.jpg
 tags: covid
@@ -11,6 +11,44 @@ permalink: Sun
 
 # Heliophysics
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
+
+
+
+# HElioPhysics Websites @nasa-jpl
+@ESA @NASAJPL [Sophie Adenot's second spacewalk | U.S. Spacewalk 98 (Official broadcast)](https://youtu.be/a9-7HyV77TU)
+@DeptOfWar there is no easy way to get money or a handset with my current family situation, i should have distanced myself after they started dancing with drake, but i made my bed and i know the county supervisor is helping me fix my relationships, bc this is unacceptable performance for our lab @whitehouse, im sorry [@ForAtlanta youtube.com/watch?v=SYIoWUay0ac](https://www.youtube.com/watch?v=SYIoWUay0ac)
+NASA astronaut Anil Menon and @ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 a.m. EDT (1235 UTC). The pair will finish installing a high-speed communications antenna on the International Space Station; Menon and Adenot began the work on Aug. 18, 2026.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b54667e-6578-4e70-9318-276ebef363ea" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0j7as4MLHk?si=Nan8zdVgZLy2dZEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## _Parker Solar Probe_ Our First Visit to a Star
+`interActive!!!` < [`parkersolarprobe`.jhuapl.edu/](https://parkersolarprobe.jhuapl.edu/)
+[parker.gsfc.nasa.gov/](https://parker.gsfc.nasa.gov/)
+Two of the transformative advances in our understanding of the Sun and its influence on the solar system were the discovery that the corona is several hundreds of times hotter than the visible solar surface (the photosphere) and the development — and observational confirmation — of the theory of the corona's supersonic expansion into interplanetary space as a "solar wind."
+![https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png @nasa-giss](https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png)
+
+![https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg @nasa-jpl @blackgirlscode @cityoflosangeles](https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg)
+<img alt="image" src="https://github.com/user-attachments/assets/e8c23615-202a-447c-a23b-953b50ecffc7" />
+[`MissionWebsite` science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png)
+<img   alt="image" src="https://github.com/user-attachments/assets/2d48baa0-b421-4ccd-a5fa-8d431e13ba4a" />
+
+[@NASA Stereo A&b 3d Gallery](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
+### STEREO 3D Images
+[stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
+[<video controls loading="lazy" poster="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg"  src="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" />](https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/2c1e640c-b27e-4be0-9139-ff65fa8a561a" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5d280a4b-fc3d-45f3-833d-6ef278d80b94" />
+
+[https://science.nasa.gov/mission/stereo/](https://science.nasa.gov/mission/stereo/) // [https://sdo.gsfc.nasa.gov/](https://sdo.gsfc.nasa.gov/)
+[eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img alt="image PARKER SOLAR PROBE i sTransmitting @nasa-jpl gm @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory can help us find griffith on @Github https://griffithobservatory.lacity.gov/ @whitehouse @dhs-gov @howard-university-web-services  " src="https://github.com/user-attachments/assets/1f36e789-0c77-44b1-b5da-4aa12532c2d3" />
+
+@nasa-jpl gm @blackgirlscode my butt is burning ferociously @howard-university-web-services so while i like my workstation position i have to sign off and see if the itching stops @nasa-pds i told lapd to look up @LowellObservatory @CityOfLosAngeles ... the itching and burning stopped all of a sudden so i think someone had a particle array , taser or laser on my chair 
+[Directed Energy Weapons: Ultra-Short Pulse Laser and Atmospheric Characterization - https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization @USNavy](onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization)
+![https://www.onr.navy.mil/themes/custom/onr/logo.png](https://www.onr.navy.mil/themes/custom/onr/logo.png)
+<img  alt="image" src="https://github.com/user-attachments/assets/3d6c81f9-9f06-41ef-b9b4-ba314041205a" />
 
 current visible [Sunspots](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/02/) @nasa-pds @nasa-giss @nasa-jpl @la-county-isd @fbicyber 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 mermaid: true
-published: false
+published: true
 image: under-construction-pikachu.gif
 title: "Sick Trees @StateOfCalifornia : @CityOfLosAngles"
 ---
@@ -22,7 +22,9 @@ On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org
 
 `www.saint-augustine.org doesn’t support a secure connection with HTTPS`
 <div class="tupperware">
+  
 <video controls width="350">
+  
   <source src="https://ia800902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250831_083436.mp4" type="video/mp4" />
 
   <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250831_083436.mp4" type="video/mp4" />
@@ -31,9 +33,11 @@ On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org
 
   <a src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250831_083436.mp4">MP4</a>
   video.
+  
 </video>
 
 <video controls width="350">
+  
   <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250831_083602.mp4" type="video/mp4" />
 
   <source src="https://ia800902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250831_083602.mp4" type="video/mp4" />
@@ -42,6 +46,7 @@ On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org
 
   <a src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250831_083602.mp4">MP4</a>
   video.
+  
 </video>
 
 </div>
@@ -49,6 +54,7 @@ On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org
 pasadena
 
 <video controls width="450">
+  
   <source src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250901_153309.mp4" type="video/mp4" />
 
   <source src="https://ia800902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250901_153309.mp4" type="video/mp4" />
@@ -57,6 +63,7 @@ pasadena
 
   <a src="https://ia600902.us.archive.org/29/items/20250816_20250816_1754_EcoStress_CRAM/VID_20250901_153309.mp4">MP4</a>
   video.
+  
 </video>
 
 
@@ -72,6 +79,7 @@ Sudden Cooling ? [gif](https://ia800906.us.archive.org/35/items/nasa-worldview-2
 [GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)](https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1)
 
 <video controls >
+  
   <source src="https://ia800906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025AUG13-to-2025AUG25-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
 
   <source src="https://ia600906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025AUG13-to-2025AUG25-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
@@ -80,6 +88,7 @@ Sudden Cooling ? [gif](https://ia800906.us.archive.org/35/items/nasa-worldview-2
 
   <a src="https://ia800906.us.archive.org/35/items/nasa-worldview-2025-aug-13-to-2025-aug-25/nasa-worldview-2025AUG13-to-2025AUG25-ezgif.com-gif-to-mp4-converter.mp4">MP4</a>
   video.
+  
 </video>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid031XsdnKkzkwaREnRWhepTEaiG2QE4koewgZtSdQnEmsjEXmN2K2trFidzmgF6o91vl%26id%3D100084464911565&show_text=true&width=500" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
